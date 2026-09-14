@@ -11,10 +11,12 @@ export function buildCategoryMatchers(categories) {
 }
 
 // Priority order matters when a title matches more than one category:
-// geopolitical > economic > political, since war/conflict language is the
-// most specific signal and political language ("president", "sanctions")
-// often also appears in geopolitical stories.
-const PRIORITY = ["geopolitical", "economic", "political"];
+// geopolitical > economic > financial > political. War/conflict language is
+// the most specific signal; a macro-policy story ("Fed raises rates, stocks
+// fall") is treated as economic even though it also trips a financial
+// keyword, since the policy move is the actual news; financial (corporate/
+// markets) still needs to win over the very generic political patterns.
+const PRIORITY = ["geopolitical", "economic", "financial", "political"];
 
 export function classifyCategory(title, matchers, fallback) {
   const byKey = new Map(matchers.map((m) => [m.key, m]));

@@ -13,6 +13,7 @@ import { fileURLToPath } from "node:url";
 import { fetchGoogleNews, fetchFeed } from "./sources.mjs";
 import { buildCategoryMatchers, classifyCategory, lookupBias } from "./classify.mjs";
 import { updateDayArchive } from "./archive.mjs";
+import { generateBrief } from "./brief.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const config = JSON.parse(readFileSync(join(root, "config.json"), "utf8"));
@@ -135,6 +136,9 @@ async function main() {
 
   const day = payload.generatedAt.slice(0, 10);
   updateDayArchive(join(dataDir, "archive"), day, Object.values(byCategory).flat(), dedupeKey);
+
+  const brief = await generateBrief({ byCategory, categories: config.categories, now: Date.parse(payload.generatedAt) });
+  writeFileSync(join(dataDir, "brief.json"), JSON.stringify(brief, null, 2));
 
   const counts = config.categories.map((c) => `${c.label}=${byCategory[c.key].length}`).join(" ");
   console.log(`collected: ${counts} (${sourceErrors.length} source errors)`);

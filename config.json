@@ -2,7 +2,7 @@
   "siteTitle": "Clarity",
   "tagline": "The day's most important stories, clearly.",
   "limits": {
-    "perCategory": 60,
+    "perCategory": 48,
     "perSource": 12
   },
   "categories": [
@@ -22,10 +22,21 @@
       "label": "Economic",
       "patterns": [
         "inflation", "interest rate", "federal reserve", "\\bthe fed\\b", "jobs report",
-        "unemployment", "\\bgdp\\b", "stock market", "\\brecession\\b", "\\btariffs?\\b",
-        "trade deficit", "\\beconomy\\b", "economic growth", "\\bearnings\\b",
-        "consumer prices", "housing market", "labor market", "wall street",
+        "unemployment", "\\bgdp\\b", "\\brecession\\b", "\\btariffs?\\b",
+        "trade deficit", "\\beconomy\\b", "economic growth",
+        "consumer prices", "housing market", "labor market",
         "interest rates", "consumer spending"
+      ]
+    },
+    {
+      "key": "financial",
+      "label": "Financial",
+      "patterns": [
+        "stock market", "\\bstocks?\\b", "\\bshares?\\b", "\\bearnings\\b", "\\bnasdaq\\b",
+        "dow jones", "s&p ?500", "wall street", "\\bipo\\b", "\\bmerger\\b", "acquisition",
+        "\\bdividend\\b", "buyback", "bond market", "treasury yields", "cryptocurrency",
+        "\\bbitcoin\\b", "\\bethereum\\b", "quarterly results", "bull market", "bear market",
+        "market rally", "market selloff", "\\btickers?\\b"
       ]
     },
     {
@@ -43,14 +54,15 @@
   "googleNewsQueries": [
     { "query": "US politics", "category": "political" },
     { "query": "US economy inflation Federal Reserve", "category": "economic" },
+    { "query": "stock market today", "category": "financial" },
     { "query": "geopolitics world conflict", "category": "geopolitical" },
 
     { "query": "site:wsj.com politics", "category": "political" },
-    { "query": "site:wsj.com economy OR markets", "category": "economic" },
+    { "query": "site:wsj.com markets", "category": "financial" },
     { "query": "site:wsj.com world", "category": "geopolitical" },
 
     { "query": "site:cnn.com politics", "category": "political" },
-    { "query": "site:cnn.com business economy", "category": "economic" },
+    { "query": "site:cnn.com business", "category": "financial" },
     { "query": "site:cnn.com world", "category": "geopolitical" },
 
     { "query": "site:newsmax.com politics", "category": "political" },
@@ -61,12 +73,16 @@
     { "query": "site:nypost.com politics", "category": "political" }
   ],
   "feeds": [
+    { "url": "https://feeds.bloomberg.com/politics/news.rss", "source": "Bloomberg", "category": "political" },
+    { "url": "https://feeds.bloomberg.com/economics/news.rss", "source": "Bloomberg", "category": "economic" },
+    { "url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "category": "financial" },
+
     { "url": "https://moxie.foxnews.com/google-publisher/politics.xml", "source": "Fox News", "category": "political" },
-    { "url": "https://feeds.foxbusiness.com/foxbusiness/latest", "source": "Fox Business", "category": "economic" },
+    { "url": "https://feeds.foxbusiness.com/foxbusiness/latest", "source": "Fox Business", "category": "financial" },
     { "url": "https://moxie.foxnews.com/google-publisher/world.xml", "source": "Fox News", "category": "geopolitical" },
 
     { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "source": "The New York Times", "category": "political" },
-    { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "source": "The New York Times", "category": "economic" },
+    { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "source": "The New York Times", "category": "financial" },
     { "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "source": "The New York Times", "category": "geopolitical" },
 
     { "url": "https://feeds.npr.org/1014/rss.xml", "source": "NPR", "category": "political" },
@@ -74,11 +90,11 @@
     { "url": "https://feeds.npr.org/1004/rss.xml", "source": "NPR", "category": "geopolitical" },
 
     { "url": "http://feeds.bbci.co.uk/news/politics/rss.xml", "source": "BBC News", "category": "political" },
-    { "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC News", "category": "economic" },
+    { "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC News", "category": "financial" },
     { "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC News", "category": "geopolitical" },
 
     { "url": "https://www.theguardian.com/us-news/rss", "source": "The Guardian", "category": "political" },
-    { "url": "https://www.theguardian.com/business/rss", "source": "The Guardian", "category": "economic" },
+    { "url": "https://www.theguardian.com/business/rss", "source": "The Guardian", "category": "financial" },
     { "url": "https://www.theguardian.com/world/rss", "source": "The Guardian", "category": "geopolitical" },
 
     { "url": "https://www.huffpost.com/section/politics/feed", "source": "HuffPost", "category": "political" },
@@ -96,6 +112,7 @@
     "associated press": { "score": 0, "label": "Center" },
     "google news": { "score": 0, "label": "Aggregated" },
     "bbc news": { "score": -8, "label": "Center" },
+    "bloomberg": { "score": -12, "label": "Lean Left" },
     "npr": { "score": -25, "label": "Lean Left" },
     "abc news": { "score": -18, "label": "Lean Left" },
     "cbs news": { "score": -18, "label": "Lean Left" },

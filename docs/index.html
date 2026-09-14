@@ -4,14 +4,14 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Clarity — The day's most important stories, clearly.</title>
-  <meta name="description" content="Political, economic, and geopolitical news pulled from across the spectrum, ranked on a left-right bias scale so you can see where each story's source sits." />
+  <meta name="description" content="Political, economic, financial, and geopolitical news pulled from across the spectrum, ranked on a left-right bias scale so you can see where each story's source sits." />
   <meta name="theme-color" content="#faf9f6" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <!-- Versioned asset URL: bump v on redesigns so stale cached CSS never
        renders against fresh HTML. -->
-  <link rel="stylesheet" href="style.css?v=1" />
+  <link rel="stylesheet" href="style.css?v=2" />
 </head>
 <body>
 
@@ -21,11 +21,12 @@
         <span class="brand-mark" aria-hidden="true"></span>
         <span class="brand-word">Clarity</span>
       </a>
-      <nav class="tabs" id="tabs" aria-label="News categories">
-        <button class="tab active" data-category="all">All</button>
-        <button class="tab" data-category="political">Political</button>
-        <button class="tab" data-category="economic">Economic</button>
-        <button class="tab" data-category="geopolitical">Geopolitical</button>
+      <nav class="topnav" id="topnav" aria-label="Sections">
+        <a href="#brief">Brief</a>
+        <a href="#news" data-tab="financial">Financial</a>
+        <a href="#news" data-tab="political">Political</a>
+        <a href="#news" data-tab="economic">Economic</a>
+        <a href="#news" data-tab="geopolitical">Geopolitical</a>
       </nav>
       <div class="live-pill">
         <span class="pulse" aria-hidden="true"></span>
@@ -36,12 +37,11 @@
 
   <section class="hero">
     <div class="shell hero-inner">
-      <p class="hero-kicker">Political · Economic · Geopolitical</p>
+      <p class="hero-kicker">Political · Economic · Financial · Geopolitical</p>
       <h1>The day's most important stories, clearly.</h1>
-      <p class="hero-sub">Every story below is pulled from outlets across the spectrum and placed on a left-right
-        scale by its source — so the slant is visible before you click, not hidden inside it.</p>
-
-      <div class="legend" aria-hidden="false">
+      <p class="hero-sub">Every story is pulled from outlets across the spectrum and placed on a left-right scale
+        by its source — so the slant is visible before you click, not hidden inside it.</p>
+      <div class="legend">
         <div class="legend-row">
           <span class="legend-label left">Left</span>
           <div class="legend-bar"></div>
@@ -53,9 +53,140 @@
     </div>
   </section>
 
-  <main class="shell">
-    <div id="status" class="status" hidden></div>
-    <section id="feed" class="feed" aria-live="polite"></section>
+  <!-- ======== THE BRIEF ======== -->
+  <section class="briefsec" id="brief">
+    <div class="shell">
+      <div class="section-head">
+        <h2>The Brief</h2>
+        <p class="section-sub">Where things stand right now across politics, the economy, markets, and world
+          affairs — before you dive into the feeds. <span id="brief-updated"></span></p>
+      </div>
+      <div class="brief-card">
+        <div class="brief-counts" id="brief-counts"></div>
+        <div class="brief-body" id="brief-body">
+          <p class="brief-loading">Loading today's brief…</p>
+        </div>
+        <div class="brief-jumps">
+          <span class="bj-label">Jump to</span>
+          <a class="bj-btn" href="#news" data-tab="political">Political</a>
+          <a class="bj-btn" href="#news" data-tab="economic">Economic</a>
+          <a class="bj-btn" href="#news" data-tab="financial">Financial</a>
+          <a class="bj-btn" href="#news" data-tab="geopolitical">Geopolitical</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======== NEWS (TABS) ======== -->
+  <main class="shell" id="news">
+    <div class="section-head">
+      <h2>The Feed</h2>
+      <p class="section-sub" id="status" hidden></p>
+    </div>
+
+    <nav class="tabbar" id="tabs" aria-label="News categories">
+      <button class="tab active" data-tab="all">All</button>
+      <button class="tab" data-tab="political">Political</button>
+      <button class="tab" data-tab="economic">Economic</button>
+      <button class="tab" data-tab="financial">Financial</button>
+      <button class="tab" data-tab="geopolitical">Geopolitical</button>
+    </nav>
+
+    <section class="panel active" id="panel-all" data-panel="all">
+      <div class="grid" data-grid></div>
+      <p class="empty" data-empty hidden>No stories yet — check back after the next refresh.</p>
+      <button class="show-more" data-more hidden>Show more</button>
+    </section>
+
+    <section class="panel" id="panel-political" data-panel="political" hidden>
+      <div class="grid" data-grid></div>
+      <p class="empty" data-empty hidden>No political stories in the current window.</p>
+      <button class="show-more" data-more hidden>Show more</button>
+    </section>
+
+    <section class="panel" id="panel-economic" data-panel="economic" hidden>
+      <div class="grid" data-grid></div>
+      <p class="empty" data-empty hidden>No economic stories in the current window.</p>
+      <button class="show-more" data-more hidden>Show more</button>
+    </section>
+
+    <section class="panel" id="panel-financial" data-panel="financial" hidden>
+      <div class="charts-row" aria-label="Market charts">
+        <div class="chart-card">
+          <p class="chart-title">S&amp;P 500</p>
+          <div class="chart-embed">
+            <div class="tradingview-widget-container" style="height:100%;width:100%">
+              <div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div>
+              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+              {
+              "symbol": "FOREXCOM:SPXUSD",
+              "width": "100%",
+              "height": "100%",
+              "locale": "en",
+              "dateRange": "1M",
+              "colorTheme": "light",
+              "isTransparent": true,
+              "autosize": true,
+              "largeChartUrl": ""
+              }
+              </script>
+            </div>
+          </div>
+        </div>
+        <div class="chart-card">
+          <p class="chart-title">Nasdaq 100</p>
+          <div class="chart-embed">
+            <div class="tradingview-widget-container" style="height:100%;width:100%">
+              <div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div>
+              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+              {
+              "symbol": "FOREXCOM:NSXUSD",
+              "width": "100%",
+              "height": "100%",
+              "locale": "en",
+              "dateRange": "1M",
+              "colorTheme": "light",
+              "isTransparent": true,
+              "autosize": true,
+              "largeChartUrl": ""
+              }
+              </script>
+            </div>
+          </div>
+        </div>
+        <div class="chart-card">
+          <p class="chart-title">Bitcoin</p>
+          <div class="chart-embed">
+            <div class="tradingview-widget-container" style="height:100%;width:100%">
+              <div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div>
+              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+              {
+              "symbol": "BITSTAMP:BTCUSD",
+              "width": "100%",
+              "height": "100%",
+              "locale": "en",
+              "dateRange": "1M",
+              "colorTheme": "light",
+              "isTransparent": true,
+              "autosize": true,
+              "largeChartUrl": ""
+              }
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <p class="chart-fine">Charts by TradingView. Indices shown via tradable proxies (CFDs); informational only, not investment advice.</p>
+      <div class="grid" data-grid></div>
+      <p class="empty" data-empty hidden>No financial stories in the current window.</p>
+      <button class="show-more" data-more hidden>Show more</button>
+    </section>
+
+    <section class="panel" id="panel-geopolitical" data-panel="geopolitical" hidden>
+      <div class="grid" data-grid></div>
+      <p class="empty" data-empty hidden>No geopolitical stories in the current window.</p>
+      <button class="show-more" data-more hidden>Show more</button>
+    </section>
   </main>
 
   <footer class="site-footer">
@@ -84,6 +215,6 @@
     </article>
   </template>
 
-  <script src="app.js?v=1"></script>
+  <script src="app.js?v=2"></script>
 </body>
 </html>
