@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Clarity — The day's most important stories, clearly.</title>
-  <meta name="description" content="Political, economic, financial, and geopolitical news pulled from across the spectrum, ranked on a left-right bias scale so you can see where each story's source sits." />
+  <meta name="description" content="AI, political, economic, financial, and geopolitical news pulled from across the spectrum, ranked on a left-right bias scale so you can see where each story's source sits." />
   <meta name="theme-color" content="#faf9f6" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,6 +23,7 @@
       </a>
       <nav class="topnav" id="topnav" aria-label="Sections">
         <a href="#brief">Brief</a>
+        <a href="#news" data-tab="ai">AI</a>
         <a href="#news" data-tab="financial">Financial</a>
         <a href="#news" data-tab="political">Political</a>
         <a href="#news" data-tab="economic">Economic</a>
@@ -37,7 +38,7 @@
 
   <section class="hero">
     <div class="shell hero-inner">
-      <p class="hero-kicker">Political · Economic · Financial · Geopolitical</p>
+      <p class="hero-kicker">AI · Political · Economic · Financial · Geopolitical</p>
       <h1>The day's most important stories, clearly.</h1>
       <p class="hero-sub">Every story is pulled from outlets across the spectrum and placed on a left-right scale
         by its source — so the slant is visible before you click, not hidden inside it.</p>
@@ -68,6 +69,7 @@
         </div>
         <div class="brief-jumps">
           <span class="bj-label">Jump to</span>
+          <a class="bj-btn" href="#news" data-tab="ai">AI</a>
           <a class="bj-btn" href="#news" data-tab="political">Political</a>
           <a class="bj-btn" href="#news" data-tab="economic">Economic</a>
           <a class="bj-btn" href="#news" data-tab="financial">Financial</a>
@@ -86,6 +88,7 @@
 
     <nav class="tabbar" id="tabs" aria-label="News categories">
       <button class="tab active" data-tab="all">All</button>
+      <button class="tab" data-tab="ai">AI</button>
       <button class="tab" data-tab="political">Political</button>
       <button class="tab" data-tab="economic">Economic</button>
       <button class="tab" data-tab="financial">Financial</button>
@@ -95,6 +98,12 @@
     <section class="panel active" id="panel-all" data-panel="all">
       <div class="grid" data-grid></div>
       <p class="empty" data-empty hidden>No stories yet — check back after the next refresh.</p>
+      <button class="show-more" data-more hidden>Show more</button>
+    </section>
+
+    <section class="panel" id="panel-ai" data-panel="ai" hidden>
+      <div class="grid" data-grid></div>
+      <p class="empty" data-empty hidden>No AI stories in the current window.</p>
       <button class="show-more" data-more hidden>Show more</button>
     </section>
 

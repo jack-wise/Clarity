@@ -10,13 +10,17 @@ export function buildCategoryMatchers(categories) {
   }));
 }
 
-// Priority order matters when a title matches more than one category:
-// geopolitical > economic > financial > political. War/conflict language is
-// the most specific signal; a macro-policy story ("Fed raises rates, stocks
-// fall") is treated as economic even though it also trips a financial
-// keyword, since the policy move is the actual news; financial (corporate/
-// markets) still needs to win over the very generic political patterns.
-const PRIORITY = ["geopolitical", "economic", "financial", "political"];
+// Priority order matters when a title matches more than one category. AI is
+// checked FIRST and wins over every other match: the AI tab is meant to
+// collect every AI-related story regardless of its other angle (an Nvidia
+// export-control story is both "geopolitical" and "ai" — it belongs in AI).
+// Below that: geopolitical > economic > financial > political. War/conflict
+// language is the most specific non-AI signal; a macro-policy story ("Fed
+// raises rates, stocks fall") is treated as economic even though it also
+// trips a financial keyword, since the policy move is the actual news;
+// financial (corporate/markets) still needs to win over generic political
+// patterns.
+const PRIORITY = ["ai", "geopolitical", "economic", "financial", "political"];
 
 export function classifyCategory(title, matchers, fallback) {
   const byKey = new Map(matchers.map((m) => [m.key, m]));

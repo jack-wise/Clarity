@@ -7,6 +7,17 @@
   },
   "categories": [
     {
+      "key": "ai",
+      "label": "AI",
+      "patterns": [
+        "artificial intelligence", "\\bai\\b", "machine learning", "\\bchatbot", "\\bllm\\b",
+        "large language model", "generative ai", "\\bopenai\\b", "\\bchatgpt\\b", "\\banthropic\\b",
+        "\\bdeepmind\\b", "\\bnvidia\\b", "\\bxai\\b", "\\bgrok\\b", "ai chip", "ai regulation",
+        "ai safety", "\\bsuperintelligence\\b", "\\bagi\\b", "ai agent", "ai startup",
+        "ai model", "\\bcopilot\\b", "ai data center", "neural network", "ai infrastructure"
+      ]
+    },
+    {
       "key": "political",
       "label": "Political",
       "patterns": [
@@ -52,6 +63,11 @@
     }
   ],
   "googleNewsQueries": [
+    { "query": "artificial intelligence news", "category": "ai" },
+    { "query": "OpenAI OR Anthropic OR Google DeepMind", "category": "ai" },
+    { "query": "Nvidia AI chips OR AI data center", "category": "ai" },
+    { "query": "AI regulation OR AI safety policy", "category": "ai" },
+
     { "query": "US politics", "category": "political" },
     { "query": "US economy inflation Federal Reserve", "category": "economic" },
     { "query": "stock market today", "category": "financial" },
