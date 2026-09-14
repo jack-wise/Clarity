@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-14T04:02:38.026Z",
+  "generatedAt": "2026-09-14T04:08:43.549Z",
   "siteTitle": "Clarity",
   "tagline": "The day's most important stories, clearly.",
   "categories": [
+    {
+      "key": "ai",
+      "label": "AI"
+    },
     {
       "key": "political",
       "label": "Political"
@@ -21,7 +25,485 @@
     }
   ],
   "articles": {
+    "ai": [
+      {
+        "title": "A fateful turning point for humanity and AI could redefine American politics - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9zcmFhbWYyaEhieTRJZ1k2T2xfSHViVGZnM3RKNGwyUFh0dTJkazQwa1pFTmJQS0VMWFFWazB5Sk1aWGt1dFN2SWN2SEZpNHNzLXFRNk5mVGMxVGZOckVlMUgtNlpqXzBDcWxhRWhaQWppYWp4ck9QWTZ3SlpjaEVZakZyQXlRT2c?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-09-14T04:00:29.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "We greet the news that AI could extinguish us with a glazed indifference. What is the way out of this nihilism? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM2Z4MnNpVy03SmJuTk51akFXT0c5dFlNajJzUzcxWlB5ZDk5Q1Z0MEVjSkZHUk5qYlVnM1Z3Y29UcWlDV3dRQzJaU092N3dMenlmLWhlc3FmWnZnMjBCQ3cwbnB4d2VqVmJhMEVNZy1Tdy1kZm84dGJuOFczVXZ0OW5RRzdpMDFOUTFkN2RDSVF3NHoybXczZ1hlcWhlRl8wWUJFQnhjTHljSXVWUlkwWmxlNHVQTW9qVTZVaW9HaDZWQUsxVmVYVno4WUJyN1FRb0xOSUQ5bHQ2UU9DNXNQVm8tbEJCZHpaRkRpQXNjT2dnVnRqcEE?oc=5",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T03:52:00.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "'Godfather of AI' backs Anthropic chief's call to slow down development - ABC News & Headlines – Australian Broadcasting Corporation",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3VWZFd1Y3NyUkc1NHNBNTlfeHY0UFc4Q1ppUWlIOUlPMUw3Z2k3UmdRRklvdnZHa3RGallwd1U4SEhscTNQaUdCMld3Q2NSaTBaa0EwcDIwMUV1V0JDWkR3LTNLeVBmM3JUdEktcVd4SDAtcm42UHduQzUxN3U3QWJfU0Zxd2NLcXdLQk5haC05WmNoZ2ltaWQxSGtpZGls?oc=5",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+        "publishedAt": "2026-09-14T03:32:10.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -18,
+          "label": "Lean Left",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      },
+      {
+        "title": "Committee calls for bill to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-14T03:23:54.000Z",
+        "category": "ai",
+        "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "How China Is Responding to Calls to Rein in AI",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-14/how-china-is-responding-to-calls-to-rein-in-ai-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-14T03:15:55.000Z",
+        "category": "ai",
+        "summary": "Bloomberg's Yvonne Man speaks with Artificial Analysis's Micah Hill-Smith about the AI race, China's role in it, and the growing debate over model safety. (Source: Bloomberg)",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVlMNmltZWw5djlZQTVhUnRmNlVTMDYyaFMydVBSRm5HQ2oxQnB6ZUM5aFVXSy0tMnNxNy1WUzMwaHZ5UEZVcnVzclV5YnBQRWlwajlGUGxueVlWb1pWSmpyNTZKQW5pSWUtQXhyY0tCV080c3F0SDg2UnBNa2lFZWNJdw?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-14T03:12:44.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "AI jailbreakers test EU safety rules - euractiv.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QNlR6T3VTcXlWYzRCX0tmNjRpN1RKbEk2bXVUUmxnY0hIWDNBLThqMUpaeU04aXpsbWQtSmxVenpXLTVVRjMzNEszZERBdmxrTFkyQzBTbVVINEpmNnZfOUdpd0h6TXh6ZVNoZVl4MGJJUGMxamc?oc=5",
+        "source": "euractiv.com",
+        "publishedAt": "2026-09-14T04:02:54.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "New method enables AI for safety-critical situations - MIT News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTQwamVjSjl2c2tLMlZBZWdqb2xSQlU2V3Qxb2U1MEk1b2tXbWxVRWQ3OHUwUjQwbnhmQXN4OHZCbG1jUU9BVVJZSnZSWHkxYmd4NTJyV3JXSTl6cF9IR3Y4VEJsYm5LSHRwMWczaDB0NDdLZjBCMkZDX2Vyc0VueFdIQW9JUQ?oc=5",
+        "source": "MIT News",
+        "publishedAt": "2026-09-14T04:00:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Trump resists AI slowdown as the political tide turns - washingtonpost.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
+        "source": "washingtonpost.com",
+        "publishedAt": "2026-09-14T03:49:07.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Warning of AI doomsday ‘swarm’ sparks push to slam brakes on superhuman technology - Washington Times",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2ZCbkNTemp5cE5XaWhuZ1J3WVJCaVd4M1lmM2Z4X0swUlVydjcyaEtZZTk3S0Z2a0I5TXZ2ckxReGtpRkJ0VHZPZmtFRTluWjZkeFd6cWRLOUhYdHRmMHVnZUlpd3FFdHVvMGtxbFREVklaZzBGNkZVSlREVWhqbHZFRXZabElCZUM1RERyNXZZNTFxVW5ncUVad0RuME40OWE5OE9XTTBUcTJzSVZj?oc=5",
+        "source": "Washington Times",
+        "publishedAt": "2026-09-14T03:35:33.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Viral AI Doomer Tweet: Engineered Panic? - uk.finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmhtamE0LThiVEd6UE9VbU9CSFlHdUhIWXRIZnRDOVpmeVFFaEw4NlRJc05hWmZlNGs5ZjY1NXdYVnFuaWJXa2Utcktrc0gyYTZnUXhLMGFkZnhxbmJkRUd2MDBZVHNObTg4Z012ZTNZYS14WlJHMWZyWllYa3ZwenFxZWNJWHh6?oc=5",
+        "source": "uk.finance.yahoo.com",
+        "publishedAt": "2026-09-14T03:35:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Dreamforce welcomes more than 43,000 to San Francisco amid debate over pace of AI development - ABC7 Bay Area",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDFNd2ppSmlFeS0xaGhZaFNtd1A3WjFkUVRheC1uYmxLQzJDdXRMSnlUYmdQUks3WFpVdFd3dS1HOWJyNFNCMGJGdW9uUDVJdkVwTy1tYTJCaFhNaWpldlhGUEtUeTIwZ2pzaUVXQ0ZmX1J1b0lWVFMtcmJ3MHczczBwejY0eG9pNXFuMjRhVkpnZGIxRFVoRDZPTDNyaGpka2dLTGdlM0RzSEJHZGU2S0tn0gG3AUFVX3lxTE1GMV9rcW1TMDlmY0hPZGFlZzVhUWZfUzhDbi1GRXNhdzFMSmJKYlBSMjJfNTUxWExoOFZsaEpGQ1ZMamtSTzl6NDRXWmpxMWpaSURlRThjdVNrZktraXZCRkhyU3JyS1pSYVJGODA0MEpzYlRSOTgwdFlGN1JKNG1JZ0s3WXU0NDAzbXhTTWc3MG1HTHdXcHRGbzN5SUJEaFBoRjRlWk5iUjl0VFJBWjYwN0dJZm5HZw?oc=5",
+        "source": "ABC7 Bay Area",
+        "publishedAt": "2026-09-14T03:18:34.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Jensen Huang’s 70% Nvidia Growth Case Is a Supply Claim, Not Formal Guidance - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSXpBNkFKbjVYVlJJR3FNMHZaLUpiVTF4Z0Rac1VSRWk4ei1RM01ZWjREZlJONjNpSHl4ZmJBQndlaVBvN1dsX2FBVGtkYUN0N1A4eXh1R1FjNU1sZjV2SGFURFFGOGtUYnRWOVR2dDFGaU95TFRvX0xfR3BMZUlGNkZUWUhQeXNPdHpzREtNaGdFTlpXRkVBTEJB?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-09-14T03:15:15.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "S.Korea Parliament Member on Global AI Effort",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-14/s-korea-parliament-member-on-global-ai-effort-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-14T02:54:31.000Z",
+        "category": "ai",
+        "summary": "Cha Jiho, a member of South Korea's parliament, is behind the nation's drive to enhance international cooperation on artificial intelligence, proposing a new Global AI Hub. He discusses the initiative's plans to gather international organizations and multilateral development banks, harnessing AI to tackle issues such a",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Z.AI’s Cash Burn Drives Alibaba-Like Hong Kong Fundraising Spree - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnoyUGhrVWhNWVdXbEF2ajNtYWhGSWNTcVZjb3gyaTVQTktreS15WmdLdUNQRkRyU0luaVdSbFZiSXZlZ1lVeU5kaV9ISXVRelNfd2pQNlljbkZqSGFUdFVwWDB6QnpLOFBfMmVveGk1am9za19maF9hS3B6blZwcGM1aEJZOVA4NDhsWUg2Wm1HVmFCbGtzV1J2bTRQS1hCOUtPYWJFWkszZWFsNjVlLUdfWmtQQQ?oc=5",
+        "source": "Bloomberg.com",
+        "publishedAt": "2026-09-14T02:41:00.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg.com"
+        }
+      },
+      {
+        "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-14T02:31:00.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Why rules alone cannot make AI safe: Lessons from the Hugging Face incident - ABC News & Headlines – Australian Broadcasting Corporation",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDVISFFNRFgxUG5USkFubnJTUEFubElWNWd0ekx1QmR0czhFTU8xalV5djBQYTB4alFTM2dpVjlJcmlPUzAyZHBvN2l6QW9hcFZTc0I1X0NfZm80dWRqQ1RrSk1pZlNxWG1uREZFeHFxLW5wU0o3M3F1S2xpMzVuOE5HN1FXcTNEQ1NHR3p1Rm1hV25IdTJYNU1NTFY?oc=5",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+        "publishedAt": "2026-09-14T02:29:49.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -18,
+          "label": "Lean Left",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      },
+      {
+        "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-14T01:03:00.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Microsoft CEO says superintelligence must remain 'under human control'",
+        "url": "https://www.foxbusiness.com/technology/microsoft-ceo-says-superintelligence-must-remain-under-human-control",
+        "source": "Fox Business",
+        "publishedAt": "2026-09-14T00:56:04.000Z",
+        "category": "ai",
+        "summary": "Microsoft CEO Satya Nadella said that any pursuit of superintelligence must &quot;help humanity&quot; while urging human oversight and broader access to AI.",
+        "bias": {
+          "score": 50,
+          "label": "Lean Right",
+          "source": "Fox Business"
+        }
+      },
+      {
+        "title": "Watch OCBC's Vasu on the Stock Retreat After AI Warning Calls - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaTBzSmM2VHk1OXIzc29hc0Z1OFg3RWJjMm1QNW4ydzRBdGFjNTQzX2J5Yy0wbFl2b1pxVFlrbFR0YjJpT0w5TWJUVW0yRkdXeU9RNWFWMEJfNWU2R21QMk43LXhEU2x4TERWNl9KbzZKOVdNck92cGh5OWRjNER4QUhQZkt6bVAwSzdUS1VUbjhnVURXRURuNDZEV21uWENjN2hGSHROQmRqU1Bpc2pn?oc=5",
+        "source": "Bloomberg.com",
+        "publishedAt": "2026-09-14T00:53:03.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg.com"
+        }
+      },
+      {
+        "title": "Anthropic’s AI Warning Seen as Setback for Chip Stocks",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-ai-warning-seen-as-setback-for-chip-stocks-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-14T00:45:49.000Z",
+        "category": "ai",
+        "summary": "AI executives' calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term. Bloomberg's Sunny Bangia and Anthony Stephens break down the news. (Source: Bloomberg)",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "SoftBank Shares Slide 13% After AI Chiefs Sound Alarm on Safety",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-14/softbank-group-shares-fall-after-openai-ipo-delay-ai-warning",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-14T00:32:05.000Z",
+        "category": "ai",
+        "summary": "SoftBank Group’s shares slid the most in nearly three months after the heads of Anthropic PBC and OpenAI called on developers to tap the brakes on artificial intelligence development for safety reasons.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Trump brushes off AI fears: \"Whoever wins AI wins\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3RnZTRsRFBKRHlNdVRQUVk2QlVocDdGN19CZkhqdVF5RnlEZTRsTUNzOTJXd3ZOcHF2WUdxWFFyOUU4MjgwMXBZVnFsSlBHV1RVcFcycEgtdlRvQ2lkZ0E0UVBRTnJXNjh1a0w5UGppNFNDTGJwS1NTUlY1MDNmM0JmdFk?oc=5",
+        "source": "CBS News",
+        "publishedAt": "2026-09-14T00:31:00.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -18,
+          "label": "Lean Left",
+          "source": "CBS News"
+        }
+      },
+      {
+        "title": "Ross Douthat says \"no story looms larger\" than the latest AI developments | 60 Minutes - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG9xVXNJMVBmdHItOTFHT2pQOUl5VXpvNzUwS29MWkprMC1qNTd5N2lWSFA0Q21ub3RrdjlzNGxfUlozWTFBVnd6M0tMamhjb1RldFpqbDFXcS1iN1djRHZoTVFoZEtJbTljOTlnXzMzMlBLcHQ1R0RTVFhOZWdtaE1KSG5XRzMxOUxqUHc2UVMycGt5TElnTW1kbw?oc=5",
+        "source": "CBS News",
+        "publishedAt": "2026-09-13T23:54:00.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -18,
+          "label": "Lean Left",
+          "source": "CBS News"
+        }
+      },
+      {
+        "title": "Trump downplays calls for AI slowdown",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T22:32:39.000Z",
+        "category": "ai",
+        "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "Tech Futures Fall; AI Leaders' Call For Slowdown Hits These Stocks - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQzRrYkFjR1VxYkkwODFwTjBHelZDVzdxX2JzNnl0OUIzclVkY2JXQWl6TTF3TjJKZ1RYLUozTUZCTEZzVUJOMmEyRDJpNkpiNUs3STVVMEppZlVzQ1ZUb2xNN2o5VzNtcy1BbnljczFFb0dITHJtYUxnRm9nUTY2SVROZ0RXcTltNTdlOA?oc=5",
+        "source": "Investor's Business Daily",
+        "publishedAt": "2026-09-14T03:08:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "AI leaders sound alarm over growing risks - FOX 9 Minneapolis-St. Paul",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmFkNVRZN2pEWG5ka3NoT3lfeTgxcUdkYUFMclYzX3l3RDZBdFVwaWZ4UktKTlFhT2RGWmJlWG9zclpRTTY4WlpWWkpfZm9QVmlRN2FyMlhvRWlkQjdDWjNUdjkyVHpXczV1N2d2MFFUNmpLNE95ZTlzN2lnUElCY1VJRFkwa1VlRllj0gGQAUFVX3lxTE5IQnFqLWNkNXJpdjhtMlNmS0VHV0JiNUpQSE9FZVI5RVJ2UXFtWlVKR2RWYUtsa19td0xMbkN0ZDYtMkg0dVQ0Nmk3MUw2YU1icVh6YXRjYXprT3ZBZ0UxOFl1VUVVOGRLZXB0OXJrWFRYQXI4RjJnM3dQLWZjM2dxeF95LUItMGpvbWpsbFZxSg?oc=5",
+        "source": "FOX 9 Minneapolis-St. Paul",
+        "publishedAt": "2026-09-14T03:07:10.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Nvidia's Revenue 44% Concentrated in 3 Customers… Dell Posts Record $60.9B Quarterly AI Server Orders - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dzdHTUhLVGxnYjBfd0Myd1llYzQ4cUNHOFcwWXpHelZPUkU0NFhlRlpqUjhTRGRMT213ZXBJTEhSRnNKNWhkX015US1OX3dlTHlRUXhqTDFwdHlXdDRiZ1NVYnNsTUQtaG5MTklEaVN5UXI5Z3c?oc=5",
+        "source": "finance.biggo.com",
+        "publishedAt": "2026-09-14T03:06:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmVoRURQdmo5eklfcjBjWlVoaDQxYVVsOTdGX0RuMV9fcHRxUURLNFRQNFk4Vk9kWDJPN0wyeUpXYV9ON2lTelFzd2RCRUZZbVVtRkNhTEpCcHQ3OWM1NnRLMjNFQVlPN2l2c3JuWWZ6Y0dfVkp1V0paQ2FiV3pJUkM2bm4yRXBHSEZGMlpR0gGTAUFVX3lxTFAxS0Zwcmc1Q0l5WkZFZ1pRTXA4cFJHeTB0OWx4LUk5MXFGcF9GTjI0UkFtRFZqMlotdGFYLTYzU01LVXYyTk9QdGkzcFNXTGtSZnM1TERFeS01NWFxS0NacUlkLXhnUy1UU1VGZG5VYlhpbHFCSm5sTkRZQThsSV9lZEJnNHpjdUE1N3A0OVpsTndvRQ?oc=5",
+        "source": "CNBC",
+        "publishedAt": "2026-09-14T03:03:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "UiPath Targets AI-Powered Growth Reacceleration as ARR Hits $1.94B - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2hneU1tRGRPUmsxOVQ0UEdOVDZzakxYYnlSSFRSMEFueDFoWjQ2LUVZV2s1Sm90cGVmSG5UTWVScU55bUlCWTNVMkdhTEVFU0VNbGVmT0R3TXd6ei1Oc2VEbkRLX1ZQOUdLZWFjZzVMN0djYVlvNUtTbndvVnA1WHBDd1Z2djJQVGNMTzJuejNxS2ZJUWZtZ05YSWk?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-14T03:02:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Why is Z.AI stock sliding today? - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlJUNlRGX0k0U3pDRnNTR3BzMkRFbmpZaFJfX0cxVFlIVkQ2UEVhUTRibjktMmFrOTNOSjZza0M3VXRNQVlHZG5QdlZsTnhnUFNsTzBGcXpPUENmU3hmaWt5QXc1WkstdjFaNG9MMTRhM1NXR3BUSmFDNl9fVFNLNkFnVmtXWUdhTFJyVWZBdm9zdTVEZ2c?oc=5",
+        "source": "Investing.com India",
+        "publishedAt": "2026-09-14T02:38:33.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Calls grow to slow down artificial intelligence development - WHAS11",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUJfMFEzX0s1ZWtHRWhxbjV3OTNuSTJvQkJVNWxUSTV0TjNOMnlGX0NSWXZNTktOVHE3LTdRbGlFSDRITTRHcjVxXzZFUDBFczVJS2pHazZiR00zdGs1NExNc3k4eC1rVmlUYXVwbVZ0ZF8xT1lXcmZfSkVOM1lIeHN2VHVraG1QV0x5aFJ3WmQ4R2xDUFJEUXRrVEpkM3pVS3JmT1k5ZUgxMXVOS0ZtS0lIbWd6RkpEWlVNYUVxX1Q1LXlDeExzZGQweVhWRmd1MEtWZU96UUtRSHZNYTh1Yw?oc=5",
+        "source": "WHAS11",
+        "publishedAt": "2026-09-14T01:58:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Anthropic CEO Calls for Slower AI Development｜Daily News Digest｜2026-09-14｜web only - english.cw.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUzAwZ05YVGZPTFN6U3I3N2k1di0xb19yRkhNVTFpR0tMcUJzZ01qTWZ0VURzLXJUSC05N3Z4SXdTN0lJTU5HdHE0TGFYQTFnMndIOUh4VjlSQ2tweDMxVTZrRVc5bms?oc=5",
+        "source": "english.cw.com.tw",
+        "publishedAt": "2026-09-14T01:20:41.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Nvidia Reportedly Weighs Anthropic IPO Anchor Investment - findarticles.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BejVHRkd2WDd1LTVxRDFzd2NIY2hzVkNYMFVVOEVEd2hLX3VES3RDWG13cjBQaXJJS00zMERWM2JmS1NpYjRITDZ0RXJCWEZWdkZZTlNDUFNKRGQxaGZqeFRsOG9MZFZNV2tuOG93UGY0NWJLY21PdmxobDhaUFnSAYcBQVVfeXFMTnRna2wwTC12RHB6N1NLQzNJOFVRM04zbU1rOEh3TEZ4MkhjejRxRjF4S21KQ29ORWJOZE5QVXZ6emZLZ01wTC1jSXg5VXBOaFBXa2g4YVczbENFVkw0RkRlLU51VHV0X1A4U1hLSFJSUk5YZ0pvVTVDRlpzM3pMVnM4V1NFcUo4?oc=5",
+        "source": "findarticles.com",
+        "publishedAt": "2026-09-14T01:08:48.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Jensen Huang: Nvidia's Growth Ceiling Is Supply, Not Demand — AI Infrastructure Investment Supercycle Has Begun - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YNFhGZGUyVHZkUU5DbVl0ZVFqTkEwQ2w1bGlWbTluMDN3YnhHaktrNnotQk5DX2tOeDdNWVFEbjUxQWlCZ2ZkOE1IQV9neXEzcWcxZjJOZHlUX0FNT3pPa09mb1hGNEVpQktaTUZXUEI1aTZ5eHc?oc=5",
+        "source": "finance.biggo.com",
+        "publishedAt": "2026-09-14T01:05:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "BigBear.ai vs. Cerebras Systems: What Quarterly Revenue Trends for These Artificial Intelligence Companies Tell Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbl8zUEU3T2J2eHhNQmpIRGMzRnRYZHVyUG80N1k2dHdrUWpsTGdKYXBNc1F4Y2Ytcld4bEhMbk42UlJUb2pRRmpTODdrQWkyYUpNUWlaVXhrZ3VqdEpYRDRRVDVqNm9xaHZNWERrUnYtRE9CZDh6dVI1dUltYTRGaEs4X0x0RzdCSjRNNmF1NDhkclpLanJkem5R?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-14T01:01:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "How the Clash Between Money and Safety Created a Monumental Crisis for AI - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdG5IWVhSRWZTSjdWOTk5X280Wk5HYjlPVExVMlViNUxRc1QzUndDQ2V2X19sV0djQ0haQy00YVJQNjkwXzlNazJFbi1fbm0xSGtTUFhOTlZKVnE3eGVKa3ZkRmxDZlZXOGNMMFhHYmt0UVg2N1NtVnVvMUozdw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-09-14T01:00:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "The A.I. Freakout Is Getting Political - puck.news",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iQ3hoNjJkODRhbEpQcU1peFRwczlMSXVzaXZZMHV5NjhyVmZFUlVSZmliNGFKUlE3UW9NN1dxS09kbXdCZFFKcHFOa3V6T2x4aVN4MGR6aUU0cDYzQXNocjNQOHdQajg?oc=5",
+        "source": "puck.news",
+        "publishedAt": "2026-09-14T00:58:05.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Trump rejects calls to slow down artificial intelligence development - foxnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10OEhfcC1yNEpDbm1tYVFMTTFLRVhQcE9lOVBaUjM0SXBrXzZwSHI3NWpoOWJHWWpCRl80RFU3WTd5bDBUaGloSEFnZ2hMNGQyQnN0OWRR?oc=5",
+        "source": "foxnews.com",
+        "publishedAt": "2026-09-14T00:52:48.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "World in Brief: Donald Trump dismisses AI warnings; disruption to oil routes continues - The Economist",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXotcEZVeVc4TFkxSlZyZFZPM3RCdGVIR0FjbC03RWlEdVFFNC1QaWIxbmhwMTVpbWlBeXpYd2h6Vm0xbWZYdm9ZNktZa1V4TWdWbXpJOWhwc0VySTBRRndYblVoRFp6ZTh0Z0thQnI3am9xekI3TGl0aHRQalk0V29Scno4MEJLOEdXRVJnMGExWXhQYk5j?oc=5",
+        "source": "The Economist",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Z.AI Plans $5.0 Billion Fundraising to Fuel AI Expansion - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXlIUE13SkdlVEJJRjVrN0RPWmllSXJhaS1iSUFIZ0phX2g4MFhYRXRodjRrUWdfVzJrVUFVMjEwZVM1N2pDb253eFV0ZjBTc1lyUTVoUnREQW9OZm1TODNSVGFWSjZpWVlDRHFuUGxmajh3ZjBsSWMtN2plWFN3MVRIMloxNVZaNHZCMTRDa3dJTlFUWlcw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-09-13T23:56:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Musk highly confident SpaceX will launch Nvidia AI computers into orbit in 2027 - investingLive",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzhXcmNMalEwcDFJN1gtSFNZYlZYQ054YVRJTnBKME9nYjI5MzI5SENySE5qRTBOdUd0TjJ2TmwxNThYV3BwbDlXVW5XM2FMaFZFR3dndjFBSGFUa0s0LTNMWkRwdWxaWGdtOEEweHU2Zk1fbzdKa2p5U3BRT2VKVkhkbWVIRGtBenJKTUNxaHc2RFQ2blYzUUpTekg3eWhtTlFmZ2RBZ2RjVWR1WjBUSmRiRQ?oc=5",
+        "source": "investingLive",
+        "publishedAt": "2026-09-13T23:49:28.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Frankly Speaking: Can governments regulate AI without slowing innovation? - アラブニュース",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWFpNjYxOThQQUp0NVAxQ283VkJnYTIwbjlpOGVGemhwZE9QbnpnaVdtUGpCQjhXN2d3WXVBU2dDUHJuMlgzM3E1cUwtOFN6ejhGZms1MDhyTGVjSWs3NnRTdkpDa3U2NHpTOXBRTkV1dHdJLTBWX2NXUzRnTjdiTDM5Ykc3TGdiZ3dKMFNXaWU1T29hWXNLbDdQWmhscHdubE1FNlVEb1lsWEdsZERFdG12YzI0RHN1X2c?oc=5",
+        "source": "アラブニュース",
+        "publishedAt": "2026-09-13T23:48:59.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Has Google DeepMind Successfully Cracked RSI? Latest AI Research Breakthrough & Key Insights - 36 Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aWUY2LThZWnVzMjNYNHFWa3p4UGVuTUNrd0c2Tm9QV1RPeGw2b3ZlNUhybG1WY0NVQlRvX3NibkNpTzlRWkg1TWtQVVJYclg1UlFv?oc=5",
+        "source": "36 Kr",
+        "publishedAt": "2026-09-13T23:41:41.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Trump dismisses calls for AI slowdown from leading tech CEOs - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEpOdzIzWllBSFVqZGx5MFVrSWQzY2Z0LTBHblgyVnVPYW4yOVdPbUltMWRUdjBIdzc2cV9uMTBJWlZ5dkNENVhTb2M4NTE1MENpS3pBZ29pSm92RHlkelRRajc2c1RZb2h5RjN5R3JkVzd0N1Z2ZkNHVUhOWnFWNE9DeGNOUUVJOXFMdlloTGZrU01sLXZvcXkzcUdMVHppazFj0gGoAUFVX3lxTE02c01ySm80Z2pHbFBpcHVud29VN0ZOUmJIMHdBNUcwT1B2OUxTemJoMFJKQmtqYXcwX2psYWpYTXBpdlV6dUN4a1BPelA1YnNoQnltdFpLT1BRZ3VrM0pBM29ZMHBfNS1fYnYwdUJTVDFSMlJoeVc4dFhlTTVMZ3dIYVl1NFJfdDNIbmdxUFFFNG9uUlN1WHVWNmJLczRfWHNGdDRyRGstcg?oc=5",
+        "source": "Al Jazeera",
+        "publishedAt": "2026-09-13T23:40:49.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "US Futures Drop on AI Safety Concerns - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFlNRXlJQnNTNXJVSHBPM0t2eVU4THFscHZ6U2REUFN3aEh3U3I0UkE1Q0hqQWhRQWJpUzI2MVQ2M2NTSXA1cWc2UzV1cXZISzg5WXBUR3FVOURWV0s5UGlZSGlaZ0dYbHdoYWlVV3hqWGc2N21Qb3E3WHc2WEFabGhIdWRTTXF4WUw3S09NT09xUQ?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-09-13T23:40:49.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Lawyer Sanctioned After AI Generates Fake Witnesses in Murder Appeal - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNnJKekd5bmo2ckluSkN1amxXZ1hqNi1lNkpDRXZHazlVXzZQVTYta1BPcFVxVE9IMUpadXRjQlVselZXTlRJYlJ3cHVzbl9jcXZBME0zZ1JpT2JOaldLbXhtRi1NcWdaSHhNb3phWEVhbVZKSVdiV1ZsYWdjZ1ZkTmtyRTdnbjRyLTNTa05nQ2lMQlJGSUF5b0xRNi05VVlqS0psa2w1T2VpSnJIQTd5bGItc2RYOUduVWpIZGpib0hOQmhw?oc=5",
+        "source": "PYMNTS.com",
+        "publishedAt": "2026-09-13T23:35:13.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+        "source": "CNBC",
+        "publishedAt": "2026-09-13T23:33:00.000Z",
+        "category": "ai",
+        "bias": null
+      }
+    ],
     "political": [
+      {
+        "title": "Rise in abuse of election candidates is ‘changing politics’ in England",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/election-candidates-england-abuse-electoral-commission-report",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T04:01:21.000Z",
+        "category": "political",
+        "summary": "Electoral Commission finds abuse, particularly of women, minority ethnic and disabled people, is affecting candidates’ behaviour Abuse and intimidation of election candidates is “a serious and growing concern”, the Electoral Commission has said, as a review of this year’s local and mayoral elections in England revealed",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
       {
         "title": "Switzerland Debates Longstanding Neutrality Ahead of Vote This Month",
         "url": "https://www.bloomberg.com/news/articles/2026-09-14/switzerland-debates-longstanding-neutrality-ahead-of-vote-this-month",
@@ -36,38 +518,12 @@
         }
       },
       {
-        "title": "Committee calls for bill to address AI threat to human rights",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-09-14T03:23:54.000Z",
-        "category": "political",
-        "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
         "title": "Gold Investors Could Be Looking Beyond Next Fed Move - WSJ",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0pBblUxQ1VHR2dNTDZuNTc1Q1BUMnVJUUhhWW5BQUNKQzVOVHBHd0dUNDZ0b0Fzb0RSendjc2VLWEw2TkhNU1NsbkpzZ1Q5ZjNIbVBfT2o1eVZ5SEhRYWxhUjJvRjM4MjdERHc4WjlrOFJTNlhqdmlhTzhSeURSTnZzbVJCTGd2dGh1SEtmNUZyNF80NU90bkJHT3dmSjZvU3JV?oc=5",
         "source": "WSJ",
         "publishedAt": "2026-09-14T03:23:00.000Z",
         "category": "political",
         "bias": null
-      },
-      {
-        "title": "S.Korea Parliament Member on Global AI Effort",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-14/s-korea-parliament-member-on-global-ai-effort-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-09-14T02:54:31.000Z",
-        "category": "political",
-        "summary": "Cha Jiho, a member of South Korea's parliament, is behind the nation's drive to enhance international cooperation on artificial intelligence, proposing a new Global AI Hub. He discusses the initiative's plans to gather international organizations and multilateral development banks, harnessing AI to tackle issues such a",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
       },
       {
         "title": "White House agrees to new ethics language in crypto bill",
@@ -93,18 +549,6 @@
           "score": -32,
           "label": "Lean Left",
           "source": "The New York Times"
-        }
-      },
-      {
-        "title": "How Jets wore down Titans defense with nearly 12-minute drive: ‘Beat them up’ - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM09ZczBQQmdtQVNhbEstWWgyTE9qOFhkTGtjVWZuSkJDUDY2bEhYMVpab1R5NV82U0dVRHdERzFCNnNVRFdMcjVXUDM5OWFQdE1PRUxPeGtETlZ5ZU5uajg5T2VCNU9UcnhkX0RmLWpGRWdmZFNjem8xX0FoYnBhQTZWQjNPVG9pdDlhTWxNd2dRdGF0eFJYblhiQzhEQXVXS1hvR3BxOER6V2xzSVdMMk93?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-14T02:13:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
         }
       },
       {
@@ -134,18 +578,6 @@
         }
       },
       {
-        "title": "Christian Scott’s confidence grows even as his Mets gem is outdone by Yankees ace - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMm0wbmpwZTByV0F4Q29zUndNTThCQ19LU19tVkdLdG0zM1A1Y1duZUlyRkhBR0hsVGlKVWFZRFBLalJhaXFjM0x1WXZySWdkbmdEUDRqbXJjY0ExTXI0OHBBOFF3b3pIaWkyMzRQOTZHVG1XbEp4UDRscGdnakRoUmt0a3hLanlhR3RaWTVWNUc2eHBNTjFHckFsd0pnblBENEFVUVZPUFVPZ3I3YURKOVZEdG43Y3UwOVE?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-14T01:53:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
         "title": "Autonomous Muslim Region in Philippines Holds First Election to Cement Peace",
         "url": "https://www.bloomberg.com/news/articles/2026-09-14/autonomous-muslim-region-in-philippines-holds-first-election-to-cement-peace",
         "source": "Bloomberg",
@@ -156,18 +588,6 @@
           "score": -12,
           "label": "Lean Left",
           "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "Yankees clubhouse split on if Cam Schlittler deserves MVP award - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSThSakdtdVZKTHQtTm5rOHBKdDJINVQyOUV0OHoweGtpT1k1RE5Ib0tZcjc1dVdzcGNpMWVPS2hBcHFVUnNDU2tUTmJoVTdjZmJfTUdZYWVUOVhNb3JCVUEwSDkxQ2RFZ2wxRU15QVV4c1BJeGVDZnJpNkFEUGpPNWRONFR6YzUwUHVpcVdmOW05OXEtMkthQWoyWnlaclBQbGZv?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-14T00:40:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
         }
       },
       {
@@ -193,30 +613,6 @@
           "score": -55,
           "label": "Left",
           "source": "The Guardian"
-        }
-      },
-      {
-        "title": "West Virginia assistant coach arrested on strangulation charge - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2dYa3hIM1VqYnpxMHJoS3I4QVVwbTV0U1kxRGlKaS1YS1JOY0xnX2t6WW9tUmR2eFRiUEo5dTEtVThDREJWclZFa3ByQnNXV0dudEtmOF9sMHJTWm5YRENoenFXejIta3B6S3Z1bU1BOUROVHdhT1c5ak01c3J4TEtVVUpONzlzbU1jTHMxNVpma1RLRVR1RFdmZXhuUFVSWndxUDdqT05WQQ?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-14T00:30:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Heroes, zeros from Subway Series finale: Ben Rice’s long ball all the Yankees needed - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0pCdXB6bjRNbUpmSV9TLWk2Vmxjd280QUxpQzY2X25iR3lOdXJtU2hpVUhGSE91ckV4dGxBdFdLbklHa3RWR290bURnNDlVcVJycE00X0x2aUsxSzBlb3BFSkVGSEdnZmlXN1dEVW5haEtIMENsaEJGNFhfRmZWZjMtT0tYdW43Nzg1ZEVzWGVfQ3V1SWlwUWMyNWkyVGRfM3EzX2sxREI3LXRuTHhDTTcyMkE0dw?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T23:51:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
         }
       },
       {
@@ -246,18 +642,6 @@
         }
       },
       {
-        "title": "Legionnaires’ bacteria detected in 10 Bronx cooling towers, including Yankee Stadium: NYC health officials - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2tZQ0N4MzF3MmotUlpuUXhOblV4a0FXcUNoSGdTYlEzRzRmZ2NCajd4Sl9RT0RBQ081TkUzckU4TnltbjRxd0EweVkxbjJvdjJMWjFwMG45UXZSdFRXYmI1RFJwTDVjcV9kU2UzWVlCcTBfcDBodEJ4bWYyX053UnNuVVdhTUZWbGNmMG82YXRxVFEwNUw4UlNVSEFrOGkxQnp2QXZHaTNKcUIza0lXaUkteUdEc1BXRjZWbFBRNWY3Snl1b2c?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T23:28:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
         "title": "Missing US hiker, 70, found injured on remote island after week-long search",
         "url": "https://www.theguardian.com/us-news/2026/sep/13/missing-isle-royale-hiker-70-years-old-found-rescued",
         "source": "The Guardian",
@@ -283,18 +667,6 @@
         }
       },
       {
-        "title": "Seattle business leaders show how to stand up for their city - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGpPYXlXZ2ZCMXJvenRLVUVod2JteUFHRzk3VW1EODZwZkRyQkpadkw1amFSV0RsNk1hVURfcUlmcXNueDRBOXVWcDlUSktlR3FYTXZkQUFpSHNGZkpxaGptM2dtNjhqaURGamwwMHR3akx4dURodENaM3FyVDRVOVJmNjlzaVJqcTNSdnJ3QlBHYTdCS3oyMWlGc2xPTmM0?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T23:02:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
         "title": "Takaichi Ally Wins Okinawa Vote, Aiding Military Build-Up",
         "url": "https://www.bloomberg.com/news/articles/2026-09-13/takaichi-ally-wins-okinawa-vote-aiding-military-build-up-plans",
         "source": "Bloomberg",
@@ -305,18 +677,6 @@
           "score": -12,
           "label": "Lean Left",
           "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "The Jets needed this start to Geno Smith’s new chapter just as much as he did - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RUeHh4eDlrbW1xZVlVTHJwb0l6TzZFUWEyWE56R05USjBuUVhqOFV6eDVFam5veWVXUzg0SC1uWFFVTy1uY0cwWkJZYy0weTBQNHR6dzF5My1STnY2QnFPUmdtT1RtVGtGMU5TYlN6cEJVR2tXZzYzN2RGRWQzeGotYXR5dzh2dnlSbkFKci1zd0V6dTRaOEFob3hUdTRZMTIw?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T22:54:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
         }
       },
       {
@@ -346,42 +706,6 @@
         }
       },
       {
-        "title": "Alexander Zverev downs Ben Shelton to win US Open title and extend American men’s drought - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWZ1ZFNrZnFtX1ZtSFZ0a2NfT1dzT1I2Xy15NGxJbm95YWZubnFSSzVaUjJPVUlGNnl5Wm9qeTI4S1VSUEtXeXNPQ1RUM0MyTlRLczk2eGZOSHRBNms3a19mTXlsVnpQNS04UnZROFpUUnBjRHhtdVlMazQ0LW5DRlV5eFpKTGFsWWdvTDRnVUNDckllWjhVSQ?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T22:50:44.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Cam Schlittler is building case for something much bigger than a Cy Young - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakJraVVEeFlILXhHZTI4Tlh4LU1rOUhMY3NQVEtLeHdZcG1nZVdEUldCR1JMekJKUzRzbGpuSXgzOXkxRVdKbzFiRzVmT1ZZZXFlb0tteXBKMnNaODZjQzlGbHl2WUdlRmRhVFhoWVBuY01lWEd3SWk0QVVDaDJYbHRYUzhsQzFNV21BSXNJMlliSzVZSllmREhFallTc2s1akJZ?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T22:50:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "California moves to skewer Huntington Beach with series of penalties after huge housing fallout - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbHRCZ29LRFJNaC04bUJ5d1hSRWNEWkswY2VqVUZIQVk3N0laSVZUc2pRc28zeGt4MzJwTHNRa1dySWQ2Y2hNbHpQd3dobkZFdk9tZjdiZXBpWk0xOTVSNnkwVkk5d1RqYW9FWjRIU2NsakNMVnRCcHNfeVRteVl4TDBUd2JhZWJBUk5aMUdGbkhMdHVZSTluNVNlMUVsUURHMzdnTV90QU5lbV8tUTFKUmQyWERSQkVIUHNoMlJkWVRCVjFvVlQ1OGx3THFOXzQ?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T22:44:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
         "title": "Poll: Democratic voters driven by Trump opposition more than party platform",
         "url": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
         "source": "The Hill",
@@ -392,19 +716,6 @@
           "score": 6,
           "label": "Center",
           "source": "The Hill"
-        }
-      },
-      {
-        "title": "Trump downplays calls for AI slowdown",
-        "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
-        "source": "NPR",
-        "publishedAt": "2026-09-13T22:32:39.000Z",
-        "category": "political",
-        "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
-        "bias": {
-          "score": -25,
-          "label": "Lean Left",
-          "source": "NPR"
         }
       },
       {
@@ -434,18 +745,6 @@
         }
       },
       {
-        "title": "It’s time to crown Breanna Stewart Captain America after ensuring Team USA remains gold standard - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVRTZjh1RVE1dVlXTDVmYlFzS00zT25IYjJDZWlMbElHR1J2UXlfRUQxUlhTQ1NWaHMyWGF3X3cyeDVIYXdZaWVfUm9QbWJMVzNLUDAxNXRhZzIyTk93clN6Ym1RMFNhZ3dmRUNPVGlWbnE0dGRoMXB6LU5UQ1N5WlNYWkxMU0ZNck9TZXJvSlF2NmYwdXZlNDM4cEFSblZhb240WmZxYm1pdw?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T22:24:00.000Z",
-        "category": "political",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
         "title": "El-Sayed on Piker: Not interested 'in having a conversation about streamers in California'",
         "url": "https://thehill.com/homenews/campaign/6087218-el-sayed-denies-piker-relevance/",
         "source": "The Hill",
@@ -457,6 +756,30 @@
           "label": "Center",
           "source": "The Hill"
         }
+      },
+      {
+        "title": "Jets might have an answer to their kicker woes — even after ghastly miss - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVpaR010TllLZmE5RjNZX0JlT3JLaTRzeHlaMXRFSzJrdEVya1hzNnVmTndwVkxNWjBVclVwMzc4M19sMUZCSVRYRU16aXBQQWxmVW9KQTBPOVpZWF8yci1rbTg0eUVzYjY5VXU1VHdIbVBHeGF4cnE1N0RFUzFqX2RvbVlPWWdUSkw3eWRCOFYtcy1G?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-14T02:50:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "How Jets wore down Titans defense with nearly 12-minute drive: ‘Beat them up’ - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM09ZczBQQmdtQVNhbEstWWgyTE9qOFhkTGtjVWZuSkJDUDY2bEhYMVpab1R5NV82U0dVRHdERzFCNnNVRFdMcjVXUDM5OWFQdE1PRUxPeGtETlZ5ZU5uajg5T2VCNU9UcnhkX0RmLWpGRWdmZFNjem8xX0FoYnBhQTZWQjNPVG9pdDlhTWxNd2dRdGF0eFJYblhiQzhEQXVXS1hvR3BxOER6V2xzSVdMMk93?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-14T02:13:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Christian Scott’s confidence grows even as his Mets gem is outdone by Yankees ace - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMm0wbmpwZTByV0F4Q29zUndNTThCQ19LU19tVkdLdG0zM1A1Y1duZUlyRkhBR0hsVGlKVWFZRFBLalJhaXFjM0x1WXZySWdkbmdEUDRqbXJjY0ExTXI0OHBBOFF3b3pIaWkyMzRQOTZHVG1XbEp4UDRscGdnakRoUmt0a3hLanlhR3RaWTVWNUc2eHBNTjFHckFsd0pnblBENEFVUVZPUFVPZ3I3YURKOVZEdG43Y3UwOVE?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-14T01:53:00.000Z",
+        "category": "political",
+        "bias": null
       },
       {
         "title": "‘Agatha Christie’s Tommy & Tuppence’ Review: A Detective Duo on Britbox - WSJ",
@@ -483,10 +806,26 @@
         "bias": null
       },
       {
-        "title": "Z.AI Plans $5.0 Billion Fundraising to Fuel AI Expansion - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXlIUE13SkdlVEJJRjVrN0RPWmllSXJhaS1iSUFIZ0phX2g4MFhYRXRodjRrUWdfVzJrVUFVMjEwZVM1N2pDb253eFV0ZjBTc1lyUTVoUnREQW9OZm1TODNSVGFWSjZpWVlDRHFuUGxmajh3ZjBsSWMtN2plWFN3MVRIMloxNVZaNHZCMTRDa3dJTlFUWlcw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-09-13T23:56:00.000Z",
+        "title": "Yankees clubhouse split on if Cam Schlittler deserves MVP award - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSThSakdtdVZKTHQtTm5rOHBKdDJINVQyOUV0OHoweGtpT1k1RE5Ib0tZcjc1dVdzcGNpMWVPS2hBcHFVUnNDU2tUTmJoVTdjZmJfTUdZYWVUOVhNb3JCVUEwSDkxQ2RFZ2wxRU15QVV4c1BJeGVDZnJpNkFEUGpPNWRONFR6YzUwUHVpcVdmOW05OXEtMkthQWoyWnlaclBQbGZv?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-14T00:40:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "West Virginia assistant coach arrested on strangulation charge - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2dYa3hIM1VqYnpxMHJoS3I4QVVwbTV0U1kxRGlKaS1YS1JOY0xnX2t6WW9tUmR2eFRiUEo5dTEtVThDREJWclZFa3ByQnNXV0dudEtmOF9sMHJTWm5YRENoenFXejIta3B6S3Z1bU1BOUROVHdhT1c5ak01c3J4TEtVVUpONzlzbU1jTHMxNVpma1RLRVR1RFdmZXhuUFVSWndxUDdqT05WQQ?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-14T00:30:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "California high school football coach arrested after player makes disturbing discovery in locker room - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2RLck1kU1VqMEtoam9oRnQwU2hTQ2x0RERwbThnZm5zQ2FOaFRrdTJDSlZ5R2hEUlB5TnZGanNJZTJlYXNxbE9iM0pmUWprMjhKUmN2TlJ2SmN1S1k0VlBrQ2dzT252N3I2cHFnNGhGX2daZUJ1RGUwczVEZzJQMjVLWE5Lc0ZKQjhrcmZ3Ym5UNEtrazdPSkhYUVFBZFlscVpwZHdmdVR2Q3YyaGVMNUo1a2VpUDFWRzJrR3diTjkzd3pRYzR6VGFvTlV2ZVpfMGpOYXg4Yw?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
         "category": "political",
         "bias": null
       },
@@ -495,6 +834,54 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTFqcGpLLXBuNHVKQXdISGZ3a2FCbjFKR0ZpcXhYQnp3aDllT2wxQ05WVjhRT1AyMXZYLXRQMjRfOFo3Q1BLendEU3E5OXZtSHNLTFlwUVBzUUtjV1dDeFpfMWo5VnhMMlp6d1JKMFZYSWNTX083TWxMWlo0ZnV0cWRCaEU2d3c4WURYNUtyVmJIa0xmM2xrZjdwVkl2OFR0ejVUaktWc2lFUUpteTc0MNIBtgFBVV95cUxNR1hSeThmTlhsODdqdWlNejN4SXQtUVAzODVJMFhIZXNJOGhIRzNpZm9ncVdlN3RPQk8xSnJ1S1dKcS1zYkFxT1F0UFBRSUJxaHhwS05sWm8tMFk2Q010TW5XOWNIYkdOSHF4czlTMU93SkdLVXg1ckM5cEFMMm1Lc1pDdVNRcnVpOWtwZGNkbVlrdkJjdHNpSFNyMVZkLWFHaTdkbTZVbTdPel91dEdRWDg0TFFlUQ?oc=5",
         "source": "Devdiscourse",
         "publishedAt": "2026-09-13T23:51:33.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Heroes, zeros from Subway Series finale: Ben Rice’s long ball all the Yankees needed - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0pCdXB6bjRNbUpmSV9TLWk2Vmxjd280QUxpQzY2X25iR3lOdXJtU2hpVUhGSE91ckV4dGxBdFdLbklHa3RWR290bURnNDlVcVJycE00X0x2aUsxSzBlb3BFSkVGSEdnZmlXN1dEVW5haEtIMENsaEJGNFhfRmZWZjMtT0tYdW43Nzg1ZEVzWGVfQ3V1SWlwUWMyNWkyVGRfM3EzX2sxREI3LXRuTHhDTTcyMkE0dw?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-13T23:51:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Legionnaires’ bacteria detected in 10 Bronx cooling towers, including Yankee Stadium: NYC health officials - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2tZQ0N4MzF3MmotUlpuUXhOblV4a0FXcUNoSGdTYlEzRzRmZ2NCajd4Sl9RT0RBQ081TkUzckU4TnltbjRxd0EweVkxbjJvdjJMWjFwMG45UXZSdFRXYmI1RFJwTDVjcV9kU2UzWVlCcTBfcDBodEJ4bWYyX053UnNuVVdhTUZWbGNmMG82YXRxVFEwNUw4UlNVSEFrOGkxQnp2QXZHaTNKcUIza0lXaUkteUdEc1BXRjZWbFBRNWY3Snl1b2c?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-13T23:28:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Seattle business leaders show how to stand up for their city - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGpPYXlXZ2ZCMXJvenRLVUVod2JteUFHRzk3VW1EODZwZkRyQkpadkw1amFSV0RsNk1hVURfcUlmcXNueDRBOXVWcDlUSktlR3FYTXZkQUFpSHNGZkpxaGptM2dtNjhqaURGamwwMHR3akx4dURodENaM3FyVDRVOVJmNjlzaVJqcTNSdnJ3QlBHYTdCS3oyMWlGc2xPTmM0?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-13T23:02:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "The Jets needed this start to Geno Smith’s new chapter just as much as he did - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1RUeHh4eDlrbW1xZVlVTHJwb0l6TzZFUWEyWE56R05USjBuUVhqOFV6eDVFam5veWVXUzg0SC1uWFFVTy1uY0cwWkJZYy0weTBQNHR6dzF5My1STnY2QnFPUmdtT1RtVGtGMU5TYlN6cEJVR2tXZzYzN2RGRWQzeGotYXR5dzh2dnlSbkFKci1zd0V6dTRaOEFob3hUdTRZMTIw?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-13T22:54:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Alexander Zverev downs Ben Shelton to win US Open title and extend American men’s drought - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWZ1ZFNrZnFtX1ZtSFZ0a2NfT1dzT1I2Xy15NGxJbm95YWZubnFSSzVaUjJPVUlGNnl5Wm9qeTI4S1VSUEtXeXNPQ1RUM0MyTlRLczk2eGZOSHRBNms3a19mTXlsVnpQNS04UnZROFpUUnBjRHhtdVlMazQ0LW5DRlV5eFpKTGFsWWdvTDRnVUNDckllWjhVSQ?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-13T22:50:44.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Cam Schlittler is building case for something much bigger than a Cy Young - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakJraVVEeFlILXhHZTI4Tlh4LU1rOUhMY3NQVEtLeHdZcG1nZVdEUldCR1JMekJKUzRzbGpuSXgzOXkxRVdKbzFiRzVmT1ZZZXFlb0tteXBKMnNaODZjQzlGbHl2WUdlRmRhVFhoWVBuY01lWEd3SWk0QVVDaDJYbHRYUzhsQzFNV21BSXNJMlliSzVZSllmREhFallTc2s1akJZ?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-13T22:50:00.000Z",
         "category": "political",
         "bias": null
       },
@@ -600,9 +987,56 @@
           "label": "Center",
           "source": "BBC News"
         }
+      },
+      {
+        "title": "GOP gov candidate recounts miracle water landing as dispatch audio reveals desperate search for sinking plane",
+        "url": "https://www.foxnews.com/politics/gop-gov-candidate-recounts-miracle-water-landing-dispatch-audio-reveals-desperate-search-sinking-plane",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T21:00:22.000Z",
+        "category": "political",
+        "summary": "Dispatch audio captures the frantic search for Tom Tiffany after his plane lost power and plunged into Lake Wausau in darkness Saturday night.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "New Charlie Kirk statue vandalized at Turning Point USA headquarters",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/charlie-kirk-statue-vandalized-tpusa-arizona",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T20:51:48.000Z",
+        "category": "political",
+        "summary": "The 8ft statue, installed in Phoenix last week to mark one year since Kirk’s killing, was found painted red A newly unveiled statue of the rightwing activist Charlie Kirk was vandalized at the Turning Point USA headquarters in Phoenix, Arizona . The statue was found with red spray-paint. A nearby poster memorial in fro",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T20:49:16.000Z",
+        "category": "political",
+        "summary": "House Speaker Mike Johnson warned on Sunday of competitive risks from China, and Hakeem Jeffries, the minority leader, said Congress should start regulatory talks this week.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
       }
     ],
     "economic": [
+      {
+        "title": "Gold dips as hot US inflation boosts Fed hike odds - Briefs Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT1NzUnFzQ2JzQVJtRDZCYl9vM3dDMFVBWjhVSENMWEpMZGFwX0p5S3h2ZkJYdzdiZVFtTWJ0aVB1N1l1bS1kRWtnVERsUzJoWEZhX1J1MWVlUnMxZUZxRkp1UDFlVlVkbE5najBqWGI5YkhnNXptNE5SMDgzNjBGS2FMbUFrZm5rdFkzeDRsaGZ4dw?oc=5",
+        "source": "Briefs Finance",
+        "publishedAt": "2026-09-14T03:55:44.000Z",
+        "category": "economic",
+        "bias": null
+      },
       {
         "title": "One Nation vows to cut migration by 750,000 amid warnings move would damage economy",
         "url": "https://www.theguardian.com/australia-news/2026/sep/14/one-nation-new-migration-plan-cut-750000-aged-care-impact-ntwnfb",
@@ -889,25 +1323,17 @@
         "bias": null
       },
       {
-        "title": "Will the U.S. midterm results affect Trump's tariffs on Canada? Democrats think yes - CBC",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcVNQRHdHdVFpak0tYkFVdGd6aTk0cjdnXzFLZ212cUZ0RkpNeGdHRWVjcHdUMk04VEVaSHFlQVBPZ1dLeDM2VlNQOGlTOS03eURuTUdtc2JjdExyRDZ3OVByNzZ5bGtmVzdsNjgxZ2dhWnBuM3diSWdhS0w3TnpNcnVCNmxEWWRRQXVTMm9CRG8?oc=5",
-        "source": "CBC",
-        "publishedAt": "2026-09-13T16:38:00.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "'This is the test': All eyes on US Fed to tackle high inflation - finance.yahoo.com",
+        "title": "'This is the test': All eyes on US Fed to tackle high inflation - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRE1HMlREeXlNUTd6VEc3NFBPMU5jUzBjSExodnVfdEkwWkZEdGp2bnpPQU5zTF8yelNPUm16UVNVNUFZZlV2QVJYZ1NLWVNqOThpUG03U29SYUVlamYwd1NGSTRvVVJybEZ5M09pM1FabG1hdHN3czU4T24zdXFGaGxfSnR4Rk5UTkdvSG5DbDJvdw?oc=5",
-        "source": "finance.yahoo.com",
+        "source": "Yahoo Finance",
         "publishedAt": "2026-09-13T14:52:35.000Z",
         "category": "economic",
         "bias": null
       },
       {
-        "title": "Economics Needs a New Approach to Inflation - Jacobin",
+        "title": "Economics Needs a New Approach to Inflation - jacobin.com",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BS0JtRWFWWFQ2UjRQTjd0aVQtaFYzZDUyRGhTc3AxQklEZ1pHYkp0N00wckw1OVA3ZjN6NWdzSmtraDYwWW1WeUVsclhMVTNWN3RraDI3NEZ0Ukw3endUZm5RclI4aWRRWlR6SlpwU0pBZG81NG45ZnlVWDJSNVk?oc=5",
-        "source": "Jacobin",
+        "source": "jacobin.com",
         "publishedAt": "2026-09-13T13:14:04.000Z",
         "category": "economic",
         "bias": null
@@ -921,9 +1347,9 @@
         "bias": null
       },
       {
-        "title": "'This is the test': All eyes turn to Fed as rate hike probable - Daily Sabah",
+        "title": "'This is the test': All eyes turn to Fed as rate hike probable - dailysabah.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzI1MFo0TWtvSFVWWlc0WHR6YmlIeEVxbHZLeEV1MXlUUUg2MEsxSlc0RTVZd2VzY1NjQ2sxY0FSMlFaMFJsdFBNMTh6WHBFWHYtUnNGX3RfMUF2V1VqZnJ4YUJVOTdCSHBFVWhBU1NJNlhYY0V1bk55ZnBBNklMdUtYNjFQem9STjlNNTkzZTR1VjdQZU9kRnBNa0ZYcVB6T3RNNW13?oc=5",
-        "source": "Daily Sabah",
+        "source": "dailysabah.com",
         "publishedAt": "2026-09-13T08:23:50.000Z",
         "category": "economic",
         "bias": null
@@ -935,18 +1361,6 @@
         "publishedAt": "2026-09-13T08:12:00.000Z",
         "category": "economic",
         "bias": null
-      },
-      {
-        "title": "Scott Bessent’s attempts to suppress interest rates could spark a recession - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVQwN21WRmZNbTJFd01iRl9vWGhoZHIwOG9ISWpuT2dTN25CVmhzM2pDdkUwcU45R3ZFVl9HSktfWUt2MHBEVVVYM01rUTBQQngyMDhURnJRMmx6SFZabkpIZUVidy1YcTJEZFNBYlJ4TXRhcVZHNDdqaUdXa3RXbjh3STQyMUVrZFc0TVRhakVyRnU3YjFtUzVJcWoyUDBrcV81eGRIRklQVE8zY3lOdjRxZUI?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T01:27:00.000Z",
-        "category": "economic",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
       },
       {
         "title": "All Eyes on Warsh as Rate-Hike Fever Spreads Across G7 Central Banks",
@@ -1000,18 +1414,6 @@
         }
       },
       {
-        "title": "Ron DeSantis swiftly shoots down Trump’s $5K dividend proposal: ‘More inflation’ - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjE0bU5WdjJHREMxQ2JYTWVWMnpTS3I1MExLVDJlQXJxbWZ0QVphSGkycUxEU0l2b0xzMXhSNUMzWThEa2VZVVg1QWRya0N3RnZBVlJtMWxGZUpKMXBFVExNbGtWRlJ3Z0lmdzdnMGlJblRJTXV1dUFhN0JpRmVrLWhpaUMxenBZeHBMdFhCNDBGY2VJQXk5UG5hUElBZE9HQ2RBWkRvQk4xQQ?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-11T18:09:12.000Z",
-        "category": "economic",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
         "title": "Fed Rate Hikes Won’t Be Enough to Get Inflation to 2% - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWp6ZzQzbngyR0g3YkRxcUZBZGxTaGJrVzVLc2NJS0hVTTRSTGZsM0JxTlhtcW5MUG4zbmhHUXp2eGVCanhoY1VQSks4NHZjQm9PaHdJZkNwZ0hPcDlHT1ZPSkFZaXRVQktUNTVjNGpyb0dRUWNueUdPWldIUHBScXFiSE14dkUzd3pBa1o3QVNucEZQbTFkSTNRbXZVX2pqSWVnbmh4RmE4ZzdTb0NsM05R?oc=5",
         "source": "Bloomberg.com",
@@ -1046,18 +1448,6 @@
           "score": -48,
           "label": "Left",
           "source": "CNN"
-        }
-      },
-      {
-        "title": "Inflation ticked up in August, setting the stage for the Fed to hike interest rates - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm44cERNRk96Tm5Mc3JwMzZKLUJFYzctbDFTLUZqRFJRbTM2N1hjOXIzZzlFWnJtSlFRcDRZZzhjQWQyM1lyR0ZHSUhJLTJ2Z3JiVG84d0E3d25IYndacXR4MHllaGtCTUhYNUhZT0xiTjdJZ0NNa2gtZGZ0d3ZTUmowQ0R1RGxnRUVGMzZodlo1X2txUk5PeUZjSjBOUQ?oc=5",
-        "source": "NBC News",
-        "publishedAt": "2026-09-11T13:11:13.000Z",
-        "category": "economic",
-        "bias": {
-          "score": -20,
-          "label": "Lean Left",
-          "source": "NBC News"
         }
       },
       {
@@ -1151,15 +1541,65 @@
         }
       },
       {
+        "title": "Scott Bessent’s attempts to suppress interest rates could spark a recession - nypost.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVQwN21WRmZNbTJFd01iRl9vWGhoZHIwOG9ISWpuT2dTN25CVmhzM2pDdkUwcU45R3ZFVl9HSktfWUt2MHBEVVVYM01rUTBQQngyMDhURnJRMmx6SFZabkpIZUVidy1YcTJEZFNBYlJ4TXRhcVZHNDdqaUdXa3RXbjh3STQyMUVrZFc0TVRhakVyRnU3YjFtUzVJcWoyUDBrcV81eGRIRklQVE8zY3lOdjRxZUI?oc=5",
+        "source": "nypost.com",
+        "publishedAt": "2026-09-13T01:27:00.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
         "title": "What a Fed rate hike actually means for the U.S. economy and inflation - nny360.com",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSndZenU4V3BqMEw5NUNYb0hjT2Q1eUxjSFdOSWVvS3dkcGpVMFhIX2NiaU15Q2R5M3dXSWZGd0FmaElMa0NTbWhTaUR4WEtIeVlBdm50ZlAtczZMU1dkZjdFSjdNemg0RFRBZmpqWGZySjVtRVlUR08zN2hRVFZ1SE0wU2lZV1RfQ3AxSmRFb254TGV5ZWR3R0JsZHBnU19EdXY0bXVHZ05IWU9NdzJOS2V2djVOR1k2TWI0dkVuZ1VFQmQ5dVhzTi11c1d5VEVRMEFnVFpKUlZ6Rjd5N1hKVC1yOFFYTXczRTZKeGxrQ1VPcE83WDNmNVE3clZnUQ?oc=5",
         "source": "nny360.com",
         "publishedAt": "2026-09-12T17:15:00.000Z",
         "category": "economic",
         "bias": null
+      },
+      {
+        "title": "Why The Fed's Inflation Control Directly Challenges The Stock Market Narrative - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWNpVkUxV0hCTGlNckZnUnJ0ckcwOTNaQVh2OXV6UTlYVTFtQlpMZXpldUl1R3ZzUHNZR1NsbXhJSkpUc1d2RUJaaG5iNk9xYVgxNmlCQ3JFRjMzV1JkR1hQUW4yM1FOSUNyM1p6eGpjN3E1QWFrZ2NnZk51YWlOSXh4eEp6VzJJa2JuME5mX3RyTDZ4QWFFb2k2dm1iSXItSzZOWENNeUlxYUZfbnc0UmF0bGxQM2Fl?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-09-12T17:08:45.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Fed's Warsh faces intensifying pressure to raise rates after hot US CPI - The Edge Singapore",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWUoyeF82SS1FMDlDb1BkY2lGbTJrdVJXX3BuSmF3T3B2YkphekVMcTNuT200dmhlcXU0RFJNRllhWFhERm9ycTJEZnE5YUV6cjVONVE0MkZBYmVnUFZpUG12b0tlR0o3bFpWeTJBTW9FTmctamw0STdneFdZZmVONlJXLXVHM3lsWUpJTHpoM3hlaTdFRUNNekJKaWtZVEpmLURLV2ZlOHNzemtWbW1MU0xzRFRsaUXSAbwBQVVfeXFMUDlOUzk2aDJ1UnFsaEVyWVZNSnhUTVZyekdnUEp6R3hzNTJGUFVsZHVrNnVfc0Y2RzM4YVZudFZZX25qWHVTZGJqWlR2Mzc2bXpXZlBkWDdmSk40WGJ1TmtLSkJqQVFGMHBNRkxzUU83Q0FkUlF4N0haV25wc21xSjdSeGJ6YjlkUURyX0wwNDFfUnpWU0l1d21ENXc3Q0p5c0dLN1l4LWJabE55eW93OThCNFRveWI3d0lvUHU?oc=5",
+        "source": "The Edge Singapore",
+        "publishedAt": "2026-09-12T04:35:12.000Z",
+        "category": "economic",
+        "bias": null
       }
     ],
     "financial": [
+      {
+        "title": "Europe’s Fractured Stock Market Finally Gets a Single Data Feed",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-14/europe-s-fractured-stock-market-finally-gets-a-single-data-feed",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-14T04:00:00.000Z",
+        "category": "financial",
+        "summary": "Europe’s protracted efforts to turn its much maligned markets into a more attractive proposition for investors reach a momentous juncture Monday: the arrival of a consolidated tape.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "South Korea’s $1.4 Trillion National Pension Fund Picks New CIO",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-14/south-korea-s-1-4-trillion-national-pension-fund-picks-new-cio",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-14T03:52:40.000Z",
+        "category": "financial",
+        "summary": "South Korea’s National Pension Service named Kyuhong Lee as chief investment officer to oversee its $1.4 trillion portfolio, handing him the reins of one of the world’s largest pools of retirement savings after a sharp surge in investment returns in the first half.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
       {
         "title": "Pakistan's GasPort on LNG Outlook Amid Hormuz Closure",
         "url": "https://www.bloomberg.com/news/videos/2026-09-14/pakistan-s-gasport-on-lng-outlook-amid-hormuz-closure-video",
@@ -1172,6 +1612,14 @@
           "label": "Lean Left",
           "source": "Bloomberg"
         }
+      },
+      {
+        "title": "Polymarket Appoints First Finance Chief Amid U.S. Growth Plans - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2UtYWpHX0lwYzN4WjJGSGh3RUxIaEJzeHpvbE54RGhzR2I0R1VOLW9aSHdpTHBGRHU0QnVWX3lCdUpfMHRCaGYtaEJDZzFIc0pRbEhoLVI0aVV6aW5Nb0RxbmZYWkdnZzBEY3llb3VXZGh4MWx0cVlYbmxRSk44YjZYblBuUHAtRW5wMkJqZVhwYWd2MjQwYnQ2UWV0MFZWWGxjbmVPbnNxamM?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-09-14T04:02:21.000Z",
+        "category": "financial",
+        "bias": null
       },
       {
         "title": "Stock market holiday today: NSE, BSE closed on September 14 for Ganesh Chaturthi; trading resumes Tuesday | India News - Hindustan Times",
@@ -1194,6 +1642,14 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFBXN3ZSYXdmY28tQ2YzV0VwQ0U0Y250MnQzZ2lUMnJGY01WSDlKQlFPakFTUzRQbWl4TkZHX1FJLWVKbkpTbjZsRllUQVUxajZRLW5EM0VpYU1NLW0wWThGTTN2M2NNNWMtY3JQVldnLUNtTnc4WEpsSHl6UndKZ3B2bzV2YTJfZk1yTTNsS0hlNmRIWnRMQncyME1lanFzaGxybzRjREk1X0E?oc=5",
         "source": "Investing.com South Africa",
         "publishedAt": "2026-09-14T03:19:36.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "Brent Prices May Remain Elevated in 4Q - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnFxZkFyN3FYVllsTi1xa1RxYjBkM1ZKdHJabmxnVF9jUkpRSnhuYkFtT0Z3Q1B1OWhzNjN4Q2lnYVBFOGxkbExaYjdtUko4blVnZUV4M3Q4QnQtc2M4Zkd0UFpUNEZZQUhuSlZwUzNqaENmczlNcmcydklnb1lfSmttSFlxUDZGbThuaHBtYlFGS1NCbGpBek5feWpqejBOc2c?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-09-14T03:14:00.000Z",
         "category": "financial",
         "bias": null
       },
@@ -1251,45 +1707,6 @@
         "publishedAt": "2026-09-14T01:51:49.000Z",
         "category": "financial",
         "summary": "Liquefied natural gas prices — which have surged since the start of the US-Iran war — are unlikely to drop in the short term, according to Chevron Corp.’s Australia president.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "Microsoft CEO says superintelligence must remain 'under human control'",
-        "url": "https://www.foxbusiness.com/technology/microsoft-ceo-says-superintelligence-must-remain-under-human-control",
-        "source": "Fox Business",
-        "publishedAt": "2026-09-14T00:56:04.000Z",
-        "category": "financial",
-        "summary": "Microsoft CEO Satya Nadella said that any pursuit of superintelligence must &quot;help humanity&quot; while urging human oversight and broader access to AI.",
-        "bias": {
-          "score": 50,
-          "label": "Lean Right",
-          "source": "Fox Business"
-        }
-      },
-      {
-        "title": "Anthropic’s AI Warning Seen as Setback for Chip Stocks",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-ai-warning-seen-as-setback-for-chip-stocks-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-09-14T00:45:49.000Z",
-        "category": "financial",
-        "summary": "AI executives' calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term. Bloomberg's Sunny Bangia and Anthony Stephens break down the news. (Source: Bloomberg)",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "SoftBank Shares Slide 13% After AI Chiefs Sound Alarm on Safety",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-14/softbank-group-shares-fall-after-openai-ipo-delay-ai-warning",
-        "source": "Bloomberg",
-        "publishedAt": "2026-09-14T00:32:05.000Z",
-        "category": "financial",
-        "summary": "SoftBank Group’s shares slid the most in nearly three months after the heads of Anthropic PBC and OpenAI called on developers to tap the brakes on artificial intelligence development for safety reasons.",
         "bias": {
           "score": -12,
           "label": "Lean Left",
@@ -1388,51 +1805,10 @@
         }
       },
       {
-        "title": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2lGQUtDelJmdFZJeERjWWxaVXVFeEcwUUxtQjJ1bG40VVJZZmZyR1dzMDRvVkg4aG4zWFZaOWRtTlVRTW9lY05sZ3JzNGFSbTZwc25DNG9ONlZTUEJGSlkwTDZLSlJ1MmVtMm01SGZhdmxTRTBHWnowWmlrMFhDUmF4WWtHRnRqX1FUTE9Sbk1PMFJEU29fWFZhQTRpS3ZGcGljYWJneXgzb3EtYVE?oc=5",
-        "source": "Bloomberg.com",
-        "publishedAt": "2026-09-13T22:06:01.000Z",
-        "category": "financial",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg.com"
-        }
-      },
-      {
-        "title": "Stocks Drop on AI Slowdown Concerns, Oil Advances: Markets Wrap",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-        "source": "Bloomberg",
-        "publishedAt": "2026-09-13T22:06:01.000Z",
-        "category": "financial",
-        "summary": "Asian stocks and US equity-index futures retreated after major artificial intelligence companies called for a slowdown in the technology’s development, raising concerns about a sector that has powered this year’s rally. Oil rose.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
         "title": "House Speaker Mike Johnson says Trump’s $5,000 ‘dividend’ needs congressional approval - WTOP News",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVh1cHV6Ry1iaGJzdVBqY1hMNkhQc0Y3VjJvSVJRVVMybFFaTF84ZVo4N3B2OXgxLTM3T0QwaTJpS1hsc0hrcU1qZFJFUEJIT2UyX1lpVTRSY3FEdEhLOElHSWNMOEM1b1c3bXFiMDlrRlo5TENyMVM1MGtCS2FpcHBXc0JpaWstTGJCNnZhWG5rczM5MVVFTDZtQnpzN3JKT0ZkSUJsS3RRYkMtd0xlY1BmQ2c4NkFUaW1NbDZB?oc=5",
         "source": "WTOP News",
         "publishedAt": "2026-09-14T02:38:47.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Why is Z.AI stock sliding today? - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlJUNlRGX0k0U3pDRnNTR3BzMkRFbmpZaFJfX0cxVFlIVkQ2UEVhUTRibjktMmFrOTNOSjZza0M3VXRNQVlHZG5QdlZsTnhnUFNsTzBGcXpPUENmU3hmaWt5QXc1WkstdjFaNG9MMTRhM1NXR3BUSmFDNl9fVFNLNkFnVmtXWUdhTFJyVWZBdm9zdTVEZ2c?oc=5",
-        "source": "Investing.com India",
-        "publishedAt": "2026-09-14T02:38:33.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Auto & Transport Roundup: Market Talk - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWmFTaVRpVFZGQ1dVNEhqaDFCYUVuaFBCZTFxRk1DbG13SVRSb0dsNVY3N0dJWEJ3eVd4dHRIMFdFYzgxUGNob0tudDhTOWJuNl9PVFI3TkJKNFNKWllfUGRYVm5BNmw4TThkZ3IyZGNOUU1nbzg3Z1lYd1Q?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-09-14T02:35:06.000Z",
         "category": "financial",
         "bias": null
       },
@@ -1461,18 +1837,10 @@
         "bias": null
       },
       {
-        "title": "Markets & Finance - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBLcXBCR0lVVEpyNElYSXM1Um5FZ1RyRDdjX3dWNWIydi1IOFJLYThiQXg5cEZnOXRKcGJBYXVZb3A?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-09-14T01:08:04.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQzRrYkFjR1VxYkkwODFwTjBHelZDVzdxX2JzNnl0OUIzclVkY2JXQWl6TTF3TjJKZ1RYLUozTUZCTEZzVUJOMmEyRDJpNkpiNUs3STVVMEppZlVzQ1ZUb2xNN2o5VzNtcy1BbnljczFFb0dITHJtYUxnRm9nUTY2SVROZ0RXcTltNTdlOA?oc=5",
-        "source": "Investor's Business Daily",
-        "publishedAt": "2026-09-14T01:02:00.000Z",
+        "title": "Why Dell Stock Climbed to a New All-Time High This Week - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1lxbHljc1RETlFOVG5wc3A0cGMzcld5UDl5SDBUSldFWldpdnAzUlFRaTBuZFR0eGEzMW5zMzdRdWxJMXhnQlRZelUxYXRTb0JMeWkzRkJhTlB1UWpGdUN5c05FbEltU1Bod2pZOXlhaWRIckhzSGx2NTVUN0Y0OENubjNQMW5vdUJGWUVKcDZQRmwzN1E2eTNLdEVSZ2Zuenp5Vm1WY25VQ0hnbGVJWVhUNmlfbVNmWm43V29YZ3d2cDdhd1lhV1M5SV90MFJweHJuS0U1TQ?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-09-14T01:22:18.000Z",
         "category": "financial",
         "bias": null
       },
@@ -1489,14 +1857,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHZNZGpoNHRQZGdURzFRU1Fhc0tBVzFUR014dVRXSlZOQUdBY0JzZFIyV3d6bzZTWmdycDZFaU8xSmlQb2p2dmJ0TjJqWjJDcGxRT05XYkRqTmIyeDB1M0FCdmZ6TnRpRjJaT1hjR012VzhJdmo3MTl0ZGZFcFpqN3kwUFF0am85Y25TYkV1dzEzQW9x?oc=5",
         "source": "WSJ",
         "publishedAt": "2026-09-14T00:24:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
-        "source": "CNBC",
-        "publishedAt": "2026-09-13T23:33:00.000Z",
         "category": "financial",
         "bias": null
       },
@@ -1573,45 +1933,6 @@
         }
       },
       {
-        "title": "Bloomberg This Weekend 09/13/2026",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-13/bloomberg-this-weekend-09-13-2026-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-09-13T17:11:22.000Z",
-        "category": "financial",
-        "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Journalist & Features Writer Isabel Woodford, BMO Capital Markets Senior Economist Jennifer Lee, Delaware Sen. Chris Co",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
-        "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
-        "source": "The Guardian",
-        "publishedAt": "2026-09-13T16:54:58.000Z",
-        "category": "financial",
-        "summary": "From the Trump administration to AI experts, plans by the Anthropic boss to boost safety have spawned a largely negative response OpenAI boss and Elon Musk back slowdown on ‘reckless’ AI development Editorial: controlling AI – humanity cannot outsource its survival The safety debate that ignited when whistleblowers las",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Noel Tata Faces Biggest Crisis Yet With Regulator’s IPO Order",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/noel-tata-faces-biggest-crisis-yet-with-regulator-s-ipo-order",
-        "source": "Bloomberg",
-        "publishedAt": "2026-09-13T16:02:32.000Z",
-        "category": "financial",
-        "summary": "The Indian banking regulator’s refusal to exempt Tata Sons Pvt. from a public listing-rule comes as an unexpected blow for group patriarch Noel Tata, who’s already struggling to address leadership uncertainty at the top of the $185 billion conglomerate.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
         "title": "Trump says US can 'easily' afford $1.2T price tag for $5K dividend to adults",
         "url": "https://www.foxbusiness.com/politics/trump-says-us-can-easily-afford-1-2t-price-tag-5k-dividend-adults",
         "source": "Fox Business",
@@ -1631,32 +1952,6 @@
         "publishedAt": "2026-09-13T15:07:23.000Z",
         "category": "financial",
         "summary": "Plan to give US adults $5,000 has been greeted with incredulity across the political spectrum as well as outrage Donald Trump on Sunday doubled down on his controversial pledge to give US adults a $5,000 “dividend” if his Republican ⁠party keeps control of Congress after November’s midterm elections. The plan has been ",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-09-13T14:53:40.000Z",
-        "category": "financial",
-        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
-        "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
-        "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
-        "source": "The Guardian",
-        "publishedAt": "2026-09-13T14:02:24.000Z",
-        "category": "financial",
-        "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow",
         "bias": {
           "score": -55,
           "label": "Left",
@@ -1701,14 +1996,146 @@
           "label": "Left",
           "source": "The Guardian"
         }
+      },
+      {
+        "title": "Why Trump’s effort to build more refineries won’t lower gas prices - CNN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSVzg3TnVhT256ME9HbHBEUjB3UnJ1UWVKSEZ2NUF5YjZZa20xN1U4d0Q2VS1FTWwwY3Z6MVpSTmQ2dkZabUljdElGUVJESURJUHZwc0ZJYnlPc3F3MElNQUowVFh3V3JIM2Vud1NMUFRRQU9YLWRQT0ZYUE51ZFU?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-09-13T10:30:29.000Z",
+        "category": "financial",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "Inside the $440 Million Collapse of Guidepost Montessori",
+        "url": "https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:03:31.000Z",
+        "category": "financial",
+        "summary": "A man with a vision set out to revolutionize preschool. It became a $440 million fiasco.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "What to Expect at the 2026 Emmy Awards",
+        "url": "https://www.nytimes.com/2026/09/13/business/media/emmys-what-to-expect.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:03:30.000Z",
+        "category": "financial",
+        "summary": "“The Pitt” could make history at Monday night’s celebration of the best in TV, while “Widow’s Bay” and “Hacks” battle it out in the best comedy race.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Every Word My Employee Writes Reeks of A.I.",
+        "url": "https://www.nytimes.com/2026/09/13/business/employee-ai-use.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:03:20.000Z",
+        "category": "financial",
+        "summary": "Plus: How to stop office talk about a colleague’s cancer diagnosis before it starts.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "They Built a Shrine to Cable TV. Then Everyone Cut the Cord.",
+        "url": "https://www.nytimes.com/2026/09/13/business/media/cable-television-cable-center-museum.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:00:51.000Z",
+        "category": "financial",
+        "summary": "They set out to celebrate the power and prestige of an industry that spanned MTV, HBO and Nickelodeon. Now, as cable’s fortunes have waned, the institution is changing, too.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "'It's cost upon cost for working families - they get no help'",
+        "url": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T06:09:16.000Z",
+        "category": "financial",
+        "summary": "The government needs to do more to support working families, a charity in Rotherham says.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Oil prices create 'huge worry' as winter looms",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T06:01:53.000Z",
+        "category": "financial",
+        "summary": "The warning comes after the US-Iran conflict drives up heating oil and fuel costs.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Ending rough sleeping is 'not just a housing issue'",
+        "url": "https://www.bbc.co.uk/news/articles/ckg7qyl1yk9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T05:14:15.000Z",
+        "category": "financial",
+        "summary": "Andy Burnham wants to get people \"in from the cold\" by Christmas, but the scale of the task is huge.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Trump’s $5,000 ‘dividend’ strips another layer of shame from American politics - Orange County Register",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnNva2laN09oMnBGNVU0NExKY1ZqRkIwRlo0WjJ2SU5taUdxVVZBa1NQSG9HUGJHUDdpREcxTnN1dEN2TVNtd0J2NzdjeGwwZHg1eUprNXFMUlNwMEFITlNpaGNpSWRQYmdNVDUteVFsZDZNaUk5WG9KRjBKb1B3emY0Y3BTQ2Q3cXp4eDRXSzVXU0dvWVRKOWxWVF9Hc0dMbl9IOUQ5U0lBWW1mbHY3RGF3?oc=5",
+        "source": "Orange County Register",
+        "publishedAt": "2026-09-13T20:38:47.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "Opinion | Nonprofits Rely on Wealth From Free Markets - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQelhIZjNCd0U0TkVRT25kUlkwOGNwM0o0NmNoZnhlemNBVUVkWXp2X0FBcUxXVXUwOUc0eUtMU3ZRYTl1UnF1VldTa0hKNlBOLVc3YjAtdjlFREFNc3I2Z01ZcUpEdkF3TFNJMzVGVmwwS1lBajlYS3hkbUEtalhreDFFalcxZEU?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-09-13T17:47:00.000Z",
+        "category": "financial",
+        "bias": null
       }
     ],
     "geopolitical": [
       {
+        "title": "Bank of England’s Dovish Majority Tested by Iran War Pressures",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-14/bank-of-england-s-dovish-majority-tested-by-iran-war-pressures",
+        "source": "Bloomberg",
+        "publishedAt": "2026-09-14T04:00:00.000Z",
+        "category": "geopolitical",
+        "summary": "Governor Andrew Bailey gave journalists an unusually frank message after July’s interest rate decision: “Please do not leave this room thinking that the Bank of England is edging toward a hike.”",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
         "title": "Politics live: petrol prices set to rise ‘even higher’; Labor’s private health reform for over-65s condemned as ‘lazy’",
         "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
         "source": "The Guardian",
-        "publishedAt": "2026-09-14T03:47:15.000Z",
+        "publishedAt": "2026-09-14T03:56:28.000Z",
         "category": "geopolitical",
         "summary": "Follow the day’s news live Get our new political email , free app or daily news podcast Hanson’s comments on Albanese’s mother ‘gratuitous and unnecessary’: Hume Jane Hume has joined the pile on, blasting Pauline Hanson for her comments about Anthony Albanese’s mother. I think that these comments were gratuitous and un",
         "bias": {
@@ -1741,19 +2168,6 @@
           "score": 6,
           "label": "Center",
           "source": "The Hill"
-        }
-      },
-      {
-        "title": "How China Is Responding to Calls to Rein in AI",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-14/how-china-is-responding-to-calls-to-rein-in-ai-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-09-14T03:15:55.000Z",
-        "category": "geopolitical",
-        "summary": "Bloomberg's Yvonne Man speaks with Artificial Analysis's Micah Hill-Smith about the AI race, China's role in it, and the growing debate over model safety. (Source: Bloomberg)",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
         }
       },
       {
@@ -2144,32 +2558,6 @@
         }
       },
       {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-09-13T18:49:37.000Z",
-        "category": "geopolitical",
-        "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
-        "title": "Questions mount over what an AI 'slowdown' would look like",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-09-13T18:20:22.000Z",
-        "category": "geopolitical",
-        "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
         "title": "Trade unions, MPs and donors urge Burnham to revisit party funding rules",
         "url": "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner",
         "source": "The Guardian",
@@ -2230,18 +2618,6 @@
           "score": 68,
           "label": "Right",
           "source": "Newsmax"
-        }
-      },
-      {
-        "title": "Trump blames Ukraine for diesel fuel price spike, urges Zelensky to stop hitting Russian refineries - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTUhJbDFlWERYWXl0bU1fRU1ibFdYMXFmMll1OFlHdDNROTl6SWZMMjNTdUJmdG9RdFhBNldpSU01OWhaeGw0VG9zc2hrcWdpNGVMWkNDVmQ2dVdaZ1F6NUFMc3Q2bzZ0RjhxWTZVRnZiZnNWdEY1clFtdHBIMGtsQVJtVGhRSWhudzVhdGlIcXI3RHgwSXJnYU5MdXNwa3JaZnEtTnRGcnZNTUpQUUR3RFYzWUVNbDdneTYwcXBVUzk5elJTSkFPaE5xeHVLR1kySzlZ?oc=5",
-        "source": "New York Post",
-        "publishedAt": "2026-09-13T16:36:45.000Z",
-        "category": "geopolitical",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
         }
       },
       {
@@ -2320,6 +2696,43 @@
           "score": -8,
           "label": "Center",
           "source": "BBC News"
+        }
+      },
+      {
+        "title": "US embassy child abuse images suspect flown from UK before police interview - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NcmdGU3FKQkNGNE1sTFNfYkVEV2J6S04waVVGR0hzMVZ0NTZWbGJYc2c3UURXSGQ4c2xQd1ZFRUhzV3ZaZDdRN2otemlmbTl1Tkx6ZmNfSlk2Zw?oc=5",
+        "source": "BBC",
+        "publishedAt": "2026-09-13T13:31:18.000Z",
+        "category": "geopolitical",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC"
+        }
+      },
+      {
+        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T13:30:38.000Z",
+        "category": "geopolitical",
+        "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Why Saudi Arabia has few options in its conflict with the Houthis - CNN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zb1kzVFpiVEdBdDJ0c1l5YlBUbnhJLUg1QlBMdkJQUXFHLTR3RjBVQlFMNzhkdldNczZsWXVXWWp4eVU5Ny1PaVQ2QVdhMXk1WEZfa3NnRFR6d3lnbWFZNVJpajlpOXBKRVlaZ1FyVzJkcmpUbXFTLUN6TjBUcUE?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-09-13T13:00:04.000Z",
+        "category": "geopolitical",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
         }
       }
     ]
