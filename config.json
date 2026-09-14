@@ -1,0 +1,104 @@
+{
+  "siteTitle": "Clarity",
+  "tagline": "The day's most important stories, clearly.",
+  "limits": {
+    "perCategory": 60
+  },
+  "categories": [
+    {
+      "key": "political",
+      "label": "Political",
+      "patterns": [
+        "\\belection\\b", "\\bcongress\\b", "\\bsenate\\b", "house of representatives",
+        "\\bpresident\\b", "white house", "supreme court", "\\bgovernor\\b",
+        "\\bcampaign\\b", "\\bballot\\b", "legislat", "\\bimpeach", "primary election",
+        "political party", "\\blawmaker", "\\bvoters?\\b", "\\bgop\\b", "democrats?\\b",
+        "republicans?\\b", "midterms?\\b"
+      ]
+    },
+    {
+      "key": "economic",
+      "label": "Economic",
+      "patterns": [
+        "inflation", "interest rate", "federal reserve", "\\bthe fed\\b", "jobs report",
+        "unemployment", "\\bgdp\\b", "stock market", "\\brecession\\b", "\\btariffs?\\b",
+        "trade deficit", "\\beconomy\\b", "economic growth", "\\bearnings\\b",
+        "consumer prices", "housing market", "labor market", "wall street",
+        "interest rates", "consumer spending"
+      ]
+    },
+    {
+      "key": "geopolitical",
+      "label": "Geopolitical",
+      "patterns": [
+        "\\bnato\\b", "united nations", "\\bsanctions?\\b", "invasion", "cease-?fire",
+        "\\btreaty\\b", "foreign policy", "\\bembassy\\b", "military strike", "\\btroops?\\b",
+        "border conflict", "\\bdiplomat", "\\bsummit\\b", "\\bchina\\b", "\\brussia\\b",
+        "\\bukraine\\b", "\\bisrael\\b", "\\bgaza\\b", "\\btaiwan\\b", "north korea",
+        "\\biran\\b", "war in", "airstrikes?", "peace talks", "\\bnuclear\\b"
+      ]
+    }
+  ],
+  "googleNewsQueries": [
+    { "query": "US politics", "category": "political" },
+    { "query": "US economy inflation Federal Reserve", "category": "economic" },
+    { "query": "geopolitics world conflict", "category": "geopolitical" }
+  ],
+  "feeds": [
+    { "url": "https://feeds.a.dj.com/rss/RSSPolitics.xml", "source": "The Wall Street Journal", "category": "political" },
+    { "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "source": "The Wall Street Journal", "category": "geopolitical" },
+    { "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "source": "The Wall Street Journal", "category": "economic" },
+
+    { "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss", "source": "CNN", "category": "political" },
+    { "url": "http://rss.cnn.com/rss/money_latest.rss", "source": "CNN", "category": "economic" },
+    { "url": "http://rss.cnn.com/rss/cnn_world.rss", "source": "CNN", "category": "geopolitical" },
+
+    { "url": "https://moxie.foxnews.com/google-publisher/politics.xml", "source": "Fox News", "category": "political" },
+    { "url": "https://moxie.foxnews.com/google-publisher/economy.xml", "source": "Fox News", "category": "economic" },
+    { "url": "https://moxie.foxnews.com/google-publisher/world.xml", "source": "Fox News", "category": "geopolitical" },
+
+    { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "source": "The New York Times", "category": "political" },
+    { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "source": "The New York Times", "category": "economic" },
+    { "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "source": "The New York Times", "category": "geopolitical" },
+
+    { "url": "https://feeds.npr.org/1014/rss.xml", "source": "NPR", "category": "political" },
+    { "url": "https://feeds.npr.org/1006/rss.xml", "source": "NPR", "category": "economic" },
+    { "url": "https://feeds.npr.org/1004/rss.xml", "source": "NPR", "category": "geopolitical" },
+
+    { "url": "http://feeds.bbci.co.uk/news/politics/rss.xml", "source": "BBC News", "category": "political" },
+    { "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "source": "BBC News", "category": "economic" },
+    { "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC News", "category": "geopolitical" },
+
+    { "url": "https://www.theguardian.com/us-news/rss", "source": "The Guardian", "category": "political" },
+    { "url": "https://www.theguardian.com/business/rss", "source": "The Guardian", "category": "economic" },
+    { "url": "https://www.theguardian.com/world/rss", "source": "The Guardian", "category": "geopolitical" },
+
+    { "url": "https://www.huffpost.com/section/politics/feed", "source": "HuffPost", "category": "political" },
+    { "url": "https://thehill.com/homenews/feed/", "source": "The Hill", "category": "political" },
+    { "url": "https://www.newsmax.com/rss/Politics/1/", "source": "Newsmax", "category": "political" },
+    { "url": "https://www.newsmax.com/rss/Newsfront/16/", "source": "Newsmax", "category": "geopolitical" }
+  ],
+  "sourceBias": {
+    "breitbart": { "score": 78, "label": "Right" },
+    "newsmax": { "score": 68, "label": "Right" },
+    "new york post": { "score": 52, "label": "Lean Right" },
+    "fox news": { "score": 55, "label": "Lean Right" },
+    "the wall street journal": { "score": 18, "label": "Lean Right" },
+    "the hill": { "score": 6, "label": "Center" },
+    "reuters": { "score": 0, "label": "Center" },
+    "associated press": { "score": 0, "label": "Center" },
+    "google news": { "score": 0, "label": "Aggregated" },
+    "bbc news": { "score": -8, "label": "Center" },
+    "npr": { "score": -25, "label": "Lean Left" },
+    "abc news": { "score": -18, "label": "Lean Left" },
+    "cbs news": { "score": -18, "label": "Lean Left" },
+    "nbc news": { "score": -20, "label": "Lean Left" },
+    "politico": { "score": -15, "label": "Lean Left" },
+    "the new york times": { "score": -32, "label": "Lean Left" },
+    "the washington post": { "score": -32, "label": "Lean Left" },
+    "cnn": { "score": -48, "label": "Left" },
+    "the guardian": { "score": -55, "label": "Left" },
+    "huffpost": { "score": -65, "label": "Left" },
+    "msnbc": { "score": -68, "label": "Left" }
+  }
+}

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Clarity — The day's most important stories, clearly.</title>
+  <meta name="description" content="Political, economic, and geopolitical news pulled from across the spectrum, ranked on a left-right bias scale so you can see where each story's source sits." />
+  <meta name="theme-color" content="#faf9f6" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <!-- Versioned asset URL: bump v on redesigns so stale cached CSS never
+       renders against fresh HTML. -->
+  <link rel="stylesheet" href="style.css?v=1" />
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="shell topbar-inner">
+      <a class="brand" href="./">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-word">Clarity</span>
+      </a>
+      <nav class="tabs" id="tabs" aria-label="News categories">
+        <button class="tab active" data-category="all">All</button>
+        <button class="tab" data-category="political">Political</button>
+        <button class="tab" data-category="economic">Economic</button>
+        <button class="tab" data-category="geopolitical">Geopolitical</button>
+      </nav>
+      <div class="live-pill">
+        <span class="pulse" aria-hidden="true"></span>
+        <span id="updated">Syncing…</span>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="shell hero-inner">
+      <p class="hero-kicker">Political · Economic · Geopolitical</p>
+      <h1>The day's most important stories, clearly.</h1>
+      <p class="hero-sub">Every story below is pulled from outlets across the spectrum and placed on a left-right
+        scale by its source — so the slant is visible before you click, not hidden inside it.</p>
+
+      <div class="legend" aria-hidden="false">
+        <div class="legend-row">
+          <span class="legend-label left">Left</span>
+          <div class="legend-bar"></div>
+          <span class="legend-label right">Right</span>
+        </div>
+        <p class="legend-caption">Source-bias ratings are an editorial approximation for illustration, based on
+          each outlet's general reputation — not a scientific measurement.</p>
+      </div>
+    </div>
+  </section>
+
+  <main class="shell">
+    <div id="status" class="status" hidden></div>
+    <section id="feed" class="feed" aria-live="polite"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <p>Clarity refreshes automatically. Source list and bias methodology are in the
+        <a href="https://github.com/jack-wise/Clarity#readme" target="_blank" rel="noopener noreferrer">README</a>.</p>
+    </div>
+  </footer>
+
+  <template id="card-template">
+    <article class="card">
+      <div class="card-top">
+        <span class="card-category"></span>
+        <time class="card-time"></time>
+      </div>
+      <h2 class="card-title"><a class="card-link" target="_blank" rel="noopener noreferrer"></a></h2>
+      <p class="card-summary"></p>
+      <div class="card-bottom">
+        <span class="card-source"></span>
+        <div class="bias-meter" title="">
+          <div class="bias-track"></div>
+          <div class="bias-marker"></div>
+        </div>
+        <span class="bias-label"></span>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js?v=1"></script>
+</body>
+</html>

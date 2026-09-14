@@ -1,0 +1,9 @@
+{
+  "name": "clarity-news",
+  "private": true,
+  "type": "module",
+  "description": "Self-updating political/economic/geopolitical news site, ranked on a left-right source-bias scale",
+  "scripts": {
+    "collect": "node scripts/collect.mjs"
+  }
+}
