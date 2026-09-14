@@ -101,13 +101,23 @@ async function main() {
 
   const byScore = (a, b) => b.score - a.score || String(b.publishedAt).localeCompare(String(a.publishedAt));
 
+  // Per-source cap applied BEFORE the category cap: without it, whichever
+  // outlet's feed happens to be busiest that cycle can fill most of a
+  // category, which defeats the point of a left-right spectrum view.
+  const perSource = config.limits?.perSource ?? 12;
+  const perCategory = config.limits?.perCategory ?? 60;
   const byCategory = {};
   for (const c of config.categories) {
-    byCategory[c.key] = all
-      .filter((i) => i.category === c.key)
-      .sort(byScore)
-      .slice(0, config.limits?.perCategory ?? 60)
-      .map(({ score, ...rest }) => rest);
+    const sourceCounts = new Map();
+    const capped = [];
+    for (const item of all.filter((i) => i.category === c.key).sort(byScore)) {
+      const n = sourceCounts.get(item.source) ?? 0;
+      if (n >= perSource) continue;
+      sourceCounts.set(item.source, n + 1);
+      capped.push(item);
+      if (capped.length >= perCategory) break;
+    }
+    byCategory[c.key] = capped.map(({ score, ...rest }) => rest);
   }
 
   const payload = {

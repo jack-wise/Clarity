@@ -2,7 +2,8 @@
   "siteTitle": "Clarity",
   "tagline": "The day's most important stories, clearly.",
   "limits": {
-    "perCategory": 60
+    "perCategory": 60,
+    "perSource": 12
   },
   "categories": [
     {
@@ -42,19 +43,22 @@
   "googleNewsQueries": [
     { "query": "US politics", "category": "political" },
     { "query": "US economy inflation Federal Reserve", "category": "economic" },
-    { "query": "geopolitics world conflict", "category": "geopolitical" }
+    { "query": "geopolitics world conflict", "category": "geopolitical" },
+
+    { "query": "site:wsj.com politics", "category": "political" },
+    { "query": "site:wsj.com economy OR markets", "category": "economic" },
+    { "query": "site:wsj.com world", "category": "geopolitical" },
+
+    { "query": "site:cnn.com politics", "category": "political" },
+    { "query": "site:cnn.com business economy", "category": "economic" },
+    { "query": "site:cnn.com world", "category": "geopolitical" },
+
+    { "query": "site:newsmax.com politics", "category": "political" },
+    { "query": "site:newsmax.com world", "category": "geopolitical" }
   ],
   "feeds": [
-    { "url": "https://feeds.a.dj.com/rss/RSSPolitics.xml", "source": "The Wall Street Journal", "category": "political" },
-    { "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "source": "The Wall Street Journal", "category": "geopolitical" },
-    { "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "source": "The Wall Street Journal", "category": "economic" },
-
-    { "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss", "source": "CNN", "category": "political" },
-    { "url": "http://rss.cnn.com/rss/money_latest.rss", "source": "CNN", "category": "economic" },
-    { "url": "http://rss.cnn.com/rss/cnn_world.rss", "source": "CNN", "category": "geopolitical" },
-
     { "url": "https://moxie.foxnews.com/google-publisher/politics.xml", "source": "Fox News", "category": "political" },
-    { "url": "https://moxie.foxnews.com/google-publisher/economy.xml", "source": "Fox News", "category": "economic" },
+    { "url": "https://feeds.foxbusiness.com/foxbusiness/latest", "source": "Fox Business", "category": "economic" },
     { "url": "https://moxie.foxnews.com/google-publisher/world.xml", "source": "Fox News", "category": "geopolitical" },
 
     { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "source": "The New York Times", "category": "political" },
@@ -74,15 +78,14 @@
     { "url": "https://www.theguardian.com/world/rss", "source": "The Guardian", "category": "geopolitical" },
 
     { "url": "https://www.huffpost.com/section/politics/feed", "source": "HuffPost", "category": "political" },
-    { "url": "https://thehill.com/homenews/feed/", "source": "The Hill", "category": "political" },
-    { "url": "https://www.newsmax.com/rss/Politics/1/", "source": "Newsmax", "category": "political" },
-    { "url": "https://www.newsmax.com/rss/Newsfront/16/", "source": "Newsmax", "category": "geopolitical" }
+    { "url": "https://thehill.com/homenews/feed/", "source": "The Hill", "category": "political" }
   ],
   "sourceBias": {
     "breitbart": { "score": 78, "label": "Right" },
     "newsmax": { "score": 68, "label": "Right" },
     "new york post": { "score": 52, "label": "Lean Right" },
     "fox news": { "score": 55, "label": "Lean Right" },
+    "fox business": { "score": 50, "label": "Lean Right" },
     "the wall street journal": { "score": 18, "label": "Lean Right" },
     "the hill": { "score": 6, "label": "Center" },
     "reuters": { "score": 0, "label": "Center" },
