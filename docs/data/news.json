@@ -1,12 +1,2289 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-09-14T03:42:04.568Z",
   "siteTitle": "Clarity",
   "tagline": "The day's most important stories, clearly.",
   "categories": [
-    { "key": "political", "label": "Political" },
-    { "key": "economic", "label": "Economic" },
-    { "key": "geopolitical", "label": "Geopolitical" }
+    {
+      "key": "political",
+      "label": "Political"
+    },
+    {
+      "key": "economic",
+      "label": "Economic"
+    },
+    {
+      "key": "geopolitical",
+      "label": "Geopolitical"
+    }
   ],
-  "articles": { "political": [], "economic": [], "geopolitical": [] },
-  "sourceErrors": []
+  "articles": {
+    "political": [
+      {
+        "title": "Committee calls for bill to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-14T03:23:54.000Z",
+        "category": "political",
+        "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "White House agrees to new ethics language in crypto bill",
+        "url": "https://thehill.com/policy/technology/6087405-white-house-accepts-clarity-act-ethics/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-14T02:35:17.000Z",
+        "category": "political",
+        "summary": "The White House has agreed to new ethics language in the Clarity Act ahead of a key vote on the cryptocurrency regulation bill in the Senate on Tuesday. The provision, which bars public officials from issuing or sponsoring digital assets, could be enforced by both state attorneys general and the Department of Justice (",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "The Bari Weiss Era of ‘60 Minutes’ Begins",
+        "url": "https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-14T02:14:34.000Z",
+        "category": "political",
+        "summary": "The long-running CBS News program returned for a high-pressure 59th season on Sunday. With new correspondents and a refreshed stopwatch, it was more tweak than overhaul.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-14T01:58:59.000Z",
+        "category": "political",
+        "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "JJ Watt proves to be a solid replacement for Tony Romo as CBS’s No 1 analyst",
+        "url": "https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T00:33:44.000Z",
+        "category": "political",
+        "summary": "With the former Dallas Cowboys quarterback on leave after his arrest in July, CBS brought a dependable presence into the booth with Jim Nantz If you were looking for insight from the CBS team broadcasting Minnesota’s 39-22 comeback win over Green Bay on Sunday afternoon, you were rewarded even before the first snap. As",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Trump says $5K dividend checks to Americans will 'happen 100 percent'",
+        "url": "https://thehill.com/homenews/administration/6087307-trump-promises-5000-dividend-checks/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-14T00:27:32.000Z",
+        "category": "political",
+        "summary": "President Trump on Sunday said $5,000 dividend checks will \"happen 100 percent\" if the GOP maintains its majority in Congress after the midterm elections. The president compared the potential payouts to the $1,776 checks that went out to U.S. service members, telling reporters outside Air Force One on Sunday that he's ",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Election in Sweden Is Too Close to Call",
+        "url": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T23:40:56.000Z",
+        "category": "political",
+        "summary": "With most of the votes counted on Sunday, it was basically a tie between the center-left and center-right coalitions.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Pennsylvania woman dies from measles complications",
+        "url": "https://thehill.com/policy/healthcare/6087275-pennsylvania-third-measles-death/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T23:30:16.000Z",
+        "category": "political",
+        "summary": "The Jefferson County, Pa., Coroner's Office on Sunday said a 40-year-old woman died from complications with measles, the state's third measles-related death this year. Coroner Greg Furlong wrote on Facebook that the woman, a Jefferson County resident, died on Saturday. He added that his office was working with the Penn",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Missing US hiker, 70, found injured on remote island after week-long search",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/missing-isle-royale-hiker-70-years-old-found-rescued",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T23:12:29.000Z",
+        "category": "political",
+        "summary": "Craig Berg was hypothermic but alert when located on Isle Royale by Michigan police and officials during solo hike A 70-year-old hiker who had been missing for a week on a Michigan island was rescued on Saturday, according to the US Coast Guard. Craig Berg was located on Isle Royale with the help of backpackers, Michig",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Swedish election: centre-left parties lead by just a single seat with most votes counted",
+        "url": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T22:52:46.000Z",
+        "category": "political",
+        "summary": "Race too close to call and may take days to become clear despite early exit polls suggesting left bloc win With most of the votes counted, Sweden’s national election remained too close to call on Sunday night, with left-wing parties holding a lead of just a single seat according to a partial tally by the election autho",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Poll: Democratic voters driven by Trump opposition more than party platform",
+        "url": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T22:41:58.000Z",
+        "category": "political",
+        "summary": "A new poll shows that Democratic voters are more driven to cast their ballots in the November midterms elections out of their opposition to President Trump more so than the party's platform. The CBS News/YouGov poll released Sunday found that 54 percent of Democratic voters said they will vote for their Democratic cand",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Trump downplays calls for AI slowdown",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T22:32:39.000Z",
+        "category": "political",
+        "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "Alexander Zverev claims first US Open after four-set battle with Ben Shelton",
+        "url": "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T22:30:45.000Z",
+        "category": "political",
+        "summary": "No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton. He had been outserved and outplayed for nearly three hours, but at 6-5 in the third set, one game from defeat, the American finally broke through. He burs",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "US Open 2026 men’s final: Alexander Zverev beats Ben Shelton in four sets to claim title – as it happened",
+        "url": "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T22:27:39.000Z",
+        "category": "political",
+        "summary": "The top-seeded German secured his second grand slam title with a 6-3, 7-6 (2), 5-7, 6-2 win over the American in New York As at every US Open final, the Arthur Ashe Stadium crowd will be full of famous faces. For any eagle-eyed tennis/soccer fans wondering if Trinity Rodman will be in attendance (as she has for all of ",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "El-Sayed on Piker: Not interested 'in having a conversation about streamers in California'",
+        "url": "https://thehill.com/homenews/campaign/6087218-el-sayed-denies-piker-relevance/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T22:18:58.000Z",
+        "category": "political",
+        "summary": "Michigan Democratic Senate candidate Abdul El-Sayed on Sunday pushed back on questions about far-left streamer Hasan Piker, who he previously campaigned with. “There are Jewish voters in your state who are concerned about your relationship with Piker. You have condemned antisemitism but not called out his rhetoric dire",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Trump unloads on AOC, Mamdani for laughing during sacred 9/11 ceremony at Ground Zero",
+        "url": "https://www.foxnews.com/politics/trump-unloads-aoc-mamdani-laughing-during-sacred-9-11-ceremony-ground-zero",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T21:54:35.000Z",
+        "category": "political",
+        "summary": "President Donald Trump called the moment &quot;terrible&quot; after video showed AOC and Zohran Mamdani appearing to laugh during the Ground Zero ceremony.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "House Speaker Mike Johnson says Trump’s $5,000 ‘dividend’ needs congressional approval - WTOP News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVh1cHV6Ry1iaGJzdVBqY1hMNkhQc0Y3VjJvSVJRVVMybFFaTF84ZVo4N3B2OXgxLTM3T0QwaTJpS1hsc0hrcU1qZFJFUEJIT2UyX1lpVTRSY3FEdEhLOElHSWNMOEM1b1c3bXFiMDlrRlo5TENyMVM1MGtCS2FpcHBXc0JpaWstTGJCNnZhWG5rczM5MVVFTDZtQnpzN3JKT0ZkSUJsS3RRYkMtd0xlY1BmQ2c4NkFUaW1NbDZB?oc=5",
+        "source": "WTOP News",
+        "publishedAt": "2026-09-14T02:38:47.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3ZuVnd4TE54OXBybVA2NmZjdjM2TEdkQzYxLUIyWl9vb29WalpJamhQUE9OTnBOakRUOGNrUFZXdVMzekE1Z0cyVG0xYjFiUkVaajJqNDZ6WTBQV1pkOFZJamV1NjBSck5pQ0oxX2RHY29heVB5YzVXdnZTVE93ZkNBVVlwTURQcmJ1anYybHpQSW1vY2RpeVY2RHpaSERobjlrZ3RFYmRRWmtHbkdJ0gG0AUFVX3lxTFBEaldkaE1JX2pQWEFWa2M4NnZLSUFMTnEtaUJXVjBsNlF5Q2VnVnpfV0x2X3Y5OW5GNzFvaUxUWlhuSEpTU2xLNlFqVUdtSzhhdjFKQnM3M1c2TnJEeF9qMGtickdvcENGd1hOM3F1WTdRT3RrQ1pGRFg1U1p3R081cml6SFlFdG9DSVQ2NU1saWR1OUctSFZUUUlOdHZSQktCb01GNkxJVHJkbEJxNjRsbDUyZQ?oc=5",
+        "source": "Al Jazeera",
+        "publishedAt": "2026-09-14T00:47:23.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "US Domestic News Highlights: Politics and Personal Stories - Devdiscourse",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTFqcGpLLXBuNHVKQXdISGZ3a2FCbjFKR0ZpcXhYQnp3aDllT2wxQ05WVjhRT1AyMXZYLXRQMjRfOFo3Q1BLendEU3E5OXZtSHNLTFlwUVBzUUtjV1dDeFpfMWo5VnhMMlp6d1JKMFZYSWNTX083TWxMWlo0ZnV0cWRCaEU2d3c4WURYNUtyVmJIa0xmM2xrZjdwVkl2OFR0ejVUaktWc2lFUUpteTc0MNIBtgFBVV95cUxNR1hSeThmTlhsODdqdWlNejN4SXQtUVAzODVJMFhIZXNJOGhIRzNpZm9ncVdlN3RPQk8xSnJ1S1dKcS1zYkFxT1F0UFBRSUJxaHhwS05sWm8tMFk2Q010TW5XOWNIYkdOSHF4czlTMU93SkdLVXg1ckM5cEFMMm1Lc1pDdVNRcnVpOWtwZGNkbVlrdkJjdHNpSFNyMVZkLWFHaTdkbTZVbTdPel91dEdRWDg0TFFlUQ?oc=5",
+        "source": "Devdiscourse",
+        "publishedAt": "2026-09-13T23:51:33.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "The end times fascists are plotting their escape from our world. Our mission is clear | Naomi Klein and Astra Taylor - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3lHeEZZVk1jdi0za21SUVo3VUhiY0hxbkd2cEJ0NUZMUTVucmhvZG1vT0RrUlFwaFZYaXVhWHVpNjEtZ1JDVHJfQzRfc0thVnExNEtLY05xUHYyQldJVWZZV1JneDRCV3c0d052UWZIbXZOdGNTanJ2X1h0M2JpMHVIZ29COFJfRG1ESDdrRUk?oc=5",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T21:36:00.000Z",
+        "category": "political",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Deep-fried food banned under new school dinner rules in England",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T21:30:29.000Z",
+        "category": "political",
+        "summary": "The government describes its new school food standards as \"once-in-a-generation changes\".",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "'Culture shift' needed in how UK does business, PM urges",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T21:30:21.000Z",
+        "category": "political",
+        "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Charlie Kirk statue vandalized outside of TPUSA headquarters",
+        "url": "https://thehill.com/homenews/state-watch/6087103-charlie-kirk-statue-vandalized/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T21:28:58.000Z",
+        "category": "political",
+        "summary": "The Phoenix Police Department on Sunday said the statue of conservative activist Charlie Kirk — located outside of Turning Point USA's (TPUSA) headquarters in Phoenix, Ariz. — was vandalized days after the one-year anniversary of his death. Police told The Hill's sister network NewsNation that they received calls about",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "NFL roundup: Bears and Panthers set scoring record; Bills beat Texans in thriller",
+        "url": "https://www.theguardian.com/sport/2026/sep/13/nfl-roundup-sunday-football-scores",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T21:05:04.000Z",
+        "category": "political",
+        "summary": "Carolina and Chicago combine for 96 points Buffalo beat Houston thanks to late rally Caleb Williams threw for 269 yards and two touchdowns and ran for 65 yards and two more scores as the Chicago Bears defeated the Carolina Panthers in the highest-scoring season opener in NFL history. Chicago and Carolina scored eight m",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "First ministers of Wales, Scotland and Northern Ireland to meet in Cardiff",
+        "url": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T21:04:31.000Z",
+        "category": "political",
+        "summary": "The Plaid Cymru, SNP and Sinn Féin leaders will discuss ways they can work more closely.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "GOP gov candidate recounts miracle water landing as dispatch audio reveals desperate search for sinking plane",
+        "url": "https://www.foxnews.com/politics/gop-gov-candidate-recounts-miracle-water-landing-dispatch-audio-reveals-desperate-search-sinking-plane",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T21:00:22.000Z",
+        "category": "political",
+        "summary": "Dispatch audio captures the frantic search for Tom Tiffany after his plane lost power and plunged into Lake Wausau in darkness Saturday night.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "New Charlie Kirk statue vandalized at Turning Point USA headquarters",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/charlie-kirk-statue-vandalized-tpusa-arizona",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T20:51:48.000Z",
+        "category": "political",
+        "summary": "The 8ft statue, installed in Phoenix last week to mark one year since Kirk’s killing, was found painted red A newly unveiled statue of the rightwing activist Charlie Kirk was vandalized at the Turning Point USA headquarters in Phoenix, Arizona . The statue was found with red spray-paint. A nearby poster memorial in fro",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T20:49:16.000Z",
+        "category": "political",
+        "summary": "House Speaker Mike Johnson warned on Sunday of competitive risks from China, and Hakeem Jeffries, the minority leader, said Congress should start regulatory talks this week.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Rep. Tom Tiffany says he sustained minor injuries in emergency plane landing on lake - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXNMVEhJNFQteThLTXVZRkxJcTFxNTZzZzhIaU9hSGVhd0ZsZF9rWWV2RnViLTFVX05Lei1mN1d4c29KVURCaXk3clQ3UnB2MmVjRWV2TnNNZzV1MDh6ZDJqakdreG9IWGhzVzROeHRXMHZqc2pJZEZWdzhGYURoMEZLM0xpd1V1ek9uYXpWSC1NaFB4TnhTbjdSVWN4ZFZ6OUxVZkNnRmEtY3VkekhPWnZkSk1rdw?oc=5",
+        "source": "NBC News",
+        "publishedAt": "2026-09-13T20:20:02.000Z",
+        "category": "political",
+        "bias": {
+          "score": -20,
+          "label": "Lean Left",
+          "source": "NBC News"
+        }
+      },
+      {
+        "title": "Centcom commander 'not concerned at all' about munitions stockpiles",
+        "url": "https://thehill.com/policy/defense/6087006-centcom-commander-dismisses-munition-shortage/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T20:16:34.000Z",
+        "category": "political",
+        "summary": "Adm. Brad Cooper, the commander of U.S. Central Command (Centcom), said he is \"not concerned at all\" about the U.S.'s munitions inventories amid reports that the Pentagon has depleted its stockpiles to fight Iran. CBS News's \"Face the Nation\" aired part of Norah O'Donnell's interview with Cooper earlier on Sunday, wher",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "San Jose officer fired for misusing Flock camera database in domestic abuse case",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T20:05:22.000Z",
+        "category": "political",
+        "summary": "Police officer shared location of a woman with his relative who is accused of abusing woman A San Jose police officer was fired for using his department’s Flock license plate tracking system to share the location of a woman with the suspect accused of abusing her, Chief Paul Joseph told NBC Bay Area on Friday. The firi",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Trump says Lindsay Clancy case is a ‘state situation' following attorney's pardon plea",
+        "url": "https://www.foxnews.com/politics/trump-says-lindsay-clancy-case-state-situation-following-attorneys-pardon-plea",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T19:58:28.000Z",
+        "category": "political",
+        "summary": "President Donald Trump expressed sympathy for the family of Lindsay Clancy’s three children while signaling that he would not intervene in the former nurse’s state murder case.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "This Week on The Hill: Congress returns to a packed agenda",
+        "url": "https://thehill.com/newsletters/this-week-on-the-hill/6086967-senate-budget-resolution-crypto-farm-bill/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T19:57:28.000Z",
+        "category": "political",
+        "summary": "The Senate returns this week to a packed agenda, with lawmakers facing a trio of unfinished priorities: crypto legislation, the farm bill and the budget resolution that Republicans need to unlock a third reconciliation package. The biggest question hanging over the chamber is whether Republicans can get on the same pag",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Maine’s lobster industry finds itself squeezed on all sides amid Canada trade war",
+        "url": "https://thehill.com/homenews/state-watch/6085057-maine-lobster-industry-pressures/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T19:54:03.000Z",
+        "category": "political",
+        "summary": "STONINGTON, MAINE — The Maine lobster business has found itself in the crosshairs of a trade war and congressional infighting as rising costs and other pressures leave the heritage industry in a precarious state. The war with Iran has sent diesel fuel prices soaring at a time when warming waters mean lobstermen are tra",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Dem rep urges Johnson: 'Bring us back to Congress' to discuss AI",
+        "url": "https://thehill.com/policy/technology/6087028-democrats-urge-congress-ai-safety/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T19:49:35.000Z",
+        "category": "political",
+        "summary": "Democratic Rep. Greg Stanton (Ariz.) said Sunday that Speaker Mike Johnson (R-La.) should keep lawmakers in session to address the risks of rapidly advancing artificial intelligence models. “We should take the warnings of the leading investigators of AI very, very seriously,” Stanton told host Chris Stirewalt on NewsNa",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "GOP rep on AI: 'Let's get on top of it'",
+        "url": "https://thehill.com/policy/technology/6086989-flood-calls-ai-safeguards/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T19:24:32.000Z",
+        "category": "political",
+        "summary": "GOP Rep. Mike Flood (Neb.) said Sunday the federal government should implement artificial intelligence safeguards to prevent the technology from falling into the wrong hands. During an interview on NewsNation’s “The Hill Sunday,” Flood said the leaders of top AI companies should be “answering questions” on the safety o",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "US schools and police warn about viral ‘Cat in the Hat’ trend after teens’ arrests",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T19:15:57.000Z",
+        "category": "political",
+        "summary": "Disturbing and AI-generated versions of Dr Seuss character have been used to threaten schools and communities Schools and law enforcement authorities in the US are issuing warnings against a viral “Cat in the Hat” social media trend in which disturbing or AI-generated versions of the Dr Seuss character are used to thre",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "JD Vance’s Catholicism could be at odds with Maga evangelicals in 2028",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/jd-vance-religion-catholic-evangelical-maga",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T18:56:09.000Z",
+        "category": "political",
+        "summary": "Vice-president wears religion on his sleeve but winding spiritual path could alienate evangelicals and Catholics US vice-president JD Vance has worn his religion on his sleeve since converting to Catholicism in 2019. He recently published a book, Communion: Finding My Way Back to Faith, and memorably met the late Pope ",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Lawler deflects on supporting Trump's $5K dividend pledge: 'How do you pay for it?'",
+        "url": "https://thehill.com/homenews/house/6086944-lawler-questions-trump-dividend/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T18:50:47.000Z",
+        "category": "political",
+        "summary": "Rep. Mike Lawler (R-N.Y.) on Sunday joined multiple Republican lawmakers in questioning the fiscal sense of President Trump’s proposal to send $5,000 to every American adult. During an interview on ABC’s “This Week,” Lawler initially avoided the question of whether he supported Trump’s proposed dividend. “I support put",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Will record donations to Reform go down as a moment of political change?",
+        "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T17:51:19.000Z",
+        "category": "political",
+        "summary": "Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Pennsylvania reports apparent third measles-related death amid outbreak",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T17:46:12.000Z",
+        "category": "political",
+        "summary": "Jefferson county coroner says 40-year-old woman died on Saturday, while two infants died with disease in August A coroner in Pennsylvania announced the death of a 40-year-old woman associated with the state’s ongoing measles outbreak. The death appears to mark the third in the US state’s ongoing outbreak. Two previous ",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T17:45:33.000Z",
+        "category": "political",
+        "summary": "Wisconsin Congressman Tom Tiffany escaped a sinking plane and swam to shallow water after an emergency landing in a lake. Tiffany and the pilot called 911 from on top of the plane.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T16:37:49.000Z",
+        "category": "political",
+        "summary": "During a private fund-raiser, the former president warned that the technology could be “dangerous” if not managed urgently and with a clear plan.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Four dead in Louisiana stabbing spree as police arrest person of interest",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/louisiana-stabbing-spree-deaths",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T16:34:35.000Z",
+        "category": "political",
+        "summary": "Kaegan Jude Solet, 47, taken into custody after stabbings in Houma leave four dead and one wounded, authorities say Police arrested a person of interest after a series of stabbings in Houma, Louisiana, left at least four people dead and another person in critical condition in hospital. The Terrebonne parish sheriff’s o",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Election chaos in this red state just got even stranger for Republicans after Supreme Court ruling",
+        "url": "https://www.foxnews.com/politics/election-chaos-red-state-stranger-republicans-supreme-court-ruling",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T16:34:12.000Z",
+        "category": "political",
+        "summary": "The Supreme Court blocked Missouri&apos;s new congressional map, forcing the state to use 2022 boundaries that favor Emanuel Cleaver&apos;s Kansas City district.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Wisconsin congressman swims to safety after plane makes emergency landing in lake",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/wisconsin-congressman-plane-emergency-landing-lake",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T16:04:49.000Z",
+        "category": "political",
+        "summary": "Republican gubernatorial candidate Tom Tiffany and pilot swim to safety after plane made emergency landing in lake A Republican congressman said he had to swim to safety after a plane he was traveling in made an emergency landing in a lake late Saturday. Representative Tom Tiffany says he was returning from the La Cros",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget - reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk?oc=5",
+        "source": "reuters.com",
+        "publishedAt": "2026-09-13T15:57:00.000Z",
+        "category": "political",
+        "bias": {
+          "score": 0,
+          "label": "Center",
+          "source": "reuters.com"
+        }
+      },
+      {
+        "title": "Obama reportedly urges Democrats to prioritize safety plan for AI",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/obama-democrats-ai-safety",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T15:47:37.000Z",
+        "category": "political",
+        "summary": "Ex-president urged party at closed-door fundraiser to create sweeping framework, from safety ‘slow-down’ to job losses Barack Obama urged Democrats to prioritize a “public conversation” about AI management and safety in a closed-door Manhattan fundraiser last week. The comments by the former US president reportedly urg",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T15:40:38.000Z",
+        "category": "political",
+        "summary": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Angie Nixon, Candidate for Senate, Takes Florida by Storm",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T15:27:53.000Z",
+        "category": "political",
+        "summary": "The Democratic nominee for Senate faces strong headwinds in a decidedly Republican-leaning state. She has been a fighter, and an underdog, for years.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Kamala Harris’s California home targeted by trespasser, officials say",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/kamala-harris-malibu-home-trespasser",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T15:08:58.000Z",
+        "category": "political",
+        "summary": "Former vice-president and her husband were not home when person entered their property, no arrests were made Law enforcement officials and a spokesperson for former vice-president Kamala Harris said a trespasser was stopped at her Malibu home in California on Friday night. Neither the former vice-president nor her husb",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Trump reiterates $5,000 ‘dividend’ pledge if Republicans win midterms",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T15:07:23.000Z",
+        "category": "political",
+        "summary": "Plan to give US adults $5,000 has been greeted with incredulity across the political spectrum as well as outrage Donald Trump on Sunday doubled down on his controversial pledge to give US adults a $5,000 “dividend” if his Republican ⁠party keeps control of Congress after November’s midterm elections. The plan has been ",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "How Candidates Have Addressed Affordability in the Midterm Campaigns",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T14:49:29.000Z",
+        "category": "political",
+        "summary": "Inflation and the cost of living have been the biggest drivers of campaigns this year, but the broad term “affordability” breaks down into specific issues, from housing to health care.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Trump gives Smithsonian days to replace 'strange modernist sculpture' with Founding Father",
+        "url": "https://www.foxnews.com/politics/trump-gives-smithsonian-days-replace-strange-modernist-sculpture-founding-father",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T14:05:04.000Z",
+        "category": "political",
+        "summary": "President Donald Trump demands a 30-foot George Washington statue replace the &quot;Infinity&quot; sculpture outside the National Museum of American History in Washington.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Tom Tiffany, Wisconsin Representative, Sustains Minor Injuries After Plane Lands in Lake",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/tom-tiffany-wisconsin-lake-wausau-plane-crash.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T13:53:05.000Z",
+        "category": "political",
+        "summary": "Representative Tom Tiffany, the Republican nominee for governor, said he and the pilot swam to safety after an emergency landing on Lake Wausau.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T13:52:37.000Z",
+        "category": "political",
+        "summary": "Mr. Paxton, the Texas attorney general now running for the U.S. Senate, was accused of abusing the power of his office to protect a campaign donor. He was acquitted on all counts.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T13:37:48.000Z",
+        "category": "political",
+        "summary": "President Trump has been at the forefront of the “what-me-worry?” crowd, refusing to engage on how to balance the risks and rewards of A.I.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Naomi Klein and Astra Taylor: the future according to end times fascism – video",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/naomi-klein-astra-taylor-end-times-fascism-video",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T13:00:03.000Z",
+        "category": "political",
+        "summary": "In a new video, Klein and Taylor outline a ominous evolution taking shape on the far right – and how to stay loyal to this planet and each other Featured essay: The end times fascists are plotting their escape from our world. Our mission is clear An ominous evolution is under way on the far right. It is a dangerous shi",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T12:04:27.000Z",
+        "category": "political",
+        "summary": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "The Social Security trust fund is running out. Why is it not a top campaign issue?",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5898447-e1/the-social-security-trust-fund-is-running-out-why-is-it-not-a-top-campaign-issue",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T12:04:25.000Z",
+        "category": "political",
+        "summary": "Limited public discussion of the trust fund's shortfall has experts worried that most Americans don't fully understand the problems Social Security faces — or weigh in on solutions.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      }
+    ],
+    "economic": [
+      {
+        "title": "Amazon pauses work with cargo firm after fatal crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-14T02:40:06.000Z",
+        "category": "economic",
+        "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "One Nation vows to cut migration by 750,000 amid warnings move would damage economy",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/14/one-nation-new-migration-plan-cut-750000-aged-care-impact-ntwnfb",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T02:25:17.000Z",
+        "category": "economic",
+        "summary": "New immigration policy has attracted bipartisan condemnation, with Labor warning it would damage construction, healthcare and agriculture Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast One Nation says it will cut the number of temporary migrants in Au",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "How to protect your laptop, phone and bike from thieves at uni",
+        "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T23:39:32.000Z",
+        "category": "economic",
+        "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Gloomy forecast for tenants as rent rises set to speed up",
+        "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T23:05:45.000Z",
+        "category": "economic",
+        "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+        "url": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T23:02:26.000Z",
+        "category": "economic",
+        "summary": "President Trump’s decision, announced while visiting his golf course in Ireland, was the latest shift in his trade policies.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Oil Prices Jump on Energy Supply Worries",
+        "url": "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T22:29:36.000Z",
+        "category": "economic",
+        "summary": "Oil prices jumped and stock futures fell slightly on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Wall Street Week Ahead: Markets brace for Federal Reserve rate decision - IndiaIPO",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlNOdTNfcmtQandSYmcyZERUeWpoVmQ3ekFlZkZrcWRDbmFPbERWQnRnZEI5R1NrdUtoLWdyMXBDSmpmTDdqQWVnaWlNM0sxVko0V3l3TFdOWWhnenM5ZEVpZ24taXdoZnZBOWI3bFZRdnktSFJxUXo2THlzUUw4U01jT2pma3hVYm0wTXhNWmdOUmV6aDhueVNRaURyMVFFLVFFczNvQjZYZw?oc=5",
+        "source": "IndiaIPO",
+        "publishedAt": "2026-09-13T22:43:16.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Trump says he plans to lift tariffs on Irish whiskey",
+        "url": "https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T21:05:47.000Z",
+        "category": "economic",
+        "summary": "President Trump said Sunday that he plans to lift tariffs on Irish whiskey, an announcement he made while visiting the Emerald Isle. “Ireland itself has been so incredible, so inviting, and we're very honored by presenting you with a great course. It's been great,” the president said while speaking at a ceremony for th",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
+        "url": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T20:23:47.000Z",
+        "category": "economic",
+        "summary": "As alarm from the highest echelons of A.I. companies mounts, Buckingham Palace said the king would meet with executives to explore how the technology can be used for good.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Trump says he’ll remove tariffs on Irish whiskey - CNN",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9STERPSEVrc3h4UVNaNTFJeE5MM2xRQlkyMkVPNWY1ekdrMHAtdndneHRsWlJwSl9ZTUhYcDFPbHhsOEJEUENxdE1hemFRTHNDT3BXQ2VUd0xDakQ5LXBqcUJma0l4SG8tLTQxaEc1MnNPamtSWWU3SUEtTlA?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-09-13T19:37:49.000Z",
+        "category": "economic",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T19:34:36.000Z",
+        "category": "economic",
+        "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate - reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5",
+        "source": "reuters.com",
+        "publishedAt": "2026-09-13T18:14:00.000Z",
+        "category": "economic",
+        "bias": {
+          "score": 0,
+          "label": "Center",
+          "source": "reuters.com"
+        }
+      },
+      {
+        "title": "Self-Employed Workers Find Rewards — and Challenges — Building Their Own Businesses",
+        "url": "https://www.nytimes.com/2026/09/13/business/self-employed-health-care-retirement.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T17:30:43.000Z",
+        "category": "economic",
+        "summary": "Workers who forgo the traditional career path find there are rewards — and challenges — to going out on their own.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
+        "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T16:54:58.000Z",
+        "category": "economic",
+        "summary": "From the Trump administration to AI experts, plans by the Anthropic boss to boost safety have spawned a largely negative response OpenAI boss and Elon Musk back slowdown on ‘reckless’ AI development Editorial: controlling AI – humanity cannot outsource its survival The safety debate that ignited when whistleblowers las",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T14:53:40.000Z",
+        "category": "economic",
+        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
+        "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T14:02:24.000Z",
+        "category": "economic",
+        "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
+        "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T12:33:16.000Z",
+        "category": "economic",
+        "summary": "Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economies Economics viewpoint: perilous UK economic conditions trace back to Trump Central bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation rais",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "A new tax incentive could lead to more films being made in the U.S. rather than abroad",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5962169/a-new-tax-incentive-could-lead-to-more-films-being-made-in-the-u-s-rather-than-abroad",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T12:04:25.000Z",
+        "category": "economic",
+        "summary": "President Trump and Congress are weighing in on potential federal tax incentives for film production. It's hoped the tax credit would keep production of films and TV in the U.S. rather than overseas.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "‘Trump accounts’ promise to mint child millionaires. Experts have their doubts",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/donald-trump-accounts-child-investment-wealth",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T11:00:05.000Z",
+        "category": "economic",
+        "summary": "President has hyped growth of federal investment accounts to help US children – for his own political gain Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to cut funding for the nation’s public schools . But with midterm elections fast approaching and h",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+        "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T10:48:04.000Z",
+        "category": "economic",
+        "summary": "Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit but rejoining union could be ‘quite simple’ The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery. Osborne, who w",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Sweden votes as migration, crime and economy dominate high-stakes election",
+        "url": "https://www.foxnews.com/world/sweden-votes-migration-crime-economy-dominate-high-stakes-election",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T10:00:32.000Z",
+        "category": "economic",
+        "summary": "Gun violence, asylum policy and welfare reform dominate Sweden&apos;s election as Ulf Kristersson&apos;s coalition battles Magdalena Andersson&apos;s Social Democrats.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T09:05:10.000Z",
+        "category": "economic",
+        "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Inside the $440 Million Collapse of Guidepost Montessori",
+        "url": "https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:03:31.000Z",
+        "category": "economic",
+        "summary": "A man with a vision set out to revolutionize preschool. It became a $440 million fiasco.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "What to Expect at the 2026 Emmy Awards",
+        "url": "https://www.nytimes.com/2026/09/13/business/media/emmys-what-to-expect.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:03:30.000Z",
+        "category": "economic",
+        "summary": "“The Pitt” could make history at Monday night’s celebration of the best in TV, while “Widow’s Bay” and “Hacks” battle it out in the best comedy race.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Every Word My Employee Writes Reeks of A.I.",
+        "url": "https://www.nytimes.com/2026/09/13/business/employee-ai-use.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:03:20.000Z",
+        "category": "economic",
+        "summary": "Plus: How to stop office talk about a colleague’s cancer diagnosis before it starts.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
+        "url": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:02:31.000Z",
+        "category": "economic",
+        "summary": "A 50 percent U.S. tariff on Canadian steel is crippling a major Ontario mill, driving mass layoffs and rupturing a century of cross-border life with Michigan.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "They Built a Shrine to Cable TV. Then Everyone Cut the Cord.",
+        "url": "https://www.nytimes.com/2026/09/13/business/media/cable-television-cable-center-museum.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T09:00:51.000Z",
+        "category": "economic",
+        "summary": "They set out to celebrate the power and prestige of an industry that spanned MTV, HBO and Nickelodeon. Now, as cable’s fortunes have waned, the institution is changing, too.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "'It's cost upon cost for working families - they get no help'",
+        "url": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T06:09:16.000Z",
+        "category": "economic",
+        "summary": "The government needs to do more to support working families, a charity in Rotherham says.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Oil prices create 'huge worry' as winter looms",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T06:01:53.000Z",
+        "category": "economic",
+        "summary": "The warning comes after the US-Iran conflict drives up heating oil and fuel costs.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Ending rough sleeping is 'not just a housing issue'",
+        "url": "https://www.bbc.co.uk/news/articles/ckg7qyl1yk9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T05:14:15.000Z",
+        "category": "economic",
+        "summary": "Andy Burnham wants to get people \"in from the cold\" by Christmas, but the scale of the task is huge.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Trump Sparks Controversy Over Federal Reserve Rate Decisions - Devdiscourse",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1dVNGdYVkczbmlUM0Z1X0FudUtQUXVZUGZDbW9DcmYwRHNvX2ZIU1JUcWhVNjUtWFNUbnZGNVpybExlbDFkeHMyb1R5aGtSOGxLX1lfOGxXTGZiRXVTWm5TZFFMRm1rczBsREN4RU1OLTNGQm96NHoyZjBiLXh3UkNUMlZuT054X2w1NHFtbkdMemVNdGRMcHRma3FRczFaZkstNTZGVmxPQ0RnbjVPZkZrRnXSAboBQVVfeXFMTW0xMHFfdG9qanlGd1pIZ2hZTkg1Q2d3UmVUQzc1clpNS0diVm5TXzlKN3VuOVY0NWlkN1hzYy01c1F5V29ZRURrbFJGZjI2NmFZczNscWtEdTJQTzdhWktna3RJNGFQN29JaU1jVmxuTHByWG5kaWlrOUlZa0l1NGNzVzZ4ZHRLZHZzaE9VVUM5amVmUWdvdTdiMk9TZ1d0MUhqNy1Fa2RLV3hJTE92NkdTRHBCRHNLamJn?oc=5",
+        "source": "Devdiscourse",
+        "publishedAt": "2026-09-13T21:32:46.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Fed Rate Fight: Trump Pushes for Lower Rates as U.S. Farmers Watch Credit Costs - AgroLatam",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWFLTlhJTE1sTVdfWkJWRDVaOFpIc0Nwb29DQjdEVG1lUTE5NnNZTTVJTlU4SzJhYUZFLUZqMjBnV1RhZXZPdWk2YXV1blA3SWJicWc4N3VXdTEyRFhkM3ZjT2kzVFRCYm1aampZT0wzMUgySGhuUXVDUTJwMXZSQzNILVgtR1pp?oc=5",
+        "source": "AgroLatam",
+        "publishedAt": "2026-09-13T20:33:30.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Brij Khurana: What Low Interest Rates Hath Wrought - Commonplace | Substack",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBaGlfOVd1aDl4U01xWWNESVhZSUl1eEltR0hiMGdVN0k3NFh4TEhpVk1aMGU4aE8wYkxTOTBSNkxsZGtaSGJONXFVZTFYRl9vYU1acTduaG83UjJTZmRraUpXLUNzZE5DclNuOC1kZGl4RXpE?oc=5",
+        "source": "Commonplace | Substack",
+        "publishedAt": "2026-09-13T20:25:30.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Trump says he plans to remove a 10% tariff on Irish whiskey - WTOP News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2ZlR1lpaC1ydG94QTJtQ2NIQ3h2cEVpeVVMaEszTDJJV3BFOFNvZzhPMkxwYzhUQ0diOXkzNGtCOVdmUkk5NjdobDd0bm8wQWoyZVlZMHdpbm5wbl9tWW1jQkZyeTFzZHExWjZVNFpGTTdJVU41OHA5QWxkRy00T2JaeklwX3Fkb3dZUTNPYlVoYVhISTRDMU5ibzA?oc=5",
+        "source": "WTOP News",
+        "publishedAt": "2026-09-13T20:02:23.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Will the U.S. midterm results affect Trump's tariffs on Canada? Democrats think yes - CBC",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcVNQRHdHdVFpak0tYkFVdGd6aTk0cjdnXzFLZ212cUZ0RkpNeGdHRWVjcHdUMk04VEVaSHFlQVBPZ1dLeDM2VlNQOGlTOS03eURuTUdtc2JjdExyRDZ3OVByNzZ5bGtmVzdsNjgxZ2dhWnBuM3diSWdhS0w3TnpNcnVCNmxEWWRRQXVTMm9CRG8?oc=5",
+        "source": "CBC",
+        "publishedAt": "2026-09-13T16:38:00.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "'This is the test': All eyes on US Fed to tackle high inflation - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRE1HMlREeXlNUTd6VEc3NFBPMU5jUzBjSExodnVfdEkwWkZEdGp2bnpPQU5zTF8yelNPUm16UVNVNUFZZlV2QVJYZ1NLWVNqOThpUG03U29SYUVlamYwd1NGSTRvVVJybEZ5M09pM1FabG1hdHN3czU4T24zdXFGaGxfSnR4Rk5UTkdvSG5DbDJvdw?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-13T14:52:35.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Economics Needs a New Approach to Inflation - Jacobin",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BS0JtRWFWWFQ2UjRQTjd0aVQtaFYzZDUyRGhTc3AxQklEZ1pHYkp0N00wckw1OVA3ZjN6NWdzSmtraDYwWW1WeUVsclhMVTNWN3RraDI3NEZ0Ukw3endUZm5RclI4aWRRWlR6SlpwU0pBZG81NG45ZnlVWDJSNVk?oc=5",
+        "source": "Jacobin",
+        "publishedAt": "2026-09-13T13:14:04.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "The Week Ahead: September FOMC Rate Decision and Dot Plot Ahead, Trip.com and Lennar Earnings in Focus - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWVScUJ2cFh5Y1NEQ1lxR2FOSDNlbTJsYkdXaFZWRmMyTU1PUk5UTVFDX1hNMTR4LVRiRzQ1QkhKT1lGWlNIcTNkcFdzOTFNRHRBN21GNC12cEZTdWl5TGJnV1NVZHhqUGlkWHV5OE9zWXUzYmxDWEc1UFFGR0phOTJfXzY3ZW1heU45VUZoVnRXN3RBN2dtOWhYeHlhWDJQYzdDRy1FMEdXMTQwZVkxeTVZWlF4a0dQT2EtTXNxY0xzN0VXUlgwcmttQ0xkQVk?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-09-13T12:23:46.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Why The Fed Is Likely To Raise Rates This Week - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWRQRGtCSEd3amJzUVFKOHdPc1lVeWhkeTVOc1VPSUhvbDhydFVWRDVpS1poTmdXa3ZWU1Zwa2JWSkZWT3o5bWlWdHZDR0JFOGJicFV3eThYeGp1RUZiYXpITFRvc1dhVVZjbHR0ZjB6R09ZeVRhRlNzSWZ5dERJR0dXZHp3NmFLVDBSQ2xONDVGU2phTTJkbk54N2JMa0E?oc=5",
+        "source": "Forbes",
+        "publishedAt": "2026-09-13T11:00:00.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "All eyes on US Fed chair Warsh as rate-hike fever spreads across G7 central banks - The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHhTMUc4WTMwai1ZNzA0c1VGVzF5RkN6VVI2X2RnX0xvTHE4Rk93eGZzRzlhNGZlU2hVR3A3dms3MjNkUTBkVkRveG8wVE9sRG01TjM5RmpCVU5TVVZnRlV6eTdMWjlKbENEZ3VwRkI4cjNDZnQ4dHJxN1NUWFFkWm9POXBOTjVObGMwdGhhbURMclgzaHM1QUU0aVNDcHIzYUZjTXRDek1vem9wWTFHaWl6aHFyejlySVN5SGQ0ZE4zTHloaGhtWg?oc=5",
+        "source": "The Business Times",
+        "publishedAt": "2026-09-13T08:12:00.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-12T21:16:47.000Z",
+        "category": "economic",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "How to Lure the Spendy and the Thrifty? Bring On the ‘Barbell.’",
+        "url": "https://www.nytimes.com/2026/09/12/business/barbell-pricing-restaurants.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T20:58:15.000Z",
+        "category": "economic",
+        "summary": "Restaurant chains are trying to draw in both kinds of consumers by offering low-cost and more-premium options at the same time.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Iceland to open first store in the Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-12T20:50:54.000Z",
+        "category": "economic",
+        "summary": "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+        "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-12T20:37:29.000Z",
+        "category": "economic",
+        "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T18:58:00.000Z",
+        "category": "economic",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+        "url": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T18:55:20.000Z",
+        "category": "economic",
+        "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "How The Times Covers ‘60 Minutes’ and Other Journalists",
+        "url": "https://www.nytimes.com/2026/09/12/insider/60-minutes-former-nyt-colleagues-media.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T18:00:15.000Z",
+        "category": "economic",
+        "summary": "Journalists don’t want to become the story. But newsrooms — and the people who run them — are the story for Times media reporters.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Risks for Clicks: Why Online Influencers Push Shock Content",
+        "url": "https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T17:19:11.000Z",
+        "category": "economic",
+        "summary": "A growing number of social media creators are pushing the boundaries of safety and good taste to feed algorithms and win followers.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "After the I.P.O., a Billion-Dollar Bill for Employee Paydays",
+        "url": "https://www.nytimes.com/2026/09/12/business/dealbook/double-trigger-rsus.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T12:00:03.000Z",
+        "category": "economic",
+        "summary": "A compensation strategy at start-ups keeps expenses low until they go public. At that point, the companies may face billions of dollars in catch-up expenses.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "‘There’s a weird market failure in media’: David Brooks on how his new podcast will tackle the big questions",
+        "url": "https://www.theguardian.com/media/2026/sep/12/david-brooks-podcast-permanent-questions",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-12T11:00:33.000Z",
+        "category": "economic",
+        "summary": "The former New York Times columnist is taking a step away from politics to focus on moral and humanistic concerns the media rarely cover David Brooks knows there are plenty of podcasts out there. But as the veteran commentator prepares to launch his own, he believes there is still space for someone to tackle the big mo",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Tensions simmer on US-Canada border for two towns relying on each other",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-12T10:00:31.000Z",
+        "category": "economic",
+        "summary": "Canadians ‘angry’ at Trump for suggesting Canada should become 51st state, says mayor, as US businesses see sales fall amid trade war Like many Canadians, Tom Reid isn’t crossing the US-Canada border as often these days. But he needed a haircut. The woman who cuts his hair lives in International Falls, Minnesota – her ",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Inflation Complicates Trump’s Midterms Pitch to Voters",
+        "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T09:04:05.000Z",
+        "category": "economic",
+        "summary": "Gas prices are high, mortgage rates are climbing and inflation remains well above target, complicating the president’s midterm appeal.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Want to Entice New Residents? Offer Cash, for a Start.",
+        "url": "https://www.nytimes.com/2026/09/12/business/economy/rural-america-moving-incentives.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T09:02:22.000Z",
+        "category": "economic",
+        "summary": "Relocation incentives have a mixed record of helping cities and towns stand out as people return to rural America.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+        "url": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+        "source": "NPR",
+        "publishedAt": "2026-09-12T09:00:00.000Z",
+        "category": "economic",
+        "summary": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "India Wants to Buy Fewer Chinese Imports, but Keeps Needing More",
+        "url": "https://www.nytimes.com/2026/09/12/business/india-china-trade.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T04:01:15.000Z",
+        "category": "economic",
+        "summary": "Trade between India and China has nearly doubled in five years, leaving New Delhi with a widening deficit and a difficult choice over how to build its industrial future.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+        "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-12T01:25:46.000Z",
+        "category": "economic",
+        "summary": "The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
+        "url": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-11T22:51:56.000Z",
+        "category": "economic",
+        "summary": "The news briefly pushed the price of oil to $110 a barrel over heightened fears of widening clashes in the Middle East.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "How to Make Sense of Mayhem in the Bond Market",
+        "url": "https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-11T21:33:56.000Z",
+        "category": "economic",
+        "summary": "The stock market is easy to talk about. But bonds are a different story. Our columnist has some pointers to help make you a bond maven.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Court Strikes Down Trump Order to Keep an Aging Coal-Burning Plant Running",
+        "url": "https://www.nytimes.com/2026/09/11/climate/coal-plant-michigan-court.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-11T20:35:25.000Z",
+        "category": "economic",
+        "summary": "The 64-year-old Michigan power plant was set to retire. Then the Trump administration intervened in a way that overstepped its authority, a court ruled.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "The U.S. Open Has Been Quietly Releasing Tickets for Its Popular Tournament",
+        "url": "https://www.nytimes.com/2026/09/10/business/us-open-tennis-tickets.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-11T19:34:09.000Z",
+        "category": "economic",
+        "summary": "On Wednesday, hundreds appeared on Ticketmaster. The United States Tennis Association said it periodically released tickets it held for a variety of reasons.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      }
+    ],
+    "geopolitical": [
+      {
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-14T03:38:13.000Z",
+        "category": "geopolitical",
+        "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Politics live: petrol prices set to rise ‘even higher’; Labor’s private health reform for over-65s condemned as ‘lazy’",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T03:33:49.000Z",
+        "category": "geopolitical",
+        "summary": "Follow the day’s news live Get our new political email , free app or daily news podcast Hanson’s comments on Albanese’s mother ‘gratuitous and unnecessary’: Hume Jane Hume has joined the pile on, blasting Pauline Hanson for her comments about Anthony Albanese’s mother. I think that these comments were gratuitous and un",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Alan Jones told prominent athlete ‘I would like to be kissing you all night’ after alleged assault, trial hears",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/14/alan-jones-trial-athlete-witness-ntwnfb",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T03:05:55.000Z",
+        "category": "geopolitical",
+        "summary": "Alleged victim tells court he froze and was ‘in disbelief’ after broadcaster kissed him on corner of his lips at public event A prominent athlete froze and was “shocked and embarrassed” when Alan Jones kissed him on the side of his mouth at a public event, the broadcaster’s trial at Sydney’s Downing Centre has heard. T",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Peptide user tore oesophagus after using counterfeit product, Australian regulator warns",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/14/counterfeit-retratrutide-warning-peptide-torn-oesophagus-australia-tga",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T02:41:49.000Z",
+        "category": "geopolitical",
+        "summary": "TGA issues alert after person was hospitalised after believing they were taking experimental weight loss drug retatrutide Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A patient who tore their oesophagus after taking a counterfeit version of an exper",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Trump says China 'spies' on US after report ties Chinese imagery to Iran strike",
+        "url": "https://www.foxnews.com/politics/trump-says-china-spies-us-report-ties-chinese-imagery-iran-strike",
+        "source": "Fox News",
+        "publishedAt": "2026-09-14T02:27:41.000Z",
+        "category": "geopolitical",
+        "summary": "The president said the U.S. spies on China &quot;too&quot; after a report linked Chinese satellite imagery to Iran&apos;s deadly July missile attack on American troops.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Why Carney Isn’t Rushing Back to the Negotiating Table",
+        "url": "https://www.nytimes.com/2026/09/12/world/canada/us-canada-trade-war-carney-trump.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-14T01:54:31.000Z",
+        "category": "geopolitical",
+        "summary": "Canadians back his tough stance on trade with the U.S. An expert says that support gives him little incentive to reopen talks soon.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Air Force colonel recounts how he survived after F-15E jet was shot down over Iran",
+        "url": "https://thehill.com/policy/defense/6087347-usaf-colonel-survives-iran-crash/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-14T01:43:48.000Z",
+        "category": "geopolitical",
+        "summary": "A U.S. Air Force colonel recounted his story of survival after his F-15E fighter jet was shot down over Iran in April, in the early months of the U.S.-Israeli conflict with Iran. The colonel spoke with \"60 Minutes\" on CBS News about the incident and was referred to by the outlet as Bravo, his mission...",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Okinawa Elects a Conservative Amid Fears About China and the Economy",
+        "url": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-14T01:39:55.000Z",
+        "category": "geopolitical",
+        "summary": "Genta Koja will become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
+        "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T00:54:05.000Z",
+        "category": "geopolitical",
+        "summary": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA ,",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Motorcyclist’s death reignites debate over potholes on Victoria’s ‘deteriorating’ roads",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/14/motorcyclist-dies-pothole-trawalla-ballarat-victoria-roads",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-14T00:44:34.000Z",
+        "category": "geopolitical",
+        "summary": "Coalition says potholes must be fixed ‘as a matter of urgency’ after 71-year-old crashed and died on Western Highway at Trawalla, west of Ballarat, on Sunday Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Emergency services were called to Trawalla, we",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Centre-left bloc leads Swedish elections – as it happened",
+        "url": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T23:50:44.000Z",
+        "category": "geopolitical",
+        "summary": "This live blog has now closed – you can read the latest news story here If you’re looking just for a single story to quickly catch up on the story of tonight, let’s cross to our Nordic correspondent, Miranda Bryant , for her preview. The prospect of far-right anti-immigration Sweden Democrats entering the government ha",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+        "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T23:48:50.000Z",
+        "category": "geopolitical",
+        "summary": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Hidden history of royal staff uncovered in Buckingham Palace restoration",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/14/hidden-history-buckingham-palace-staff-restoration",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T23:01:15.000Z",
+        "category": "geopolitical",
+        "summary": "Whist drive ticket embedded in rock and news article on Great Train Robbers among items discovered during 10-year restoration Lost or long-discarded items revealing glimpses of the behind-the-scenes life of Buckingham Palace staff over decades have been uncovered during the restoration of the UK monarchy’s HQ. Misplace",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
+        "url": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T22:52:42.000Z",
+        "category": "geopolitical",
+        "summary": "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they&apos;ve entered a vulnerable U.S. Navy kill box.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "‘Sweat the asset’: new development minister plots path to make UK aid count",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/sweat-the-asset-new-development-minister-plots-path-to-make-uk-aid-count",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T21:30:14.000Z",
+        "category": "geopolitical",
+        "summary": "Kirsty McNeill reaffirms Labour’s 0.7% of GDP pledge and promises value for money to allay voter concerns The development minister, Kirsty McNeill, has declared herself “a huge believer in aid”, as she reaffirmed Labour’s manifesto pledge to return to a target of 0.7% of national income spending. McNeill, a former advi",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T21:30:13.000Z",
+        "category": "geopolitical",
+        "summary": "Prime minister vows to ‘reindustrialise Britain’ through new partnership with business The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to pitch his government as a “partner for growth” that can offer a stable platform for investment and jobs in the UK. Ahead of",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Donald Trump doubles down on support for united Ireland",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T21:09:01.000Z",
+        "category": "geopolitical",
+        "summary": "US president brushes off Andy Burnham’s opposition to referendum and says he will remove Irish whiskey tariff Donald Trump has reiterated his support for Irish unification and brushed off Andy Burnham’s opposition to a referendum. “Everybody says that. Then things happen,” the US president said on Sunday of the British",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T21:03:15.000Z",
+        "category": "geopolitical",
+        "summary": "India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T21:03:12.000Z",
+        "category": "geopolitical",
+        "summary": "Dania Thafer of the Gulf International Forum weighs in on previously scheduled talks between Iran and Gulf states. Shortly before this interview aired, Oman announced that the talks were postponed.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls",
+        "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T20:58:18.000Z",
+        "category": "geopolitical",
+        "summary": "Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Trump’s Supercharged Social Media",
+        "url": "https://www.nytimes.com/2026/09/13/world/trump-ai-social-media-celine-dion.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T20:48:29.000Z",
+        "category": "geopolitical",
+        "summary": "The president’s A.I. post barrages, far more intense than during his first term, are redefining the presidency and driving a debate over his state of mind.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
+        "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T20:21:12.000Z",
+        "category": "geopolitical",
+        "summary": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Tracing the Path of Nepal’s Flood",
+        "url": "https://www.nytimes.com/video/world/asia/100000011129754/tracing-the-path-of-nepals-flood.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T19:06:45.000Z",
+        "category": "geopolitical",
+        "summary": "Mujib Mashal, our South Asia bureau chief, travels to points along a river in Nepal that turned into a deadly torrent, killing more than 1,300 people and leaving over 5,000 more missing as entire towns, bridges and roads were swept away.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Trump Blames Ukraine for Global Diesel Shortage",
+        "url": "https://www.nytimes.com/2026/09/13/business/trump-ukraine-diesel.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T19:06:12.000Z",
+        "category": "geopolitical",
+        "summary": "President Trump said Ukraine’s attacks on Russian oil refineries were “hurting the world,” amid a global energy shock driven primarily by the U.S.-Israeli war with Iran.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Trump floats idea to 'stay and keep the oil' in Iran, noting Venezuela deal",
+        "url": "https://thehill.com/policy/energy-environment/6086928-trump-compares-iran-venezuela-oil/",
+        "source": "The Hill",
+        "publishedAt": "2026-09-13T19:05:43.000Z",
+        "category": "geopolitical",
+        "summary": "President Trump on Sunday floated the idea that the U.S. could \"stay and keep the oil\" in Iran, comparing the notion to the U.S.'s major oil deal with Venezuela. Trump told reporters while in Doonbeg, Ireland, that the conflict with Iran will \"end after the midterm\" elections and that the Iranian regime \"wants to make.",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T18:49:37.000Z",
+        "category": "geopolitical",
+        "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T18:20:22.000Z",
+        "category": "geopolitical",
+        "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Trade unions, MPs and donors urge Burnham to revisit party funding rules",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T17:50:08.000Z",
+        "category": "geopolitical",
+        "summary": "PM has so far declined to insert curbs on UK-based donors, despite £72m donations from billionaires to Reform UK Trade unions, MPs and donors have urged the government to look again at party funding rules, after Reform UK insisted £72m in donations from two crypto billionaires was within the law. Andy Burnham, a previo",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
+        "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T17:43:03.000Z",
+        "category": "geopolitical",
+        "summary": "Ukrainian Railways says former British PM and David Petraeus crossed into Poland shortly before drone attack near border A train carrying Boris Johnson and the former CIA chief David Petraeus may have been the target of a Russian drone strike that hit a train engine near the Poland-Ukraine border, according to Ukrainia",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Trump tells Zelenskyy to stop doing 'one thing' during attacks on Russia",
+        "url": "https://www.foxnews.com/politics/trump-tells-zelenskyy-stop-doing-one-thing-during-attacks-russia",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T17:14:44.000Z",
+        "category": "geopolitical",
+        "summary": "President Donald Trump told reporters he wants Volodymyr Zelensky to stop hitting Russian diesel refineries, saying the strikes are causing a global fuel shortage.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Leaders at Celtic summit to affirm right to seek independence from UK",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/first-ministers-to-affirm-right-to-seek-independence-from-the-uk",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T16:41:58.000Z",
+        "category": "geopolitical",
+        "summary": "Call for constitutional change in Northern Ireland, Scotland and Wales likely to challenge Burnham’s devolution agenda The first ministers of Wales, Scotland and Northern Ireland are to affirm their countries’ right to seek independence from the UK at a summit that is likely to challenge Andy Burnham’s devolution agend",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Pregnant woman among more than 10 killed in Israeli attacks on Gaza",
+        "url": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T15:51:33.000Z",
+        "category": "geopolitical",
+        "summary": "Woman’s family says she died of injuries after being shot in the head while sitting inside a tent near Khan Younis A pregnant Palestinian woman died on Saturday from injuries sustained after being shot in the head by Israeli forces south of Khan Younis, according to her family and medical workers, as strikes across Gaz",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "US congressman swims to safety after his plane is forced to land on a lake",
+        "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T15:30:43.000Z",
+        "category": "geopolitical",
+        "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
+        "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T14:38:44.000Z",
+        "category": "geopolitical",
+        "summary": "Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+        "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T14:25:56.000Z",
+        "category": "geopolitical",
+        "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
+        "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T14:01:44.000Z",
+        "category": "geopolitical",
+        "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T13:30:38.000Z",
+        "category": "geopolitical",
+        "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+        "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T12:18:49.000Z",
+        "category": "geopolitical",
+        "summary": "Search and rescue agency says 107 people brought to safety from vessel hit by bad weather in Java Sea Rescue workers in Indonesia said at least six people had died and 130 others were missing on Sunday after a ferry sailing between the islands of Java and Borneo capsized in bad weather. Basarnas, Indonesia’s national s",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Pressure builds in Spain to deny US extradition request for leftwing donor",
+        "url": "https://www.theguardian.com/world/2026/sep/13/spain-james-fergie-chambers-extradition-request",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T12:00:03.000Z",
+        "category": "geopolitical",
+        "summary": "Key government meeting this month will consider US bid to try James ‘Fergie’ Chambers over alleged support for Hamas Attorneys for James “Fergie” Chambers, the US citizen and wealthy donor to leftwing and humanitarian projects worldwide who is currently imprisoned in Madrid and sought in extradition, have submitted a b",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
+        "url": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T11:51:49.000Z",
+        "category": "geopolitical",
+        "summary": "A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas. Did Wim Dijkman really find the bones of the fourth musketeer? We may never know.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Houthis claim attack on Saudi base as fighting flares with Yemeni forces",
+        "url": "https://www.theguardian.com/world/2026/sep/13/houthis-claim-attack-on-saudi-base-as-fighting-flares-with-yemeni-forces",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T11:26:06.000Z",
+        "category": "geopolitical",
+        "summary": "Iran-allied Houthis say drones and missiles used in attack that targeted ‘weapons depots and command and control centres’ in southern Saudi Arabia Houthi fighters have said they used drones and missiles to attack a military base in southern Saudi Arabia, as Yemen’s Riyadh-backed government described the rebels’ swift a",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Iran war reshapes Brics ties but also exposes divisions",
+        "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T11:23:42.000Z",
+        "category": "geopolitical",
+        "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Could Africa be the next AI frontier as US and Europe hit limits?",
+        "url": "https://www.foxnews.com/world/could-africa-next-ai-frontier-us-europe-hit-limits",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T11:00:18.000Z",
+        "category": "geopolitical",
+        "summary": "U.S. companies are winning massive data center and AI deals across Africa, including a $6.2 billion project in Lesotho for hydropower and computing.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+        "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T10:46:50.000Z",
+        "category": "geopolitical",
+        "summary": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
+        "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+        "source": "NPR",
+        "publishedAt": "2026-09-13T10:31:10.000Z",
+        "category": "geopolitical",
+        "summary": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "An Irish Castle Keeps a Piece of a Times Reporter’s Past",
+        "url": "https://www.nytimes.com/2026/09/13/insider/dunguaire-castle-ireland.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T07:00:13.000Z",
+        "category": "geopolitical",
+        "summary": "In 2000, after a life-threatening illness, Dan Barry went to the west of Ireland to breathe different air. He finds stories there still.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "In Flood-Stricken Nepal, a Cool Gust Carries Hopes of a Miracle Rescue",
+        "url": "https://www.nytimes.com/2026/09/12/world/asia/nepal-floods-himalayas-hydropower-tunnel.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T06:02:40.000Z",
+        "category": "geopolitical",
+        "summary": "Rescuers clawing through a hydropower tunnel clogged with mud, water and rock have found a pocket of air near where six workers are believed to be trapped.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
+        "url": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T04:01:29.000Z",
+        "category": "geopolitical",
+        "summary": "Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Indonesian passenger ship carrying 240 people loses contact in Java Sea, search underway",
+        "url": "https://www.foxnews.com/world/indonesian-passenger-ship-carrying-240-people-loses-contact-java-sea-search-underway",
+        "source": "Fox News",
+        "publishedAt": "2026-09-13T03:55:03.000Z",
+        "category": "geopolitical",
+        "summary": "The Virgo Transport 8 vanished crossing the Java Sea with 240 people aboard en route from Surabaya to Banjarmasin, triggering an urgent search.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Iran-Gulf talks without US participation on reopening the Strait of Hormuz postponed, Omani official says - ABC17NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdGM4WGhZWElHVkI3SXYtejBCT1VvSzFOWVNfT2plRV9ySkJpdWxzZXZ5NzEzeHNJLUxBQWpRY2pJX0c3bGxRYnhkYU8yWDJKeEJPNHV3ekZvdVdNVEN5NUNSdTZhZGl4SGtBRDNhajc4MGszeTdhcHhlWDc1QS1HNkZRVDZjcXptVm40Y0M5enVfQVdwd1hWZ2N6dWJyVHpwVnFPeVYyamhtbFlJT2M5eWk3NXJaTWRBMUdJYXh2UTVyRnViSnFXbVBzMFdUSnBFN2xfYVBkczJSYXlPZjBRR1NJZnl6R3lyMXBpUnJR?oc=5",
+        "source": "ABC17NEWS",
+        "publishedAt": "2026-09-13T18:50:53.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "Trump says US could stay in Iran and keep oil, like Venezuela deal - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeHNJVk1hVnV6VUlUQVJ4a1dFVU9mRG5GZWtfbDFJWVlTU011NnIyRGVhNmU3ci1fUUFIMFBOVG5BVjdRaVpPTUtpb19ZeUp4OEJydkx1bEJSNFRoLW5oSTY1QVM?oc=5",
+        "source": "The Jerusalem Post",
+        "publishedAt": "2026-09-13T15:49:43.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "Pete Hegseth pressured F-15 crew over CBS '60 Minutes' Iran rescue interview - The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnRENxczUwekFqYzlsR0FuVlBGVUVndGVfbWRFMFRSQWxxaXRqMl9YdlBKZjc0WlM4dXJ2ZXBWenhZdlA4SVJjS3h1QzZYTkVwUzhvVEQ3bmFBY3ZMNjUyQmJQQUo?oc=5",
+        "source": "The Jerusalem Post",
+        "publishedAt": "2026-09-13T13:45:48.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "US embassy child abuse images suspect flown from UK before police interview - bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NcmdGU3FKQkNGNE1sTFNfYkVEV2J6S04waVVGR0hzMVZ0NTZWbGJYc2c3UURXSGQ4c2xQd1ZFRUhzV3ZaZDdRN2otemlmbTl1Tkx6ZmNfSlk2Zw?oc=5",
+        "source": "bbc.com",
+        "publishedAt": "2026-09-13T13:31:18.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+        "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T02:46:53.000Z",
+        "category": "geopolitical",
+        "summary": "The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+        "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T02:41:51.000Z",
+        "category": "geopolitical",
+        "summary": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
+        "url": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
+        "source": "The Guardian",
+        "publishedAt": "2026-09-13T02:39:50.000Z",
+        "category": "geopolitical",
+        "summary": "Prime minister’s office tells families of those missing ‘the nation stands with you’ as search and rescue efforts continue One person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu, the country’s government says. The vessel, MV Matui, had set sail with more than 40 passengers and crew",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
+        "url": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-09-13T02:32:07.000Z",
+        "category": "geopolitical",
+        "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+        "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-13T00:49:08.000Z",
+        "category": "geopolitical",
+        "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+        "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-12T23:51:05.000Z",
+        "category": "geopolitical",
+        "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Best friends for decades - until a DNA test revealed they were sisters",
+        "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-09-12T22:00:28.000Z",
+        "category": "geopolitical",
+        "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      }
+    ]
+  },
+  "sourceErrors": [
+    {
+      "source": "The Wall Street Journal:political",
+      "error": "HTTP 403 for https://feeds.a.dj.com/rss/RSSPolitics.xml"
+    },
+    {
+      "source": "Fox News:economic",
+      "error": "HTTP 400 for https://moxie.foxnews.com/google-publisher/economy.xml"
+    },
+    {
+      "source": "Newsmax:political",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "source": "Newsmax:geopolitical",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
 }
