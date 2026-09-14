@@ -40,6 +40,17 @@ function dedupeKey(item) {
     .slice(0, 120);
 }
 
+// Left / center / right bucket for the balancing pass below. Unrated items
+// count as center rather than being excluded — an unknown outlet shouldn't
+// be penalized, but it also shouldn't quietly pad out one side.
+function bucketOf(item) {
+  const s = item.bias?.score;
+  if (s == null) return "center";
+  if (s <= -6) return "left";
+  if (s >= 6) return "right";
+  return "center";
+}
+
 function freshnessScore(publishedAt) {
   if (!publishedAt) return 0;
   const hours = (Date.now() - Date.parse(publishedAt)) / 3_600_000;
@@ -110,14 +121,37 @@ async function main() {
   const byCategory = {};
   for (const c of config.categories) {
     const sourceCounts = new Map();
-    const capped = [];
+    const buckets = { left: [], center: [], right: [] };
     for (const item of all.filter((i) => i.category === c.key).sort(byScore)) {
       const n = sourceCounts.get(item.source) ?? 0;
       if (n >= perSource) continue;
       sourceCounts.set(item.source, n + 1);
-      capped.push(item);
-      if (capped.length >= perCategory) break;
+      buckets[bucketOf(item)].push(item);
     }
+
+    // Balance pass: round-robin across left/center/right instead of picking
+    // by freshness alone. Freshness-only selection lets whichever side
+    // happens to publish more, or publish faster, dominate a category
+    // regardless of how many sources are configured on each side — which is
+    // exactly the "everything is left-leaning" complaint this exists to fix.
+    // A side with less available supply just contributes fewer items; it
+    // never blocks the other buckets from filling the remaining slots.
+    const capped = [];
+    const idx = { left: 0, center: 0, right: 0 };
+    let addedAny = true;
+    while (capped.length < perCategory && addedAny) {
+      addedAny = false;
+      for (const b of ["left", "center", "right"]) {
+        if (capped.length >= perCategory) break;
+        if (idx[b] < buckets[b].length) {
+          capped.push(buckets[b][idx[b]++]);
+          addedAny = true;
+        }
+      }
+    }
+
+    // Selection was round-robin; display order is still newest-first.
+    capped.sort(byScore);
     byCategory[c.key] = capped.map(({ score, ...rest }) => rest);
   }
 
@@ -142,6 +176,11 @@ async function main() {
 
   const counts = config.categories.map((c) => `${c.label}=${byCategory[c.key].length}`).join(" ");
   console.log(`collected: ${counts} (${sourceErrors.length} source errors)`);
+  for (const c of config.categories) {
+    const b = { left: 0, center: 0, right: 0 };
+    for (const item of byCategory[c.key]) b[bucketOf(item)]++;
+    console.log(`  ${c.label} spectrum: left=${b.left} center=${b.center} right=${b.right}`);
+  }
   for (const e of sourceErrors) console.warn(`  source error: ${e.source}: ${e.error}`);
 }
 

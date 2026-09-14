@@ -82,13 +82,21 @@
     { "query": "site:cnn.com world", "category": "geopolitical" },
 
     { "query": "site:newsmax.com politics", "category": "political" },
-    { "query": "site:newsmax.com world", "category": "geopolitical" },
-
-    { "query": "site:breitbart.com politics", "category": "political" },
-    { "query": "site:breitbart.com world", "category": "geopolitical" },
-    { "query": "site:nypost.com politics", "category": "political" }
+    { "query": "site:newsmax.com world", "category": "geopolitical" }
   ],
   "feeds": [
+    { "url": "https://nypost.com/politics/feed/", "source": "New York Post", "category": "political" },
+    { "url": "https://nypost.com/business/feed/", "source": "New York Post", "category": "financial" },
+    { "url": "https://nypost.com/world-news/feed/", "source": "New York Post", "category": "geopolitical" },
+
+    { "url": "https://www.breitbart.com/feed/", "source": "Breitbart", "category": "political" },
+    { "url": "https://www.washingtonexaminer.com/feed/", "source": "Washington Examiner", "category": "political" },
+    { "url": "https://www.dailywire.com/feeds/rss.xml", "source": "Daily Wire", "category": "political" },
+    { "url": "https://www.nationalreview.com/feed/", "source": "National Review", "category": "political" },
+    { "url": "https://thefederalist.com/feed/", "source": "The Federalist", "category": "political" },
+    { "url": "https://www.washingtontimes.com/rss/headlines/news/politics/", "source": "Washington Times", "category": "political" },
+    { "url": "https://www.washingtontimes.com/rss/headlines/news/world/", "source": "Washington Times", "category": "geopolitical" },
+
     { "url": "https://feeds.bloomberg.com/politics/news.rss", "source": "Bloomberg", "category": "political" },
     { "url": "https://feeds.bloomberg.com/economics/news.rss", "source": "Bloomberg", "category": "economic" },
     { "url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "category": "financial" },
@@ -118,10 +126,15 @@
   ],
   "sourceBias": {
     "breitbart": { "score": 78, "label": "Right" },
+    "the federalist": { "score": 72, "label": "Right" },
+    "daily wire": { "score": 72, "label": "Right" },
     "newsmax": { "score": 68, "label": "Right" },
+    "national review": { "score": 58, "label": "Lean Right" },
     "new york post": { "score": 52, "label": "Lean Right" },
     "fox news": { "score": 55, "label": "Lean Right" },
     "fox business": { "score": 50, "label": "Lean Right" },
+    "washington examiner": { "score": 48, "label": "Lean Right" },
+    "washington times": { "score": 46, "label": "Lean Right" },
     "the wall street journal": { "score": 18, "label": "Lean Right" },
     "the hill": { "score": 6, "label": "Center" },
     "reuters": { "score": 0, "label": "Center" },

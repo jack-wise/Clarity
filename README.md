@@ -20,13 +20,14 @@ GitHub Actions (cron */30) ──► scripts/collect.mjs ──► docs/data/new
 - **Sources (all keyless — no API keys needed):**
   - Google News RSS — one query per category, plus `site:` queries for
     outlets whose own feeds are unreliable (see note below)
-  - Direct outlet section feeds: Bloomberg, Fox News / Fox Business, The New
-    York Times, NPR, BBC News, The Guardian, HuffPost, The Hill
-  - CNN, The Wall Street Journal, Newsmax, Breitbart, and the NY Post are
-    covered via Google News `site:` queries rather than a direct feed —
-    CNN's and WSJ's public RSS hosts turned out to serve frozen, years-old
-    content (HTTP 200 but dead), and Newsmax's direct feed timed out from
-    GitHub's runners.
+  - Direct outlet section feeds, deliberately spanning the spectrum:
+    Bloomberg, Fox News / Fox Business, The New York Times, NPR, BBC News,
+    The Guardian, HuffPost, The Hill, New York Post, Breitbart, Washington
+    Examiner, Daily Wire, National Review, The Federalist, Washington Times
+  - CNN, The Wall Street Journal, and Newsmax are covered via Google News
+    `site:` queries rather than a direct feed — CNN's and WSJ's public RSS
+    hosts turned out to serve frozen, years-old content (HTTP 200 but dead),
+    and Newsmax's direct feed times out from GitHub's runners.
   - The full source/feed list lives in `config.json` — add or remove outlets
     there.
 - **Categorization:** each headline is matched against keyword patterns for
@@ -43,10 +44,16 @@ GitHub Actions (cron */30) ──► scripts/collect.mjs ──► docs/data/new
   approximation for illustration** — based on each outlet's general public
   reputation, not a scientific or third-party measurement. An outlet not in
   the map renders as "Not rated" rather than guessing.
-- **Ranking:** freshness within each category, capped per outlet
-  (`limits.perSource`, default 12) before the overall category cap
-  (`limits.perCategory`) — without the per-source cap, one busy feed can
-  crowd out the spectrum the site exists to show. Wire reprints across
+- **Ranking:** each category is filled by round-robin across left / center /
+  right buckets (by source bias score), not by freshness alone — freshness-
+  only selection let whichever side happened to publish more or faster
+  dominate a category regardless of how many sources were configured on each
+  side. Within that, items are capped per outlet (`limits.perSource`, default
+  12) so no single feed fills its own bucket. A side runs out of fresh
+  stories some cycles — real-world supply of freely-syndicated right-leaning
+  coverage is thinner than center-left — in which case it simply contributes
+  fewer items rather than blocking the rest. The final list still displays
+  newest-first; only the *selection* is bucketed. Wire reprints across
   outlets are deduped by normalized title, keeping the copy with the richer
   summary.
 - **The Brief:** a short read at the top of the page, one paragraph per
