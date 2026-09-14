@@ -54,7 +54,11 @@
     { "query": "site:cnn.com world", "category": "geopolitical" },
 
     { "query": "site:newsmax.com politics", "category": "political" },
-    { "query": "site:newsmax.com world", "category": "geopolitical" }
+    { "query": "site:newsmax.com world", "category": "geopolitical" },
+
+    { "query": "site:breitbart.com politics", "category": "political" },
+    { "query": "site:breitbart.com world", "category": "geopolitical" },
+    { "query": "site:nypost.com politics", "category": "political" }
   ],
   "feeds": [
     { "url": "https://moxie.foxnews.com/google-publisher/politics.xml", "source": "Fox News", "category": "political" },
