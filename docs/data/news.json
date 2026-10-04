@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:25:27.003Z",
+  "generatedAt": "2026-10-04T23:35:33.801Z",
   "siteTitle": "Clarity",
   "tagline": "The day's most important stories, clearly.",
   "categories": [
@@ -27,10 +27,22 @@
   "articles": {
     "ai": [
       {
-        "title": "Court throws out killer’s sentence after judge said he ‘loved’ AI video of slain man - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcER3SFhsZnVPalVDQ2NRVWRERWFlMko5VnM4b2Q0VlJGQUFSLW9zU1NnSjh3T0pMUXRqX05XMnhSZVVxSTBTazlPZ25jTl9HZE9mSG1jUHQ4ckR5eUp2YTloTDVEOHEtYmtlYTFuZjBuNE9WcmVYbXNRSGRScC1IcWgxaWUtc2JqNlJ1Q2dB?oc=5",
+        "title": "Fareed Zakaria on his takeaways from top tech meeting and what's difficult about regulating AI - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGRUekZRSmJsUVZtb0JxQnJoWHBuUG9yYVNQQjJxNWg0UGxwZElVTXF5bWl4MDczc0pTOVBSWVRQSm5HWVJpQ3VZd3YxakdkV0hmUXZOSnRXSVJkV1FfTHlGT25SSmVRbWdJb05uLUtwaG1sUkdZZy1oa0psTDFBWnlFVHlGemdtV3NYNTNzZF83TXFQRmszNW43aTZkeFZyalVIVnVWc2lLLTFJUWR5N1NzRjZydlFn?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-10-04T23:27:15.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1dhdjl2RlJVMnM2a0I4LUJlUUUzclZWMzlzdF9uSnJ3UVF4a2pwT1psNFBvOTl1VDNmcm5tZWVqd1pDd2hMX1VXLTJjQkotWDRzcHVzc19SVnRfcWNheGlCdHN2NGhvQTRxUFFkRFhWN0E5STRYZ2t2b21yR2M3cGxaYTFnY0ROcTJZTVpPVVlYWHkwRXVBUWlQRkppLTFabmlaUQ?oc=5",
         "source": "NBC News",
-        "publishedAt": "2026-10-04T20:13:27.000Z",
+        "publishedAt": "2026-10-04T23:09:09.000Z",
         "category": "ai",
         "bias": {
           "score": -20,
@@ -39,22 +51,30 @@
         }
       },
       {
-        "title": "AI Riches Come With Concentration Risks for CFOs - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlhSZFo5MU5ZaU9sb1RxWWJBeVJDNDE0THNBQ3FnLVJHZFlCdlRIazBZUzRjZDNjTEhob2V0YUFkR1RSVHZrb0NxS3djWkhaZlo2Tk9Gakg5Tm1kZWZFY3k5c3RFcFdFWUhoaWx4N3dDMjI5b0RxZ0ktTWdOU2ZvY3o4WGhMN3FTNDF1LTFxV083RjJPdVR4aWVYZ2o3YlJVUUY2R0J3Tm5HZmdjN2V2c2NabFdxVTI2U1kzUTcyeldPNHY3QW5vdmx3?oc=5",
-        "source": "Bloomberg.com",
-        "publishedAt": "2026-10-04T20:00:02.000Z",
+        "title": "OpenAI's Altman says AI benefits warrant accepting some risks - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGhDUmJ2UzEwZ0hlenFISFFXdkZyVHd1TGNIZEhLTERLaDRWaXh4dlpVM1RfU0p4Vlh2cjVybWZtOWZkVVp0ZEVndGQ3T2pZd0tyelVvV3JnQ09FQlNOYWtVeUhCMjZud2NpYUVEZllhbHhIeVFvOXpEY0lLTklTNnNpNnhDTUdVS1dYSzl6S3VwbzgydXlKZVFRTkE4Y0dsYlJtQldVWkY?oc=5",
+        "source": "Reuters",
+        "publishedAt": "2026-10-04T22:35:43.000Z",
         "category": "ai",
         "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg.com"
+          "score": 0,
+          "label": "Center",
+          "source": "Reuters"
         }
+      },
+      {
+        "title": "National intelligence chief to lead US artificial intelligence task force - FOX 4 News Dallas-Fort Worth",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWZHdnlVQmU4VE5RMXQ5Qi1uZThwODB4WXZIeU1YNFVWdV9vM1FmeFk4bjJpTVBuM1lMZnV3bWNvYVBtakNiQ3ZkNmFuc0M4cHhLa2VGbTFzb25pRFB4MC1jc1VTaXJtWVNqTmh5Z1RobUxzX2RyamxTZFN4VENGaGo1YVFvSlNRaWJ6T2hrZWx3R1FHRC13OGZSbnNLQkhmalE?oc=5",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "publishedAt": "2026-10-04T22:43:23.000Z",
+        "category": "ai",
+        "bias": null
       },
       {
         "title": "Former FTC Chair Khan dismisses 'constitution' signed by AI leaders to self-police - ABC News - Breaking News, Latest News and Videos",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWlCQW9pNmdrQ3JxVmNydmdFdzVJXzhXamx3NlZ1TDFtdDlsWEZIbHNHY2wxSDhFN0hVb0NzcTJaa0E0UEwxLWUxcjN2SlVJS0ItVm1mTmhuSDJndkJidFpUTnV1UTNHb0RSMHNNTThLTmQ0SUpud0FBTGdhN0FJb0tEMmR5WW1oSktoWnNsT2E1UEw5bldVV1Z5M2syeXFOWmJBLdIBqgFBVV95cUxNZmlYMUk4R0J1SG9lU21WZmtDaXo1U19qR3p3amlicFNzWVNka2I0dXB5MXBBZ21uQTVKTDhrYTdqWGdSZ1VOemJaRVJCTnRxOXBROTRoWVg2N21INUk0NTZmZmQ5S2dfNHk5UFFpS1ZaUXA5NDd4ZXctUVhTUUhYb01zQVBEUHljNmYwd2lkQTVndlpxTWxjMnlpa0gyZ0dZN042X0pHWnJnZw?oc=5",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "publishedAt": "2026-10-04T19:41:40.000Z",
+        "publishedAt": "2026-10-04T22:13:52.000Z",
         "category": "ai",
         "bias": {
           "score": -18,
@@ -63,18 +83,58 @@
         }
       },
       {
-        "title": "We Used AI to Find Out Just How Much Americans Hate AI - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUxHazhGblNqYlhpTDh0di13TlpKRzlxcGgzYUtkbjNaVkg5bEdmQTQ5TG1oNnRqWUlySUVfNU0wNWRIWk1yZlRuUUZCVFU5NWNZd0QwSXhDa09MeUJvQ09YQ25tazB1SmpWcC1zcTJYRDRLQ19wcUNiVGhXbHFQVzc0RXJfX1l3SlpJb3lQajhkVlNObEZ2SGd2T05TMjhwUVptaw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T19:31:39.000Z",
+        "title": "Court throws out killer’s sentence after judge said he ‘loved’ AI video of slain man - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcER3SFhsZnVPalVDQ2NRVWRERWFlMko5VnM4b2Q0VlJGQUFSLW9zU1NnSjh3T0pMUXRqX05XMnhSZVVxSTBTazlPZ25jTl9HZE9mSG1jUHQ4ckR5eUp2YTloTDVEOHEtYmtlYTFuZjBuNE9WcmVYbXNRSGRScC1IcWgxaWUtc2JqNlJ1Q2dB?oc=5",
+        "source": "NBC News",
+        "publishedAt": "2026-10-04T21:29:21.000Z",
         "category": "ai",
-        "bias": null
+        "bias": {
+          "score": -20,
+          "label": "Lean Left",
+          "source": "NBC News"
+        }
+      },
+      {
+        "title": "Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1Ia3ZTSnVXbXFnNEp6TnBlbDJUOVI5cUNvNDlXRm1NRjc5dXFkTC1CVDI2SXFkaVhlZkUzcE9Vb19pbWwzcDVWZlg0N1ROSzRrME9FWDdMVFRfdURtcFpkWWNuV2Y5SkwzN2RTeVcyVVZMS1kzcUpFcTNlODR6Q2FkcEllWlVDQzMtNVBaY3c3Y2NyaEJSUm82RHU?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T21:04:44.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI - Politico",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWFnWk90ajlEOFlsMktzU0RvSjc1cWpxRW9hb2FyZDBKR1pKanpPUE13TmpvRm5kdzY3NDN3WTZuQXB3bnVodlktZkRnS1JLR0E3NzlMR1k1aWZWUm5XUkIxSzA2Ynp0QzBwRmFZQTZGWjd6WWlOS09qbWZFM1lNYU1fTnlaMmY3?oc=5",
+        "source": "Politico",
+        "publishedAt": "2026-10-04T20:55:00.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -15,
+          "label": "Lean Left",
+          "source": "Politico"
+        }
+      },
+      {
+        "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnR5cUVLZE91ckU2X0sxOGNzbjA4SjU4MFhiUXNvb0E4M1FLTldoT3d0b3BDUmU3NFVxOUk1eURXMmhEVExrQTNKT3d2LXY2emNNSUo0Nzd0Vkp0WmxiTDh0MVhhM2h1NnRIZnVnZmRNcmJNNmlCajkxN1U2ZGJBZHlLNEVYanF6c2lBc0pVOHh2a1h4QWs0Yngxc0RYX3pOS2NDUGZRRjRKQmtLbnpxZk5QNjljNjJVSkNQRVNn?oc=5",
+        "source": "Reuters",
+        "publishedAt": "2026-10-04T20:47:43.000Z",
+        "category": "ai",
+        "bias": {
+          "score": 0,
+          "label": "Center",
+          "source": "Reuters"
+        }
       },
       {
         "title": "Federal appeals court pauses Minnesota's AI \"nudification\" ban - CBS News",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMENON2hETU83NHA5NHk3S2tlXzA3OGg3QkV1MjdZaG1seXZGZDlhM19McGJUZGxBNmlNT3BNYVM5M0h3MjZkSXU5SFlFQVB0Z2tiY2k4NFJ3dm1wRlNGRTZvd2dHZUZqUDF4clNaUDAzT3B1OGYwOHp3NHlET3JNS0xDNzAzcmM1b2J3bThUWUg4WHNlNzhqLVJCNThuTXZY?oc=5",
         "source": "CBS News",
-        "publishedAt": "2026-10-04T18:46:37.000Z",
+        "publishedAt": "2026-10-04T18:46:00.000Z",
         "category": "ai",
         "bias": {
           "score": -18,
@@ -96,19 +156,7 @@
         }
       },
       {
-        "title": "AI is evolving rapidly. Is it a new form of life? - ABC News & Headlines – Australian Broadcasting Corporation",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdU1lVUVGTW04dllxNTJJaHF0Y1NHSlJOdTBqQ3IzYVc2XzNpd0laWXBESkUxbEZyQUdHSWdUSGFic1p5czhJcG13dGZRQ3c5V2dRbWtqVFdWbHZRWkx1cm5SX3NEZGFuX18xZFlHYXdqZS1MeVk1NW5fNkpORjl4NWd3YkhjS2dKNVY2R29ybkZCVEY5?oc=5",
-        "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-        "publishedAt": "2026-10-04T18:25:23.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -18,
-          "label": "Lean Left",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      },
-      {
-        "title": "Opinion | AI can resurrect the dead. Ask my chatbot mom. - The Washington Post",
+        "title": "Opinion | AI claims it can resurrect the dead. I tried it. - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGZYYVEyMU90NlZlSWJSaDV0RmUtSDNPd3pEbWZOMms5bmlDRVAtSkdjLXphdEFXNHFqOUE5S3R5aTNld1BIS1ZKdzFRZnJtWXM3alZzcl9zSXZ2b0pBUG1tMzRLeGUxNzRVdjl5bFRQVTYzcGxCN0xwNXo1SERadENzaXRwOXA1T3hwU00zSG11WHlEcDhn?oc=5",
         "source": "The Washington Post",
         "publishedAt": "2026-10-04T18:15:00.000Z",
@@ -133,16 +181,116 @@
         }
       },
       {
-        "title": "Musk says he will rename SpaceXAI to SpaceXSI - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1lwRkt2ZlBuMTlqLVZCbk5ZVExzN0JMd0FnT0F5SllkSGdCU2xkNUlsSHVKZTRuNklIYlY5VTU5QmpqeUdWOXpJWEdhWGhaSE11dmRpQ0taekpfUllyay16MDg3VERqRm5WSjY3bGhKSGZVcnJWOFBod1FsQzBIdjVVN1U0b0xfT3VoZDNJdFZpVDJyN1Q0NlpjeUUtM2hFbUxF?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-10-04T16:56:09.000Z",
+        "title": "We Used AI to Find Out Just How Much Americans Hate AI - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUxHazhGblNqYlhpTDh0di13TlpKRzlxcGgzYUtkbjNaVkg5bEdmQTQ5TG1oNnRqWUlySUVfNU0wNWRIWk1yZlRuUUZCVFU5NWNZd0QwSXhDa09MeUJvQ09YQ25tazB1SmpWcC1zcTJYRDRLQ19wcUNiVGhXbHFQVzc0RXJfX1l3SlpJb3lQajhkVlNObEZ2SGd2T05TMjhwUVptaw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T22:31:39.000Z",
         "category": "ai",
-        "bias": {
-          "score": 0,
-          "label": "Center",
-          "source": "Reuters"
-        }
+        "bias": null
+      },
+      {
+        "title": "New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks - pymnts.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3RieEJoVlY2ZHNKVkFaUDItUkwzVWZ0T0tjRkIybG5kT1E1SGo4cVhqVjh3ai0yODdkLXAzLVlVNmUwX3Vua0c4SkRNQW9kS3J2SUJvUUJYZ0UzREZzNVRnZ3JRSmU1clZDZTFpZ2ZNdEFST2toMUU1LVRlTTBZY2g4aGxkclhSNFhKSThvSVUwRFQxcTlRdFhnYk1mTFZlVHUyTGVGSGs3LUVDY2gtN3FwUFB1bFRRTHdraQ?oc=5",
+        "source": "pymnts.com",
+        "publishedAt": "2026-10-04T22:30:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "The artificial intelligence revolution will be securitized - Punchbowl News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MMmJuOHV3M1duckRtUlBJTkdmbkJTaTVJS09mSGlILUo5UWkzWEIxUWNDMmtVQWZqa2xlSjBzX0gxY0Npd3RBMkVjMWhBRVpuaTBsMWJIXzdXX0ZKSzdiZUxzdmlDNW5CLUItb3ZZNkg?oc=5",
+        "source": "Punchbowl News",
+        "publishedAt": "2026-10-04T22:17:55.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Bloom Energy Says Its Fuel Cells Can Save a Big AI Data Center $3.6 Billion. I'd Still Wait to Buy the Stock. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3Bib3JsLVZlVnZQNmY3bHRvZldJWWFpUkp2Nlc4eExxQjNTU0IzemF1a0VaalN0XzQtTkN6UHFnb0N5SWd0Y0FjX29QSS1WZEpZRERYSnJidWk4U25yeF9DdjFMNEJMSzhFekdWTnU1UkJvaElSZ2tJVDNITHF0VUZxMm9zOGtZcC1Qa19GOXByelNaMElB?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-04T22:06:01.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "AIFA Outlines AI Application Strategy and Product Progress at First Annual Conference in Las Vegas - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONHh0Z1VudEdfSlhyNHVaSUxHUlkzal96TWtNal9XZFVhMzZwRDVVMERlOF95eXRFamVJdU55OEVuSHd4UFNKMUhNU3V2Y25HaWJudW02eGdoNV9WazRIV19hOFBDcXl4N2h0bWRjNWQ0aDRsNmpPcHp6bEpIazFXcG9qN0FNd0NqRXFSa2lIcEE3WHJYck5nQlM0SV92ZndNU3Z3?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-04T21:33:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Why tech companies are racing to put AI data centers in space - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlZvbGdoSU9CR01jWEZxVDV6MnlXQzZNVW1zRjgwTnRfX3F6RzR2WllJcy00TktJamVUWGRRNElxU0t0NFpHcnFldXRRaTFaNW04UGdHTXkzeHQ5SlVDblVZems4R2FWX0RWcmN2UWhsemlRdUhHRlpIYmFLMEo5YjZWbjcza2I2Z0RWNHhCdEZxeEhCd3RkZ3dqYzlWVEk?oc=5",
+        "source": "Fast Company",
+        "publishedAt": "2026-10-04T21:25:57.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "OpenAI’s Altman draws regulatory divide with Anthropic over AI risks: Politico - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3cyVnpsRGRJdDNuLURieDZzTHRGZUJ0YnNTakdiRml4UHprdjJkRXJ6M1V5dGdhVlp6elVXMGJ6N2V4eWNpSU5kMC11dGxqRW80dG5NdkVmeHdfZ1J5Q2p2bVZVOHpXS3NtUkY0WjlhNnc4YTdmcUloaWowT1F1aUVnM1ZCdXFUNm1wZThNLWlPLVFwOHJiYnBmaFZISWh6M1Z5b01pbGZLQmE3cnd2S3VJSi1WaTZKQVo2dXVWbG9kYjRBODFCRTRGSzRRWjktM2VrSG9aYw?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-10-04T21:16:51.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "AI, data science leaders join Cornell’s Radical Collaboration initiative - Cornell Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOengyYWFwTEVELVZhUktrVzQtVGZoeDhXcWdvVlZET1M4UTV4QUNHbkdyNDE5UnB6SXg3WFFKemRIZjI2US1CVXh5S2ZFN3pQQzRxRmFMX1RaTDFpSUpRX1RMU2xWam44SHduT3dMMXcyWXp6MEg1Z0UtQU5uSnZqeVV4YWdXTlpBN2lSZDhUamozbWp2SlhJcF8wQ3V1a2Q2M3NheXkwcXBtUEppb0pQOQ?oc=5",
+        "source": "Cornell Chronicle",
+        "publishedAt": "2026-10-04T21:03:39.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "An AI Accord, a New Czar and an Autonomous Warfare Command - Tech Policy Press",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOGhRNUx2dVJwdVZFU2RRUVM3NWd4dnJvN21wcV8wbVNMYTZ6dVlveUxPWjNpTHJ6VElJYTZDNDUxQWx0XzBMWTdnWEtuX1dWZTVJNWFvWmZhWkVObzNfWDlrdDVNRTllckhfMjAtWE00RzhWNDlhUG82ZE5OMVZXUHFyNmVxTUwxX1IxLTFBMmQ?oc=5",
+        "source": "Tech Policy Press",
+        "publishedAt": "2026-10-04T20:26:45.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Nvidia’s AI boom revives a Warren Buffett warning for investors - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ySFlUWnVITHZZUDgyQndCZ2xZdy11UlZZa25Ubmx5ci14QW1TTGFVNTBnUzF3Q041d2pGVGpleHYxNGE1ejNFTklldFphRi1aMEcyUWJZVFdhMmFiVURIVzBIRjR3aElCMnhJTDNyXzZSRGNmdWRz?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-10-04T18:47:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Commentary: Artificial intelligence in the classroom - Washington State Standard",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXFlVjlFZjllRFpuSGJsRkR0a3BjQmdqbnRnNUlHTG9GNHE0alZJcXh0THlKYmNfUngtV3lzUkxiV2RTY0NBVUlIaktwdDhaLW95b3N6cnIxTDE3NEJhYzdyTExVOV9FdXI3cnYwUGdYaUllQkpob19ZZWtuV3V0RlVuVl9JZGxseWdwcU0yRE5HQQ?oc=5",
+        "source": "Washington State Standard",
+        "publishedAt": "2026-10-04T18:44:48.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "AI is evolving rapidly. Is it a new form of life? - abc.net.au",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdU1lVUVGTW04dllxNTJJaHF0Y1NHSlJOdTBqQ3IzYVc2XzNpd0laWXBESkUxbEZyQUdHSWdUSGFic1p5czhJcG13dGZRQ3c5V2dRbWtqVFdWbHZRWkx1cm5SX3NEZGFuX18xZFlHYXdqZS1MeVk1NW5fNkpORjl4NWd3YkhjS2dKNVY2R29ybkZCVEY5?oc=5",
+        "source": "abc.net.au",
+        "publishedAt": "2026-10-04T18:25:23.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Jacobs to Deploy Digital Twin Platform at NVIDIA AI Research Facility - Construction Owners",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDcyQ1IxQ1RBUDlEejF2TkZtd2pKRHBTX0lvSjRFZ2JlazI1NG1KQlI5a0E1Ml9raEVJeW0xZVNhaXZ6QmR4VnpTbGFhNDJOWktsUUh3ejVkS2dBbzUxQ2hnTXdHaXhhRXpZSEtqVkdOUGs1ZXRNUVlhWEptV083STVFN05uRHotWkhBMkJUbE1QX2RrQ0NSZS02c1VJS2xTamtUVk1SS2MxMTVSMXc?oc=5",
+        "source": "Construction Owners",
+        "publishedAt": "2026-10-04T18:13:03.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Standing still is riskier than doing nothing when it comes to AI - IT Pro",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZUhwbGlyam9zLVlQZng2b2tkWXhfcmZwYmJFYlMtbFZGdVd2S2VJdWJYN0ZsZzRKNmlfMVhiSHJEZ1prTk5RUUR6eGlucHoyYTZvdHRaRG5DMDgwaHJCMjVnbzdiQmZKbFlwNGZNMFEwUTRZVVdOemYxeDhHZVYzTkZnUXN1bE5KeUY0NmNiRVY2b3VibzlZTkYtLXZocHI2cnNpeFk0elhpUzFiZHlqZlVVVUVMMUdsZDNjSjd5eDQ0TE91amp5NFM3Slh2TUczYWIzdDE3aFJZMWZILWpQcm54OXFpUTAwTV9rQzUzMlpOb2JnRDJDN0dyTEROX2VUaFJFcEZxY2xLdmstLU0zYWlVZ19rbFcxM0hGWA?oc=5",
+        "source": "IT Pro",
+        "publishedAt": "2026-10-04T18:07:12.000Z",
+        "category": "ai",
+        "bias": null
       },
       {
         "title": "Live updates: Trump taps Clayton to lead AI force; Cornell victim's attorney alleges more involved in gang rape",
@@ -197,143 +345,6 @@
         }
       },
       {
-        "title": "The door to asylum is closing in rural America — AI can help keep it open",
-        "url": "https://thehill.com/opinion/immigration/6121649-ai-asylum-representation/",
-        "source": "The Hill",
-        "publishedAt": "2026-10-04T15:00:00.000Z",
-        "category": "ai",
-        "summary": "In rural America, the need for immigration representation is especially dire. It is in these legal deserts that AI can have an outsized impact.",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "Meet the Swarm Chasers Sleuthing Out Rogue AI | Technology for Oct. 4 - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBna29xU3ZCTW5lS3Vka212VGRUejA1SFI4SWM1TjhXblNqUDdERUd1eTVEOWttTGl5TThuUXNCdF9DeXJUc1ZrY0dJcFl4SzlKS0tQSWlkMno1Z1RCazROMjNueEtPcjVDT1hZ?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T18:57:47.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXBldDd0X2RIZmRBa0NDdndLemFuQUcyRG5yOVpiTnZQQXpHd3ptcGp2c29mNGktLVhSOGdlRFZrZU01NTFDNkNKeEVBY0dJTVBtUzN2cTJ6U0tfRVY0OWNJQTFPUjVpWmlXUnA5RC1xVlBYak9LcWRCT28yZ1pkc3VXOTFXVW92UGtOQkF6d0hwcHdhd2lNa3lEbzBnWHZl?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-04T18:20:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Jacobs to Deploy Digital Twin Platform at NVIDIA AI Research Facility - Construction Owners",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDcyQ1IxQ1RBUDlEejF2TkZtd2pKRHBTX0lvSjRFZ2JlazI1NG1KQlI5a0E1Ml9raEVJeW0xZVNhaXZ6QmR4VnpTbGFhNDJOWktsUUh3ejVkS2dBbzUxQ2hnTXdHaXhhRXpZSEtqVkdOUGs1ZXRNUVlhWEptV083STVFN05uRHotWkhBMkJUbE1QX2RrQ0NSZS02c1VJS2xTamtUVk1SS2MxMTVSMXc?oc=5",
-        "source": "Construction Owners",
-        "publishedAt": "2026-10-04T18:13:03.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Standing still is riskier than doing nothing when it comes to AI - IT Pro",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZUhwbGlyam9zLVlQZng2b2tkWXhfcmZwYmJFYlMtbFZGdVd2S2VJdWJYN0ZsZzRKNmlfMVhiSHJEZ1prTk5RUUR6eGlucHoyYTZvdHRaRG5DMDgwaHJCMjVnbzdiQmZKbFlwNGZNMFEwUTRZVVdOemYxeDhHZVYzTkZnUXN1bE5KeUY0NmNiRVY2b3VibzlZTkYtLXZocHI2cnNpeFk0elhpUzFiZHlqZlVVVUVMMUdsZDNjSjd5eDQ0TE91amp5NFM3Slh2TUczYWIzdDE3aFJZMWZILWpQcm54OXFpUTAwTV9rQzUzMlpOb2JnRDJDN0dyTEROX2VUaFJFcEZxY2xLdmstLU0zYWlVZ19rbFcxM0hGWA?oc=5",
-        "source": "IT Pro",
-        "publishedAt": "2026-10-04T18:07:12.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "A Home AI Cluster Build Hit Electrical Fuses Before It Hit GPU Limits - Startup Fortune",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUS1LWEJaVHJYX21HQXlGcTRraXExalBIVWRnNWVpNS1zUm54UmxPM0w1OUNTYnQ0QzFjQVZOMG1GRk56Ukt5WHMyRDMtV3FvS2xHR3pHbWdDTUNVZURlNVp4R2VOcWYtT0xBQ0NHdmo0NTFJR3Q3b0FKMGpmRHlvTUVQTHlPal8xSm5ieU1Xb1huV2ZqMUloaEZJdzhUUQ?oc=5",
-        "source": "Startup Fortune",
-        "publishedAt": "2026-10-04T18:02:55.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Cerebras Systems vs. Innodata: Which AI Infrastructure Stock Is a Better Buy in 2026? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPek0yQ192XzJqMWpUSUJEMVprUjdaaVZna21Vb2o5MDk2WE9wVGU2ekZyZ014UXROeEp5MWs1WUZHOE1KcEU0YVlZOXVUazRfQkhXN2ZaVmtXY0g2RjhOekwyMzZ1bDktaXgxYXBPRTc0b2tuR0RWMmk3Ry1Da3drY2hwUWhpWGsycGd5bnVtN1FlM0pKYjVPSFJCMA?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-04T18:00:18.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Trump names Jay Clayton to new artificial intelligence czar post - Yahoo News Canada",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMThWT3NUSzFvYnVNR25fcFVCM21xLURNOWktZUlXOUlPX3JJS25ZaEJlY2dmdVEzemZOWTRNUFNXM1l5RERCMklNS3loS19xSEE4YndkQ3R5VnNvNFVvU3RnYzV2bDBmRFpNWGVid3prWmlWcWc5bHNnWmJlM1JjaA?oc=5",
-        "source": "Yahoo News Canada",
-        "publishedAt": "2026-10-04T17:41:57.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force - AP News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUk2R0lTbmk2a1QzTm5NcS05eFBCUjI1VmdxUW1lT1c5dEV1NEhqd0RWbUJXZ3VUbHhPODNYNVJvQmVzNFpGWV82XzRaUy00TWZjWUUwS2hLak92ejBKbzEzQkFxWTFfWF9qTXRQVHpyX29Eb0VkRnEybHNTY2pLOEZ3akFHMGZFM1ZYN2VRMVk0TE85RVhodm5OcDZaTm9aSldGU3p1V1ZlV3dwc203Nkln?oc=5",
-        "source": "AP News",
-        "publishedAt": "2026-10-04T17:18:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Guest column: A caution about artificial intelligence - Riverhead News Review",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV29FYjZYXzFaeklJckdoWmRoT0lQM04zaXRna0owQUxuOGFVLTg3LVZrYWRNNkdYMS15WkxMeUJ5ck02UTFZVkoyZDNOZ2Y3a21aUTlFVkVCNWZrcjVsRk8tSnBYdFAxUkxPUWthUVJKcVpkZDY0TmpHWjdhMzlVcnJCN0FsNDE4bVJrWGhoQ0dwOHlFeEMyemRlOGpSR083bFphYTZLUkZ5d3B3VTJLcGZR?oc=5",
-        "source": "Riverhead News Review",
-        "publishedAt": "2026-10-04T17:09:18.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "McDonald's Has A Very Firm Response To Claims AI Is Pricing Your Big Mac - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEpVbUp3OGwya2hVYXZyZjkyRFpHZ0JmcTc5ZmtDMFJjcW9MSWRLQTVCTG5OTDcxcndvbDgxNFFvc0h6TFh6V1Z2R1ZBaG9nNUZCbGlndjZwc1g4N0VtN1BQMnF0cG5yTnRobzltMnFtV2o5bmlNQVhyVUxTWnhXbzY4cUt3aGRyMFdNVmJ5Rm1QaUt2aFBiUEdoeHo1cEtV?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-04T17:01:06.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Why tech companies are racing to put AI data centers in space - Fast Company",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlZvbGdoSU9CR01jWEZxVDV6MnlXQzZNVW1zRjgwTnRfX3F6RzR2WllJcy00TktJamVUWGRRNElxU0t0NFpHcnFldXRRaTFaNW04UGdHTXkzeHQ5SlVDblVZems4R2FWX0RWcmN2UWhsemlRdUhHRlpIYmFLMEo5YjZWbjcza2I2Z0RWNHhCdEZxeEhCd3RkZ3dqYzlWVEk?oc=5",
-        "source": "Fast Company",
-        "publishedAt": "2026-10-04T16:34:33.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Commentary: Artificial intelligence in the classroom - Washington State Standard",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXFlVjlFZjllRFpuSGJsRkR0a3BjQmdqbnRnNUlHTG9GNHE0alZJcXh0THlKYmNfUngtV3lzUkxiV2RTY0NBVUlIaktwdDhaLW95b3N6cnIxTDE3NEJhYzdyTExVOV9FdXI3cnYwUGdYaUllQkpob19ZZWtuV3V0RlVuVl9JZGxseWdwcU0yRE5HQQ?oc=5",
-        "source": "Washington State Standard",
-        "publishedAt": "2026-10-04T16:07:53.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "AI’s Real Gift to Science - theatlantic.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5",
-        "source": "theatlantic.com",
-        "publishedAt": "2026-10-04T15:56:28.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Trump forms superintelligence task force to steer US AI strategy - CHOSUNBIZ - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFVVN0hKRlBDam1zQU1wRnZyZ3hRM25OQzZHREh1UWFqbW41a2dXWWJpdnpFTEU4ZzlZYTg3dFZrSkFMNkR4YXNlMFJXd1ZPM3hpd05xSXEtUFlaMThYanFXOTlLWXQ5S3J1b1g3UjFMU2JBSDdKOHpTaG43eENEOHdHMGJvZkox0gGcAUFVX3lxTFA2TjRYZWJYSWZzRk1Kd000YnN6LVM4UFRnUDVLcTdGU1NSNlhzNXJoeWVqelgtSkNBLVRwVFBiQjB4S2VNTFh0VVdSSlU0M1FIaDAyUDdXcExMSG1ncHpsZFRacDBmeEFUYWhvbUMzZlZ4QUVqdFlfcTU5dVZjeTZzdFBSVVN6RVozeXdoTjFGeFdBTHh2UEdqaUJudg?oc=5",
-        "source": "Chosunbiz",
-        "publishedAt": "2026-10-04T15:53:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "President Donald Trump announces creation of 'Super Intelligence Force' AI task force - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3dJODJ0VnUzb3h1TEFnMjNya292VzlNODgyUzZHYkR1eVJ1VE9QdHRmM1A5VGhNcjR4ZUw5bnBCQzdOaXRfd0FEbEYwNVJmU2NlbjRFVnVLZGJQYkpVRUYxSENsT0lKQVhtMUZ1TkVhaWI5MXRSSmFSQTM5dFo4NDdYaFVtb0V2X3QtcmxwaXhTaUtRT2pXUVRaZUI0a0xObnhmdlB5Q0hNTVViMDEzWWJBSEfSAboBQVVfeXFMTWNUMjlJXzBRWF9MbENnMkFVWVV2dS1ld2Y4ZV9hXzRCTFNaM0Zhdk5uZWt3ekMxMDZpTTdMazl6WEF6LW1IYzhDLTU5MkJWX29GRHVqS0xYVlhjTmFrVE9JYmx1OFBrUlBnVW1TS3UtMk1GLU9mY1c1NnlnZHRNLUhNUVdobzNBckRLVTF0ZHlBdk9LVmJXWUY4Y1BaUWpTb3B1OGNQdlRJb2ZhMGlyaXc0YkVGSlduaDN3?oc=5",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "publishedAt": "2026-10-04T14:13:50.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -18,
-          "label": "Lean Left",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        }
-      },
-      {
         "title": "Detecting deepfakes, in a world where even reality is suspect - CBS News",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaW5MaG84by05ODVfNW5nbTdlc0R0RS1mWWFURjNXcGljMmF3dTdKTDdqX0t5aUhfUnBPZkNUc2tiVGlsTlJqYWhaMjVjS3otOV81dFh1N3hDM0pSRGpkY0FBVlFac0pjc05JT0x5RDJJUVdlM0FINkVQQ1N5WUlsZmxOam1HQktVLVBYS1JhV2l4bUNp?oc=5",
         "source": "CBS News",
@@ -355,18 +366,6 @@
           "score": -18,
           "label": "Lean Left",
           "source": "CBS News"
-        }
-      },
-      {
-        "title": "The AI industry is booming. Women are getting left behind - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T13:02:00.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
         }
       },
       {
@@ -413,6 +412,19 @@
         "publishedAt": "2026-10-04T12:40:30.000Z",
         "category": "ai",
         "summary": "Bloomberg Opinion Columnist Gautam Mukunda tells Bloomberg This Weekend that voluntary safeguards may not be enough to manage AI risks because competitive and financial pressures can push companies to prioritize growth over safety. Speaking with hosts David Gura and Christina Ruffini, Mukunda discusses the White House’",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T00:00:00.000Z",
+        "category": "ai",
+        "summary": "Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.",
         "bias": {
           "score": -12,
           "label": "Lean Left",
@@ -535,38 +547,26 @@
         }
       },
       {
-        "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONURaV1hMTkVSRmU0aUZMSVFBMmpQcTJlN0h4MVp2djJSbjlzYTJuLVVONnNpd3h4a1RiZlV5Mlh2ekxsZy1FWURaZUoxbEpHdy1vNV9TV2daSWZNN1dPRVR4SjJyLW5JNDByQklfTUlkNUJ1U29YcC1GODJzOWlHUEFyUFA2UC1OTkwtMFhkTGdIOTNrQ3RmWHVoQmNWTWxCR1dNVHcySW1TbmdUVGRmX3Z0a1UyVEsyVjI3U0Y1NNIBxAFBVV95cUxONUw0R3RpZXFfc3Fmd082TEJMUHlIYkxSZThDV0htcWVWQ0xJSHVMaXhCTHR2TjBJNmxiSC1ZT2VVN0tJaFRDdkZXVnRtQ0xWZDNJWElYY0dEcy1naEVXcGU1T1lmc2xGWUFJb0xLdmY0UzFTTm1HaC1hMFFWYVhkeWRuQUY1ZnZvc1dTOFRnMzhFbFZ6ZXZZdk11eEFrZjVlaEpOMzVKQ2s2VzUzY1ZVeVEzbklDYzlweDVVS3BsY2FBODZf?oc=5",
-        "source": "Fox News",
-        "publishedAt": "2026-10-02T01:31:03.000Z",
-        "category": "ai",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Right Livelihood Award Honors Women Taking on Autocrats, Discrimination and Unchecked AI - newsmax.com",
+        "title": "Right Livelihood Award Honors Women Taking on Autocrats, Discrimination and Unchecked AI - Newsmax",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWpZcGJfRS1MOEszcnhvVXo4SW9RYmlPYU9ObHFmYUdMQno2YVRkY0M3c0dab1pwTnI5ZEV0QmJMdTlxNG90UEpHZzU1Z3VIMEVteVZWam9veUFjU0k1WS03S3FRbjZoNi1zVTFKSWk2ZXRKVUNlXzF0eEpyb0l5aWZJbE51VEozNHFNcVVmNkM4SDJDZ08xQ2FDdDdzWDB1UGxaVEFWeXNSRzAyS3pqOS1nMA?oc=5",
-        "source": "newsmax.com",
+        "source": "Newsmax",
         "publishedAt": "2026-09-30T05:01:07.000Z",
         "category": "ai",
         "bias": {
           "score": 68,
           "label": "Right",
-          "source": "newsmax.com"
+          "source": "Newsmax"
         }
       }
     ],
     "political": [
       {
-        "title": "Raiders v Chiefs, Broncos v 49ers and more: NFL – live",
+        "title": "Chiefs v Raiders, Broncos v 49ers and more: NFL – live",
         "url": "https://www.theguardian.com/sport/live/2026/oct/04/raiders-v-chiefs-broncos-v-49ers-and-more-nfl-live",
         "source": "The Guardian",
-        "publishedAt": "2026-10-04T20:18:50.000Z",
+        "publishedAt": "2026-10-04T23:22:48.000Z",
         "category": "political",
-        "summary": "Updates on the action kicking off after 9pm UK time Taylor lifts Colts to victory in London Share your thoughts with Graham via email (2-2) Indianapolis Colts 30-13 Washington Commanders (1-3) (0-4) Tennessee Titans 18-24 Baltimore Ravens (3-1) (2-2) New England Patriots 29-26 Buffalo Bills (3-1) (1-3) New York Jets 12",
+        "summary": "Updates on the action kicking off after 9pm UK time Taylor lifts Colts to victory in London Share your thoughts with Graham via email TOUCHDOWN! Chargers 3-7 Seahawks 9:55, 1st quarter S Darnold to E Wilson for 23 yards K Cousins to I Thomas for 27 yards Continue reading...",
         "bias": {
           "score": -55,
           "label": "Left",
@@ -574,23 +574,304 @@
         }
       },
       {
-        "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-10-04T20:14:49.000Z",
+        "title": "FBI Director Kash Patel engaged to country singer Alexis Wilkins",
+        "url": "https://nypost.com/2026/10/04/us-news/fbi-director-kash-patel-engaged-to-country-singer-alexis-wilkins/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T23:04:45.000Z",
         "category": "political",
-        "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+        "summary": "WASHINGTON — FBI Director Kash Patel is engaged to his country singer girlfriend Alexis Wilkins, the pair revealed in an announcement Sunday. Wilkins, 27, broke the news with a photo posted to social media of her showing off her new diamond ring while standing next to Patel, 46. The pair was all smiles. “Went and...",
         "bias": {
-          "score": -8,
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Pentagon pulls B-1 bombers from UK base following alleged terror threat",
+        "url": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/",
+        "source": "The Hill",
+        "publishedAt": "2026-10-04T22:50:38.000Z",
+        "category": "political",
+        "summary": "The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in England. “While operational security precluded us from confirming the movement of our assets and forces in real-time, we can a",
+        "bias": {
+          "score": 6,
           "label": "Center",
-          "source": "BBC News"
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "How Gas, Diesel and Electricity Prices Are Squeezing American Voters - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDRKQzE0bVl6TFI1UlgzX1ZlUzk3ekpodXNIUWZHTHcwNk00SkxMdjQ2N0FIUzFkSHg3VTcyV1dlV1A0NjhhNVN3amp2UVlJT1lZYnZ5bWo0eHg2V1pmb3hFVXM2Z1hxTHFZR3VDUmktMTFGV0ZnczlJbllZWGlTWm5B?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T23:14:35.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Cornell Rape Allegations Reignite Furor Over Title IX - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWl3Z2xpZFhxSDAwcmtRbFJsX2VJRTB5OFNiYXRLblprcUQzZ2RQX2tkeVoyOGhnR19SOGtrV1Q3RXhiOG9ISm5UVXlkdzl2ajJKbXo1Yms0SVpMT3BNUHpnYWgwaDcyRncxcVpaYnk2N1RkNkFUQ2JqV3VITjdjb3BBeFBWY2xtMHpzSXJ5eEpVZWRLQml2aU9n?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T23:14:20.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Larry Ellison Wants $165 Million for His Oceanfront Estate in Florida - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZENZM1lfOUVHMDFsa3dXTmRIV0dtU3dtbFBRRHJQZFVmT3JBSTM4bVRtREowUWNnaDFFanlieGFxeFZXQ0FVZFJIT1NvdWY5bF9maWlZQm02N3d5VUROR0hHcXJGTjNUVmdDLVJ4OXNFWXNKcmpBbkF3MlIwQVF2eHd5aXdSeVNrWGRibnZBaXEtZUk?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T23:02:04.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+        "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T22:34:49.000Z",
+        "category": "political",
+        "summary": "The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Video: Why Older Lawmakers Keep Winning Elections - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckxMekdXZVJTeWlDWDBzRm05eGhrLWFoNUViaTdJOFlKOTFWWjZOZmtwRnBEbjBZeS1hWDFXWDkyTHpkWkhOQm5UcTc3SHE2akx3NzVoTXBza3hJUVVjTjVkV1Nwb2loQkhiQm03X3U2YXVDOHo1SmxFMU1PQnphTlJqNXprQnVZajgycW5WaWFwYzNuUm52dUdEZUlMcnNBN0pUaU4tc2tlN0p1Q1RfZXExMA?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T22:28:55.000Z",
+        "category": "political",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Tennessee Prison Commissioner Resigns After Murderer Christa Pike Survives Double Dose of Lethal Injection",
+        "url": "https://www.breitbart.com/crime/2026/10/04/tennessee-prison-commissioner-resigns-after-murderer-christa-pike-survives-double-dose-of-lethal-injection/",
+        "source": "Breitbart",
+        "publishedAt": "2026-10-04T22:19:48.000Z",
+        "category": "political",
+        "summary": "Tennessee Department of Correction Commissioner Frank Strada resigned from his post Saturday, a few days after murderer Christa Pike survived two doses of lethal injection and is still alive at a hospital. The post Tennessee Prison Commissioner Resigns After Murderer Christa Pike Survives Double Dose of Lethal Injectio",
+        "bias": {
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
+        }
+      },
+      {
+        "title": "Sanchez Allies Said to Be Preparing for Spanish Early Election",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/sanchez-allies-said-to-be-preparing-for-spanish-early-election",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T22:19:35.000Z",
+        "category": "political",
+        "summary": "Spanish government officials are preparing for an early election, pending a possibly imminent decision by Prime Minister Pedro Sánchez.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Large oil exporters agree to continue consistent production in November",
+        "url": "https://thehill.com/policy/energy-environment/6128591-opec-maintains-oil-production-levels/",
+        "source": "The Hill",
+        "publishedAt": "2026-10-04T22:17:20.000Z",
+        "category": "political",
+        "summary": "Seven of the world’s largest oil-exporting countries agreed Sunday to maintain their baseline production levels for November, as fuel prices remain elevated amid the Iran war. The “OPEC+” group, which includes Algeria, Iraq, Kazakhstan, Kuwait, Oman, Russia and Saudi Arabia, decided to “maintain” oil production levels ",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Bolsonaro Surges to Lead Over Lula as Brazil Swings to the Right",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/bolsonaro-lula-set-to-face-off-in-brazil-runoff-datafolha-says",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T22:13:17.000Z",
+        "category": "political",
+        "summary": "Flávio Bolsonaro surged to a surprise lead over President Luiz Inácio Lula da Silva while conservative allies dominated across Brazil, setting the nation up for a sharp shift to the right.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Brazil presidential election 2026: first-round live results",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T22:01:31.000Z",
+        "category": "political",
+        "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil is directly elected,",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Now It's Typhoon Nolo after Pacific Hurricane Crosses the International Dateline - Newsmax",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG9lNFRKQjd5M3ROS3ZKRDdMM0VLWWJuZVllMUJpZ0Z1VHlMMDlsczdGc0RhRno4Qms0VjljQkt1WEUxZ0lFcUNqQXNZNmtXSHNXTzlaUVJTbEZuMXlqVkRCMWRXT2JvTHFuUHFqOThSb3J3N1JKcWtoODZWeVlqSU52aVRrYTZQRHUxcFcxZjJ1RHEyQWFFWFRmbVNxbFRaMzhTZWszdXd0dlhBTnhwSw?oc=5",
+        "source": "Newsmax",
+        "publishedAt": "2026-10-04T22:00:50.000Z",
+        "category": "political",
+        "bias": {
+          "score": 68,
+          "label": "Right",
+          "source": "Newsmax"
+        }
+      },
+      {
+        "title": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it",
+        "source": "NPR",
+        "publishedAt": "2026-10-04T21:57:06.000Z",
+        "category": "political",
+        "summary": "Brazil's environment is a global concern. But on the campaign trail, it's struggling to get voters' attention.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
+        "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T21:53:42.000Z",
+        "category": "political",
+        "summary": "President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Pentagon Redeploys Bombers From UK Base at Center of Terror Plot",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/pentagon-redeploys-bombers-from-uk-base-at-center-of-terror-plot",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T21:44:55.000Z",
+        "category": "political",
+        "summary": "The Pentagon has removed bombers based at the Royal Air Force base in the UK that was at the center of a suspected attempted terrorist attack last week.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "‘Unequivocally false’: WNBA players push back on Fever GM’s defense of fans’ behavior",
+        "url": "https://www.theguardian.com/sport/2026/oct/04/indiana-fever-fans-criticism",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T21:44:53.000Z",
+        "category": "political",
+        "summary": "Indiana GM said team’s fans were unfairly attacked Former player Brianna Turner says fans are an issue Kelsey Mitchell says some fans do not like her Indiana Fever players past and present have pushed back on an assertion that the team’s fans are not an issue. On Saturday the Fever’s general manager, Amber Cox, defende",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "US bombers pulled from RAF Fairford base after suspected terror plot",
+        "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T21:25:03.000Z",
+        "category": "political",
+        "summary": "Aircraft leave Gloucestershire base to return to US following arrest of dual British-Iranian national in central London The US Air Force has pulled its bombers from RAF Fairford following an investigation into an alleged planned terror attack at the base. The bombers were redeployed back to their home bases in the US, ",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Angela Paxton backs Texas GOP ticket without naming estranged husband Ken",
+        "url": "https://www.washingtonexaminer.com/news/campaigns/4753445/angela-paxton-texas-gop-ticket-husband-ken/",
+        "source": "Washington Examiner",
+        "publishedAt": "2026-10-04T21:24:01.000Z",
+        "category": "political",
+        "summary": "Texas Republican Senate candidate Ken Paxton’s estranged wife, Angela Paxton, addressed the “elephant in the room” in a new advertisement and urged Texas Republicans to vote for the GOP ticket regardless of who is on the ballot. “I’m Texas Senator Angela Paxton,” she says in the new ad, which began airing on Saturday. ",
+        "bias": {
+          "score": 48,
+          "label": "Lean Right",
+          "source": "Washington Examiner"
+        }
+      },
+      {
+        "title": "US removes all Air Force bombers from UK base following new threat - CNN",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2VoVGRqM1RLQW9BT3hSS0FuajBrVFJIMlhwRTJWWDUwMkpUZDJwU1NZN1dpMng1SVFDek9YVmVJZHhoRXE2Rm1PNUNjRVo5VkNLbUpTa041THF6bml2ZnlGQ0U0LVh0ZVpIVEVwalphTnNBbUJ1eXZqZmNSY0ozRmk5aVNMak5qczJTVE9wVQ?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-10-04T21:24:00.000Z",
+        "category": "political",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "NFL roundup: Rams stage wild comeback against Eagles as Jackson exits Ravens game",
+        "url": "https://www.theguardian.com/sport/2026/oct/04/nfl-roundup-football-sunday-scores",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T21:02:18.000Z",
+        "category": "political",
+        "summary": "Rams score two touchdowns in final four minutes Ravens QB leaves stadium in protective boot Drake Maye finds form in Pats win over Bills Kyren Williams ran for two touchdowns in the final four minutes as Matthew Stafford and the Los Angeles Rams rallied from a 10-point deficit to beat the Philadelphia Eagles. The Rams ",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "This Week on the Hill: Congressional recess shifts focus to midterm campaign trail",
+        "url": "https://thehill.com/newsletters/this-week-on-the-hill/6126863-upcoming-senate-candidates-debates-midterms/",
+        "source": "The Hill",
+        "publishedAt": "2026-10-04T21:00:00.000Z",
+        "category": "political",
+        "summary": "With both chambers of Congress out of session, lawmakers are trading the Capitol for the campaign trail as the midterm elections enter their final stretch. The shift will be especially visible this week, with a slate of high-profile debates pitting candidates from both parties on the same stage. In Iowa, Rep. Ashley Hi",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
+        "url": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/",
+        "source": "The Hill",
+        "publishedAt": "2026-10-04T21:00:00.000Z",
+        "category": "political",
+        "summary": "President Trump is headed to deep-red Nebraska as Republicans ready for a close Senate race against independent Dan Osborn, who’s backed by Democrats aiming to keep the seat out of GOP hands. Incumbent Sen. Pete Ricketts (R-Neb.), who won the 2024 special election to fill out the remainder of former Sen. Ben Sasse’s (R",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "UK Tories Back Heathrow Third Runway After Burnham Demurs",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/uk-tories-back-heathrow-third-runway-after-burnham-demurs",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T21:00:00.000Z",
+        "category": "political",
+        "summary": "Britain’s opposition Conservatives will say they’ll “do whatever it takes” to build a third runway at London’s Heathrow airport after Prime Minister Andy Burnham declined to support the planned expansion.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
         }
       },
       {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
-        "publishedAt": "2026-10-04T20:11:43.000Z",
+        "publishedAt": "2026-10-04T20:51:36.000Z",
         "category": "political",
         "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
         "bias": {
@@ -600,20 +881,59 @@
         }
       },
       {
-        "title": "With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface",
-        "url": "https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T20:07:45.000Z",
+        "title": "Report: Catholic Revival Happening at Liberal Stanford University",
+        "url": "https://www.breitbart.com/faith/2026/10/04/report-catholic-revival-happening-at-liberal-stanford-university/",
+        "source": "Breitbart",
+        "publishedAt": "2026-10-04T20:47:38.000Z",
         "category": "political",
-        "summary": "The founder of SpaceX, with billions of dollars in military contracts, joins several other defense industry executives on a Pentagon advisory board.",
+        "summary": "Prestigious, selective, and predominantly liberal Stanford University is witnessing a Catholic revival \"as a growing share of Gen Z students embrace the 2,000-year-old faith,\" the California Post reported Sunday. The post Report: Catholic Revival Happening at Liberal Stanford University appeared first on Breitbart .",
         "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
         }
       },
       {
-        "title": "Kennedy says 'telling' Americans 'not to believe their own lying checkbooks is not going to work'",
+        "title": "Trump jokes Bessent is ‘breaking Melania’s friends’ hearts’",
+        "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4753466/trump-scott-bessent-breaking-melania-trump-friends-hearts/",
+        "source": "Washington Examiner",
+        "publishedAt": "2026-10-04T20:46:30.000Z",
+        "category": "political",
+        "summary": "Treasury Secretary Scott Bessent joked that his sexuality is breaking the hearts of first lady Melania Trump’s friends. Bessent, the first openly gay man to serve as treasury secretary, briefly discussed his experience as a gay politician. As a member of President Donald Trump’s Cabinet, Bessent said he believes the pr",
+        "bias": {
+          "score": 48,
+          "label": "Lean Right",
+          "source": "Washington Examiner"
+        }
+      },
+      {
+        "title": "California governor’s races sees another massive swing as nail-biting new poll released",
+        "url": "https://nypost.com/2026/10/04/us-news/xavier-becerras-lead-over-steve-hilton-shrinks-to-5-6-points-in-new-california-governor-poll/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T20:43:41.000Z",
+        "category": "political",
+        "summary": "Xavier Becerra’s lead over Steve Hilton has shrunk to 5.6 points in a new post-debate poll, with 14.1% of California voters still undecided.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+        "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T20:42:08.000Z",
+        "category": "political",
+        "summary": "Staunchly pro-Russia politician has dominated campaign and inflamed divisions despite not appearing on ballot Bosnian Serb nationalist politician Milorad Dodik has declared victory for his party in an election in Bosnia shaped by economic pressures, the prospect of the Balkan nation joining the European Union and ethni",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Kennedy: 'Telling' Americans 'not to believe their own lying checkbooks is not going to work'",
         "url": "https://thehill.com/homenews/senate/6128455-kennedy-midterm-cost-living/",
         "source": "The Hill",
         "publishedAt": "2026-10-04T19:49:08.000Z",
@@ -623,6 +943,19 @@
           "score": 6,
           "label": "Center",
           "source": "The Hill"
+        }
+      },
+      {
+        "title": "AG Blanche: 'Completely False' Armed Federal Agents Will Monitor Elections",
+        "url": "https://www.breitbart.com/clips/2026/10/04/ag-blanche-completely-false-armed-federal-agents-will-monitor-elections/",
+        "source": "Breitbart",
+        "publishedAt": "2026-10-04T19:45:28.000Z",
+        "category": "political",
+        "summary": "On this week’s broadcast of “Fox News Sunday,” Attorney General Todd Blanche said it is “completely false” that “armed federal agents” will be monitoring the midterm elections. Blanche said, “Since the sixties the Department of Justice has monitored elections. Every The post AG Blanche: ‘Completely False’ Armed Federal",
+        "bias": {
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
         }
       },
       {
@@ -652,341 +985,55 @@
         }
       },
       {
-        "title": "Oman Had Previously Banned the FlyDubai Attacker From Flying - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX2JQT0F5elpaaVlVSGJqd3pRSWJoamNYNi1jdVNnYnN1VVJ1TG93OUdiZUhIMkNjQXNPRmExanhSTkdhcnR6Z1ZLWWxhZ2ZBenk2ZXlCbjFjTHZ1dEM1R1EycGN1b1R1MlVQWnRxMFlNWmt3VmEyTjMzUjZuMWlLMG9KS1c4OVRUcFpYM3ZNVk1pYmxnOVlIbHY4Z0NETGFnMWVGWUZrNEtYaW8?oc=5",
+        "title": "Colorado State Defensive Coordinator Fired in the Middle of the Game",
+        "url": "https://www.breitbart.com/sports/2026/10/04/colorado-state-defensive-coordinator-fired-in-the-middle-of-the-game/",
+        "source": "Breitbart",
+        "publishedAt": "2026-10-04T19:30:28.000Z",
+        "category": "political",
+        "summary": "Fans found out that Colorado State defensive coordinator Tyson Summers was out after disappearing half way through Saturday's game. The post Colorado State Defensive Coordinator Fired in the Middle of the Game appeared first on Breitbart .",
+        "bias": {
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
+        }
+      },
+      {
+        "title": "All B-1 Bombers Returning to U.S. From U.K. Base - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXlMMHdOTEFJWjZvZFVmMnZvLTdMQ3hlcjdWNDdWX2NtMG95ZTFNeDBwQk1HUG9NQ19OQUpSQWJuUGFIQUVOVzEzUTN1OWhmSWlhcmdVa0wzbXAzTnY2a2t4bVBDTUdVcnUyVW9rM2FCWWlmbU5aYTJxak1YeHdGbnB6eG54NGR3U0NqVnpEdFU3T1ItM2c5ZA?oc=5",
         "source": "WSJ",
-        "publishedAt": "2026-10-04T20:23:10.000Z",
+        "publishedAt": "2026-10-04T22:29:00.000Z",
         "category": "political",
         "bias": null
       },
       {
-        "title": "Video: Why Older Lawmakers Keep Winning Elections - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckxMekdXZVJTeWlDWDBzRm05eGhrLWFoNUViaTdJOFlKOTFWWjZOZmtwRnBEbjBZeS1hWDFXWDkyTHpkWkhOQm5UcTc3SHE2akx3NzVoTXBza3hJUVVjTjVkV1Nwb2loQkhiQm03X3U2YXVDOHo1SmxFMU1PQnphTlJqNXprQnVZajgycW5WaWFwYzNuUm52dUdEZUlMcnNBN0pUaU4tc2tlN0p1Q1RfZXExMA?oc=5",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T19:23:55.000Z",
+        "title": "Week Ahead for FX, Bonds: Fed Minutes in Focus as Near-Term Rate-Hike Prospects Dim - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0pFZWhSVE1ibzBDZHRBWDE0MWNOQ1pMdUdNVUM5SXNnWVlLa1JWRy05c1ZzbmxIcDlDVVB6eUV4a2lfSWo3YVM4REdCNDU5U0dZRGhBTFFZRFkyRV9BVE0wUTIxcW5sM1ZERWVMWXZfb3ZlRmdBelNlQlVBajhCckZkUUh3NzhTWXRobTBsM3RHNU13WjdnZE0tNWtjVWVrbVZtUzQ3ck8zV3lXMnVMeC11Z2xzNTRPWHJTNktvRWFucHlZU3ZGb0tQRTNMa1U?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T22:13:47.000Z",
         "category": "political",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
+        "bias": null
       },
       {
-        "title": "Zach Bryan defies Robert Kraft by wearing ‘Free Palestine’ shirt",
-        "url": "https://www.washingtonexaminer.com/news/entertainment/4753420/zach-bryan-defies-robert-kraft-free-palestine-shirt/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-10-04T19:19:54.000Z",
+        "title": "Dunamu CEO Urges South Korea to Move Quickly on Won-Backed Stablecoins - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEt6bDVoWnkxOTJKNVZGUlpRZWRHN3Y1QzhLLXI3Vjl3cHFhQzJwZVZyXzZ1WnlnRzQ0M2xqdDZReFBKbmF6d1lza1VHdVRCbThjaGRZUlJCUnQyS2R4WHlTcGYxa2pmaDJ4WkN0eTdaeUZyX0M3eFhjZTlmM3pnMGR0S29HSElmSEVVTUhDUDJwOTZHcWVtcG13YzZYLTl6aWNuWVRxWlJsTGhZVUExbGYxNVhwQ0Jfanc?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T22:09:19.000Z",
         "category": "political",
-        "summary": "Country singer Zach Bryan wore a “Free Palestine” shirt for a second night while performing at Gillette Stadium in Foxborough, Massachusetts. The move appeared as a blatant response to stadium owner Robert Kraft’s role in having rapper Macklemore removed from Ed Sheeran’s tour after the rapper made pro-Palestinian comm",
-        "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Justice Alito, who authored Dobbs decision, says it was ‘perfectly clear’ Constitution didn’t grant right to abortion",
-        "url": "https://nypost.com/2026/10/04/us-news/justice-alito-says-it-was-perfectly-clear-constitution-didnt-grant-right-to-abortion/",
-        "source": "New York Post",
-        "publishedAt": "2026-10-04T19:18:47.000Z",
-        "category": "political",
-        "summary": "Republican-appointed Justice Samuel Alito heartily defended the Supreme Court's decision to overturn Roe v. Wade, which guaranteed a national right to abortion, and lamented the death threats that ensued at the time.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Rep. Brandon Gill Warns if Democrats 'Take Back the House' They Will End Investigations into Birth Tourism Agencies",
-        "url": "https://www.breitbart.com/politics/2026/10/04/op-rep-brandon-gill-warns-if-democrats-take-back-the-house-they-will-end-investigations-into-birth-tourism-agencies/",
-        "source": "Breitbart",
-        "publishedAt": "2026-10-04T19:17:51.000Z",
-        "category": "political",
-        "summary": "Rep. Brandon Gill (R-TX) warned that if Democrats take control of the U.S. House, they will end investigations into birth tourism agencies that help foreign nationals give birth to their babies in the United States. The post Rep. Brandon Gill Warns if Democrats ‘Take Back the House’ They Will End Investigations into Bi",
-        "bias": {
-          "score": 78,
-          "label": "Right",
-          "source": "Breitbart"
-        }
-      },
-      {
-        "title": "Brazil presidential election 2026: first-round live results",
-        "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T19:01:28.000Z",
-        "category": "political",
-        "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil is directly elected,",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Cruz-Vance rivalry heats up as Texas senator suggests VP is 'feeling insecure'",
-        "url": "https://www.foxnews.com/politics/cruz-vance-rivalry-heats-texas-senator-suggests-vp-feeling-insecure",
-        "source": "Fox News",
-        "publishedAt": "2026-10-04T19:00:56.000Z",
-        "category": "political",
-        "summary": "Sen. Ted Cruz fired back at Vice President JD Vance&apos;s presidential campaign accusation, saying he is focused on helping Republicans win in the midterms.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Tech powerhouse’s regulatory push bears similarities to a notorious Washington strategy",
-        "url": "https://www.foxnews.com/politics/tech-powerhouse-regulatory-push-bears-similarities-notorious-washington-strategy",
-        "source": "Fox News",
-        "publishedAt": "2026-10-04T19:00:05.000Z",
-        "category": "political",
-        "summary": "Anthropic&apos;s AI regulation push mirrors Sam Bankman-Fried&apos;s crypto lobbying playbook, with millions in donations and safety rhetoric critics call capture.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Progressives’ Performative Billionaire-Bashing Hurts the Cities They Govern",
-        "url": "https://www.nationalreview.com/2026/10/progressives-performative-billionaire-bashing-hurts-the-cities-they-govern/",
-        "source": "National Review",
-        "publishedAt": "2026-10-04T18:51:18.000Z",
-        "category": "political",
-        "summary": "Ken Griffin just made the largest gift to U.S. higher education in history. He chose Miami.",
-        "bias": {
-          "score": 58,
-          "label": "Lean Right",
-          "source": "National Review"
-        }
-      },
-      {
-        "title": "Rahm Emanuel urges Dems not to impeach Trump if they win the House",
-        "url": "https://www.foxnews.com/politics/rahm-emanuel-urges-dems-not-impeach-trump-win-house",
-        "source": "Fox News",
-        "publishedAt": "2026-10-04T18:45:01.000Z",
-        "category": "political",
-        "summary": "Rahm Emanuel warns Democrats against impeaching Trump if they win the House, pushing for a comprehensive ethics package instead of a &quot;food fight.&quot;",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Dozens Detained at Communist Party Rally in Moscow",
-        "url": "https://www.breitbart.com/europe/2026/10/04/dozens-detained-at-communist-party-rally-in-moscow/",
-        "source": "Breitbart",
-        "publishedAt": "2026-10-04T18:30:55.000Z",
-        "category": "political",
-        "summary": "Police in Moscow detained about 60 people at a rally Sunday held by Russia's Kremlin-friendly Communist Party, the party said. The post Dozens Detained at Communist Party Rally in Moscow appeared first on Breitbart .",
-        "bias": {
-          "score": 78,
-          "label": "Right",
-          "source": "Breitbart"
-        }
-      },
-      {
-        "title": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T18:29:01.000Z",
-        "category": "political",
-        "summary": "Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Jonathan Taylor’s double earns Colts win against Commanders in London",
-        "url": "https://www.theguardian.com/sport/2026/oct/04/jonathan-taylor-indianapolis-colts-washington-commanders-nfl-london",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T18:28:29.000Z",
-        "category": "political",
-        "summary": "Indianapolis 30-13 Washington Treylon Burks scores 47-yard TD for Washington “Welcome to the NFL’s home away from home,” was the rallying cry from former running back and current in-stadium hype man Ronde Barber before the league’s 19th year holidaying in the UK began. And welcome Washington’s injury bug which must hav",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Samuel Alito warns ‘concerted’ effort to intimidate Supreme Court threatens its future",
-        "url": "https://www.washingtonexaminer.com/news/supreme-court/4753401/samuel-alito-interview-supreme-court-threats-future/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-10-04T18:26:24.000Z",
-        "category": "political",
-        "summary": "Justice Samuel Alito warned Sunday against a coordinated effort to intimidate the Supreme Court, which he said threatens the high court’s future as justices face threats and public pressure related to the rulings handed down. Alito, 76, sat down with Fox News Sunday to promote his book, So Ordered: An Originalist’s Vie",
-        "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Spanish National Police Begin Operation to Clear Thousands of Illegal Migrants from Ceuta Beach Tent Camp",
-        "url": "https://www.breitbart.com/europe/2026/10/04/spanish-national-police-begin-operation-to-clear-thousands-of-illegal-migrants-from-ceuta-beach-camp/",
-        "source": "Breitbart",
-        "publishedAt": "2026-10-04T18:22:02.000Z",
-        "category": "political",
-        "summary": "Hundreds of Spanish National Police began to clear the infamous illegal migrant encampment in Ceuta months after the invasion from Morocco. The post Spanish National Police Begin Operation to Clear Thousands of Illegal Migrants from Ceuta Beach Tent Camp appeared first on Breitbart .",
-        "bias": {
-          "score": 78,
-          "label": "Right",
-          "source": "Breitbart"
-        }
-      },
-      {
-        "title": "Aerial footage shows Bouquet wildfire burning in California national forest – video",
-        "url": "https://www.theguardian.com/world/video/2026/oct/04/aerial-footage-shows-bouquet-wildfire-burning-in-california-national-forest-video",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T18:18:21.000Z",
-        "category": "political",
-        "summary": "A fast-growing wildfire in the Angeles national forest north-east of Santa Clarita, California, has triggered evacuation orders and warnings in the area. Firefighters battled the blaze, which had spread to 1,000 acres by Saturday evening, from the ground and air, while authorities ordered residents in surroundings area",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
-        "url": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/",
-        "source": "The Hill",
-        "publishedAt": "2026-10-04T18:09:38.000Z",
-        "category": "political",
-        "summary": "Former Chicago Mayor Rahm Emanuel (D) on Sunday pushed Democrats to focus on ethics reform instead of a third impeachment of President Trump if they win back power in Congress after the midterm elections. “I'm for the investigations. Hold this administration accountable, which is what the Republican Congress and Senate",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "Justice Alito: I'm 'Concerned' About Concerted Efforts to 'Intimidate the Court'",
-        "url": "https://www.breitbart.com/clips/2026/10/04/justice-alito-im-concerned-about-concerted-efforts-to-intimidate-the-court/",
-        "source": "Breitbart",
-        "publishedAt": "2026-10-04T18:01:16.000Z",
-        "category": "political",
-        "summary": "On this week’s broadcast of “Fox News Sunday,” Supreme Court Justice Samuel Alito said he is concerned about concerted efforts to “intimidate the Court.” Host Shannon Bream said, “The president has gotten a lot of attention this week for making The post Justice Alito: I’m ‘Concerned’ About Concerted Efforts to ‘Intimid",
-        "bias": {
-          "score": 78,
-          "label": "Right",
-          "source": "Breitbart"
-        }
-      },
-      {
-        "title": "How Macron’s Decade in Power Left France Europe’s Weakest Link",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-04/how-macron-s-decade-in-power-left-france-europe-s-weakest-link",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-04T18:00:07.000Z",
-        "category": "political",
-        "summary": "Ten years ago, Roland Lescure quit a high-flying finance job in Canada to answer Emmanuel Macron’s call for an economic and political revolution in France. The banker was lured back to his homeland by the opportunity to turn back the rising tide of the far right and hand the next generation of leaders a pro-European, b",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "3 classes after Supreme Court's admissions ruling: What the data show",
-        "url": "https://thehill.com/opinion/education/6127046-higher-education-post-ruling-trends/",
-        "source": "The Hill",
-        "publishedAt": "2026-10-04T18:00:00.000Z",
-        "category": "political",
-        "summary": "Research indicates that following the Supreme Court's end of race-conscious admissions, there has been a slight nationwide increase in first-year students reporting their race or ethnicity as unknown, complicating the assessment of shifting enrollment patterns.",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "How Kansas Suddenly Became a Battleground State for Senate Control",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T17:53:18.000Z",
-        "category": "political",
-        "summary": "The state hasn’t elected a Democrat to the Senate in nearly a century. Economic challenges during President Trump’s second term, as well as other factors, have put it in play.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
-        "url": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T17:27:32.000Z",
-        "category": "political",
-        "summary": "In a district shaken by deaths of 11 workers, Democrat Marie Gluesenkamp Perez faces a stiff challenge to keep her seat On a misty morning in May in south-west Washington state, Laura Oltmann, a 41-year-old dietitian, had barely clocked in when an unfamiliar overhead announcement echoed through the hospital. “We get ov",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Supreme Court Opens Term With Climate Fight",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-04/supreme-court-opens-term-with-climate-fight-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-04T16:42:40.000Z",
-        "category": "political",
-        "summary": "Bloomberg Supreme Court Reporter Greg Stohr is on Bloomberg This Weekend previewing a new term shaped by the court’s growing emergency docket and a major climate case over whether Boulder, Colorado, can pursue state-law claims against oil companies. Speaking with hosts David Gura and Christina Ruffini, Stohr says Justi",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "Latino voters, souring on Trump, swing toward Democrats, new poll finds - CNN",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUEVEcDVZMGowSjFpZjhndEx6Q3MzT0pPOG8zMUhnWG1zdFdTZk5wMnhZMWU1NjNWNnFfNnNId3diWnh0aW9NY0h6TzEyaVVjMWRQX05zSzF0NjNQcWJCdEo4Z1kzWFZJNlQxbWx5WnFXNC1KeXVaMVhfNGRpZDk4ZHhiRHBWZw?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-10-04T16:32:31.000Z",
-        "category": "political",
-        "bias": {
-          "score": -48,
-          "label": "Left",
-          "source": "CNN"
-        }
-      },
-      {
-        "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T16:32:20.000Z",
-        "category": "political",
-        "summary": "Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Justice Department Expands Election Fraud Cases",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-04/justice-department-expands-election-fraud-cases-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-04T16:31:11.000Z",
-        "category": "political",
-        "summary": "US Attorney General Todd Blanche tells Bloomberg This Weekend that the Justice Department is expanding investigations into alleged election crimes ahead of the midterms, including noncitizen voting, and plans to deploy monitors to polling locations across the country. Speaking with Myles Miller, Blanche also discusses ",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
+        "bias": null
       },
       {
         "title": "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem - WSJ",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVJsRUhSRkM4Q1FERG1MVmJlY3U2WWJ5V0hhb0Q1dnBUcnp4TjNmS19sendxeUUwLVNBREZKRzJETVA2Zy1pd05BcGt4bzVsRnMyUDJDU2czcHM3OTZuUmZ3N3VQcDh0U2F6MkNFSVpZdTRlUkRHRXhpZmppaVdpbnpscmVDVVhCRHZzNXBxLUdPb2ZBNW1DN3VfUWJ3eDZZTXluN0doRQ?oc=5",
         "source": "WSJ",
-        "publishedAt": "2026-10-04T19:24:56.000Z",
+        "publishedAt": "2026-10-04T22:05:01.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Exclusive | Billionaire Chris Rokos Fetches $83.2 Million for Bali-Inspired Florida Home - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYk4wazBVbjcyR2o2OWVkc2t1TUJMdk4tLWxHX2E3dU5WNVVGSXkwejJpRkVvSEtwbjN5U3NSQTM3T1g3UDhuU09XZTdSRm1wTTVKNEJNamVGN05nVVBINjlpNzBBSGIwV2Y4MFhBSkFlMGVDQzZrRWlySjNESDRQeVpELWdZWnR1QVZjaDNmMlBuUQ?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T21:45:03.000Z",
         "category": "political",
         "bias": null
       },
@@ -994,39 +1041,23 @@
         "title": "Pols & Politics: White House launches website on the “real cost of Socialism” - Boston Herald",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0xtZ0Z2Z1JmcDhaRDdiNlByalRFSjBZS3dVMDdPbXhCbl9Idm5SOGVkZlRmYlZPRzdKcWJaUWVkUHo0TW5rQU1XSldRMzF1Mk9Cb09EWEVBMW9hNUw4NVlZX2Y1WGRXbnM3VlVlaS1yZF8wQm9qX0FsVUE3SmdZVEdfRXpYRC1FWm1fRXBxTEdRRDdkLWh6NnZ3cWJDWW84YjBfcUhQallMS1VnVV9FZThURQ?oc=5",
         "source": "Boston Herald",
-        "publishedAt": "2026-10-04T18:36:32.000Z",
+        "publishedAt": "2026-10-04T20:13:14.000Z",
         "category": "political",
         "bias": null
       },
       {
-        "title": "Trump lashes out at Fox News as his mid-term fears spiral out of control - The Independent",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmFEejNWVHFUdFhZZlozd0xxXzVSRFRpa3Fwc1pPZEc0aFBDc1l1YWRqc05naU10TVkwWnljOUJlWWNTVlp1em5XYnRVOWdZa3MtVnBaNzlLTGhFSk5DbG5JUUVtZ0tJNF9qdnlQWUlaNVhTc1lSMTFxZzBpWE42UkNTTW9VZVlXaDhjdVB1M2FJaUpHOVcwM002Z1AzMFdaZG55MG9fZU4?oc=5",
-        "source": "The Independent",
-        "publishedAt": "2026-10-04T17:51:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Here’s What Could Happen if Democrats Win in November - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1VYRnp2dlNnSExUcnNLOE9rY1FfVVlnRjJGTTBoOFowcmhQUmZBWlo2MWt3X21YdjIxNTNOdGVvS2U1SXBnblA3aGhTQ0czbG1wMW5VRjZZc3pSeUd0bVR3OHFxdk85V1B0ODJfYUZtcHh2SGN6QWRaZE9QZXJrT1pqQ1RpNFBJdm04ZzlGWThrUWVOWnc3WktiekhYcmNJYUE?oc=5",
+        "title": "Opinion | Where Did the Independent Leaders Go? - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xQ0R5RmpUR2VydXdnOFp6XzdmRDFvLXVMMkd5bms3dURpVFNTMlZMMlhjQmZsZDdkS2g1Ul9FZDVCTGtXNnNXb213b0VuVGFLMnJILU9wMHk5X1RoMFV3emg1VjZTMFBlSm83eng1UzhPUWN4YXh1WlZzVVJnZw?oc=5",
         "source": "WSJ",
-        "publishedAt": "2026-10-04T17:31:28.000Z",
+        "publishedAt": "2026-10-04T18:49:00.000Z",
         "category": "political",
         "bias": null
       },
       {
-        "title": "Opinion | Americans Have Better Things to Think About - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaHRIRU9jVURvUlI2Rno3WmxiUUFUZ0VXLTRIdEs0NHBMNkRqQ2ZwQmlvTUQ3S2lMSHdGcGQ5VTVfUDB1TS1vT0tqbmx2OFo1dlJQLUQ5aFNpNXNoVGlKNFEtNlF1S0RaSnhibHZvcnM4TXpNVFpwcUFRYVlGcVFNYTRJNDhWZVE?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T16:33:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Opinion | Nevada Basks in Solar Power - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wQXRmVmpTVzM4X3dVU1J1cTNtNHNDVk1kNTBGaXZqRm42cTlncWZRLW5vVTRsS09TVGpNaXAwNFNaREg0QUJBNEpMenM5a0ZvSEJtTElOOXJ2ZWYzbG9RLUg3cDhSQ2gzUHhsNUF1WDNKdw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T16:31:00.000Z",
+        "title": "Which Age Groups Actually Vote in U.S. Midterms? - Visual Capitalist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ub2FFRTFySWoyblZyRjdodTR6ZEU5MUxScjFSWjg1aEd3OHNZb0F5SFllVjFPaHowSG9hR1hKclVsYkQyZm1kT194cUphUVd6VTNwenJkUWVqME1jVzk5QV9FdnR1NlhTQmxSOEtjdw?oc=5",
+        "source": "Visual Capitalist",
+        "publishedAt": "2026-10-04T16:46:07.000Z",
         "category": "political",
         "bias": null
       },
@@ -1039,10 +1070,18 @@
         "bias": null
       },
       {
-        "title": "Cameron’s spin doctor on his tax-slashing plans to govern California - The Telegraph",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR01sMmVDUEcwX3FGZW9sU19PeXlONmVadi1EVDJDX1ZTZDRBU3pjWmowTjNMNDRIaEtPeU54MGRnQjEzcEtBOHhsZWhRQmo2dlZSd1lMNzByWlJmc3BhNVJGck1CTjBXRzBBbzNjbWpCT1kzeVJoYXEzeVNUZ1VXTG9GblBuUS1UZnpNVF9NV2t2dFBKeGFnVk5R?oc=5",
-        "source": "The Telegraph",
-        "publishedAt": "2026-10-04T13:52:00.000Z",
+        "title": "The Supreme Court Kicks Off a New Term - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVDdWY3JvWU15eHk0WW5ZN0xqa0E0N3dlNWx4NlZ4YnZEWjMwR2dQdVIwOTJXaHZTdkZFSEdjb3RuOU4ydU85U01Demw5Q2hsTkxNZHoyVUlMRkNWZ1dqTmJRVHh6UXB0MWZYcnFiTkJqR1pBSTVoWEh3amdpc05fcXJIR3VyR0xTSkVQNDR6Q0l6U2hPbUVHWmFqTFdncmRmbkR5RnRKTzZQNVRyN3RhbXU2MFFMaXRmaUJSQzRBRy00UlNVVWVQZmlNZk5QRDNfQTVlcVFJRzBuU3drOGc?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T15:03:39.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Despair over future fuels political anxiety for college students on the cusp of adulthood - News4JAX",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTXlaeVMwNGF0S2lLVGNQMnVibDI5RlRkb0Qyb0xmbjB6bkJpZlI5S3k0dFhOd2o4SkdKTXV5SlVHd2RmT2VmWGw4VEFocjNkOHA3NDhKMmp4a281SmotRUNCT0JISVVSV2hwczdDR3Q4eTF1S2FWOGYyUzJ6UzdvbXA3Q0M1Q3dTYUNuUkszQ04wQXVyWkJ3REpUYmZ4WXZZSldDemR2b0ZiYWJmeHJYWXBfTk5JbTNETVpRbF8xcjljYnIxeTBKb2t5ZG5JcEkzWkpMS2VKcw?oc=5",
+        "source": "News4JAX",
+        "publishedAt": "2026-10-04T11:35:34.000Z",
         "category": "political",
         "bias": null
       },
@@ -1055,55 +1094,49 @@
         "bias": null
       },
       {
-        "title": "Japan Protests After U.S. Marine Accused of Murder - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1NEdmp4aTJHeVoxX0c0RElDckFaT0ZGUkJnY3M5TnRLWnVsdEFrU0xaNFQ5cGRWZ0EySHlPNkdkeEZOSllGNVlBeTA4eE1BNTUxM1hQWEJnZjZIXzB4bDFGRUxsY0ZldV9hTUNqX0x1TlFqdWZMMmZ0U1ExdmdSV1dHVVdCRVJBaGNabGtSTi1FOFE?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T09:51:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Five Best Books on Women in the Movie Business - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEpNTnZVMkpuZTQ5THphNGNPRk1tYnYyMzRSTm9GMGZDRXk1Y2EwTjdoY055NzFWTlNJMmVlSlVoVVFUdWtBY01IMjA3YUY0eXY3YWl0bDZQODVqMURfeXo0Vkp4UzFsbjYwR1B0ZFRWWFNkcVpsSVlEdEl6Vi1RdmxKQ0QxQmNDZ0tUZ1RyVTVLZ241Y0pVVG9B?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T09:38:46.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "‘She’s one of us’: Mary Peltola’s bumpy rise to political power - Inquirer.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm5GWE5XZmszQWNsb2x3RU5acTllN0p6eU9PSV95Yk5oNXVON0VaN1VaWTM1YTRLcjFYcVVfVnNyX0NIYjZaeUVUM3g4NkIwMVF3NTNnT1F1d01IeGp0M2NEeklVVlp4MkRsSHFzZldNSE9kRjcwQlVZYmpDdG02SUJUY0FWUlJlMXlfdHQ0ckNCdkdWQi1nWllnNlNDc08w?oc=5",
-        "source": "Inquirer.com",
-        "publishedAt": "2026-10-04T03:59:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Byron Donalds Walks a Tightrope of Trump Loyalty in Florida’s Race for Governor - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmJMVk5ua2Jsa29kdDB4Y0FMcHF5TFRJR0thOVdidGNRcHhsQWpHaFU0NGl1MU1ReWxlUGpSQWk3ZU94T2JJR3lLZTVJN2NLUnpIR3E3Q1BiWXZNMGdOYTZfcVZYVXhXaGlSQ08ybnJRU001dkNzZVB3UEZZS1Q2ZWNLNWR4MTZZUmpycnhmTDVfdEs1WmRJMjlkNlpsWUc2dV9qTTM4eENPYVNCa3BRUlVEYjhsb3NXbTcyeXhyNzFnN0FF?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T00:00:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Three Things to Know About Byron Donalds - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaXpNeXR0dWdyMGd5WDFiTkdLX0tDTHpKbFNobkhjMERXckF5WE92WTc2Vkt3LUlaYVJseDR6R0hlNjFRa3lVc0RTSDR4WXVoSEdmbElxc2EzNDB3Y1MxZ0JyOWEwVUFRT21pSWZmdzBCcVVYYlVjSWhmYXV1WklYdnhRdkFhQ1hfbzNfTlA4azcwQQ?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T00:00:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "New term gives U.S. Supreme Court’s Thomas and Alito more chances to wield power - The Japan Times",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTFpT2xEYVk0dDRfR2xsX1l4eENiazNMM2pQOGJvWUE1dUp3RmJsNFF3ZlZXUDZfc1VHVnJ4Wm4xRHZtSHo2akx6OUM1dkQ2N0M5YU1WVXVVX1BQNWJNMzY0NUd6VDFPeTYyV2o5RmpVamZzcFMxTVZqeWtwSTFwOGNoazlYcFFDa3JReW5nWWVYVjhM?oc=5",
-        "source": "The Japan Times",
-        "publishedAt": "2026-10-03T23:50:00.000Z",
+        "title": "Meta dodging taxes with data sites - Northwest Arkansas Democrat-Gazette",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlZtMTJDVGVSVlcyZXVqdENjMFZfbGFsYzBxRjFWaFRzVWZWMzB0TkcwUVM3dmlPbnI0NE4xNXZGWGxidWxwd1BCVGdVNl8wU29ibldtVnE2cURVcDZHTjdxRXBqLWFtOW54OFRjTll3dVVxSnNMbkFfd1YtSEctclhyYjg3ZV9GLVV3a2FXWmQ?oc=5",
+        "source": "Northwest Arkansas Democrat-Gazette",
+        "publishedAt": "2026-10-04T07:11:00.000Z",
         "category": "political",
         "bias": null
       }
     ],
     "economic": [
+      {
+        "title": "How We Inflation-Proofed Our Retirement - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FX1VDQ2lWOVJhY1o3c0V2TjZGR2E5clRrTjc2LVhBeWM0M2lpbndFb2R2WDB4U2tXQ2dIVWlDYnNYV1hpX1hRTEppSHdxUXdGMGV6enJ4TGVaSi1IVG5SRm0tYnI5XzJIZURCOWNseGhrcGZqXzQyOFAzVExVcTA?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T22:39:06.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+        "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T22:30:27.000Z",
+        "category": "economic",
+        "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/uk-expected-to-follow-eu-with-tariffs-on-chinese-evs-times-says",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T21:22:51.000Z",
+        "category": "economic",
+        "summary": "The UK is preparing to impose levies on the import of Chinese electric vehicles, meeting a key demand from the European Union, the Times of London reported Sunday.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
       {
         "title": "Trump Aide Hassett Says Powell Should ‘Move On’ From Fed Board",
         "url": "https://www.bloomberg.com/news/articles/2026-10-04/trump-aide-hassett-says-powell-should-move-on-from-fed-board",
@@ -1129,27 +1162,6 @@
           "label": "Right",
           "source": "Breitbart"
         }
-      },
-      {
-        "title": "Hassett on negative polling on economy: ‘I just don't buy it’",
-        "url": "https://thehill.com/business/6128205-hassett-dismisses-negative-economic-polls/",
-        "source": "The Hill",
-        "publishedAt": "2026-10-04T14:40:55.000Z",
-        "category": "economic",
-        "summary": "Kevin Hassett, director of the National Economic Council, said Sunday he doesn’t believe in recent polls that show Americans’ negative feelings about the economy. “Ahead of an election cycle, the fact that there's, you know, possibly partisan pollsters telling us that the people are really really depressed, it's a clas",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "‘Hits and Misses’ incl. the Federal Reserve renovation, Gavin Newsom and the heroes of FlyDubai Flight 1073 - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUs5Z1dabWZ3d0dzcUFlMm1KM19nYVczeWxJNVFhNE5WbTEyV3g4M1NESTVqaTgtLVc2d3RySVl0a0FqMXU3YnVoS2laV3YzVUJSMDUyMDNEOENldmh5VXJUZk5WV01YZHc3cEIyWGRzUkk2VzJxMDljSmJNQTlwb2c0OGlsYVRJZDFzejctSXMybi1nVm5YRngtTXlLcEw1ZFhsTmI2QWhjUk0wTlRrTm91czY5YnB3RmVmOEhZaDdIN21UWUJFakpRWGxmTEk?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T15:06:03.000Z",
-        "category": "economic",
-        "bias": null
       },
       {
         "title": "Hassett blames ‘partisan pollsters’ for pessimistic consumer sentiment and says ‘the economy is booming’ - CNN",
@@ -1216,16 +1228,15 @@
         }
       },
       {
-        "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-        "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T09:03:44.000Z",
+        "title": "Weak jobs, sticky inflation: Fed faces fresh dilemma over next US rate hike - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFRZejdZdzM4Yk9LSkgyOFFaNDNiQUNpV3poblJyNFhaYnZoOXhBOVpjMnFsWVV6WHFMQkE4VWxNWWh0cG5WRGNURjZidl9hMWVYb3pocDItY09tUEhhT3pWMVdZbjhldEdxR2JRZHZIYlJkWnFhZTFUa3p5T1h4dk5NOWxmQkx1Q2tLb2lmWXprVUtRQlR1dWxFTlFUVmc2T3E2UUcyb1NaNWpQVUNDb3h4TG01MnlrUXNkMU1ScVh6NWNFcmk2Wm5qRXBvaktMSnBCUWtUNGVxakFkLTUta0hGd2ZoQQ?oc=5",
+        "source": "MSN",
+        "publishedAt": "2026-10-04T05:30:30.000Z",
         "category": "economic",
-        "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
         "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
+          "score": -68,
+          "label": "Left",
+          "source": "MSN"
         }
       },
       {
@@ -1255,6 +1266,14 @@
         }
       },
       {
+        "title": "‘Hits and Misses’ incl. the Federal Reserve renovation, Gavin Newsom and the heroes of FlyDubai Flight 1073 - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUs5Z1dabWZ3d0dzcUFlMm1KM19nYVczeWxJNVFhNE5WbTEyV3g4M1NESTVqaTgtLVc2d3RySVl0a0FqMXU3YnVoS2laV3YzVUJSMDUyMDNEOENldmh5VXJUZk5WV01YZHc3cEIyWGRzUkk2VzJxMDljSmJNQTlwb2c0OGlsYVRJZDFzejctSXMybi1nVm5YRngtTXlLcEw1ZFhsTmI2QWhjUk0wTlRrTm91czY5YnB3RmVmOEhZaDdIN21UWUJFakpRWGxmTEk?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T15:06:04.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
         "title": "FlyDubai Attack Adds New Risks to Dubai’s War-Battered Economy - WSJ",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkJETDY1QUM4ZUluTDZPS2dheDdBTWxHR2RQcS1tQ1Q3cVpaOC1KM0p1SzRjVnNsMFBLMFZUR1htRkotYUVGMlkzaEt4U2VXaWhSOTdmMlA2OWVDVFZqdHQxYnJDOWtFSHdEc2NjSzduNmw0SXdLYjBhMmFUbmQyMDFseXQtQ2FDMUV1Nm9UblRlcE5LV2dUa0dQSnQ0NnY1RGtaeF9oSVpyOW9y?oc=5",
         "source": "WSJ",
@@ -1267,14 +1286,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDU3VlI2UXBCSVpBSXBoQ1JxSnMxVUlqaG9YZEIySEtTZ1FtTTViT3Y3aVJpNjRNWUNJdVdUVzRfNzRNRm85ZXpTdGMwdVRYUTYyUkRpZ2ZLeklOeGg5ZWx4T1hDaE1HQlVsYWdvTlo0TTJkYVJCclh2VWNvd2l5bkVKRWJEc2lFbFpLVWRxQTl1VEVXeEJVQ1lHejNyUWRnSW5oRUlR?oc=5",
         "source": "AZ FREE NEWS",
         "publishedAt": "2026-10-04T13:01:04.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Weak jobs, sticky inflation: Fed faces fresh dilemma over next US rate hike - msn.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFRZejdZdzM4Yk9LSkgyOFFaNDNiQUNpV3poblJyNFhaYnZoOXhBOVpjMnFsWVV6WHFMQkE4VWxNWWh0cG5WRGNURjZidl9hMWVYb3pocDItY09tUEhhT3pWMVdZbjhldEdxR2JRZHZIYlJkWnFhZTFUa3p5T1h4dk5NOWxmQkx1Q2tLb2lmWXprVUtRQlR1dWxFTlFUVmc2T3E2UUcyb1NaNWpQVUNDb3h4TG01MnlrUXNkMU1ScVh6NWNFcmk2Wm5qRXBvaktMSnBCUWtUNGVxakFkLTUta0hGd2ZoQQ?oc=5",
-        "source": "msn.com",
-        "publishedAt": "2026-10-04T05:30:30.000Z",
         "category": "economic",
         "bias": null
       },
@@ -1412,41 +1423,15 @@
         }
       },
       {
-        "title": "Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear",
-        "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-02T17:09:45.000Z",
-        "category": "economic",
-        "summary": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
-        "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-02T16:41:45.000Z",
-        "category": "economic",
-        "summary": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Futures Extend Gains After Lackluster Jobs Report - newsmax.com",
+        "title": "Futures Extend Gains After Lackluster Jobs Report - Newsmax",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTJsOWl2bVhxWjJSZXNaUThMUXpJNHpGUk1HWUxlOG5GUV9kOTZ6VC0zTWZ4aXdnWHlZUWwtQU5Dd1RWeHVMTkxMYzJoQTV2ZXpXaDRXNHh1RzM4cWRzZ2hzWUdNZm4wZGdKVk1xQllpbmcyaE5yN0RQb2RMVk1LMnZXeE1NcTlB?oc=5",
-        "source": "newsmax.com",
+        "source": "Newsmax",
         "publishedAt": "2026-10-02T13:16:23.000Z",
         "category": "economic",
         "bias": {
           "score": 68,
           "label": "Right",
-          "source": "newsmax.com"
+          "source": "Newsmax"
         }
       },
       {
@@ -1487,15 +1472,15 @@
         }
       },
       {
-        "title": "Job Growth Slows to 29,000, Unemployment Rises to 4.2% - newsmax.com",
+        "title": "Job Growth Slows to 29,000, Unemployment Rises to 4.2% - Newsmax",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0MySzdKb1ZvaTF0cTBYeGRvTkdkUmJWZ213ZmdNWm8za2VBcFVuY2JsdU5NdHA5MmhKaGp0bXdONDVuZkg2WVplaXhwaEtZb1JIU0dTVV9OSi1nSmpoemw4dnVKd1owVF9QVjQwTndNUWJlc3J4Ylo4a3pLQV9HQzZidW04TG5ic0pr?oc=5",
-        "source": "newsmax.com",
+        "source": "Newsmax",
         "publishedAt": "2026-10-02T12:41:34.000Z",
         "category": "economic",
         "bias": {
           "score": 68,
           "label": "Right",
-          "source": "newsmax.com"
+          "source": "Newsmax"
         }
       },
       {
@@ -1509,18 +1494,6 @@
           "score": 50,
           "label": "Lean Right",
           "source": "Fox Business"
-        }
-      },
-      {
-        "title": "Fed's Logan calls for '50 bps or more' in rate hikes - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY25fbkF3U3FzTGZISkVoSW1IeGNCbXhTYUZIVWRzRkpIZGpWZ3FxWjNkS3c3d19fS2cyLTZHcnpVTUt3elpTQTdhMkxVd2VRM0JQaHRVOGVkV2FFS1RDc0FPbFZfcHpwNXNRUHEtcUx3VENpeWxiOWI2Q1lOb19kVFliWFptNXM1Y21rcw?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-10-01T23:33:06.000Z",
-        "category": "economic",
-        "bias": {
-          "score": 0,
-          "label": "Center",
-          "source": "Reuters"
         }
       },
       {
@@ -1564,18 +1537,18 @@
         "bias": null
       },
       {
-        "title": "Markets News, Oct. 2, 2026: Indexes Rise Friday After Weak Jobs Report; Nasdaq Hits New High; Dow, S&P 500 Book Weekly Losses - investopedia.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMEJuNVE2REp1MHZBTDFDWXprRkhJTDVFNWVIdGVwdTZFR0dCeTBrRTZ3Z05GeHNaX05ZTEsyaTRfSVJfLS1fa1BsZ01INXVOc09KZ0paR3QtTmxFbm1MS3ZZOFYxMWNvWGNJRFNBRnhmaElZMmlwbmw1S2NYYjNyV2dQbUlYNGNDZ3QzQ1dpM1A?oc=5",
-        "source": "investopedia.com",
-        "publishedAt": "2026-10-02T20:12:34.000Z",
+        "title": "September Hiring Trudged Along but Labor Market Still on Steady Track - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmxxSzNrT3QyWURzYVNrSnE0OVZiUGF1RWFjSVZLYWdMYTFmQVlReEpxcEVTUV91Z1lROHM5Y2I4YVU5VW5wdnNfWmpEbVpxYUY4R1ZRZVB1MExIeWREWF94X3dCTWJhYXFRWmdwWENUZ1dEdWl0MldPeTFYdXNRXzdR?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-02T20:29:00.000Z",
         "category": "economic",
         "bias": null
       },
       {
-        "title": "September Hiring Trudged Along but Labor Market Still on Steady Track - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmxxSzNrT3QyWURzYVNrSnE0OVZiUGF1RWFjSVZLYWdMYTFmQVlReEpxcEVTUV91Z1lROHM5Y2I4YVU5VW5wdnNfWmpEbVpxYUY4R1ZRZVB1MExIeWREWF94X3dCTWJhYXFRWmdwWENUZ1dEdWl0MldPeTFYdXNRXzdR?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-02T16:51:45.000Z",
+        "title": "Markets News, Oct. 2, 2026: Indexes Rise Friday After Weak Jobs Report; Nasdaq Hits New High; Dow, S&P 500 Book Weekly Losses - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMEJuNVE2REp1MHZBTDFDWXprRkhJTDVFNWVIdGVwdTZFR0dCeTBrRTZ3Z05GeHNaX05ZTEsyaTRfSVJfLS1fa1BsZ01INXVOc09KZ0paR3QtTmxFbm1MS3ZZOFYxMWNvWGNJRFNBRnhmaElZMmlwbmw1S2NYYjNyV2dQbUlYNGNDZ3QzQ1dpM1A?oc=5",
+        "source": "Investopedia",
+        "publishedAt": "2026-10-02T20:12:34.000Z",
         "category": "economic",
         "bias": null
       },
@@ -1604,18 +1577,34 @@
         "bias": null
       },
       {
-        "title": "Markets Need the Jobs Report to Point to a Fed Hold - barrons.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWZwMzFNaURNeUNwenJkM0t3X1k5YVZET3NMZU5DSHU5Qng0Tk5NaU4tUE1vTnhZd3RjeWh0V3RPRFlBczZDbXYzYnZNLUQxZTBZLVphTWNyNVJ3a2dZcDBzdm50a1U2WE1YaTJYMDd4TTl3QkVjYUJ6S2ZCbHlxeQ?oc=5",
-        "source": "barrons.com",
-        "publishedAt": "2026-10-02T11:39:00.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
         "title": "Eurozone Inflation Jumps to Three-Year High on Sharper Energy Costs - WSJ",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHladXkyTmF5dUJLXzhwRmFWc05JYzZ3VWw1VXV0bVlpOFllT1NFTGNXYmswbFpjN25UR0lLb3A3YkpZNFNfb3Jua3h2REVCd3d1SkhHQVVCb0NjZ0k0ejNkT0I4NW5xci14UnZ4TFR2YUdjal9tR0MzUzhfNHVFS3NMb1RORE5MdU5hVUhjNWlTSm9VcUVFSjFmSXpueTZKRk50RzJsNA?oc=5",
         "source": "WSJ",
         "publishedAt": "2026-10-02T10:13:00.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "US Stock Market Today S&P 500 Futures Steady As Global Factory Strength Meets Inflation Worry - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3dLa0RNYXNaNVczNjZWOE1IeW5mZW12eVdjZmoySTRZdlZQTHZXdTdzeHVEdTVFUW11Mnc5Y3RLNDQ4N1BBUTlOWFNPRjhrWTdQYzcyYXZVQXliaEkycUhlUlUtQUsyU2cwYS05Um54a194V0R0eVp5UGMxZWU4a2hEZWNOVTEtYXVEN0QtZzI0eVo5U3FxVXh5MTEtM1RrWkpLZGlueFVXalZXeXRES2FFelppaFpRU3lLSE5IWHNVeUXSAcgBQVVfeXFMT2RabS1KSHU1NHRBTDdhcnMtdzd3OUR3d2F3NXlBeVpIc2xleU1QcUFNRjMwaGVXd09rWnRmajJocXR6akdKX2NsV0FkaEVHRUg0ay1iaHE1ZGhhbDU0TWFTbVVvSGVsYWFIUW9EV01fRTBVRkN0ZWdPUWVKMkNXU29ja1J6LU5HMWVtUXc1Szdqal9UazVkeVNzb2J6VVg4NWo0YWd0Z01RR3VMb29LTDZKR1JuMEFIaEp4bTNhLVhMTHEzX0ZESEQ?oc=5",
+        "source": "simplywall.st",
+        "publishedAt": "2026-10-02T08:48:07.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "US economy slowed in the second quarter as inflation complicates Fed policy path - news.cgtn.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFFENnlMUEV3MGNkcVJYOFVxaTI4QjVJaUMyLXFUZ2QyS0Y2aWttQUh4bnhOczJOMU5wY21PdE9YdHZtcVlvWWlnVm80VHBsbUcxd1ZhdnBCSUZ2QVQzaVVUXzJnWS1SQUU1UVVMSUluUFJFTmZ5bVJhRTdpN2xiVEtuWGhDU2c4dlBtam5TMWJoOE1May0yVkVSVVhtNGJXVVg2Ri1pdXM?oc=5",
+        "source": "news.cgtn.com",
+        "publishedAt": "2026-10-02T08:12:36.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "How Is the Economy Doing Right Now? - nerdwallet.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nRU1VZTZjeXA1TTdRU1g5d1Zha0RvU1phVU1LaGIwVmN6Wk5wTk5WRG5fTHMxZUZCZkdrb0oyVk1DU1VhM05Felp2WXNmbHktdzEwSTNYOTlTWmNtMmYyMjV6RkFTYUYwSVEtRWZn?oc=5",
+        "source": "nerdwallet.com",
+        "publishedAt": "2026-10-02T07:00:00.000Z",
         "category": "economic",
         "bias": null
       },
@@ -1634,12 +1623,129 @@
     ],
     "financial": [
       {
-        "title": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclV5a01famM4MGxaUVMwZjlVX3ZHZTVCTkFlMmhlZk1Sel9BNTBUWEhVNC13MmhBUVNNdnJuTDZoU2JuSmtyZGVzX044YWJ2a0pXVDFWVERONUpYWnBKOXhLazJtUGF6TkxIcHhXMVJtYWw0X1FlV0o3RVhDdUcxZTln?oc=5",
+        "title": "The job interview question you don't have to answer",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-10-04T23:22:07.000Z",
+        "category": "financial",
+        "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Luxury Stocks Are Selling at Fast-Fashion Prices - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkdVQm55b3BTaXFNOERrTjJWOWlVUmpKWjhRVmo2Ym5jS283bkNqNTBLaUZONmRZOXFrQUVObjNpT1Q5a25IbXFQQWVoUGFkMjlRdlpORW5FamthRnMxNWxpdXBMMldyaFNFSkotTG9aNXpfTHY0ODB6RVZtOE5oaVpidDBVY3YxeHQ1STFZdndDc3QyNVZOaw?oc=5",
         "source": "WSJ",
-        "publishedAt": "2026-10-04T20:22:14.000Z",
+        "publishedAt": "2026-10-04T23:01:34.000Z",
         "category": "financial",
         "bias": null
+      },
+      {
+        "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T22:17:26.000Z",
+        "category": "financial",
+        "summary": "Asian stocks were poised to gain after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Houthi-controlled areas.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "France’s Schneider Electric nears $20B deal to buy US software group PTC: reports",
+        "url": "https://nypost.com/2026/10/04/business/frances-schneider-electric-nears-20b-deal-to-buy-us-software-group-ptc-reports/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T22:06:12.000Z",
+        "category": "financial",
+        "summary": "Boston-based PTC has a market value of $15.63 billion, according to LSEG data.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "P.&G.’s Chief on Whether Brand Loyalty Is Enough When Prices Keep Climbing",
+        "url": "https://www.nytimes.com/2026/10/04/business/procter-gamble-shailesh-jejurikar.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T22:01:12.000Z",
+        "category": "financial",
+        "summary": "Procter & Gamble’s new boss, Shailesh Jejurikar, talks about how the company is thinking about higher costs, what gets passed on to consumers and how A.I. helps it compete.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+        "url": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T21:03:06.000Z",
+        "category": "financial",
+        "summary": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "How Middle East Oil Exports Started Recovering",
+        "url": "https://www.nytimes.com/video/business/100000011182407/how-middle-east-oil-exports-started-recovering.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T20:58:38.000Z",
+        "category": "financial",
+        "summary": "Our business reporter Peter Eavis describes how oil exports from the Middle East have rebounded this month, getting closer to the levels seen before the Iran war.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Schneider Said to Near Deal to Buy PTC for More Than $20 Billion",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T20:47:02.000Z",
+        "category": "financial",
+        "summary": "Schneider Electric SE is nearing a deal to acquire US-based engineering software developer PTC Inc. for more than $20 billion, according to a source familiar with the matter.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Elon Musk rebrands SpaceXAI following Trump directive",
+        "url": "https://www.foxbusiness.com/technology/elon-musk-rebrands-spacexai-following-trump-directive",
+        "source": "Fox Business",
+        "publishedAt": "2026-10-04T20:39:18.000Z",
+        "category": "financial",
+        "summary": "SpaceX&apos;s artificial intelligence arm is undergoing another identity change just months after Elon Musk consolidated xAI into the company.",
+        "bias": {
+          "score": 50,
+          "label": "Lean Right",
+          "source": "Fox Business"
+        }
+      },
+      {
+        "title": "Workers at a SoCal Sephora revolt against union attempts after already rejecting it",
+        "url": "https://nypost.com/2026/10/04/us-news/santa-monica-sephora-workers-accuse-ufcw-local-770-of-harassment-after-rejecting-union/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T20:33:59.000Z",
+        "category": "financial",
+        "summary": "Workers at a Sephora in Santa Monica said they're frustrated a union won't accept their decision to reject them.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
       },
       {
         "title": "Trump shares meme labeling Obama, not Nixon, as 'most corrupt president'",
@@ -1679,6 +1785,22 @@
           "label": "Lean Left",
           "source": "The New York Times"
         }
+      },
+      {
+        "title": "Exclusive | Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1NlRDZJbGt4X1BzQTM3d24zOGJjd3hTaG1ETk95Wk8xTFlfUWlac3gwM2hreTRCYlRnS1NIU0hpcG0yUDhOWUdSb3RucEdoWXVWQnUwSlJVTl9hdEFVLWRtRzNtQzBHUklhTE43N2Rrdll4c1NoZGVkZW5OVkRveFdBNHYxN25IODFSX1JNMi00OTJCSDk2dHFVTGZSc3Z0R0taTnF0RGFJaGttMjVNdzItLWlkZw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T22:21:05.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "Futures: Growth Thrives But Breadth Weak. What To Do Now. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVThkME9ydU1vNDRMUS1kT2lOZ0p1THhFV3owdS1JNUJpeWlLX1p3SGhBa1phaktqQlVqWmRGRDdTcEp6S3lncUVDUVNrSGNmSHZoQVRQb1hPTndoblJXS3hJaWE1TGFHMkRsbFVjUFF1bVItdGcwYUdyMnJMZ25hU3VibkhWN0tsZjFGU25NNUwxdDROU2MyQjZkaXNCbVV6TjE1dnhGNU9rdjFMNjI4T0lwcTVnbHotODBVdnY2cw?oc=5",
+        "source": "Investor's Business Daily",
+        "publishedAt": "2026-10-04T21:25:00.000Z",
+        "category": "financial",
+        "bias": null
       },
       {
         "title": "Ken Griffin’s $3B Carnegie Mellon donation is ‘a loss for’ NYC, business leaders say",
@@ -1733,18 +1855,6 @@
         }
       },
       {
-        "title": "Researcher at Russian plague laboratory dies of ‘unknown’ infection - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZV9DaDFJbWhKbXBBOUZFQkJyWjYtUFpmcnVlS1E4TWFoMGN5ZEp1UmVoazlQVHFVSTFDMnJJejRheDJuNTJ2d2lPdElZUlI2STBGXzBZc09vWWdrSTNtMFFFaW9PdU9MdWpIWXNVUGZ6UHNLWVVIanFmelRsU04yNFdR?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-10-04T16:23:05.000Z",
-        "category": "financial",
-        "bias": {
-          "score": -48,
-          "label": "Left",
-          "source": "CNN"
-        }
-      },
-      {
         "title": "Third Avenue, Lexington seeing faster growth as prime corridors fill up",
         "url": "https://nypost.com/2026/10/04/business/third-avenue-lexington-seeing-faster-growth-as-prime-corridors-fill-up/",
         "source": "New York Post",
@@ -1784,28 +1894,16 @@
         }
       },
       {
-        "title": "America’s Copper Hoard Stokes Fear of a Supply Crunch - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0s4b1BOU1VuTGFZTWRUQXFUVWluS2VibDVyeWQxT3pyY1A4d2RDMzNYR1hqdDRmU3FQY1dfUXEzSGoyVXdHRDJvOWUxcy11T3pNWU9qNXh5Nk5GQ1BFTWFPZ2IxaWc3VnVZMjl3VW03TnMtdERaSEM0eUZROGFLZHMybV9uSnRfVEhxQkxENkVJeS15UkxLU1VJWDJsRmRhcUNXNWRsaE02OUpOa3c?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T18:12:09.000Z",
+        "title": "Hassett: ‘Mortgage rates have to come down’ - CNN",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdndJelV0ejRDRGx0SWRyYkwwN1RuNHFYbUw2MWtCTm5BSmJSdE8xb0pFV0djOTZlMm0ycGoyeXlsV2xENExWMmRRWURXZDBUbExuSEFHSzJCSHdESzRzNVlGUElqRUc1OHZtdzlzU290dExGR1ZLWFc2TlBzZlJqTmdETXZndw?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-10-04T15:04:35.000Z",
         "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Exclusive | Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1NlRDZJbGt4X1BzQTM3d24zOGJjd3hTaG1ETk95Wk8xTFlfUWlac3gwM2hreTRCYlRnS1NIU0hpcG0yUDhOWUdSb3RucEdoWXVWQnUwSlJVTl9hdEFVLWRtRzNtQzBHUklhTE43N2Rrdll4c1NoZGVkZW5OVkRveFdBNHYxN25IODFSX1JNMi00OTJCSDk2dHFVTGZSc3Z0R0taTnF0RGFJaGttMjVNdzItLWlkZw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T16:00:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZk0zQ09sVmZ1VXYzb2ZXeFQwelpiMnUzRUtoNENvR3J6WnlEUXVuVW55NE95VHVFZXljQkFpQnNoem9fS0k3MkxUNTNpeDFQa2lxLXk1Z3BZbzA4ZW9ZbnBuSWEtQ2UtNlpydXFDdUhKRHpyOVBLdE02QkpPZzVsMkViY1NrTTlfdExXVS1RZ1dydGc4bG1RekdhT0hvTzFIVjBLa0ZsX05qVTAxeTNLRWZKU2Q5NzNHMHQwV3A1dEo5VUtsSUxwdF9JajR6UXo1WHpqeHNXSUxHc0tKekdYYXZPUWxHMUNXTVh5SmV1QmIzNzg?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-10-04T14:56:51.000Z",
-        "category": "financial",
-        "bias": null
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
       },
       {
         "title": "Inside the Enrollment Cliff Hitting US Colleges",
@@ -1844,18 +1942,6 @@
           "score": 50,
           "label": "Lean Right",
           "source": "Fox Business"
-        }
-      },
-      {
-        "title": "Co-pilot accused of trying to hijack Flydubai plane probably acted alone, Israeli sources say - CNN",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUV8tUTlpOU5mZUZiYkFPLTBSUUtrWlRTZ1FkanI1U3Q2VXltbW9LRVRNcUlCcGhkQklvVXFSVTRRajFBNGNxemIxb3lKVkhiTm9CaHE4Um10dEtSSEtSbENxOXI1RFB2R1hPRlVDUmJhNlNrUkFaUTRVLVBsb2c3NjFrd00?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-10-04T12:36:40.000Z",
-        "category": "financial",
-        "bias": {
-          "score": -48,
-          "label": "Left",
-          "source": "CNN"
         }
       },
       {
@@ -1910,19 +1996,6 @@
         }
       },
       {
-        "title": "Whispers of Contagion Risk Are Returning to Europe’s Bond Market",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-04/whispers-of-contagion-risk-are-returning-to-europe-s-bond-market",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-04T11:15:00.000Z",
-        "category": "financial",
-        "summary": "Traders are on the alert for signs of contagion in Europe’s government bond market after a selloff triggered memories of the region’s debt crisis 15 years ago.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
         "title": "CEO SUNDAY: Tropical Smoothie Cafe CEO says 'listening and learning' are keys to success",
         "url": "https://www.foxbusiness.com/business-leaders/ceo-sunday-tropical-smoothie-cafe-ceo-says-listening-learning-keys-success",
         "source": "Fox Business",
@@ -1936,31 +2009,6 @@
         }
       },
       {
-        "title": "Why doesn’t high speed rail work in America? - CNN",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tVTd1MTVwTlkxZGlHdU9RTjdqa1BKRERoNlowbHlkZDE5MnVBRFNOOGV4NjJJMUV6dlRxNDhXVnJTcEVRd2wxSi1CZW1JXzR3Q0tYeWQ2bVQtdnZCY3M3T3lmUUpaN1h1cDR3eVlzSEY?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-10-04T10:30:45.000Z",
-        "category": "financial",
-        "bias": {
-          "score": -48,
-          "label": "Left",
-          "source": "CNN"
-        }
-      },
-      {
-        "title": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
-        "source": "Bloomberg",
-        "publishedAt": "2026-10-04T10:09:23.000Z",
-        "category": "financial",
-        "summary": "Iraq’s state tanker company arranged a very large crude carrier to transport 2 million barrels beyond the Strait of Hormuz, marking a move toward offering oil outside the Persian Gulf.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
         "title": "Popular eye drops sold at Walgreens recalled over sterility concerns",
         "url": "https://www.foxbusiness.com/lifestyle/popular-eye-drops-sold-walgreens-recalled-sterility-concerns",
         "source": "Fox Business",
@@ -1971,32 +2019,6 @@
           "score": 50,
           "label": "Lean Right",
           "source": "Fox Business"
-        }
-      },
-      {
-        "title": "MS Now connects ‘blue dots’ at Texas fan event: ‘I always feel hope when I watch them’",
-        "url": "https://www.theguardian.com/media/2026/oct/04/ms-now-fan-event-texas",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T10:00:26.000Z",
-        "category": "financial",
-        "summary": "Network at receiving end of White House press ban recently chose red state to host fan event as part of broader outreach In 2024, Donald Trump and JD Vance carried Tarrant county, Texas, by 42,125 votes. So why, on the afternoon of 26 September, was the arena at the University of Texas-Arlington filled with nearly 5,00",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "‘The violence is off the scale’: staff and passengers at risk as assaults on trains in Great Britain soar to record high",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/04/violence-rail-workers-passengers-risk-assaults-uk-railways-soar-record-high-transport",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T10:00:25.000Z",
-        "category": "financial",
-        "summary": "Cases of abuse, spitting, head-butting and sexual harassment, have spiked as transport police numbers have dwindled When a train was halted outside Exeter St Davids station on Monday, rail staff leapt to one conclusion: there had been a violent incident on board. “Someone will have kicked off,” one staff member said. “",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
         }
       },
       {
@@ -2024,6 +2046,14 @@
           "label": "Lean Right",
           "source": "Fox Business"
         }
+      },
+      {
+        "title": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZk0zQ09sVmZ1VXYzb2ZXeFQwelpiMnUzRUtoNENvR3J6WnlEUXVuVW55NE95VHVFZXljQkFpQnNoem9fS0k3MkxUNTNpeDFQa2lxLXk1Z3BZbzA4ZW9ZbnBuSWEtQ2UtNlpydXFDdUhKRHpyOVBLdE02QkpPZzVsMkViY1NrTTlfdExXVS1RZ1dydGc4bG1RekdhT0hvTzFIVjBLa0ZsX05qVTAxeTNLRWZKU2Q5NzNHMHQwV3A1dEo5VUtsSUxwdF9JajR6UXo1WHpqeHNXSUxHc0tKekdYYXZPUWxHMUNXTVh5SmV1QmIzNzg?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-10-04T14:56:51.000Z",
+        "category": "financial",
+        "bias": null
       },
       {
         "title": "Stock Funds Cling to a 10.3% Gain for 2026 - WSJ",
@@ -2074,54 +2104,27 @@
         "bias": null
       },
       {
-        "title": "Trump Shares GOP Sen.'s Phone Number in Feud Over Time Switch - newsmax.com",
+        "title": "Trump Shares GOP Sen.'s Phone Number in Feud Over Time Switch - Newsmax",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmZ1dlUwRXNRY1NGTlY2dlJBUTNGYThlVVU3TVdXWHVDTzVQTHk2cVBIYzd2cVgyZmI5WXBiQWttZWNDTGdnVGZ6Z040V3ZUTGFfMFJYX1FIZEk5ZExhRlhOakxLbHNXb2NzWmNDUG9ZaW5KTHJJcHZQclBpZ3BqQVJ2QkVBQzhvRHlibw?oc=5",
-        "source": "newsmax.com",
+        "source": "Newsmax",
         "publishedAt": "2026-10-03T18:56:00.000Z",
         "category": "financial",
         "bias": {
           "score": 68,
           "label": "Right",
-          "source": "newsmax.com"
+          "source": "Newsmax"
         }
       },
       {
-        "title": "Springsteen, other stars share stage with hardcore leftist groups at music fest",
-        "url": "https://www.foxnews.com/politics/springsteen-headlines-music-festival-rallying-pro-democrat-activists-election-day",
-        "source": "Fox News",
-        "publishedAt": "2026-10-03T18:15:37.000Z",
+        "title": "Equities close higher as softer jobs data quiets rate-hike expectations - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
+        "source": "Reuters",
+        "publishedAt": "2026-10-02T22:44:50.000Z",
         "category": "financial",
-        "summary": "Bruce Springsteen and Dave Matthews headlined a Power To The People festival featuring anti-Trump nonprofits mobilizing ahead of midterms.",
         "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Walmart, Trader Joe's frozen berry recall expands after E coli outbreak sickened 17",
-        "url": "https://www.foxbusiness.com/retail/walmart-trader-joes-frozen-berry-recall-expands-after-e-coli-outbreak-sickened-17",
-        "source": "Fox Business",
-        "publishedAt": "2026-10-03T14:51:52.000Z",
-        "category": "financial",
-        "summary": "A Chilean fruit supplier expanded its recall of frozen organic berries sold at Walmart and Trader Joe&apos;s after the products were linked to an E. coli outbreak that sickened 17 people.",
-        "bias": {
-          "score": 50,
-          "label": "Lean Right",
-          "source": "Fox Business"
-        }
-      },
-      {
-        "title": "Iconic California company scoops up empty Yamaha HQ in massive $115m property deal",
-        "url": "https://nypost.com/2026/10/03/business/disney-pays-115-million-for-yamahas-orange-county-headquarters/",
-        "source": "New York Post",
-        "publishedAt": "2026-10-03T14:00:00.000Z",
-        "category": "financial",
-        "summary": "The company said the campus will house ‘back-of-house operations’ as Yamaha moves to Georgia.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
+          "score": 0,
+          "label": "Center",
+          "source": "Reuters"
         }
       },
       {
@@ -2141,6 +2144,14 @@
         "bias": null
       },
       {
+        "title": "Five Things I Learned in Hiring a Financial Adviser - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDFMNXNza2hzak1HNGNLcUc2OGNNZ0FNdWJmU01VU29Oc0labnJIY1ZTVjU1Z3BCODh6STN4a0tkeXdUcU1adzY5cGx2VUJtRjFSOGQ3U2xLUTRQM0ZWNGpYb2RMeEZGYnhHUjF4bWdadmZqMGZ4OGs0ZF9mYjczYw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-03T14:00:00.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
         "title": "Elon Musk: America is ‘1,000% going to go bankrupt’ and ‘fail as a country’ — but he says 1 powerful force can save us - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnFpUzRON0ZINTVLSUdkVTNSdnlPMXZubkRlZURVMVU3eDBRajE0RjFBN194OEJxQnZqZEx3NllHQW1QVHlnTktyWVM3dTZpY05rcnZDSXRUYU9MN2FsSXV4OEY2di12ZEhvM05Cd2tzN2NJaUVNWnZydC1EUkJlOUZ2UVVsZ2RRdThTclZtNkQ0UQ?oc=5",
         "source": "Yahoo Finance",
@@ -2155,25 +2166,323 @@
         "publishedAt": "2026-10-03T10:00:00.000Z",
         "category": "financial",
         "bias": null
-      },
-      {
-        "title": "Meet the Gen-Z High Rollers Dominating the Prediction Markets - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELWZ1SHVfTHFSUVVSdnJWVUdCSHJ1YWZpbnNFUEJfdERSSXdGSDJaZzVkQzBXaW9JWXU1OTlMcU1wMkhjT0pTWk5QLWdNcWRtZk0tbmhNZFRGcnM2QkJoZ0o4cVlEdjlaS0xyeEZDaEFDWHYybGp4VDFpSQ?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-03T09:30:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Luxury Stocks Are Selling at Fast-Fashion Prices - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkdVQm55b3BTaXFNOERrTjJWOWlVUmpKWjhRVmo2Ym5jS283bkNqNTBLaUZONmRZOXFrQUVObjNpT1Q5a25IbXFQQWVoUGFkMjlRdlpORW5FamthRnMxNWxpdXBMMldyaFNFSkotTG9aNXpfTHY0ODB6RVZtOE5oaVpidDBVY3YxeHQ1STFZdndDc3QyNVZOaw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-03T09:30:00.000Z",
-        "category": "financial",
-        "bias": null
       }
     ],
     "geopolitical": [
+      {
+        "title": "Rescuers suspend search for survivors after plane went missing off US coast",
+        "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-10-04T23:29:18.000Z",
+        "category": "geopolitical",
+        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Boy, 15, arrested after being caught on video blasting fire in woman’s face during France’s student riots",
+        "url": "https://nypost.com/2026/10/04/world-news/boy-15-arrested-for-blasting-fire-in-womans-face-during-frances-student-riots/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T23:23:39.000Z",
+        "category": "geopolitical",
+        "summary": "The shocking footage shows the boy, whose face was covered by a mask, spray fire at a woman standing in front of a bus stop, using a makeshift flame-thrower that appears to be made with an aerosol can.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Mom on hijacked flydubai flight with four young daughters had one instruction for them: ‘I’ll never forget’",
+        "url": "https://nypost.com/2026/10/04/world-news/mom-on-hijacked-flydubai-flight-with-four-young-daughters-had-one-instruction-for-them/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T23:20:51.000Z",
+        "category": "geopolitical",
+        "summary": "\"It was just a miracle wrapped in a miracle wrapped in a miracle.''",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-10-04T23:20:03.000Z",
+        "category": "geopolitical",
+        "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
+        "url": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T23:03:25.000Z",
+        "category": "geopolitical",
+        "summary": "A mysterious call last Sunday near a military base used by the U.S. set in motion a huge counterterrorism response and days of uncertainty in Britain.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Children’s books with Black main characters down 8% in a year, study shows",
+        "url": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T23:01:40.000Z",
+        "category": "geopolitical",
+        "summary": "Only 150 of 2,189 titles published in UK for young children last year focused on minority ethnic, disabled or neurodivergent characters The number of children’s books featuring Black main characters fell by almost 8% last year, according to research into diversity in UK publishing. Just 47 – or 2.1% – of the 2,189 book",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Money stolen by scammers hijacking UK social media accounts rises 400%",
+        "url": "https://www.theguardian.com/money/2026/oct/05/scammers-hijacking-uk-social-media-accounts",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T23:01:40.000Z",
+        "category": "geopolitical",
+        "summary": "Many cases involve criminals using other people’s identities to sell fake event tickets to friends and family The total amount stolen by criminals who hack into people’s emails and social media accounts and then pretend to be them has risen by more than 400% in a year, official UK data shows. In many cases, the scammer",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Strikes by North Sea oil workers could ‘severely disrupt’ UK fuel supplies",
+        "url": "https://www.theguardian.com/business/2026/oct/05/strikes-by-north-sea-oil-workers-could-severely-disrupt-uk-fuel-supplies",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T23:01:40.000Z",
+        "category": "geopolitical",
+        "summary": "Union says staff left with no choice but industrial action after breakdown in pay talks with Texas oil firm Apache A looming strike by oil workers in the North Sea could “severely disrupt” UK fuel supplies, the Unite union has said, adding that staff were left with no choice after a breakdown in pay talks with the Texa",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Exclusive | Former Eli Lilly Exec Sells Wyoming Estate for Close to $39.5 Million - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM1pxNUIyUGNwQ2pLSFZwQ3B5T0t1WTBlc2hXUW9WTHl2bFZGTm16MmRnY09IT1MyUUxpek1MY2hSNWVRZnlybDczMzNrTUlFVEJqRHBLOW0tUXgwM2o2QWJvUFBvbkRPd0F2MGwtNmxZdmJzYXZhTDQtakhGdWxTem96OFphZw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T23:19:27.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work. - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHJ6SUgzSEFMak9iT2tWcDNIUnN1U3hzNjh2V3htQ3Q2dmI4LTVFMFMxN0czeEhUTEJxTDdtZ1ZCSzhoUkNKYUZVTlp2a0VVRXpEa3g5MDBTWE9keHg2Zk5oWnBLNmJxN0Rrc1VaVW93S1BMRDlNNDRqS2FBSTBkb2g4NFM2alBrU2dZTFpSamxKR1pIWmxLVHlOMERWTTBjWFRYQ1BYWEdZRElVVzF1SDZHck9GbEFE?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T22:37:06.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
+        "url": "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T22:24:58.000Z",
+        "category": "geopolitical",
+        "summary": "Biljana Plavsic, a Bosnian Serb, pleaded guilty to one count of crimes against humanity. She later recanted and said she “would do the same again.”",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Russian drone slams into key Kyiv bridge during German chancellor’s visit as Putin prepares mass military mobilization: report",
+        "url": "https://nypost.com/2026/10/04/world-news/russian-drone-slams-into-key-kyiv-bridge-during-german-chancellors-visit-as-putin-prepares-mass-military-mobilization-report/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T22:07:54.000Z",
+        "category": "geopolitical",
+        "summary": "The Kremlin has repeatedly warned Europe, and Germany specifically, to halt its aid programs to Ukraine as Kyiv fights back the Russian invasion.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "What to Know About France’s High School Protests",
+        "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T22:03:43.000Z",
+        "category": "geopolitical",
+        "summary": "Hundreds of schools will suspend some or all classes on Monday, the education minister said, as students protest conditions in the education system. Thousands of protesters have been arrested and hundreds of people injured.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Brazil's election could shift its ties with the U.S. and China",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
+        "source": "NPR",
+        "publishedAt": "2026-10-04T21:53:15.000Z",
+        "category": "geopolitical",
+        "summary": "Brazil is a global supplier of oil, soybeans and critical minerals. Americas Quarterly editor in chief Brian Winter explains how Brazil's presidential election could impact trade with the U.S. and China.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "Brazil votes, with Lula facing Bolsonaro's son",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+        "source": "NPR",
+        "publishedAt": "2026-10-04T21:52:09.000Z",
+        "category": "geopolitical",
+        "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+        "bias": {
+          "score": -25,
+          "label": "Lean Left",
+          "source": "NPR"
+        }
+      },
+      {
+        "title": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
+        "url": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/",
+        "source": "The Hill",
+        "publishedAt": "2026-10-04T21:45:31.000Z",
+        "category": "geopolitical",
+        "summary": "The Russian Defense Ministry on Sunday threatened to hit Ukrainian military and industrial facilities, after Ukrainian President Volodymyr Zelensky said his military would target Russia’s oil refineries. “Strikes by the Armed Forces of the Russian Federation against military and military-industrial facilities, as well ",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Who Were the Pilots on the FlyDubai Flight?",
+        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T21:35:14.000Z",
+        "category": "geopolitical",
+        "summary": "The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T21:11:09.000Z",
+        "category": "geopolitical",
+        "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "North Korea missile could put Guam in range as Kim rebuffs Trump outreach: expert",
+        "url": "https://www.foxnews.com/world/north-korea-missile-could-put-guam-range-kim-rebuffs-trump-outreach-expert",
+        "source": "Fox News",
+        "publishedAt": "2026-10-04T21:08:50.000Z",
+        "category": "geopolitical",
+        "summary": "North Korea&apos;s intermediate-range missile test puts Guam and parts of Alaska within range, an expert says, as President Trump touts his relationship with Kim Jong Un.",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Green Party in UK declares ‘Zionism is racism’ — and backs ending state of Israel",
+        "url": "https://nypost.com/2026/10/04/us-news/green-party-in-uk-declares-zionism-is-racism-and-backs-wiping-out-israel/",
+        "source": "New York Post",
+        "publishedAt": "2026-10-04T21:02:06.000Z",
+        "category": "geopolitical",
+        "summary": "The United Kingdom's Green Party adopted a \"Zionism is Racism\" motion during a conference on Sunday, cementing itself as one of Europe's first openly anti-Zionist parties.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Tories to pledge to scrap Environment Agency and Natural England",
+        "url": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+        "source": "The Guardian",
+        "publishedAt": "2026-10-04T21:00:38.000Z",
+        "category": "geopolitical",
+        "summary": "Shadow chancellor will also promise to scrap affordable homes regulations as part of strategy to refocus on growth The Conservatives will announce a bonfire of regulations including abolishing affordable homes and community funding rules as well as scrapping Natural England and the Environment Agency. The shadow chance",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "The Return of Middle East Oil",
+        "url": "https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-10-04T20:58:41.000Z",
+        "category": "geopolitical",
+        "summary": "More oil is moving through the Strait of Hormuz. What does that mean for Iran’s wartime leverage?",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Democratic rep: Administration 'has failed to present a strategy' in Iran war",
+        "url": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
+        "source": "The Hill",
+        "publishedAt": "2026-10-04T20:53:23.000Z",
+        "category": "geopolitical",
+        "summary": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain to the American people what the goals are in trying to prevent, and we have to prevent Iran from ever getting a nuclear",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Ax-wielding FlyDubai Co-pilot Had Been Flagged over Extremism Concerns - Newsmax",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3ZNWEU2ZW5hTFd4Vl9aNGdWRUtqNnlwOTNuNEZaS0xEWjIwS1ZlQlBGQzMwakhwWnpvSGh4OENSNVl3T2Z2dUpHYjVRQzEtQmNZVTZ4cjVMVVdITXBXQzZKa25WZ2RWSGdYU29VUFVaWElDU0JkMWhneWxtWVBfdWxCemZyVDVJZWZCZENNd0dsWkU3a25SODhTZnBzSUJEa3V6cFZB?oc=5",
+        "source": "Newsmax",
+        "publishedAt": "2026-10-04T20:38:00.000Z",
+        "category": "geopolitical",
+        "bias": {
+          "score": 68,
+          "label": "Right",
+          "source": "Newsmax"
+        }
+      },
+      {
+        "title": "Pro-Russia Dodik Hails Trump as Allies Win in Bosnia Vote",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-04/pro-russian-dodik-praises-trump-as-allies-triumph-in-bosnia-vote",
+        "source": "Bloomberg",
+        "publishedAt": "2026-10-04T20:15:16.000Z",
+        "category": "geopolitical",
+        "summary": "Bosnian Serb leader Milorad Dodik, a supporter of Vladimir Putin and opponent of Bosnia-Herzegovina’s unity, retained behind-the-scenes power in elections and cited President Donald Trump’s influence for the outcome.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
       {
         "title": "No bail for P-plater over Newcastle crash that left five-year-old in induced coma and injured nine other NRL fans",
         "url": "https://www.theguardian.com/australia-news/2026/oct/04/no-bail-for-p-plater-over-newcastle-crash-that-left-five-year-old-in-induced-coma-and-injured-nine-other-nrl-fans-ntwnfb",
@@ -2214,19 +2523,6 @@
         }
       },
       {
-        "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T19:14:05.000Z",
-        "category": "geopolitical",
-        "summary": "The announcement follows weeks of fighting with the Iran-allied armed group and threatens to deepen U.S. involvement in the widening Middle East conflict.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
         "title": "Never-before-seen images from inside North Korea reveal haunting devastation of 90s famine",
         "url": "https://nypost.com/2026/10/04/world-news/leaked-north-korea-images-show-never-before-seen-glimpse-of-90s-famine/",
         "source": "New York Post",
@@ -2240,93 +2536,16 @@
         }
       },
       {
-        "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T19:07:36.000Z",
+        "title": "Mystery Lab Death Sparks Fears Of Plague Outbreak In Russia",
+        "url": "https://www.dailywire.com/news/mystery-lab-death-sparks-fears-of-plague-outbreak-in-russia",
+        "source": "Daily Wire",
+        "publishedAt": "2026-10-04T17:50:02.000Z",
         "category": "geopolitical",
-        "summary": "The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.",
+        "summary": "More than 200 people have entered forced quarantine after a Russian laboratory worker died from reported exposure to the plague in an incident evocative of the origins of the coronavirus pandemic. Daria Shipilova, 28, was admitted to the hospital with symptoms of severe pneumonia and died sometime overnight between Oct",
         "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-        "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T18:47:12.000Z",
-        "category": "geopolitical",
-        "summary": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T18:00:34.000Z",
-        "category": "geopolitical",
-        "summary": "Home secretary warns people traffickers will exploit asylum seekers because they decide who comes to the UK Nearly all women who try to reach the UK in small boats from northern France have been raped on their journey, Shabana Mahmood has claimed. In an interview with The Rest Is Politics podcast, the home secretary sa",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Green party votes to adopt policy that equates Zionism with racism",
-        "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T17:40:39.000Z",
-        "category": "geopolitical",
-        "summary": "Motion calling for single Palestinian state, which is opposed by most Green MPs and expected to be challenged, passes by 1,022 votes to 813 The Greens have formally adopted a policy that equates Zionism with racism and calls for Israel to be replaced by a single Palestinian state, a move opposed by the bulk of the part",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Alleged Flydubai hijacking attempt exposes worrying gaps in aviation security - CNN",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWtyazhka19qT1phLWU5a0JZOFlXNVlaTDdXYW9rcEh6eVB3Ylp5TV90djJhb3ZsVElIc2dGcWFCOXgzQm85c0haVFRGWWlEOTlULVcwUGR1V0hwRUh6eVY2ZUV2Qzh3Vy1RMkhCQUxENnJKVEQ0a1Z5UGkwZzZRa0U5XzFrVjlLalQzSEdMRQ?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-10-04T17:28:17.000Z",
-        "category": "geopolitical",
-        "bias": {
-          "score": -48,
-          "label": "Left",
-          "source": "CNN"
-        }
-      },
-      {
-        "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
-        "url": "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-10-04T17:25:24.000Z",
-        "category": "geopolitical",
-        "summary": "Biljana Plavsic, a Bosnian Serb, pleaded guilty to one count of crimes against humanity. She later recanted and said she “would do the same again.”",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Indian police accused of sexually harassing journalists at protest",
-        "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-10-04T17:01:19.000Z",
-        "category": "geopolitical",
-        "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
+          "score": 72,
+          "label": "Right",
+          "source": "Daily Wire"
         }
       },
       {
@@ -2343,84 +2562,6 @@
         }
       },
       {
-        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-10-04T16:51:30.000Z",
-        "category": "geopolitical",
-        "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
-        "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T16:32:00.000Z",
-        "category": "geopolitical",
-        "summary": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a fundamental overhaul. Speak",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-10-04T16:24:48.000Z",
-        "category": "geopolitical",
-        "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
-        "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
-        "url": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T16:12:21.000Z",
-        "category": "geopolitical",
-        "summary": "Attack shortly after Friedrich Merz arrived on unannounced visit intended to underline Germany’s backing Russia has struck another major bridge in Kyiv as the German chancellor, Friedrich Merz, arrived in the capital in a show of support for Ukraine. A Russian drone hit Kyiv’s key Northern Bridge over the Dnipro River,",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-        "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-        "source": "The Guardian",
-        "publishedAt": "2026-10-04T15:16:03.000Z",
-        "category": "geopolitical",
-        "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms. Last week, authorities arres",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
-        "source": "NPR",
-        "publishedAt": "2026-10-04T15:15:09.000Z",
-        "category": "geopolitical",
-        "summary": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
-        "bias": {
-          "score": -25,
-          "label": "Lean Left",
-          "source": "NPR"
-        }
-      },
-      {
         "title": "America’s Arctic war machine roars to life as commander reveals chilling new reality on Russia’s doorstep",
         "url": "https://www.foxnews.com/world/americas-arctic-war-machine-roars-life-commander-reveals-chilling-new-reality-russias-doorstep",
         "source": "Fox News",
@@ -2432,30 +2573,6 @@
           "label": "Lean Right",
           "source": "Fox News"
         }
-      },
-      {
-        "title": "Opinion | A Pro-Growth Lesson From British Columbia - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkprbWdxRkRtMnl6TnUtRUVlU0FOU1gyY2c1YW5iU3hBZy1oMkZEcFpnbGxkcUVWVUw5WXJZZmRhOVM5T3R5eWxBVVlOVWt0eDJESjdER3dFNTliaWRZUHpPcGt5N3pVSnVoR3puWmlpZElpbG9qdnlFT0Z0LW5qNmVfSWw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T17:42:40.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
-        "title": "Exclusive | Former Eli Lilly Exec Sells Wyoming Estate for Close to $39.5 Million - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM1pxNUIyUGNwQ2pLSFZwQ3B5T0t1WTBlc2hXUW9WTHl2bFZGTm16MmRnY09IT1MyUUxpek1MY2hSNWVRZnlybDczMzNrTUlFVEJqRHBLOW0tUXgwM2o2QWJvUFBvbkRPd0F2MGwtNmxZdmJzYXZhTDQtakhGdWxTem96OFphZw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T17:17:59.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
-        "title": "10 Books to Read: The Best Reviews of September - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVpUG5ENjloR09QOUFOMUJWenpvMW1PczNYamNzMmJVTFEwSzBGMVBBWnBXT1g1ODFpWVNnUFRRMGZ6VkFyenhUSjU1MEZoSnRGQXNhYnJaZnl0cWtkd3FEbU1NNjdtdXlMMTdyckZGU09NU2tMTHFVNEEyUXdCSEVQdHVYcGZsYkVBdU1nUUJlUmtlalZoR0xB?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-04T17:03:28.000Z",
-        "category": "geopolitical",
-        "bias": null
       },
       {
         "title": "Flydubai Hijacker Sparks Concerns That Iran Has New Terror Tactic",
@@ -2497,133 +2614,18 @@
         }
       },
       {
-        "title": "US Marine arrested in Japan over suspected killing of woman as Tokyo lodges 'strong protest'",
-        "url": "https://www.foxnews.com/world/us-marine-arrested-japan-suspected-killing-woman-tokyo-lodges-strong-protest",
-        "source": "Fox News",
-        "publishedAt": "2026-10-04T12:38:32.000Z",
-        "category": "geopolitical",
-        "summary": "Surveillance footage showed Anna Yagi entering a Naha hotel with Lance Cpl. Devin Jacob Ballard before he later left alone, police reported.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Exclusive: Trump envoy blasts South Africa over hateful ‘kill' chant, says country is drifting toward US foes",
-        "url": "https://www.foxnews.com/world/exclusive-trump-envoy-blasts-south-africa-over-hateful-kill-chant-says-country-drifting-toward-us-foes",
-        "source": "Fox News",
-        "publishedAt": "2026-10-04T11:33:11.000Z",
-        "category": "geopolitical",
-        "summary": "U.S. Ambassador Brent Bozell warns South Africa is drifting toward Iran, Russia, China and Hamas as Trump pushes back on land seizure policies.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Germany's Merz Visits Ukraine to Pledge Support as Russia Ramps Up Strikes",
-        "url": "https://www.breitbart.com/europe/2026/10/04/germanys-merz-visits-ukraine-to-pledge-support-as-russia-ramps-up-strikes/",
-        "source": "Breitbart",
-        "publishedAt": "2026-10-04T11:15:27.000Z",
-        "category": "geopolitical",
-        "summary": "German Chancellor Friedrich Merz arrived in Kyiv Sunday in a show of support as Russia escalated its attacks on Ukrainian cities. The post Germany’s Merz Visits Ukraine to Pledge Support as Russia Ramps Up Strikes appeared first on Breitbart .",
-        "bias": {
-          "score": 78,
-          "label": "Right",
-          "source": "Breitbart"
-        }
-      },
-      {
-        "title": "Pro-Ukraine Governing Coalition Wins 35% in Latvian Election - newsmax.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFRDWThMMGk0LUpfb1ZNLXNvaTZGT0VHal9GdlJkWHhVMUNJZXd0LVNJWm16bjhUa004VXlzUnVIdy1UZmF6MHNtdVk0OG9uZEtqV1Blb3lpX3ctdGZORnBKNFl0X05TNVY3b2gzYml4UmFDajZGUkJmazNER3hXN01YdWFzWm5Yd2sxWk1XUEFwWWxhVC1BX1QxSEhPWlROLXJDaUpqNV96QQ?oc=5",
-        "source": "newsmax.com",
-        "publishedAt": "2026-10-04T11:00:39.000Z",
-        "category": "geopolitical",
-        "bias": {
-          "score": 68,
-          "label": "Right",
-          "source": "newsmax.com"
-        }
-      },
-      {
-        "title": "Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks",
-        "url": "https://www.foxnews.com/politics/iran-move-shadow-war-dangerous-direction-experts-warn-back-two-possible-terror-attacks",
-        "source": "Fox News",
-        "publishedAt": "2026-10-04T11:00:04.000Z",
-        "category": "geopolitical",
-        "summary": "Two suspected plots near RAF Fairford and aboard a FlyDubai flight raise questions about Iran&apos;s covert attacks against the United States and Israel.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Wagging tails fill Malate Church as priests bless pets for St. Francis feast",
-        "url": "https://nypost.com/2026/10/04/world-news/st-francis-feast-day-draws-dogs-and-cats-to-philippines-church/",
-        "source": "New York Post",
-        "publishedAt": "2026-10-04T10:54:35.000Z",
-        "category": "geopolitical",
-        "summary": "Parishioners marked the feast Sunday by bringing their beloved pets for a special blessing — mostly dogs but also cats and even a pet snail.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Parents of Israeli hostage slain by Hamas welcome baby boy born from egg frozen 25 years ago",
-        "url": "https://nypost.com/2026/10/04/world-news/slain-israeli-hostage-almog-sarusis-parents-welcome-baby-boy-born-from-egg-frozen-25-years-ago/",
-        "source": "New York Post",
-        "publishedAt": "2026-10-04T10:00:00.000Z",
-        "category": "geopolitical",
-        "summary": "Nearly three years after their son Almog was kidnapped and later killed in Gaza, Nira and Yigal Sarusi welcomed a baby boy born using an egg frozen 25 years ago.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "How A Cockpit Safety Tool Became The Terrorist’s Weapon In Israel’s Near-9/11",
-        "url": "https://www.dailywire.com/news/how-a-cockpit-safety-tool-became-the-terrorists-weapon-in-israels-near-9-11",
-        "source": "Daily Wire",
-        "publishedAt": "2026-10-04T09:24:09.000Z",
-        "category": "geopolitical",
-        "summary": "The co-pilot accused of attacking his captain aboard an Israel-bound FlyDubai flight last week used the cockpit’s own emergency crash axe and was attempting a terrorist attack, United Arab Emirates authorities said Saturday. UAE Attorney General Hamad Saif Al Shamsi told the country’s state news agency that investigato",
-        "bias": {
-          "score": 72,
-          "label": "Right",
-          "source": "Daily Wire"
-        }
-      },
-      {
-        "title": "Germany's Merz Visits Kyiv as Russia Steps up Attacks on Ukrainian Cities - newsmax.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSmt3VC05NFdQREVaUmQxOGlReFVWU29Fa2hmYW1sSmRQcHdIS1B3anpqTk8wdVVfSnViVFZDbUxKQjZXdW8zckw2LWdreDVWRE5oU2Q3VmlyTnpMU2ZJbUhObWRBMS1hUGZ1UUJJS0t0MmI2SUl6Z0pjbXpyRXJiWXAyVXlfVm5RNVZ6V2dWaTkyMmlVYjZrSjFkY2pFdVRL?oc=5",
-        "source": "newsmax.com",
-        "publishedAt": "2026-10-04T08:00:19.000Z",
-        "category": "geopolitical",
-        "bias": {
-          "score": 68,
-          "label": "Right",
-          "source": "newsmax.com"
-        }
-      },
-      {
-        "title": "Iran Urges Neighbors to Block US, Israeli Exploitation - تسنیم",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5jMEpCV09mT0FUaHg3YWlnZzRHaW55d0FGRXE3azRlVmR5S0liRUNZdGFUTWExVnYtOGdIY1B5YXYwREdBREtrNTJwLXlXNWowUUhYRTEwWElSYk1Rb05iOUYzeEtvUUs4RGFBLWhPWGhEcEVMaGljbkhFV0FVU2N5ODN3Qmp6aWtFcDZhQU84SWNFNVVtMjJNdlhVT3BMcVBEUkNDUllOd9IBrwFBVV95cUxPWTFsS0JHYXl3Ujk2el9JRTFZcGxsRTRmRE04dENuLXRtMl9WcUIwNENfOU1FQm5wMUFCRWROT1hPRGFzSG5fSHhvV2k2UFF4TkxrN2h1TUhzLVJoT1gzc2pneEdHUVVEQzhZY1J0YkZuMWlHeXRCUkFaMGJOeGI5R2FCZ2U2TnpaaEZqVHZ3NmNuTExuUlM1aXZXUnBlS09PNHAyZE8tNFVfeHBGckJ3?oc=5",
-        "source": "تسنیم",
-        "publishedAt": "2026-10-04T08:55:56.000Z",
+        "title": "10 Books to Read: The Best Reviews of September - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVpUG5ENjloR09QOUFOMUJWenpvMW1PczNYamNzMmJVTFEwSzBGMVBBWnBXT1g1ODFpWVNnUFRRMGZ6VkFyenhUSjU1MEZoSnRGQXNhYnJaZnl0cWtkd3FEbU1NNjdtdXlMMTdyckZGU09NU2tMTHFVNEEyUXdCSEVQdHVYcGZsYkVBdU1nUUJlUmtlalZoR0xB?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-04T17:03:28.000Z",
         "category": "geopolitical",
         "bias": null
       },
       {
-        "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work. - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHJ6SUgzSEFMak9iT2tWcDNIUnN1U3hzNjh2V3htQ3Q2dmI4LTVFMFMxN0czeEhUTEJxTDdtZ1ZCSzhoUkNKYUZVTlp2a0VVRXpEa3g5MDBTWE9keHg2Zk5oWnBLNmJxN0Rrc1VaVW93S1BMRDlNNDRqS2FBSTBkb2g4NFM2alBrU2dZTFpSamxKR1pIWmxLVHlOMERWTTBjWFRYQ1BYWEdZRElVVzF1SDZHck9GbEFE?oc=5",
+        "title": "Gianandrea Noseda’s Diplomatic Musical Leadership - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2pfSGhHOFNRRlh2aExvMGh0Q05Wajg1Mm5HbVNNbFZXWkQ5amxDcWk2dmRVeDVsb1FxbW5aUHdDMlNfdldLbkN4bHJqX2E4R2RSNU9TVkE4clh0cGgwcC1lNlhTY0xqSlJFZU9peVVIVGhhX3FkQWJ1NFVwY1RvbzJGbWhCSkxNWk0yVVZBNXJKRGhUcU83SXFRRHM?oc=5",
         "source": "WSJ",
-        "publishedAt": "2026-10-03T21:09:03.000Z",
+        "publishedAt": "2026-10-04T16:49:26.000Z",
         "category": "geopolitical",
         "bias": null
       },
@@ -2640,14 +2642,6 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HMnpPU0FfZ2JSYUFyLU9RZTQ0SFJ4dUthdDVtdlpDcnpnRHJ3WG40NHMzeW5Mb2RNZ0w4X0ZHUmY5Y3lNVGx4bVY0dVpNWnpZZlBsMm9Wb1VuenpsSVBzZWF4QmZfNU9UQjZrZHJ4SHBwOEVQNjltN3oyOA?oc=5",
         "source": "The Jerusalem Post",
         "publishedAt": "2026-10-03T18:28:01.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
-        "title": "Inside the Financial Web Linking Jared Kushner's Peace Talks to Israel's War Economy: Report - Latin Times",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGx1LU1uUGtjV0t6bXBSd0lkdEg1TmlfWUxJUGJrTU1vWFNLdEJHcFpiTUhYVjJqWmE2M0J2a0kwdUlscXdDS0RYZGdWT1NOSVpBSlJlRUFaYzhrMG9tdnloU015Yl8zbmlNZE5Jcll0empVcmd4bXlCYWJKdzdFcU44UDBETFZsaHFFa1pnNE50aEhuM01kTS1JM25KVklBZHdOOHdBQ2ZVODlVemlhczRWWU1PVk0?oc=5",
-        "source": "Latin Times",
-        "publishedAt": "2026-10-03T17:01:25.000Z",
         "category": "geopolitical",
         "bias": null
       },
@@ -2684,14 +2678,6 @@
         "bias": null
       },
       {
-        "title": "Gianandrea Noseda’s Diplomatic Musical Leadership - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2pfSGhHOFNRRlh2aExvMGh0Q05Wajg1Mm5HbVNNbFZXWkQ5amxDcWk2dmRVeDVsb1FxbW5aUHdDMlNfdldLbkN4bHJqX2E4R2RSNU9TVkE4clh0cGgwcC1lNlhTY0xqSlJFZU9peVVIVGhhX3FkQWJ1NFVwY1RvbzJGbWhCSkxNWk0yVVZBNXJKRGhUcU83SXFRRHM?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-10-02T20:16:00.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
         "title": "How Cocaine Is Flooding Into Europe - WSJ",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekFFVGw0WkxTRTlmaldMdzdmSnZ0ZklFd3FDUVduNUFRTlNpNFZFc2lnOE16ME9lekZ4ZlVVeEZEZ1R2RFZxTHQxVm9ibHV5a3VBc3JRdHFHZy03MmdCemJKYVR6VHZFaWtDc1pkaDdjdGJybllXZGxyVzFJV0dvNFk4eWRTQWxVRXpObkNYQlNqcHBCa2xyeFNqSXowazJGRXlHUVEzOEtYZXZ3ZFFKdWE4VQ?oc=5",
         "source": "WSJ",
@@ -2708,10 +2694,26 @@
         "bias": null
       },
       {
+        "title": "Hegseth Gives U.S. Troops a Day Off to Vote - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTFqSGgtX3ZVWVBvTTh4bUVaS3FJcncxdG5PS05ORVZZT3UwT0gwa2RqVFROemltSFRjODlXVS0zWHNTVVUzeHFJX1doczI5QnI1amd1UmtLZzkyaXV6VHNJM1hYalpGbUNyYjlfRHNTUFVUZXU5SVBWbEkzLVdwYlBqRG5aLXcxN2dJODY4TmgwNEVH?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-10-02T18:21:00.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
         "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Iran Receives US Proposal To Restore C - Benzinga",
         "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOeld4LU0xa2JpVDF2N0p3VWpoV3lLOFJQYXhZVFpoZEsxemJwdHdaY1N0VmZHZDk2YmZSTzZpX3VWSFlxT1hPV2xxVmxJSFkxQ2lGcnN4SFVZRWdhT19nX200Qjh2ZlV5cFVHWHpQb2RJRDVaQTFET2N2eUpxM0JjOGxOZmFxd0x4cVhZVFZfREVmcVpHTy1vZFU1UUYtSjJwWmZmMmZpQmJBLWpzNEE4N0NSWTY5aHpwSHhoQkZST1JCQ0RTUU9SdE9TS0lLTmVOMTdmUFhfNV9NZXdBb0JGYk9paDFJOEMtZEJIT1h4RWc3cXhveFpCT3Y5bFBzTXBrUTQ4Z0ZLR1B3N2lvREhWR3R3Yng?oc=5",
         "source": "Benzinga",
         "publishedAt": "2026-10-01T12:39:00.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Sticky Inflation And China Hopes - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1BjTlVWUGo2dkYzWkt2TURENGVIOGhLVWZxN01NNEFuUm83WXhiLUNSM0hoM1BUblVtb3BYdFlOa0xSQURWaS0xa0hFWWp2OUZrUFdOS2VrcDJRcEJQQkt4RXQ2eVB1TDVYRDFiM2oyZGdCd2ZFNnJaY2J0Q28zcDZ3RWtXdkVvZG5ZS3ZqNjNvQQ?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-01T08:08:15.000Z",
         "category": "geopolitical",
         "bias": null
       }
@@ -2719,12 +2721,12 @@
   },
   "sourceErrors": [
     {
-      "source": "Washington Times:geopolitical",
-      "error": "HTTP 403 for https://www.washingtontimes.com/rss/headlines/news/world/"
-    },
-    {
       "source": "Washington Times:political",
       "error": "HTTP 403 for https://www.washingtontimes.com/rss/headlines/news/politics/"
+    },
+    {
+      "source": "Washington Times:geopolitical",
+      "error": "HTTP 403 for https://www.washingtontimes.com/rss/headlines/news/world/"
     }
   ]
 }
