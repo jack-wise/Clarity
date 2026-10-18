@@ -2668,6 +2668,935 @@
       "publishedAt": "2026-10-16T09:25:22.000Z",
       "category": "geopolitical",
       "bias": null
+    },
+    {
+      "title": "From spreadsheets to autonomous tractors: AI's growing role in farming - ERR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEo3WG9CZkZ3VmZ0d2tGdEhIdUxLYjZNTkxwaGxVbHZSV3cxQU80Q0ZuQlVsSFBNY0pCTVJMZVBFSkRTcHJ0a2xOMlJUb3J5aVRRZVlXcFg3TjlsNTlIZ0YxTkpXVG5JdDQ2cTB5dlczWEh4TTNTMUE1ejF6enNIY1ZxUjdqTlh3YjRwa1ZyYlNPeUFOM2NOd1VOUTQ1clRWYmc?oc=5",
+      "source": "ERR",
+      "publishedAt": "2026-10-18T05:43:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "VIDEO: Lobster AI: Technology recognising individual lobsters - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUNIb1pxbnByVFFhMGtSNDZ6Z0tKS3c2TWVOWGdvTDZ6UllkVHdIOS15a1pTaW1hUjdNZ0Z6SWRHZ1lNVUwtRXliUUxIcG5fakRrcVgxYXZaOWU2aE5FOEJNNEtyWU14VmZaeVdzZGUzZHpjWUJYMkZNUDNIRU9rTW9GMGVNX0NDaHBkVVZVd09tN3ZNc1ZDMTRUMjRnWmRPZVgwUi1RaXJGdVl3MGZuLS1PSzl0NV9oOUlQdnJzRUFweFht?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-10-18T04:36:16.000Z",
+      "category": "ai",
+      "bias": {
+        "score": -18,
+        "label": "Lean Left",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+      }
+    },
+    {
+      "title": "Nvidia's Technology Case and Its Funding Case Are Two Different Bets - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRlRDdWFaR3VKUDIzMDJOeVVfZEtxM1Bya3g4a3dnTGp3dWJGRWtaU1liYTJJa3B2MGtrckotcUVReGRVUWxBcmdUMTU2NzZCMElLYURTYm9DSG9LeHNCeHpEOG55bDZtZDg0WFZYaVBjZThoTnJaSHdnNXNwbl84ODd2M2V3UXBGU3lkd250c0ljcHNTamJDN0pWMEdmWElzVl9QZFVPeHRYc1dzbjVoYlRyQUw1aVNBUlJDa0MzUlROSjhrdV8tbEFPeGFHZ18xY2d1SnNSNA?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "2026-10-18T05:31:15.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Microsoft axes AI deal in setback for UK data centre pioneer - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFdYVTNWOGFOMl9DYTBBWmhZM3NiRGk1aUtKVWFhVnkyb2VGMU5UTDZBTndmTGpBcHRnb3RjelNlNU9JY182aXFGOE5BcWlJMGFqZnhKYmlXTjdvRGlyUUlUZUtXWFpjcXJ6UWxRYkhiWExoZVBWc3JmY2x3WFR4Mm45ZW5KZ0wtVXBMRmNleXViT0huREtRUU9zNUdnWDEzUDAycA?oc=5",
+      "source": "The Telegraph",
+      "publishedAt": "2026-10-18T05:30:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy and Artificial Intelligence - eNews Park Forest",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQm05TllFYnVxQ1dETFYtb2pjVlBORXJ0V1NGc25RbUYycDFjNEo1VDc3UHg3UmpyQkRyRjh3RlV4cGQtNFlxbTV6MmxrNkdCWVJ3SnY5MVE4d0ZiQkowTWk1LVFlazJWX19UVWw4c1dGd2hJMjRZVUlybENaaHZCczFwaFBWVEdrVFUyMXBqVkRVQ0h0QVI3M3F5cHhJYnlaTDBBRzlDUHFuZUhfUHkzZkd6NUo4ZHVuczRwX1ZMcVVyMTFkSHFvRDc4dnFodHBocFRzdFlWOWhncFlvY2E2cFJlMzJzUQ?oc=5",
+      "source": "eNews Park Forest",
+      "publishedAt": "2026-10-18T05:24:28.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "AI: No Section 230 for AI. Enter the Insurers. AI-RTZ #1243 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42RTh5VDk4WVVGenh6c0dWRms3RW52cXVYanZFR0xmNkNkSFhRSmZOTUxXbkljaDJsZWM0WmZVT0pSRkF2NlpHRjdra3UtNWdWN1VHd0pvWEZCUi1IcGxrdW0xNVBpVEJNVll4NjBBeC05dGtRempubU0xZw?oc=5",
+      "source": "AI: Reset to Zero",
+      "publishedAt": "2026-10-18T05:02:36.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "AhnLab announced on the 18th that it introduced artificial intelligence (AI)-based security solution.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RSnFJN3UySWhfdEpPSXpMakZEcmVDc0RsLTNRTDFNVFJYc095Um9jc0x6WFdTMjk1TXRqWmVVd3NtOFlxQTRXSVBPSy0weVU?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-18T05:01:18.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Norfolk uses artificial intelligence to handle thousands of non-emergency calls - WTKR",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnpLaFM3N2JXVmZHd19CZEdrLVFMOGRJdVdyeE5XOHVmY3dpWThXRmp3UlFTakNmUGktdnAtWEQyR2tPZDM0dzY5RmJHSHJsLWdVVVI5SmRIQUdDd0NEYTRvTlFiLThGZzRkN0sxTlZWYVhZR2RfYnN0UTRWWDlISzEweTNzTndIVEljalktdzJ3c0lza2lxVUtsa2REbzlYbVZkMkdvaVU2WkFYTjNqSVRWWFZMdzZ3TlVWNDg1cUJzQkNmQjRTd3lB?oc=5",
+      "source": "WTKR",
+      "publishedAt": "2026-10-18T04:12:11.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Global economy set for AI-driven surge, FT survey suggests - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-18T04:02:01.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Anthropic turns to lawyers to help AI agents strike deals - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-18T04:00:47.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Europe’s industrial giants take diverging paths as they ride AI boom - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3dEdEZHLVdhOEotV3NGWmtfVEFvZ1lmSUdqay1VdHM5eGdlUEJBSjRTSEp2RkFadER6WWxpRnNiYkJ0ZkpWSmRwQ2htQ3hCMTFOWW51Y0ZxLWhzWm1BOUxRMXVtOTc3ektMOG4zWEMwOHgwRXVaQnFLT3dlblVCbElzUEg?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-18T04:00:47.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "America’s $10tn AI infrastructure boom is starting to fray - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-18T04:00:18.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Giving AI a “crystal clear” view of the materials world - MIT News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmJPV2RZSlBnUXVGT3o3Tkpmc0E2aDJqa2JHUER4Q2ZXQlQ3U3E0ZG4zclZTOEJ1dUNqTHlwaVFkc243akhLd0RYZHFxWXh1VHU5R18yaDdGZ0dFWDFqZm9zWnVEaHFmdW1UUVRYNDA5X2NaTmM0TG0tal9vd1JxWER0MWQ?oc=5",
+      "source": "MIT News",
+      "publishedAt": "2026-10-18T04:00:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "AI race hinges on power, infrastructure over chips: Morgan Stanley - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQcEkzd1ZIb2VqU0NXZVVDRk5UQkhBMnRsOVFiQ2VYVXQ0Q0pFOUdYeXpnd3BQRGx1RVJyU0VKOTJyVFFKZFE1NjFHUUsyekhsYThqdVRhcC1YemExY1RpZXRld2ZJenRWam1JSk1zZndHOFhNTGJ3MnE1YktOeldqZ0F6RV92cWJVZEx5S2xyY0lqbnEwSTZ5dDd2cTJhNTNkeXhhYmtlaThLZ3lxcDFDbzk3ei1jNnNieDZLc2hldnFINWdPTzNsLU1UYXZoekpra0ZqQWQxTWVQZVlIUGhFRjhMSWNMbmlvV1d5TUZmTHFDbFR5ckJyYTJXSHI2d25tVnJCemhsLWNNWXB4TXFsMjhGZFg2SFFMb0dhZ19HMNIB7gFBVV95cUxNLWNWdy1vU2FSUDYwTV9IeDlROVhtcy1Mb0JzUGVaV0w5eUJLOTNGaFVOLTQ0OHZCM0M4S0paczkzbC05bjVYWWNTY0hOMnFaZWtLd2RkY0xjQ3NvSmQ4eVVYeGRvUmJ6bWx2Wjh5bTkwcFlTal83ck43djZBQVJSSzBiRDZSMEpfemVtWVE0M0RIaWJ2eFFXeXluQXBhNUMxVnJ1VGpTTGVMemRVZlZWNzEyN0dReENEd1l6bUo0UHVVZVoyUVI4emQ5YU5ZaDlGSGhIZjBORGVyS3BYaWVoUmF5VVhtRUpPaWNlRHVn?oc=5",
+      "source": "ET Datacenters",
+      "publishedAt": "2026-10-18T03:41:08.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVJzdHA0Qk13eVE2UmZlekVBOFdMcjgtQllHTW15R0EwQmhqOEk2RkdXMmo2UVJQa1pYWllmdmNuSnpDYmRWWnZWT2N4UjBZUXgxbEFXU3RJNl9EdkFUMkpoMWhOQ0pFMmpZSUFyRHNUREtIcDVzR2pDVzJPT2kxNGtB?oc=5",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "2026-10-18T02:34:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Kroger plans 3,000 corporate cuts as new CEO pushes AI to 'reduce duplicative work' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdXZPcUFuVklWcVVOUmtlNXBSQVlKeWJ6dlJMOEJZU3prU3owdG10YVljN0U3VEU4czZmV0U4akFvZldmLTFuNHgyMkYxTERzeEpBVy1KcFJ1ZGV0TGhOLUVRZXRlWDlIaGV6S3NFQWdvUFQwcmVXajRRYkljY2FyVlBkd1k4TmJWdGcwMFJyZk5tcXhqTTdj?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-18T02:18:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Trump Calls AI Warnings ‘HOAX’, Nasdaq Drops 0.9% [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBucEtlZHo2Tm52RDRtVFVyOFlfRGlYQi1pcy1XWjYwLVNZTkFjcWkzS05xSEppN3NFbElnRE5xZ2UwS0pTVHcxMEIxay1nUXdfV3MzYXlINjhVWmstV25EcU96LWdSbGQtb1VlMHlwenYyaFRIRDNr?oc=5",
+      "source": "tech-insider.org",
+      "publishedAt": "2026-10-18T02:16:10.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "White House AI Task Force Adopts Charter, Starts 120-Day Clock",
+      "url": "https://www.breitbart.com/tech/2026/10/17/white-house-ai-task-force-adopts-charter-starts-120-day-clock/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-17T23:54:25.000Z",
+      "category": "ai",
+      "summary": "The White House’s artificial intelligence task force adopted its charter Thursday, opening a 120-day window to advise on how much of an oversight role Washington should take. The post White House AI Task Force Adopts Charter, Starts 120-Day Clock appeared first on Breitbart .",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "How artificial intelligence is helping the lobster industry - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODl4dGcxaFZwTEZfSFpwQ0dxUUo3OVRsTFhVS1J6RHViWUpDWkdFa0gtb19ib1VhT2wtREtZd1NGV3J5SDlXdGNfNXV1UnNJRHFoNUxsd0NXYlVjSm8xNEVWVnR1YUtNWVd3cmNnak0wZWF6LVV0aFVOLUFPU3VJRDNyb2VxZFByekxaS3ZYbW8ycHU2cW44dkViTTlMVUc1?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-10-17T21:22:29.000Z",
+      "category": "ai",
+      "bias": {
+        "score": -18,
+        "label": "Lean Left",
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+      }
+    },
+    {
+      "title": "Report: FTC Subpoenas OpenAI and Anthropic Over Consumer Harms - Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejRZemhybldzTlVDOUh2VWcwM2ZUSmV3T1JhNi01QkdsWHdRSUtnUnpMeEtrbFkxM1ZnX2FMZUxNODZUUnZPR2RITlBHNVJrTVBjVlBaSWUtZmxMZWh3Snh0aU0zVlg5TlFBcjVpTHFhVURtSVN5cEdBdENGSnJIZjBn?oc=5",
+      "source": "Newsmax",
+      "publishedAt": "2026-10-15T11:50:45.000Z",
+      "category": "ai",
+      "bias": {
+        "score": 68,
+        "label": "Right",
+        "source": "Newsmax"
+      }
+    },
+    {
+      "title": "Washington Spirit clinch NWSL playoff berth as Gotham miss chance to seal Shield",
+      "url": "https://www.theguardian.com/football/2026/oct/18/washington-spirit-gotham-nwsl-playoffs-shield-results",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T06:03:37.000Z",
+      "category": "political",
+      "summary": "Di Guglielmo scores first NWSL goal in 1-0 victory Gotham denied chance to clinch NWSL Shield San Diego secure top-four seed as Angel City rally Lucia Di Guglielmo scored her first National Women’s Soccer League goal and the Washington Spirit clinched a playoff spot with a 1-0 victory over Gotham FC on Saturday. In oth",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title",
+      "url": "https://www.theguardian.com/sport/2026/oct/18/sebastian-fundora-ermal-hadribeaj-knockout-wbc-title-las-vegas",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T05:06:35.000Z",
+      "category": "political",
+      "summary": "Fundora lands decisive blow at 2:59 of final round Champion makes fourth successful title defense 6ft 5in fighter targets undisputed crown at 154lb Sebastian Fundora kept his pursuit of an undisputed championship on track with a second to spare. Fundora stopped Ermal Hadribeaj with a left hand at 2:59 of the 12th round",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXlZZ3JtZ3NCRjFLZllXd3M1REpOQ0hjVXJuUzBqaElmTkVsaFl4TUVJN1E5NWhNRW1nV0dCMkNvWTVJUUN0WlBhWUtFMjc5cmhTWTBRVUc3S3VuMmUyeGp5WERRWUNOR2hWTlVhckNjQmFBU3dCWEtKUldrenN6ajdKbmlDY0VLWG1MMWRwQmtKaHdDSXhJbDNEOXdQdE9MbGZKRg?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-18T05:06:34.000Z",
+      "category": "political",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Blunder in, abandon allies and court a dictator: it’s the Trump doctrine, now playing out in Myanmar | Steve Bloomfield",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/myanmar-donald-trump-dictator-rare-earths-china",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T05:00:50.000Z",
+      "category": "political",
+      "summary": "The US condemned the genocide and military rule there, but now that Trump craves its rare earths, that’s all changed. For democracy activists, that’s a disaster Marco Rubio was once adamant that the US had to do everything in its power to end what he described as the “ethnic cleansing” of the Rohingya in Myanmar. In a ",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Vance says he’ll ‘have to make a decision’ on 2028 presidential run after midterm elections",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4770032/vance-says-decision-2028-presidential-after-midterm/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-18T03:48:37.000Z",
+      "category": "political",
+      "summary": "Vice President JD Vance addressed widespread speculation he will run for president in the 2028 election cycle during a town hall released on Saturday night. While speaking with Tony Dokoupil of CBS News in Michigan, Vance was asked whether there’s a chance he won’t run for president in 2028. He has long been floated as",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Rays punish Cleveland defensive lapses to square ALCS at two games apiece",
+      "url": "https://www.theguardian.com/sport/2026/oct/17/rays-guardians-alcs-game-four-yandy-diaz-world-series",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T03:36:24.000Z",
+      "category": "political",
+      "summary": "Rays defeat Guardians 7-3 to level ALCS at 2-2 Díaz seals victory with ninth-inning home run Tampa Bay and Cleveland meet again on Sunday Jonathan Aranda’s single led to two runs in the seventh inning when the ball got by right fielder Chase DeLauter, Nick Martinez pitched five and one-third innings for his first posts",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Shapiro launches super PAC as presidential speculation mounts",
+      "url": "https://thehill.com/homenews/campaign/6156280-shapiro-launches-super-pac/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-18T02:38:31.000Z",
+      "category": "political",
+      "summary": "Pennsylvania Gov. Josh Shapiro (D) is launching a new political action committee (PAC), raising speculation that the governor may run for president in 2028. The committee, called New Path PAC, says on its website that it is dedicated to electing candidates who will oppose President Trump. “New Path PAC will help Govern",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Stephen A. Smith recounts four-hour White House dinner with Trump and Bill Maher: ‘Wouldn’t let us leave’",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/4770027/stephen-a-smith-white-house-dinner-trump-bill-maher/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-18T02:35:25.000Z",
+      "category": "political",
+      "summary": "Sports pundit and political commentator Stephen A. Smith recounted what he said was a four-hour dinner with comedian Bill Maher and President Donald Trump, hosted at the White House on Thursday night. “Essentially, it amounted to what I consider to be a very substantive evening,” Smith said. “We were there for over fou",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "4 Takeaways From a Voting-Focused ‘No Kings’ Day",
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-18T02:35:25.000Z",
+      "category": "political",
+      "summary": "Saturday’s gatherings were more subdued than some past events, and many prominent Democrats skipped them.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Michigan Democrat confirms sister-in-law's terror watchlist lawsuit days before Obama campaign appearance",
+      "url": "https://www.foxnews.com/politics/michigan-democrat-confirms-sister-in-law-terror-watchlist-lawsuit-days-before-obama-campaign-appearance",
+      "source": "Fox News",
+      "publishedAt": "2026-10-18T02:33:58.000Z",
+      "category": "political",
+      "summary": "Abdul El-Sayed acknowledged his sister-in-law&apos;s involvement in a federal terrorist watchlist lawsuit, days before former President Barack Obama campaigns with him.",
+      "bias": {
+        "score": 55,
+        "label": "Lean Right",
+        "source": "Fox News"
+      }
+    },
+    {
+      "title": "Top takeaways from JD Vance town hall: Costly gas, DC corruption, immigration hot takes and the war",
+      "url": "https://www.foxnews.com/politics/top-takeaways-from-jd-vance-town-hall-costly-gas-dc-corruption-immigration-hot-takes-war",
+      "source": "Fox News",
+      "publishedAt": "2026-10-18T02:32:15.000Z",
+      "category": "political",
+      "summary": "JD Vance defended Trump administration policies on gas prices, Iran&apos;s nuclear program, and H-1B visas while blasting Abdul El-Sayed at a CBS town hall.",
+      "bias": {
+        "score": 55,
+        "label": "Lean Right",
+        "source": "Fox News"
+      }
+    },
+    {
+      "title": "Abdul El-Sayed disavows Muslim Brotherhood and criticizes implications that he has ‘dual loyalty’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzc09kZjdBa3pkZnlzSG9fdi1EdzFPQXdvX3owd1JYSndpX0pBbTMtcHJ3SVBKRFl1T3RNLU9PaW9BbFJkZF9CS2NjbUNCTUlwTklxX2R4dG54elBKWW51eVBReHhaU0ZPc2hfSXhwQ1ZaTS1FZEs4ZEkwc0NSZw?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-18T02:16:00.000Z",
+      "category": "political",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "Texas Man Found with Pipe Bombs, Guns, Three Illegal Aliens near Border",
+      "url": "https://www.breitbart.com/border/2026/10/17/texas-man-found-with-pipe-bombs-guns-three-illegal-aliens-near-border/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-18T02:05:22.000Z",
+      "category": "political",
+      "summary": "A Corpus Christi man is charged with transporting illegal aliens after being arrested by U.S. Border Patrol agents in Port Mansfield, Texas, on October 6. Agents arrested 28-year-old Alec Ray Foss after stopping a speedboat-type vessel he was piloting with three illegal aliens, an AR-style rifle, a pistol, and four pip",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Elissa Slotkin Wants to Prosecute Trump Admin Staff to Scare Young Conservatives",
+      "url": "https://www.breitbart.com/politics/2026/10/17/elissa-slotkin-says-she-wants-to-deter-young-people-from-working-for-trump/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-18T01:51:02.000Z",
+      "category": "political",
+      "summary": "Sen. Elissa Slotkin (D-MI) said during an appearance at the University of Chicago on Tuesday that she wants planned prosecutions of Trump administration figures to deter young people from taking jobs in the administration. The post Elissa Slotkin Wants to Prosecute Trump Admin Staff to Scare Young Conservatives appeare",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "CDC sends a 'disease detective' to Pennsylvania amid measles outbreak",
+      "url": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-18T01:46:05.000Z",
+      "category": "political",
+      "summary": "The Centers for Disease Control and Prevention (CDC) is sending a disease expert to assist with the response to the ongoing measles outbreak in Pennsylvania. “CDC will continue working closely with Pennsylvania health officials to provide the expertise and support needed to respond to the outbreak and protect public he",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Diddy Gets Moved to Low-Security Prison in Pennsylvania",
+      "url": "https://www.breitbart.com/entertainment/2026/10/17/diddy-gets-moved-to-low-security-prison-in-pennsylvania/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-18T01:40:56.000Z",
+      "category": "political",
+      "summary": "Sean “Diddy” Combs has been moved to a federal prison in Pennsylvania after reports that the hip-hop mogul was living the high life and was injured in a fight at his New Jersey lockup. The post Diddy Gets Moved to Low-Security Prison in Pennsylvania appeared first on Breitbart .",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Democrats take edge on mail-in ballots in key midterm races",
+      "url": "https://nypost.com/2026/10/17/us-news/democrats-midterm-elections-mail-in-votes-give-early-leads/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-18T01:32:06.000Z",
+      "category": "political",
+      "summary": "Democrats are once again availing themselves of early voting and mail ballots to build up a pre-election edge, which Republicans will try to beat back through Election Day voting.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Trump Faults Aides As Republican Midterm Prospects Dim",
+      "url": "https://www.huffpost.com/entry/trump-aides-republicans-midterms_n_6ad41ebde4b0ce24aed9fe42",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-18T01:27:22.000Z",
+      "category": "political",
+      "summary": "Much of the friction has centered on James Blair, the longtime aide who runs Trump’s super PAC MAGA Inc., and White House chief of staff Susie Wiles.",
+      "bias": {
+        "score": -65,
+        "label": "Left",
+        "source": "HuffPost"
+      }
+    },
+    {
+      "title": "Ossoff Hits GOP on Corruption, Predicts Growing Democratic Wave",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/ossoff-hits-gop-on-corruption-predicts-growing-democratic-wave",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-18T01:23:40.000Z",
+      "category": "political",
+      "summary": "Georgia Senator Jon Ossoff staged the largest rally of his reelection campaign near Atlanta, repeatedly painting President Donald Trump as a “crook” whose policies have made life unaffordable for Americans.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "New Mexico Man Ran Drug Trafficking Group from Mexican Prison, Say U.S. Feds",
+      "url": "https://www.breitbart.com/border/2026/10/17/new-mexico-man-ran-drug-trafficking-group-from-mexican-prison-say-u-s-feds/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-18T00:53:55.000Z",
+      "category": "political",
+      "summary": "U.S. federal prosecutors revealed that a man from New Mexico continued to operate a drug distribution ring in the United States while serving time in a Mexican prison on drug charges. The post New Mexico Man Ran Drug Trafficking Group from Mexican Prison, Say U.S. Feds appeared first on Breitbart .",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Exchange Between El-Sayed and Audience Member at Townhall in Caro, Michigan - CNN",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQk5lNlU1TzZERzNZVGhja3RtYk1wV05LbmFMMll4M0pJSkpHYWd5NWVncmhlZ0JXWWdMOHBfMjc2NElHeElBeVJvTDdYbWhtanIzbjQ4MVRrSTc5VGxDZFpxemFaZFc3QzBwOHpjd0pZdHhoc0V5VkRBSUZFdEd0YXpaY083T3Q3UDI4LWJIM2MtNURyYk9HNUZLNDIxR2o5cU5LQ2VUSFBDNjZ0cnE1ajJSdnl6NDAzU3NWbQ?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-18T00:48:02.000Z",
+      "category": "political",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "Tracking Mississippi's Senate Race: Democratic Nominee Scott Colom and GOP Sen. Cindy Hyde-Smith - CNN",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnJYNm05VUFhU1BZNHY4eTB0SGhkeEtFbFpsYTdYTUhQcGg1R2xIbU45TzRaSEE4VGJRRjRGQW9ZU1VycnFhYU4ybjRFWGtNRlVkQnZscWMzMjQyZWZacnh4TXI2UnRvOWdJSTdnWFVpYXBPYXp3dGdmeWFxMm83LWJxSFhUeFgxRm12aU9lOUFOMlVXY1ZyT3VUR29Dckp3LTdhcUJQUnp4NXhmWHVKWGF3WjhkZ0xXeFFqYndMdE82NFpYZVpzdzZUN1pnN1ZPS2V6TzN3?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-18T00:45:02.000Z",
+      "category": "political",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "Rubio heads to Central Asia as some wonder if he’s keeping the most pressing matters at a distance - WTOP News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZkVSY0NYeDJ1eXo3QkVXUTdHLTFSTnJDZmJ3TXVHTkZfQXJoMll6Q1d0MjBwcUdrM3NRV0lBZkpYVWFDNHJCZ0NyRkxwNmszOE9CeFk2dWhEUXM3aG5PeEpSWFQxSmJHMG1EY1BPcDJ1UmhJWmJCbXA2ZWdRUFU5TlNMMnQ3Umw4bW1BT2dTWDdfcEJsNEhIeC1RNWk1cDE4YW5Zdk5NTXJPNFFRN1RGOWJiZVR3TzJ5TlpsMDFJYm9KS0dQRTAtbnJockJYbmla?oc=5",
+      "source": "WTOP News",
+      "publishedAt": "2026-10-18T04:12:09.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "The Senate Race Republicans Never Expected to Sweat - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUndLeFRQdW1oY2ppTF9RcEp3OGp4Zk9IckpsSXlKM1pLUjdOdFJSSHN1YnVaNTlCLVRHMHRHalMwTmhpUU5ZRjd1bnMwSk1LYTh4UllKMXdBQWxTaVJ3ZkRZd0VST1dBczJ2TGIyWnlEUFkyY0J1UkdMQjFaUWZBTFphSEZwcndtNFpOM2Faa1MzREtlRVE?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-17T19:53:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+      "source": "NPR",
+      "publishedAt": "2026-10-15T11:31:25.000Z",
+      "category": "economic",
+      "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+      "bias": {
+        "score": -25,
+        "label": "Lean Left",
+        "source": "NPR"
+      }
+    },
+    {
+      "title": "Fed's Warsh surprised by world economy's 'resilience' - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0VvMk56UFNMRUZia09pdVN4TFpCZEl4M0JYSTNpSGhkazNVUy1Gb1ZvcDh4ZWxxMWw2bFpwbTVxZnR0NDhlc3lkYjVRYVFyaUNpLVJsWld3TV9DMzJ0ZnNFTDZ2dmpHQ2FSajlvRUNzSHRQbXdHS20tSDkzNEF2UnVwYndMMHVkTzhBYg?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "publishedAt": "2026-10-16T05:33:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "US Fed’s Kevin Warsh surprised by world economy’s ‘resilience’ - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZG5CaWNDNWNva2NZcWM0bC1BUHlVMHJFUnA3NDNxQmNCNDRYMk5aSFZxVXZoUzQtVkd6S2VEWTRhUHZCOWQ2ZFUxQ1FkZGxudENsemtrclEzNk5CZVptNHlmMFdUNGpXM1Bvd0h1bHpLX2FyODZITjVvRTYtRnR0TTB3dTdCU3AwSUNjbUFnTlR6UjZlZmVuRWpmS3lxYmhlZHlHVXdIZGJEeVZWZWpwUHVrUQ?oc=5",
+      "source": "The Straits Times",
+      "publishedAt": "2026-10-16T05:23:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Warsh Boosts Market Expectations of Fed Hold in October - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbU1FV3M5OXJ3QnQ1T2lCRmkxbHU2YWpkYmgtUEY3NUE4a3RiN2ZPU2ZGb3EtTHV1REZSQmMyVG5PTmNXRFdxdmtNMjlFXzZITnk1N0tYT25WQUtZYWFEdFZBMkxHU0psUVF3ZUNqNnR6ckpfTUpmV194YnlWVzFxTEgzTHRIbWd1eGFUc3RR?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "publishedAt": "2026-10-16T04:57:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Heating oil customers face tough winter",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T06:07:40.000Z",
+      "category": "financial",
+      "summary": "The government plans to regulate heating oil prices after increases.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Kolkata Stampede Leaves At Least 19 Dead, Dozens Injured",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-18T05:23:16.000Z",
+      "category": "financial",
+      "summary": "A stampede on Saturday night during the popular Hindu festival in the eastern Indian city of Kolkata has left at least 19 dead and 25 injured.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-18T01:49:34.000Z",
+      "category": "financial",
+      "summary": "Guyana will ban imports of vaping products, tightening restrictions on electronic cigarettes as concern rises about their growing use and health risks, President Irfaan Ali said Saturday.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-18T01:45:09.000Z",
+      "category": "financial",
+      "summary": "Two jailed leaders of India’s Cockroach Janta Party are expected to be released Sunday, according to its legal head, as police barricades and a heavy security presence underscore continuing tensions in New Delhi over a contentious voter-roll revision.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Gold Futures Slip Ahead of U.S. CPI Data - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0l3aTVSWWxrcm9PSDRHcnhuRExZQzc2QS1kRFZzYlZsbXUtaFQtaWh5SGxiaGtXVW5HM3pGdXBOa2E2SFZlVUpLWUZHRG1hb3h0NnJqeHdfR045N2FNR2I4T3FZVnF5UlB2QmZOcGZjQ000R0pIZWdlMVNMc2tiYXBuWEZmN0ZlRHpqcFd4RkhtMUtiejFZZndBbmI?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-18T05:24:36.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "NHK Spring (TSE:5991) Stock Still Looks Below Fair Value Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZjQW1jUTBubGhuYkJqbDItSXZBaFhPQkJfZEFrN1FXU0lpM2VOUEktemtEXzJuckhLcXM3bVdvWnVmT05QUzhyYWU3eFNTaWJDcmZlTFZPNzlSNHoxOUFPV2tWMXdUZjB2clBvbmo3NEVGV3ppdjhmWllQVkJ6bGNpWnRfQmQwbVd6VVV4T013eG5F?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-18T05:13:03.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Super Group (SGHC) Stock Could Trade At A Discount On Its 252% Run - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekVGMjh5RWNmT2ludEJfLTdmbG5Pdk9sLVFSSVBYM2ZtM1dwMGRHOHNxTzB1Y01ZWENucVd1UWtwODhCMlgtZ21vZUNNUnltbHdDa1BWR0M1a1VRSVdRbXdjT3R3Q2NTWFl4NHpEY0xvNktRNGl1STgycURxRTRxQ3NrVHpHM2RNUlREMjAyNXZ2TWIyS2NsSg?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-18T03:22:00.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Futures: Nasdaq Breaks Support; What To Do Now - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnZSNzJZS2NlWi1Hckg0djB1aGQ3bEkzVTB4ejBTQWRoQ0JTOWJBa1U4Z1EyWFZSa0ZmSDlIcmx5MFEwQmhCeFE2MEs4ZEdMSThwczNORG03QTY4MU9xR3pXWmRtNmdMc3BRZ0F4U1FudlhIdXpwVHVQUXUxMU44NHhhRVZyTmNDVk1MLXBsOHBIV2Q3VU9oTE1sa2JET0c5b3p5ZUJHeTBrQlJKaTRnS284ZGVhUUlwekJKalp5dmsyRmdzU25QRQ?oc=5",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-10-18T02:57:00.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Buildings torched and over 1,000 detained after half a million protesters sweep France - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2R3RzdVVXpmVnowVWlEeVJxSzVUQjVGOFF6eE8zT0tFZmJnWS1ZMWpWc24yVWJ0Z0VsbkRoN3pLMUxOY3QxU3EzTkpZRC1mSEdtYUJvaEw2NzBYZW1Wb2dPeGtrZnZYLVl6U1Q4ekNNRFBOZGM1cDl2aUdfMlBmbGdIOHR4emtwRGh6cjFXd0FvRF9RTVl6ZHZRakpvSVhxOTB3?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-17T19:52:31.000Z",
+      "category": "financial",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "You Can’t Keep This Guy Down’: Vatican Analyst on Pope Leo’s Swift Recovery - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTnE5R2pjOVlLRXNQRTExV0Fjdkd4U1pqLVI4eWJLX0tYS1ltdVBsOWlVRENGMkRCdF9tY1VhVVd6Q2FLb2tDb0xuOWxqajkwcjNoSGhWa21vUEN1THVuNDJhSHd5N1lMS1dCZThQNjFpdENrRVVMWUZfVVBySUp6VGdYRWFNaDU4a0lxa3FKMFltY0hka2xrcll3WlI1cUZvM1AwZmJ2MHJWTEd6WlBVbzM4aWdMMXBtUHRpVURlbnBZQUZWVmltdFlVOA?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-17T19:10:06.000Z",
+      "category": "financial",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "Stephen A. Smith Shares Biggest Surprise About Dinner With Trump: 'It Was Shocking'",
+      "url": "https://www.huffpost.com/entry/stephen-a-smith-shocking-surprise-about-intimate-trump-dinner-it-was-shocking_n_6ad37d4ee4b00caf853c974a",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-17T16:50:42.000Z",
+      "category": "financial",
+      "summary": "The ESPN commentator dined at the White House on Thursday with President Donald Trump, singer Kid Rock and “Real Time” host Bill Maher.",
+      "bias": {
+        "score": -65,
+        "label": "Left",
+        "source": "HuffPost"
+      }
+    },
+    {
+      "title": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0JDd2NOS2ZBN0lLR0pjbTNFb3B5bEtFM1d4VDBXa2R4c1hVVElQOGU3aDFpWU5CUU1LZF9GRlBCU2c0ek9BTVdBVnF0T25uWWZ4MWdGYzNFYjJpQ0pqTkpKZDRoenIta1VRc0VZM055MmlPdk4tLV8wZWlPbkFyODdMa3J3UQ?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-17T23:00:00.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+      "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-18T06:12:16.000Z",
+      "category": "geopolitical",
+      "summary": "The defense minister said people were killed and injured at the base in Alberta, but officials did not offer details on the cause.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T05:56:20.000Z",
+      "category": "geopolitical",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Fatalities, injuries reported at Canadian Forces Base Wainwright in Alberta after 'incident' that sparked fire",
+      "url": "https://www.foxnews.com/world/fatalities-injuries-reported-canadian-forces-base-wainwright-alberta-after-incident-sparked-fire",
+      "source": "Fox News",
+      "publishedAt": "2026-10-18T05:41:10.000Z",
+      "category": "geopolitical",
+      "summary": "Defense Minister David McGuinty confirmed fatalities and injuries after a major fire broke out at CFB Wainwright in Alberta, one of the country&apos;s busiest military bases.",
+      "bias": {
+        "score": 55,
+        "label": "Lean Right",
+        "source": "Fox News"
+      }
+    },
+    {
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver, causing top Republicans to break ranks",
+      "url": "https://www.foxbusiness.com/politics/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver-causing-top-republicans-break-ranks",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-18T05:16:01.000Z",
+      "category": "geopolitical",
+      "summary": "President Donald Trump&apos;s waiver of Russia sanctions under the Graham Act sparked fierce bipartisan backlash from senators and foreign leaders.",
+      "bias": {
+        "score": 50,
+        "label": "Lean Right",
+        "source": "Fox Business"
+      }
+    },
+    {
+      "title": "China Condemns Japan’s ‘Negative Moves’ Over Yasukuni Shrine",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-18T05:11:17.000Z",
+      "category": "geopolitical",
+      "summary": "China strongly condemned what it called Japan’s “negative moves” concerning the Yasukuni Shrine, saying the actions were a provocation against the postwar international order, according to a Saturday statement from the Chinese Embassy in Japan.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T05:04:31.000Z",
+      "category": "geopolitical",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+      "url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-18T04:24:04.000Z",
+      "category": "geopolitical",
+      "summary": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+      "url": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-18T04:01:17.000Z",
+      "category": "geopolitical",
+      "summary": "Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Deaths confirmed in major fire at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-18T04:00:50.000Z",
+      "category": "geopolitical",
+      "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+      "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T04:00:50.000Z",
+      "category": "geopolitical",
+      "summary": "Lena Schilling of Austrian Greens says images are ‘digital violence against women’ and a threat to democracy An Austrian MEP has spoken out about her experience of being “stripped naked” online without her consent and has urged the EU to take action, as a report found that one in six female MEPs had been targeted by se",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T04:00:49.000Z",
+      "category": "geopolitical",
+      "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtro",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+      "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T04:00:49.000Z",
+      "category": "geopolitical",
+      "summary": "Meet some of the elderly residents of Bolotana, in line to be the world’s sixth ‘blue zone’ for its high number of female centenarians When Giovanna Marras opens the door to her home in Bolotana, a mountain village in central Sardinia, her eyes are bright with curiosity as she sizes up her visitors. Her sister, Mariang",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T03:59:02.000Z",
+      "category": "geopolitical",
+      "summary": "Birth happens days before Labor and Coalition block bill to ban ‘barbaric practice’ of shackling incarcerated women during childbirth Get our new political email , free app or daily news podcast An incarcerated Indigenous woman was shackled to a hospital bed in Queensland while she was in labour last weekend, an advoca",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "‘Serious’ incident resulted in deaths, injuries and major fire at Canadian military base",
+      "url": "https://nypost.com/2026/10/17/world-news/serious-incident-resulted-in-deaths-injuries-and-major-fire-at-canadian-military-base/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-18T03:57:11.000Z",
+      "category": "geopolitical",
+      "summary": "“I cannot recall an incident like this in recent memory,\" Canadian Defense Minister David McGuinty said.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-s-anti-graft-body-investigates-ex-guangxi-official-huang",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-18T03:39:38.000Z",
+      "category": "geopolitical",
+      "summary": "China is investigating Huang Ribuo, former vice chairman of the Guangxi Zhuang Autonomous Region Committee of the Chinese People’s Political Consultative Conference, for suspected “serious violations” of official duties, according to the nation’s anti-graft agency.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-18T03:34:56.000Z",
+      "category": "geopolitical",
+      "summary": "China’s railway network carried 3.71 billion passenger trips in the first three quarters, up 4.8% from a year earlier and marking a record for the period, China State Railway Group Co. said on Sunday.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-18T02:50:29.000Z",
+      "category": "geopolitical",
+      "summary": "Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday. “I’m saddened to",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Deadly fire breaks out after ‘serious incident’ at Canada military base - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWJlV2s3SFVLUzA3Q1BtMFhIUkRjT1dvaGhMMU9IWUpSdkZJTXRxWVVST1lnU19LNE1IcU5VaThqcy1ybldHMEVmalJHSG9aa0phUGFhOGZLYkc3aHY0eG1yclpSZ1hKTjE5bllISTJBb0JuUVM2Z3dsOFotQ1NYU21nUV9iVXZ5a0dxa1l3?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-18T02:44:00.000Z",
+      "category": "geopolitical",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "5-year-old Australian boy found dead after being duct-taped to sleeping bag for twisted reason: report",
+      "url": "https://nypost.com/2026/10/17/world-news/5-year-old-australian-boy-found-dead-after-being-duct-taped-to-sleeping-bag-for-sick-reason-report/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-18T01:59:47.000Z",
+      "category": "geopolitical",
+      "summary": "Australian police are questioning parents after a 5-year-old boy restrained in a sleeping bag with duct tape was found dead Monday morning.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "French rioters set fire to historic Limoges Town Hall as far-left demonstrations spiral out of control",
+      "url": "https://nypost.com/2026/10/17/world-news/limoges-town-hall-largely-lost-after-far-left-protesters-cast-flames-on-historic-landmark-amid-french-unrest/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-18T01:58:57.000Z",
+      "category": "geopolitical",
+      "summary": "France's historic Limoges Town Hall was largely lost to fire during nationwide cost-of-living riots, as police arrested 400 people.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Hurricane Trudy strengthens to Category 2 on approach to Mexico coast",
+      "url": "https://nypost.com/2026/10/17/world-news/hurricane-trudy-strengthens-to-category-2-moves-toward-west-central-mexican-pacific-coast/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-18T01:37:24.000Z",
+      "category": "geopolitical",
+      "summary": "Hurricane Trudy strengthened to a Category 2 as it moved toward Mexico's west-central Pacific coast on Saturday, according to officials.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Trump's Mar-a-Lago donor summit: $657M, Musk's millions, and 17 days to hold Congress - Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEFvcUtwRGMya3AzekItUHBDbllFYktmMkIzODJjYUZjOEZOVFM1MTljYlluSUhOZjhSLVE1TVJQTVBONUh2RUo4S28yZnVQdUs1MVVxRHVtUTA4eGQ4ajVCZXYycU5FTTFVY0tXdFJ1ck9COElzaWtjZ1RJa1BGRTR3OUYweUpFYXdOVUhZSW1ZandpX2hfSWRyNjZOQTl1QnBSOXR3VVpDZlk?oc=5",
+      "source": "Latin Times",
+      "publishedAt": "2026-10-18T02:22:10.000Z",
+      "category": "geopolitical",
+      "bias": null
+    },
+    {
+      "title": "If Washington can influence Starlink in Ukraine, what does that mean for everyone else? | CBC News - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcExIdVFGQ05WalNyUVY1dWdSX0E5cFhaV2RnZG9iVU9iSHJkdnpCX0FRM3YwWUFhUlJ0TUUwUzJfWk1sTVlJQjdXT1NhTnd6TndQMTZJcFBvbkFEcF9fLTlPRHpKUkdzZFZ2T3B1ZzI5QTNmcGJSa2FIOTBCTkpleHIwOVY4MGpjT1BZ?oc=5",
+      "source": "CBC",
+      "publishedAt": "2026-10-17T08:00:00.000Z",
+      "category": "geopolitical",
+      "bias": null
     }
   ]
 }
