@@ -6065,6 +6065,1790 @@
       "publishedAt": "2026-10-22T18:11:00.000Z",
       "category": "geopolitical",
       "bias": null
+    },
+    {
+      "title": "Sam Altman’s OpenAI eyes $30B fundraising round ahead of looming IPO: report",
+      "url": "https://nypost.com/2026/10/23/business/sam-altmans-openai-eyes-30b-fundraising-round-ahead-of-ipo-report/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T16:16:55.000Z",
+      "category": "ai",
+      "summary": "The ChatGPT maker is raising up to $30 billion at a $1.25 trillion valuation, CNBC reported, citing people with knowledge of the situation.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Forum brings together Ohio State faculty, staff to share AI best practices - Ohio State News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGZiZnhzRldhRy1SRkR1V2YwSFRCQXVOZTdmWEY0Y0xCMXlSTl9CdGpvUTlUbTE2UFIyY1d2WlA4V1VqZ3VKZi1wQ1MwS2ZwM0N3NERXdHBJaEtGZU9OVzVVd1E3ZEJUYTB5aVdJeWpmLUpSNW5WYzJyMEo5b3drR0FPV0l3TWFkNzgzQWp3cmdnd2o1YjVOVGFxRQ?oc=5",
+      "source": "Ohio State News",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Nvidia Faces up to 45% Shortfall in Planned Data Center Capacity in 2027 - NVIDIA (NASDAQ:NVDA) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmRxX0ZBbDJOMzJGTG56TXloZmVzRldkQVRKYUNlSFNmVEVpVjk4QzJpa3NDUlY3SFlXSFo3dTVOR2FDRFZWUVc5d1JvSzE1YVVWYW1HQS16QnFBbHk4SEpGaGZvMTFTSEdmaHhHaV9YUjZ3THpDaFFKN0NxbHpKcVVqVnFrekxlX0M5eWVkQ2JKak1wV2lpOGNGM1VSeFJYMWpwSDVwZjVVM0V1?oc=5",
+      "source": "Benzinga",
+      "publishedAt": "2026-10-23T16:47:08.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "AI Can Radically Transform Government, One State CIO Says - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGFnX1lNbFdfNmx0eWlBSW5hcGhqLWdnTHlzRVFYMWFEakFZZVFBbm5SUDdyWExEYy1zdi11Y3JFMUpqeXI4V0hnVFFraWk4SVlQbEV4MVd5TmhzRWRITUIwZ2xzeHdfREE1NDB0ODJhZEE0bjFJSHE2UWMta21LTDBDMmFCeVk2WkpOLTFVeVhVbGVtUTZmMHlQaXN5RV9aUExNd3ozbw?oc=5",
+      "source": "GovTech",
+      "publishedAt": "2026-10-23T16:45:06.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Pentagon issues guidance on AI procurements to support White House’s ‘truth-seeking’ and ‘ideological neutrality’ directives - DefenseScoop",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNekJOVG9kXzUyTWdLeWVSeFFXNHgzRXdLMnRBZGlMM0xlRmJ6ZmxKVmMyaVF6Sl9KTEYyOWZfbWo0cTlCbXQ5cWZzTXFfU1AtazVpVEwyRmtFQVBpQ1lxQnp1LU5DUXltVTRlMzdyTWgzOGlOS3l1alR0aVMxMnpyckVBVlJ5SDhYYlpKYW9R?oc=5",
+      "source": "DefenseScoop",
+      "publishedAt": "2026-10-23T16:44:28.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Amex to cut roughly 3,500 employees - Banking Dive",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOanpFTUtPNkdpMU1xQ2g0WW0wTF9BN0I1RUFNd0dKdnN6bnVSTXJSdGRJaGtZRTZDendDN2dKM2diejczTlFSSTRxTUMxczlkNllyQV9zX0h5SlVPVXZXUFhkLWtLS0ZGSmVReGNXRlpQdUs3ZTBadXV6THFyWm4ybkdUSjFITTFZNnphSjRJaWFiZllQa2c?oc=5",
+      "source": "Banking Dive",
+      "publishedAt": "2026-10-23T16:42:37.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Eastern Bank ramps up AI spending for 2027 - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWJPWFMxODd3bnpnMjZrZXRsa0k1Smw2NVlrVzBOZ1JqdG1EZHF4bTlYT0NNM1NOLVVHVnNfZFdRSGhub1hYT0cwSmtzU3dRSDJNTDZCYWdoSnNxRmFaZEFVc0tIc25YbTNpNkdfN3FnSjBXckNaNmVFSDBkVEJBN2ljOUNaN0VSQkdDS3BkMmhnOG14Q3ZZdDVQcjh1eWJHQnRheg?oc=5",
+      "source": "The Business Journals",
+      "publishedAt": "2026-10-23T16:41:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "10 TEDx Talks. A world of ideas. One UCLA - UCLA",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOLTUtR203aDBkTWJuM2VoMUZTNmd6bUFUZERKVW9EV3dsaGI5R2FSVDY3XzIyRjFfcVlBQUdhLVBSeUJZQ0FfU0VyYlZxVHRhSFZFN1B5ZC10V19IQm5mWXE5U05JSmxXRUdtb2JBdW9XakRjR1lkejRR?oc=5",
+      "source": "UCLA",
+      "publishedAt": "2026-10-23T16:31:15.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Amex to cut 5 per cent of workforce 'to prepare for AI' - Canadian HR Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW1XQmEycS1NbS1tZzlfeGg5NUQ0a0FJNncyNWZMa2t1bnJaZEdVSHBGMnlEZW5qSFNua2c4X1ptLUd6WFMtaFotYjktX3EwSUdXUHVVb3BqdVUzODQwVVptNUdGUU1SZU85WjF5MFJzNVdlRVlwNDZyUERNVnRsQjlGMmgzdmplY3NDa2RXLUdqd1hHUEVuVHNYNGd4dUxWaEE?oc=5",
+      "source": "Canadian HR Reporter",
+      "publishedAt": "2026-10-23T16:29:50.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Barclays is latest to redirect spending toward AI as it trims its workforce - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzN1dQdE9ieTB1SDZQa2czTWZ4azJxaFIyZEVjMGRRQVBNbnkwSjNfZ2hrSGhNcmk2VDdXbmpZTlNuRHgtcFo5dkdBcGFscmVpSVV5bHAtV0dXQmJoQlFSOVpVc2gyWGo2ZUFOM08yUUlsdw?oc=5",
+      "source": "Boston Herald",
+      "publishedAt": "2026-10-23T16:29:10.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Top Bank Sees Big AI Opportunity for These 3 Tech Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWdIQmd2ZHdWZ1dlaWNnU1lCZEkybGpqbEhDcHJVNnA1T0k4Tl9JeFNDTV9Wbkw2VmR1SjFRZ0xBVDFtQ0VKUkU1azRCeFdBRW5xOUxnbERGT0E0dnA3RFBYLXRRaHFIeHN1MjB6dUFzbGpqTkh6OWF2aGxDTU5OcWtJdWJITEVGTkVKQg?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-23T16:28:37.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Citi takes cautious approach on AI agent access - Banking Dive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY091QlBrM0FLT3dEMkNlMnZKbll6b0xVT3QxQXZRQWNxN1RHUzA4TDM1TEtvQktzVDJiNFB6QlhOcjFlbmV6S2EwR2pqTWk1ejFtLWtIRmNYOU9hWkREUUFtWDluOVBianZLZE5kMXJrcDh6VkkzZEJrNTVZcVdHeXNCRmo5UkszTG5nQWF3?oc=5",
+      "source": "Banking Dive",
+      "publishedAt": "2026-10-23T16:25:39.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "What the AI race can learn from a historic pause in scientific research - WBUR",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vR2hraS1CcUJ4Q3VIUnZvRm1XRENNd0JydnI5dmdTbVEyR1YzYzN3R0pLa0g3MThiWktYNm9tdnlvcVBOOGo4bF82cGVHN1lrYVNELUx2TEpodEdJTGNDbUIwUkZCNUJrVVVBWG1rUXJadFE?oc=5",
+      "source": "WBUR",
+      "publishedAt": "2026-10-23T16:08:36.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Layoffs Linked to Changes in Corporate AI Spending - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUxOcEpjVHhVNGFPa1hLWVNlVzFZM2JmOUM5RkU3bTM5akRad3JFU0pxSjAwR1RmYlN1SThHSW9HQlJsNVJSVzZoLTM2NWdwdnd5empqY0ctUURuXzAta3lwaGg3d1ktcXJUYkY1ZmpxLXlOTHFQUHR0RkpXbVJnMDBGSE50OHFRSmVVdVdMZnREdGdHWHpjRmhsSU5udkQzWG5FdXFYamdjMGlBLUE?oc=5",
+      "source": "U.S. News & World Report",
+      "publishedAt": "2026-10-23T16:05:00.000Z",
+      "category": "ai",
+      "bias": null
+    },
+    {
+      "title": "Cognitive surrender: Artificial intelligence’s threat to democracy",
+      "url": "https://thehill.com/opinion/technology/6166067-protecting-personal-agency-ai/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "category": "ai",
+      "summary": "Wesleyan University computer science professor Sebastian Zimmeck argues that artificial intelligence poses a threat to democratic citizenship by encouraging cognitive surrender and requiring both individual critical thinking and robust regulatory oversight to protect personal agency.",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Lovell Sees Earnings Growth Beyond AI",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/lovell-sees-earnings-growth-beyond-ai-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:55:57.000Z",
+      "category": "ai",
+      "summary": "Nadia Lovell, UBS Global Wealth Management’s head of global equity strategy, said markets may remain volatile over the coming weeks amid earnings, next week’s Federal Reserve meeting, midterm-election uncertainty and the Middle East conflict’s impact on energy and oil prices. Despite risks around financing the AI build",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/ai-fears-push-global-credit-spreads-to-17-month-high-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:37:22.000Z",
+      "category": "ai",
+      "summary": "Metrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing geopolitical tensions caused investors to seek out safe-haven assets. Katy Kaminski, Chief Research Strategist at AlphaSimplex, discusses the equities AI trade test and why fixed ",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Nolte: Disney AI Patent Could Kill Jobs of Theme Park Character Actors",
+      "url": "https://www.breitbart.com/entertainment/2026/10/23/nolte-disney-ai-patent-could-kill-jobs-of-theme-park-character-actors/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-23T15:31:41.000Z",
+      "category": "ai",
+      "summary": "The Disney Grooming Syndicate has filed for an AI patent that could kill the job of every character actor in its theme parks. The post Nolte: Disney AI Patent Could Kill Jobs of Theme Park Character Actors appeared first on Breitbart .",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Plans for AI data centre in Canterbury approved by council - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EZU4tRXp2bEIxczM1bUxXMF9sTG05QWRQWnNlQXdTc2xqeFNteC1KZkVxUWhrdExKV3dVeTMtZXlleW1lNmtubG5sXzFmY29IZDNXQ2xZNG1mSUk?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-10-23T15:31:26.000Z",
+      "category": "ai",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC"
+      }
+    },
+    {
+      "title": "Oil prices hit five-month high and Dow falls 700 points over fears of Iran strikes, AI spending",
+      "url": "https://nypost.com/2026/10/23/business/oil-prices-hit-five-month-high-dow-falls-700-points-over-fears-of-iran-strikes-ai-spending/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T14:48:19.000Z",
+      "category": "ai",
+      "summary": "Brent crude oil futures jumped 2.7% to $116.26 a barrel – their highest level since early May and on track for a weekly rise of more than 10%.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "AI Capex & Earnings: What Happens When Growth Slows - Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1JZai0wc3Q4b0F1ZTBlR0NTUzhrWkNDejRBaVNYdDZaa00wbW9BTkRPWVpfWXFoWmRZQ1FpRVNUcEx5WVlMamhreG9iQ0xEcEhPQ0NOay1UOFh5X0tZdEJWWDJvdC1BMGxoVDJRX0ZGd0ZoME9YWVlSZTRpWWllV19wR0hYRnRmY2R6em9oVVRMXzJhWm0zV1BuejMtV1pG?oc=5",
+      "source": "Newsmax",
+      "publishedAt": "2026-10-23T14:46:24.000Z",
+      "category": "ai",
+      "bias": {
+        "score": 68,
+        "label": "Right",
+        "source": "Newsmax"
+      }
+    },
+    {
+      "title": "Wall Street regulator to focus on AI, private assets in corporate exams - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmktYzhnbk9rRktmb0pOaE1ORnQyWDNtU1RldG8wNHJiMzh1UlVUYl8tOFZUdlRmbmtLNl9STTVKRzV5SF9aVXlRd1RBZ1hhdHFSY0kxUDJrcDZ1WVlXUm9mcWdtNElwblJWTW11WVltWDNYMlN1ZDltWG85WmMxd3EwUEtuMWFTbHRINS1SbzRreFJyM1VxLVNjd0lYbEd4MjRweXZhMzN1RVYtMVRFeXliaWs?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T14:40:20.000Z",
+      "category": "ai",
+      "bias": {
+        "score": 0,
+        "label": "Center",
+        "source": "Reuters"
+      }
+    },
+    {
+      "title": "Etsy to restrict AI-generated content in effort to combat seller slop - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1lSenhxYy02STZiYU9mcGtTbGtIZXBXNVhVTUR1MmlBVjY1RnFQbWhqSXVnbzhEOGtJUW5SV1VBLUJlOHQ0SUxudk91b3FCaG1KU3dlb2xhT0NZd3BHZmhyMWozVVVROWJiZU4yakhqM01iczBrQU8wc2JLNTJhT3NmRWZYZ1B4Wk9SdVVWcXVFOXFKNXhv?oc=5",
+      "source": "NBC News",
+      "publishedAt": "2026-10-23T14:39:40.000Z",
+      "category": "ai",
+      "bias": {
+        "score": -20,
+        "label": "Lean Left",
+        "source": "NBC News"
+      }
+    },
+    {
+      "title": "Appeals court tears into federal judge for AI hallucinations in ruling on DEI law - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkxydDVwaFE4bFIxZFNuQ3hhN2NHdWtDTHFBb2MyOXA1Y2p5dTFldXFuSnRKZUNILUZ5VjZkN1hHbWlaYTZ1UnZDY3JXLXozMl9lSmZLSTNqNGcxUjUwUGlGWTNtSlFkZlJWand6OWJRcEdtamRnN3JlVnE3RVdnNWsyMjZVblpiLW9mRQ?oc=5",
+      "source": "Fox News",
+      "publishedAt": "2026-10-23T14:34:56.000Z",
+      "category": "ai",
+      "bias": {
+        "score": 55,
+        "label": "Lean Right",
+        "source": "Fox News"
+      }
+    },
+    {
+      "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGtBREc5bkZGWEZuOWh1VFljWllKZ1FaUDM1eElQNFFfTFpkM2JqNzRxSzRlUnFQRUdITWNQM1NGMGxPN3lpdDd3cFZCbzB6OUVlUEJYWEN0bGhUYW5LckdlU1FVVlk5VHlsU01MNDg4SXFETFdXR1FBdDJ5bEROdHkzUzRGMmYzbVlTcjduR3M?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T14:00:00.000Z",
+      "category": "ai",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "AI-Driven Job Losses and Inequality: A Guide to Proposals for Helping Workers",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-driven-job-losses-and-inequality-a-guide-to-proposals-for-helping-workers",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T13:27:03.000Z",
+      "category": "ai",
+      "summary": "Policymakers, economists and tech leaders are proposing ways to protect workers — and spread the technology’s gains",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "AI Chipmaker Cambricon’s Sales Miss in Sign of Output Constraint - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQW5LVWJoYmcwMDUwMXFTa3VMWHRmajBZWjNOdzFja25YSWN0bkcwdXpkY3VMS3h4aDRXSUd3cU5UQ0lTT3BZT04xRDdpUjljaW1DWnhubzRqOUg1c3lIZThIYi1pZF9IZnQtZmRweGVtZnVmMVBOZzJfLXRMdllkNmZXc05ReGltakx5dllKdHdNVnhrWHFtMVVUZWMtMnB1Qlo5bmluanc0a3dTcVc3dm1MTTREdw?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-23T13:22:07.000Z",
+      "category": "ai",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg.com"
+      }
+    },
+    {
+      "title": "Pathos AI teams up with Bristol Myers and Tempus AI to advance drug development - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2o0cFRYX1BWa2w1UTJLeTU2cUloVnl5RFlTcEY3aUg1VkN4SFJkdWJWQWxLbmpjdnJ6MHRUdDNGRXU4d0dyTDJPRTJ6QVdsQUhiUkZ6cnE3ZmFPdUNoR0MycHhJdUdNcFBHa3ZMbVluR0xFcjMyV1dCRnhETXMtYWVUVzFJT09iTmhCRFBmMXJTcEdPXy0tX0tvRGRDd2pDbUpIQzFUUDFLSHFnNUZ1a0RpS0tBWlo0TEdNZ2RiSXZpazQ?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T13:01:43.000Z",
+      "category": "ai",
+      "bias": {
+        "score": 0,
+        "label": "Center",
+        "source": "Reuters"
+      }
+    },
+    {
+      "title": "China's First Fully AI-Generated Film Struggles at Box Office",
+      "url": "https://www.breitbart.com/entertainment/2026/10/23/chinas-first-fully-ai-generated-film-struggles-at-box-office/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-23T09:57:46.000Z",
+      "category": "ai",
+      "summary": "BEIJING, China -- China's first fully AI-generated feature film opens in cinemas on Friday in what promises to be a tough box-office test for the country's booming tech industry as advance ticket sales lag. The post China’s First Fully AI-Generated Film Struggles at Box Office appeared first on Breitbart .",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Hong Kong finance secretary on AI risk and future growth - CNN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2djMWNEZXNkSVN6dkZyVHpUZzBEWmJnWGdJM1RYS2tvdTdxbmFLaThxWDVQcVFBTXpNT3JnNUFjWHQ0VFlIX01qTjlKU3FwWkVWRUFReXV4NUh4bzZLQ0I5dkRWdS1KdkVWaENYcWdYQ2dVQkJ3TmF5ZGhnbTRkeVh0alNid2VCdG9PZU9UbzhmSkU?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-23T07:16:06.000Z",
+      "category": "ai",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "Disrespected by Trump, Denmark keeps proving itself a top ally",
+      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4776442/disrespected-by-trump-denmark-keeps-proving-top-ally/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T17:01:13.000Z",
+      "category": "political",
+      "summary": "The NATO alliance is history’s most successful defensive partnership. It retains high value for the United States. But not all NATO allies are made equal. Some allies won’t adequately commit resources or military forces to deter common enemies. Their number includes Belgium, the Czech Republic, Hungary, Italy, and Spai",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "As midterms loom, Trump and his allies try to change the subject",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T17:00:09.000Z",
+      "category": "political",
+      "summary": "Despite distraction and distortion, voters know what issues will be informing their votes in this election This was originally published in The Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox Elections too often get pigeonholed. The hot take, or simplistic analysis, would have it ",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Live updates: Trump leans into Ramaswamy ad controversy, heads to Florida rally",
+      "url": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T16:58:31.000Z",
+      "category": "political",
+      "summary": "President Trump will rally voters closer to home Friday afternoon, with a campaign stop in Fort Myers, Fla., as long-awaited midterm elections approach. He'll be there to boost Rep. Byron Donalds (R-Fla.), who's running for governor, and Sen. Ashley Moody (R-Fla.), who is running for a full Senate term. The president b",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T16:58:14.000Z",
+      "category": "political",
+      "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Trump’s justice department sues to block Senate race certification in Alaska if Republican loses – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:54:07.000Z",
+      "category": "political",
+      "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardia",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Cook Political Report shifts 19 more House races toward Democrats",
+      "url": "https://www.washingtonexaminer.com/news/house/4777366/cook-political-report-shifts-19-more-house-races-toward-democrats/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T16:52:43.000Z",
+      "category": "political",
+      "summary": "Cook Political Report on Friday tilted 19 more House races away from Republicans, saying the GOP’s path to keeping control of the lower chamber in the November elections has “all but evaporated.” The election forecaster’s announcement comes after it has shifted dozens of other races in both the House and Senate toward ",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Feds knocking on doors to question voters' immigration status: CBS",
+      "url": "https://thehill.com/opinion/lindseys-lens/6168643-dhs-voter-intimidation-investigation/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T16:52:10.000Z",
+      "category": "political",
+      "summary": "We need to protect eligible Americans’ right to vote without fear. If the administration believes it can win voters over, the answer is policy and persuasion, not tactics that risk making people afraid to exercise their fundamental right.",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Police yet to receive £2m after A66 crash, says commissioner",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lzl0ydy8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T16:48:02.000Z",
+      "category": "political",
+      "summary": "Cleveland Police and Crime Commissioner Matt Storey says it has been nearly two months since force was promised the cash.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "New Jersey Devils land Olympic hero Connor Hellebuyck in blockbuster trade with Winnipeg",
+      "url": "https://www.theguardian.com/sport/2026/oct/23/connor-hellebuyck-new-jersey-devils-winnipeg-jets-trade-nhl",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:47:15.000Z",
+      "category": "political",
+      "summary": "Three-time Vezina winner leaves Winnipeg after 11 years Devils send four players and two draft picks to Jets Olympic gold medalist joins US teammate Jack Hughes Connor Hellebuyck finally has a new home after the Winnipeg Jets granted the three-time Vezina Trophy-winning goaltender’s trade request in a deal that sent hi",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:46:17.000Z",
+      "category": "political",
+      "summary": "The Justice Department, in a highly unusual court filing, argued that confusion over candidates with similar names could taint the election result.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T16:44:13.000Z",
+      "category": "political",
+      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/democratic-agenda.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:43:54.000Z",
+      "category": "political",
+      "summary": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Officer who shot and killed Black toddler in Mississippi resigns from police force",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:39:34.000Z",
+      "category": "political",
+      "summary": "Hunter Foster fired at vehicle during a shoplifting call at a Walmart, killing one-year-old Kohen Wiley Hunter Foster, the Mississippi police officer who shot into a vehicle and killed one-year-old Kohen Wiley, has resigned from the Senatobia police department. Earlier this week, Mississippi’s attorney general, Lynn Fi",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "LeBron James has ‘zero appreciation for what he has’: Joe Concha",
+      "url": "https://www.washingtonexaminer.com/sports/4777499/lebron-james-zero-appreciation-joe-concha/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T16:39:23.000Z",
+      "category": "political",
+      "summary": "Washington Examiner columnist Joe Concha slammed basketball legend LeBron James for appearing to continue warming up during the national anthem before the Philadelphia 76ers’ season opener on Tuesday. “Obviously this is completely intentional, he always knows that all cameras are on him, especially in an NBA opener,” C",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Federal government stopped sharing information in Good, Pretti killings, Minnesota officials say",
+      "url": "https://thehill.com/homenews/6168592-minnesota-sues-doj-evidence/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T16:38:14.000Z",
+      "category": "political",
+      "summary": "Minnesota officials said the Department of Justice (DOJ) has stopped sharing evidence related to the killings of Alex Pretti and Renee Good by immigration officers earlier this year. Minnesota officials said in a court filing reviewed by The Associated Press that the federal government stopped sharing evidence related ",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
+      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:35:48.000Z",
+      "category": "political",
+      "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for gene",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Trump looks for some midterm Sunshine",
+      "url": "https://thehill.com/newsletters/1230-report/6168562-trump-looks-for-some-midterm-sunshine/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T16:31:44.000Z",
+      "category": "political",
+      "summary": "Plus: All eyes on Musk amid Starlink saga {beacon} It’s Friday, and it's shaping up to be a busy one with lots of news breaking before lunchtime. Let's dive in, shall we? In today's issue: Trump heads to Florida Fight over Starlink in Ukraine drags on Omar hit with another Trump accusation LeBron shrugs...",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "How housing affordability can be achieved at the state and local level",
+      "url": "https://thehill.com/opinion/finance/6166774-road-housing-act-affordability/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T16:30:00.000Z",
+      "category": "political",
+      "summary": "Former Sen. Jon Tester praised the passage of the bipartisan 21st Century Road to Housing Act, noting its success in balancing restrictions on Wall Street investors with incentives for professional housing providers to increase supply.",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Google signs deal with Voltus to pay consumers to cut back energy usage",
+      "url": "https://www.washingtonexaminer.com/policy/technology/4777295/google-signs-deal-voltus-pay-consumers-cut-back-energy-usage-virtual-power-plant/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T16:29:15.000Z",
+      "category": "political",
+      "summary": "Google signed a deal with Voltus, a distributed energy resource platform, to build a 1 gigawatt virtual power plant to provide extra capacity for the surging electricity needs of data centers. As Google and other companies construct more data centers to keep up with the AI revolution, more strain has been put on the po",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Trump spars with NBC reporter over Ramaswamy attack ad",
+      "url": "https://thehill.com/homenews/administration/6168553-donald-trump-vivek-ramaswamy-ad-nbc-reporter/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T16:27:51.000Z",
+      "category": "political",
+      "summary": "President Trump engaged in a vigorous back-and-forth Friday with NBC reporter Monica Alba after tripling down on the Ohio governor’s race ad featuring Democratic nominee Amy Acton’s estranged mother calling her a liar. Reporters asked Trump about fellow Republicans denouncing the ad that was created by Vivek Ramaswamy,",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "WATCH LIVE: Trump holds midterm rally in Florida with Byron Donalds",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/4777523/watch-live-trump-midterm-rally-florida-byron-donalds/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T16:21:44.000Z",
+      "category": "political",
+      "summary": "President Donald Trump is holding a rally in Florida on Friday afternoon, seeking to boost Republican candidates in the state. The president is set to speak around 2 p.m. Eastern at Alico Arena on the campus of Florida Gulf Coast University. Gubernatorial nominee Byron Donalds, who is facing a spirited challenge from D",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Justice Dept. Moves to Block Certification of Alaska Senate Race Results if Republican Loses - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDl5Z3RHSk9rWjFzYUZTei1SdmpSYllQaWg2WVBDbHFvVks4S05ZZHdoRWxvUFFEZEx2WTFQRWxuYWpOYjhROUhpaTZXbm44T0tTbkRkZjlJQVgtdVYxR0wzVXpfSnlLSEdLSjNtcG1jdER6LUlkYjRRR01raFBMdkhPMWpNajVCR2pnSXY0aVkyZ19fek1v?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:19:19.000Z",
+      "category": "political",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Trump jokes he has the ‘right’ to run for a third term as president",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-third-term",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:18:17.000Z",
+      "category": "political",
+      "summary": "But the US constitution unequivocally states that he cannot, which the president also seemed to acknowledge Donald Trump joked with rally-goers on Thursday evening that he had “the right to run again” for president, invoking a claim he has repeatedly made that he may seek a third term despite it being unconstitutional ",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
+      "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:14:44.000Z",
+      "category": "political",
+      "summary": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Joe Concha predicts Michigan flips after el Sayed’s debate performance",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4777308/el-sayed-debate-very-bad-rogers-joe-concha/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T16:14:01.000Z",
+      "category": "political",
+      "summary": "Washington Examiner columnist Joe Concha torched Michigan Democratic Senate nominee Abdul el Sayed over his recent debate performance, calling it a “very, very bad night,” predicting Republican nominee Mike Rogers could flip the state. “I don’t see how Mike Rogers loses this. It will be close, but I think Michigan flip",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:09:51.000Z",
+      "category": "political",
+      "summary": "President Trump will rally on Friday in a Republican state where Democrats have their eye on several House races.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Data Center Spending to Double to $2.1 Trillion by '28 - Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR194dlFBRGpKd241ZUNPUkt5N2hoSDd1ZFQ4ekdnWXF4LThhLXhmdmtBTXBGcGR3SVFaUDQwYWV4NTc3Z3VoXzd2bHJSeUhIZmlLVU85WDZwdlpfTXdzaHg0RWtjc3M1c2JOSjVDR1dQUnRsTDR2NUJTOUkyT0hQbEZBU2pTRHk5S1pHSDZtcGxiMXVYNlVkM1l3X0RHOU85SjFYc0N5SDRHcDNo?oc=5",
+      "source": "Newsmax",
+      "publishedAt": "2026-10-23T16:09:32.000Z",
+      "category": "political",
+      "bias": {
+        "score": 68,
+        "label": "Right",
+        "source": "Newsmax"
+      }
+    },
+    {
+      "title": "Ex-FBI Officials Charged Over Testimony on Hunter Biden Probe",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/ex-fbi-officials-charged-over-testimony-on-hunter-biden-probe",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T16:06:10.000Z",
+      "category": "political",
+      "summary": "Two former senior FBI officials were charged with making false statements to lawmakers about their involvement in investigations concerning Hunter Biden.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "The Trump Administration Wants More Tax Charges. It’s Going to Be Tough. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbm9tZ2s0VS1YMGw4d3FlQnZ2OWdCclVTZElRSkF1eEt6TG12TnFpNHhUUUhNNFNFTXdjbmtqaGFCa0Jybkl3RjJ3dV82ZGw1TkhjMURIZlo0Ql9Obk1GaFg3Wmw1ZUkyV3hRLTZfd2Fac1hYemdtWXNFNGthbzZHZ1RzZDVhV3VVN3ZPNS1tMmlWQXNOVWZITWFEMFFRbFc2am9UWkRyMWUyYzBtdUstOXFkWjk?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T17:00:11.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Nixon cites Harris’s 2024 performance as an uphill battle to get party leadership’s support",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4777423/nixon-cites-harris-2024-performance-uphill-battle-party-leadership-support/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T16:02:15.000Z",
+      "category": "political",
+      "summary": "Florida Democratic Senate nominee Angie Nixon said that assumptions about racism in the South may be contributing to Democrats’ reluctance to invest in her campaign, arguing that the party has repeatedly underestimated the state’s political potential. “I would say it’s that they think that the state is racist, and they",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Why Virginia needs the federal scholarship tax credit",
+      "url": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4776403/virginia-education-freedom-tax-credit-sgo-tutoring-support-in-spanberger-hands/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "category": "political",
+      "summary": "“I’m not going to leave money on the table when it could help our kids,” New York Gov. Kathy Hochul (D-NY) declared while reiterating that her state will participate in the new federal scholarship tax credit. Her confident commitment to expanding educational opportunities for Empire State children contrasts sharply wit",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Trump threatens to ‘veto everything’ during a Democratic Congress",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4777435/trump-veto-everything-democratic-congress-gridlock-clash/",
+      "source": "Washington Examiner",
+      "publishedAt": "2026-10-23T15:55:11.000Z",
+      "category": "political",
+      "summary": "President Donald Trump threatened to veto every piece of legislation put forward during the second half of his administration if Democrats flip control of the House or Senate during next month’s midterm elections. “Well, I think the Republicans are going to win. But if there was, you call it gridlock, what happens is I",
+      "bias": {
+        "score": 48,
+        "label": "Lean Right",
+        "source": "Washington Examiner"
+      }
+    },
+    {
+      "title": "‘No merit’ to U.S. claims that Canada is interfering ahead of midterms: Carney - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGRuZDdvNDBSYUlrOUR2QTdjdXc0Vk5fM3NoczdKX0pqampwUmVjTFhDWmg4S090SkR3RmhFQ1hrdmxmdEhjVVdPQTRqVWl2V2NjY0hLRUlSZEtUbGN4MkF2NnhDbm9ENEZsMS1TR2ZUTzU4OTRiU09mNW5OXzZIYnh6TjZRNE91WTZrOFZYNnRSUmNrYnRPLXNGeWtBV3ZoQWx1OHJTTnZJZXZLbHRn?oc=5",
+      "source": "CityNews Edmonton",
+      "publishedAt": "2026-10-23T15:40:22.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Opinion | Democrats Need McCain-Romney Republicans - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMk1GMmZjT3ZuWjZrUDJJcUhBOWxfS01LUEFEYTFnS2N1S1ZkSXBhbWdHS2pHT21JblpZU3hDczZKQ2MzWXFITFJVa1dkcW50OWZKWDYyOHBVUDdnakpZTmxZYnBrdWJYcUJXai1TZ25fdldnV0JGdGh5ZUxBSXpTcGc1QQ?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T15:32:22.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Carney Rejects US Election Interference Claims, Criticizes Trump's Ambassador to Canada - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNDAzRUhFQ0NJWUVlbGhBQkp3ZU9DbU40dE5PLVVaRDcyNHVZUm5kZkJfcFE1YzlwSDR5dk90YjBvVHFkRHJ6cjZXMDVGcjRqTkhPSHRCVG5OZ2JtTjY5VHQwdW5jNXRKNkJQdkZ6Q0dRQkt4dWZkazV3ZC1DMFdiM09tM3VqUnJGSTVJLVdJWnNaaGs4WkVWY0pJWlltbjhlVDZMY1NaN0FfVzJzSjZxdG5UNzVCRGUzR0lPeVQ3aUI0ZEFxUXVZdHdjbEJ4UHlZeUdDczZJbTJ6UQ?oc=5",
+      "source": "U.S. News & World Report",
+      "publishedAt": "2026-10-23T14:13:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Opinion | US Billionaires Compete for 'Most Awful Human Being' Award - Common Dreams",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWE5aRC1CcHludXdNdmNON0RoWEJSYlM4UTNoRjQtbVVjR3ZVZGVjUFRfVE82VzJld3hWbmx5cFpFby1EaUE3Y0gzQXc5Sk1YaVp4N2JWUVlfUU1BQjgzTkd3eXMwUEIxN2ZWcjhmM1NWaFRRZlc2OTF3VXVDWVFfY2V3?oc=5",
+      "source": "Common Dreams",
+      "publishedAt": "2026-10-23T13:58:35.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "U.S. claims of Canadian political interference have ‘no merit,’ Carney says - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CTXpYS0N0RUJqTmxoTUNwLVd4UzZIX1B0VE9KclVNZ2FCRF8xWkRVMGtlNi1Vbm5HRkVkOFJLNndXaHcwNFp1UllfU3J3N3lEaWZQemotYndFdGRpeHhUengxc2hPM0JiSVhrak5zc21fa24wTmtkenZsNUQ?oc=5",
+      "source": "Global News",
+      "publishedAt": "2026-10-23T13:24:53.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Say Goodbye to Those Onerous Chores at Airbnbs - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTktJMnVoczV4SFlWcHFBWTVzd3d4UUg2T3lOeWhjVzVMT0pIdlFobHFiY2QxRUptdWlKMHZSMWRQNWYxZklZZ1QwX2NuSTBRaV9CbjcwMkxiMkZXeHVIcDBLQ1k0cXlmMzVYVXV0Rnp0RDhwZGE4dThhY012MV9HX3RxOW9rbl9uTlBpaXdvbWhPcHcybFhN?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T12:25:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkRQT3NXRk1GdlBLTnc0VnZMQXYtQkptNU4tbnUxWDBhN3BmazdyMUJ0V0VRWm5aNmJaM1VrWWp5WjIxTjlIZGJ4bnpZdl94U2xhV0lqUXQ5THoya3pleXZILW90SVRpblRiR1VvcnlKVHRjZ2ZtTklMaVhwci1ZMmlzdHlYZFc4a2FxaXUtamZqdUlhX1lyalVndTlFWFUyODR4QUFIUy1qWkJUSFRSVjRjTEZHNFhBbTlWeGhhTXY0Wk9lX1E?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T12:20:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Indonesia’s Sovereign Fund Sticks to Investment Strategy Amid Market Turmoil - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGhwVUdKWVFTWmxpZEg1ZVUwZTJzVmt6bXBtYlZERHdfV3FURzl2R2JlVWxTMWZLOVQtUUhSQ0Zicm9xUFgwVmlveHA4dkdoc1V2LU1TbmcwTkVqZHk1ZjFMd2t4VEFPZzRQUEJZT3g2N3NGdzdFbFppRVdoOE01QnpNV1VSRmY3S3RPRW1QTDluMUZOMTEwNjlRLXNGMFQ1cjlJX2Z1S1R4dV94OU9NRHNzSTk4T0xHUmVnbkVhR1E?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T11:43:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Congress Will Lose Over 800 Years of Experience—Maybe That’s a Good Thing - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb05HaGFQTE9HRmFJX1hFMHo5aVFtSnV0WjRhWXFjZGtIU2EwdHFPTVZUZFVmRFJrejFYbVlPT1AwUG9XMVRGMlF2ZXNDNXlaaWxWak1zRUpxdnpsMWhPX21FQVZqM1RTNW1iRnE3Vng0WHpuWllod0tHS0JMVWVQMDRUeEVJYndDYkpkTFRnSExfUnZKUnJxMXRYdldldzN5a05IM2xhVldkSGx2QnJtSDY2Vy05SFk?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T10:58:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Is SpaceX Just a Mess? - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Mckw1WnNVcDdaaUZPNnA3RVJiT0hZT09xd09IT0hNX0UwamtwZ016YUFxRGphckpXTXNwdmVfQmY0cTk2WjM5Snpyc2xMazVrM1VYVkZsbDJpc3F1QjlhLWNacDZiMXBqaUtXcWw4b0Q1UG80VURz?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T10:25:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "French Contraction Has Slowed Eurozone Expansion, Surveys Show - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGt5RHEyWEdSeDNBRGJ3bVpNYndVak1yY2dkMG8zOVRnb1o1T0xLcWhQQ1ZmX1A3ampicjhSWVBQSG1aQ0RNaWN1bWNlbGFDS3VZWjRlclByVVk2SHQyWXR2azNjYWZENnpiV3pvLW1naGx3MjA0cmlaMWVaLTUwbzhvY2l0UnBXMHBXYTRLWjd3WGc0dFV3dl9BbUVkVFNubDNXeGVtQ2s?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T09:16:00.000Z",
+      "category": "political",
+      "bias": null
+    },
+    {
+      "title": "Kalshi CEO on Midterms, Regulation and Inflation Futures",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/kalshi-ceo-on-midterms-regulation-and-inflation-futures-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T16:31:26.000Z",
+      "category": "economic",
+      "summary": "Kalshi co-founder and CEO Tarek Mansour discusses the growing role of prediction markets in elections and the regulatory challenges facing the industry. Speaking with Tyler Kendall on \"Bloomberg Tech,\" Mansour also comments on the company's proposed perpetual oil futures contract. (Source: Bloomberg)",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T16:20:54.000Z",
+      "category": "economic",
+      "summary": "US consumer sentiment edged down to a five-month low in October as high prices and rising interest rates depressed morale. The University of Michigan’s final sentiment index eased to 48 from 48.1 in September, according to the survey released Friday. Even so, that was an improvement from the preliminary reading and top",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "U.S. Economy Booms as Business Activity, Hiring and New Orders Surge",
+      "url": "https://www.breitbart.com/economy/2026/10/23/u-s-economy-booms-as-business-activity-hiring-and-new-orders-surge/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-23T16:04:11.000Z",
+      "category": "economic",
+      "summary": "The American economy continued to boom in October, with business activity expanding at one of the fastest rates in more than four years, manufacturing conditions reaching their strongest level since 2022, and factory hiring accelerating to its fastest pace in nearly 15 years. The post U.S. Economy Booms as Business Act",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T16:23:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Consumer confidence holds steady from September amid persistent inflation",
+      "url": "https://thehill.com/business/6168219-consumer-confidence-inflation-high-prices/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T15:37:37.000Z",
+      "category": "economic",
+      "summary": "U.S. consumer sentiment flatlined from September to October, as persistent inflation squeezes Americans’ finances. Consumer confidence sat at a measure of 48 percent this month, a minor decrease from last month’s reading of 48.1, according to the University of Michigan’s Surveys of Consumers Index. Consumer sentiment h",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
+      "url": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T14:58:35.000Z",
+      "category": "economic",
+      "summary": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-on-inflation-woes",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T14:00:00.000Z",
+      "category": "economic",
+      "summary": "US consumer sentiment edged down to a five-month low in October as high prices and rising interest rates depressed morale.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "US Business Activity Expands, Prices Surge Most Since 2022",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/us-business-activity-expands-prices-surge-by-most-since-2022",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T13:45:00.000Z",
+      "category": "economic",
+      "summary": "US business activity grew at a slightly slower pace in October but remained close to a multi-year high as robust demand pushed new orders, employment and prices higher.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Kalshi Courts Wall Street in Bid to Be the ‘Inflation Exchange’ With CPI Futures",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/kalshi-courts-wall-street-in-bid-to-be-the-inflation-exchange-with-cpi-futures",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T13:00:03.000Z",
+      "category": "economic",
+      "summary": "Kalshi Inc. is opening up a new frontier in its rivalry with traditional financial exchanges by pitching the world’s largest banks and hedge funds on a futures market tied to US inflation.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Canada Retail Sales Rebound Set to Continue in September",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/canada-retail-sales-rebound-set-to-continue-in-september",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T12:30:01.000Z",
+      "category": "economic",
+      "summary": "Canadian retail spending is on track to continue growing in September, although at a slower pace than in August.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Gold Weekly Forecast: Inflation fears attract bears ahead of critical Fed meeting - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0JSQ2pFSE5ydUZiN1FCdFNTeHZEbER5cEtXWUFoSDN0RjRocGV6cUhnWk42OVdfRDlfMTBVSG1sZFpxWnpkdUo2YUZNTXlIYWFoU1BObnhWODRCeG9odk9KT0FjdGdjbWdaUWdIa05sU3pKaVNfbl9kd2ZCNW1zaHBueFNzazk5N1MycjlhNy1MaHY4MS10LThVM1g4cWFjWnY4ZU9aZm9xc2ZwejlCdTJJYWFuWVJpOUxpbm1TeUV4b2xyTFE?oc=5",
+      "source": "FXStreet",
+      "publishedAt": "2026-10-23T15:03:15.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd0FLZlZiSU1iVHVoNi1rcHFUNXV6SnhfLWZscTgxdGVNX29PMWgxU3I2N2dORkNCRlJCczVfOWE5LWs2RW0xcGNoNmU2RGRMZkxiWldjQ0E1S3pEZGp5RndOb2dZLXF1bzU1bV9fdTNXS1NuT0FGWU5NZWVnNFQ1Y3J2RDZNS3p6dGVYY0RWbnJENGdmdlk4Q2VEUzZzckpINzROdUZ4eWpvTFZ5WC1TSUFORlh6X25wTUVhVmV1eUE3UUJnUS0zdkpza00?oc=5",
+      "source": "MarketWatch",
+      "publishedAt": "2026-10-23T14:23:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Oil Up Again Ahead of Flash October Inflation Data: 8 Key Items Shaping the Stock Market Friday - TheStreet Pro",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQTVDVWdDUFdpVm9nT2hlZS1wclVIUHpObkdNMC10cGxEMnNGTE1GdFdxaHFWc24tYU91aUF1WnVPc2t1Q1dJZGt5cGVmWmNZTTJFR0JyRERsTXlNMVVmY0l1WXJaQm92QTd4RzVyN213OGhua1laZGRsTjNyN1hoMkpMRGo4M3BMbFNjYkNaYzB5SW9DR2dCaUpKRjhDTzBoR2Z1dTA5QU1wMXZIRzZrakxVYnlMYnkwVWt1dzd3dmUyaW5tOTVheXR3?oc=5",
+      "source": "TheStreet Pro",
+      "publishedAt": "2026-10-23T13:02:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Commentary: The economy, not the Fed - Pensions & Investments",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5",
+      "source": "Pensions & Investments",
+      "publishedAt": "2026-10-23T13:00:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Expect The Fed To Start Cutting Rates - As Soon As Next Week - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0NvLW9rcmtfbHZUcUVxQmNFV1hFUW5KUTh1bUwwdFdNU2dVQjRyaTlfX0ZNZmRHZ3BOSGp3dzVxUkpKei00blJBcmh3YWc1b3cyclRNUEFCa1RfSWxnZWlJbDh0OUNuTUNOWWVfR2JwUHpkSDBOd2k3dHVBVUZsdTdYWXRLdk5tcExIekVVUU5sWm5UdjZWeXZ1Z2tCQnJs?oc=5",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-10-23T12:15:36.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Canadian Stock Market Today: TSX Futures Ease On Hotter Producer Inflation And Retail Test - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVlpnTnhTMkRBT2tWYmxmVmVkM1dHcHVkN2NRZTdzdlJ0cmx4SjZ2VEVfbHVCOHY3aXJMRkNkNko5SHkxWkVieFFYRmNFRndHTjExdGJoQXRHMFdZLTVpWk5yRFd6cFNqeHpLRjZNaE5pVS1GQ1ZQbndxZkN1RlJCOV9oWUtTUnhYbVRFZm9PTHNZUGIxWnAwLTdqY0Y?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-23T12:08:41.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "How Tariffs Became the Most Hated Word in Politics - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWloQWdGR2RtVlpicDV6Qm1WT3F2ZFlPVHRtVlR0bVZUbW9DWWJHVENrcGUzbzVzZTZDc3lQdDJ0d0FZa3pxR1htNHByQ25aQmtFODNhNFBQU0tNdlpIV011RzM3cFNBbG9yeXBNWUtrb1EwNDl0dWRHMXFuaXZfdVVvbUdaNlRyS21nbWRpMTFuOWhJRjc2TA?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T09:30:00.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
+      "source": "Morningstar",
+      "publishedAt": "2026-10-23T09:17:11.000Z",
+      "category": "economic",
+      "bias": null
+    },
+    {
+      "title": "Cookie empire crumbles as California stores shutter after 9-year run",
+      "url": "https://nypost.com/2026/10/23/business/cookie-giant-crumbl-closes-multiple-california-stores-as-sales-slump/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T16:44:46.000Z",
+      "category": "financial",
+      "summary": "Consumers appear to have soured on the once-ubiquitous sweet treat seller.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Rehab Centers Whose Founder Was Convicted of Fraud Eye Muni Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/rehab-centers-whose-founder-was-convicted-of-fraud-eye-muni-sale",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T16:16:45.000Z",
+      "category": "financial",
+      "summary": "It’s a level of personal detail rarely seen in typically staid municipal-bond documents: That Kyle Robertson, co-founder of a Florida-based network of drug treatment and mental health centers, was “in the throes of addiction” in 2009.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "American Airlines says airfares could stay elevated even if fuel prices drop",
+      "url": "https://www.foxbusiness.com/markets/american-airlines-warns-airfares-stay-elevated-even-oil-prices-drop-after-record-fuel-costs",
+      "source": "Fox Business",
+      "publishedAt": "2026-10-23T16:12:47.000Z",
+      "category": "financial",
+      "summary": "American Airlines CFO Devon May said airfares will likely stay elevated even if oil prices drop, citing the carrier&apos;s $1.9 billion fuel costs.",
+      "bias": {
+        "score": 50,
+        "label": "Lean Right",
+        "source": "Fox Business"
+      }
+    },
+    {
+      "title": "Apple fanatics line up overnight for new foldable iPhone Duo — but stores sell out within hours",
+      "url": "https://nypost.com/2026/10/23/business/apple-fanatics-line-up-overnight-for-new-foldable-iphone-duo-but-stores-sell-out-within-hours/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T16:09:49.000Z",
+      "category": "financial",
+      "summary": "At Apple’s glass-cube Fifth Avenue store, a video posted online showed a \"massive queue\" around 4:15 a.m. as customers waited for the new iPhone Duo.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Silver, Gold Futures Extend Losses - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVpKUTYybGVMb1hPclJUSE5SNlRqaG5Lc19SRFRwajJiSUg0ejdvYy1MdXduNEhjdFNGc1JUcmxrVjBvVG9HTzRWcVQ1YUNKTHlha09qYXM5Mm1mMjREdngzTUtjbThaX21CVFh2dkJaZTZrMkt3NFVtSWpOMTZLd2hSTG9RMnVDWUJ3MUlVcUxJZzZITTk3a3RlQm1QeVpLdWhpeTdsYw?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T16:41:15.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Okta stock surging today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOThmbDFWaGM5ZHJ2Q0lZdndkb1NyV0lPd0w2MVB1bktPTE1YbndKRldFUGdzc3ZsZTFpQ1RURkNYdHl2cWl4ZUdhRzN2b1RUc2M2QkVYUXZYYnliTXhyaWVWMlVQelJ2SXdzNkM2aDlfaUJYZ1l0SC0zMExWYmxZck91Y2hWY0hBX3hMcW5iNm9TUzRzS3R1TQ?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T16:32:54.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Corcept Therapeutics stock tumbling today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUxMQUNScWFXWkxQRk12YTZiZmRfUGNMU1dLdEgxZk9OYTBxcS0zcm1idzVDU0tyYXdzR1N3ZFhLWDZXVC1GOXJzTGZ2TUpWdkVKYUlHQ3FIZWxmSThOS3ZzVUtSVktGazZQekFBZU02eXJnQUtGOVFSSk9md1JERG5BV1BHTVRXMTRSS0NwdlpsOFN6V2l1TUp5Tjk3M3V6Q081Q2dYbTMtVzRCQjZR?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T16:32:54.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Stock Market Midday, Oct. 23: Energy Surges on Oil Price Spike, Cybersecurity Stocks Gain - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPejFHMVFIMVpQQXY5alFVSGRPWDlSbE9IT2JaYUNGcG5wUlJCYkVaY21kN2kwejdQM1JYdjRrN3I1N2J5QjZENi1YQmFjV1BSRjE5bWZuejdtN1phdVoxblZBclYtZU16RWNtc1lNTV9ZaUg3VUJyNnNZRlF5MkdyYUx0Rm9KYkUxaFppQUFRaWQ3OE9xR081aEFZc25TUzg1SWJ1elZaTEI0dlhCVXR1QmZRV3BIYjNlaU5JTngzUUhvTmNuMElKQXp1OF9yNnpSY25lTHpHNjlGOFUxdkVF?oc=5",
+      "source": "The Motley Fool",
+      "publishedAt": "2026-10-23T16:26:39.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "The Dow plunges 500 points as fears of renewed Middle East fighting send oil soaring - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3VRclVkdU1hV1RUbE9NVWREQUhicU5XQkxMVmlrVzFUTHFubFhGd20tNFkxbEo1YXFFXzhOYmZmTU50M1VoWFY5N3dWUllhX09kdGJlNlhWY05KYVJJVE1LYU56LU5QQkxvVC1nbVl5S1NRUFEwVzkxN3phcmlUYmFiUmZJUGV4ell0OQ?oc=5",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-23T16:25:00.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500 drop, Nasdaq rises after sharp tech sell-off - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkpSbFBZWVAtYnhBcUdQR2VtYUl5QldNNjVHeWthdmJaUGxNUVVPV2hsV0RhN2hma0hTcW41Vnl6SFprOTlQNnFfdVFFSWRYUkVKM29XMWpwbExpOTRQSzlxcTFfYUxFRFFoYWQzRHpZNEpUV0lrOXVnTlpmTjVUY091dXI1NlpYbVFKSFN4MEpsTzR6RFl3eWpsWm53bUkyNThoWlA0Vzg3VnRuNUNEQk1HTGMtNEJ3RHp5Qzg1aVBOcFJGTGc?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-23T16:09:40.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+      "url": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T15:59:45.000Z",
+      "category": "financial",
+      "summary": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "The Circuit - Season 6 Trailer",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/the-circuit-season-6-trailer-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:57:36.000Z",
+      "category": "financial",
+      "summary": "A Bloomberg Originals series hosted by Emily Chang that goes behind the scenes with founders, influencers and innovators. (Source: Bloomberg)",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "De olho nas eleições",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/de-olho-nas-eleicoes-video-mvl5d8vg",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:51:06.000Z",
+      "category": "financial",
+      "summary": "Daniela Milanese fala sobre as pesquisas antes do segundo turno e como os candidatos vão encerrar as campanhas. Produção e edição de Patricia Xavier. (Source: Bloomberg)",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "A Fight Over Felon Voting Prompts a Free Speech Debate",
+      "url": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T15:44:52.000Z",
+      "category": "financial",
+      "summary": "A Minnesota group worried that its opposition could expose it to prosecution under the state’s deceptive-practices law. Its lawsuit could have wide implications for limiting speech around elections.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "The little-known investment Martin Lewis wants you to understand...",
+      "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T15:41:28.000Z",
+      "category": "financial",
+      "summary": "The little-known investment Martin Lewis wants you to understand",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Stocks Continue to Sell Off as Rising Oil Prices Keep Lid on Treasuries",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-surveillance-10-23-2026-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:35:27.000Z",
+      "category": "financial",
+      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Decker Outdoor Tumbles on Guidance; Amex to Cut Workforce | Stock Movers",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/decker-outdoor-down-on-guidance-amex-to-cut-workforce-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:29:12.000Z",
+      "category": "financial",
+      "summary": "On this episode of Stock Movers: - Decker Outdoor (DECK) is tumbling after the footwear company cut its net sales guidance for the full year, which also fell short of the consensus estimate. - Kering (KER) shares are slumping after the French luxury-goods company saw further deceleration of third-quarter revenue growth",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "CFTC Takes Oil Trading Oversight ‘Very Seriously,’ Selig Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/cftc-takes-very-seriously-oil-trading-oversight-selig-says",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:26:38.000Z",
+      "category": "financial",
+      "summary": "The top US derivatives regulator said Friday that his agency takes market oversight “very seriously” and the agency’s enforcement division has been looking at oil trading during the Iran war.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
+      "url": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T15:19:00.000Z",
+      "category": "financial",
+      "summary": "Demonstrations are expected to continue this weekend in Paris and other French cities. Some museums and tourist sites will be closed, and visitors should expect a strong police presence.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "NYSE Options Exchange Trading Halted By ‘Technical Issue’",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/nyse-options-exchange-trading-halted-by-technical-issue",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:16:45.000Z",
+      "category": "financial",
+      "summary": "A NYSE options exchange has suspended trading, causing other exchanges to disregard quotes from the venue.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T15:15:13.000Z",
+      "category": "financial",
+      "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Meghan Markle 'deeply distressed' over child sex abuse image allegations against her father - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXNCMGttblI0VDUwZks5NERpMWduQ0w4Sjg4X0h5aHdDVl84SkM4cEw1WTdyR2M4LU5nMkpmQkpDa3g2TlctN2tfcXZna2tFTkdMd3RuUHNaaXM1RkQ3b0J4MG9yaVNaM2VMdDltYjlmbFFBR3htbXpCQk5LcmdEa2JtMVBVWjFnajhmLXRILVI0Snc4WExfNm4tb05rb2lMQXYwUTFwLWs2VVE?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-10-23T15:12:01.000Z",
+      "category": "financial",
+      "bias": {
+        "score": -48,
+        "label": "Left",
+        "source": "CNN"
+      }
+    },
+    {
+      "title": "Ineos Quattro Bonds Plunge as Earnings Show Fading War Gains",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/ineos-quattro-bonds-plunge-as-earnings-show-fading-war-gains",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T15:09:15.000Z",
+      "category": "financial",
+      "summary": "Bonds of Ineos Quattro slumped after the unit of Jim Ratcliffe’s chemicals empire reported that pricing gains from Iran war-related import disruptions are fading.",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Americans Are Struggling to Pay Rising Medical Costs",
+      "url": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T13:00:17.000Z",
+      "category": "financial",
+      "summary": "Much of the debt stems from hospital bills, researchers say. Even people with insurance are falling behind. But there are ways to get help.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGJJSTlVaUtUUnYxLUY4dTJ4cFBhTUgzZDg2aUg4Q1Bzc0hwVWtMN2ltSGk0VGc5cG5wQlVXVDhTRU5mMkI2M2k1NHZ0UXMxa1JlZmRYX3VYQkh1UWNLT1RHSF9sdFdMcUtmNmoxVkp4Yk1EQVg0WDJ3aXIzdVQxSUxZZmp4SktSSWUwbEJmVGlnTy1sMFFFbGdSUXY2eFJuZFlIV1FWQUhJU0F2SkV3bHZjN2x0WF8wRHc?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T15:22:25.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Mobileye stock sliding today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkFqdUdqSU5vTTJ6dm1jRy1aYi1fMTViNjhQRll0SUEwTkN0eDNGWXlaUFRGSm9WZmFHQzd2bkJ3bW9RbGhiLURmV0ZyY1Y2dkE0djdFQUJ3SVp1OFNPWjlwcXN2Sk5XaDEzZnJRbGRDXzZEaWNwcFg4eXVTMmNhMXBWZFRKOU14dHp6WUVWMkh4eUZHNTE0dUlTYy12QQ?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T15:12:36.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "U.S. Natural Gas Futures Resume Slide on Mild Weather Outlook - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkxWNG5HNDJPQmpHenhWU1owTjFNSW1nRndXc3JzUnhhRXBZenRENXNBSmthNVg1SzNQVnliWE5pZmhCckMzN0YyYzM1QWJVUEVDVFBUcW1FT2N1VjgtdlFVMjJ0azhZTDhyQ0VPTVEwZ2oxcUJBZ0hvTUJwV3hiMHdYRVg1LTh4U01YOF9KYmNNejdHeVJySnVNM0k3ckxL?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T14:56:00.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Energizer stock sliding 4% today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1JWT1h0NnpWemY0NkF6UF9RZ3BLVU1ZWHowZUtlc2E2SnMtcTh2NTZfZUxMdnQwQURySmVrcTJXdFV1ZjNjNjdyTXJXM3AwNzFnZklqeG9tRTBYVC1pOWxZNjRPRE5BT2syeE1UamdmMUsxbm5MU1JlRkNQTXZVdk5GbGFBSG1abWREeEdxSjI5bmxFbXBCVGxWY1pHUkE2R3c?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T14:48:45.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Credo Technology stock sliding today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHNFQmFuR3k2TVkzYmhlMnJWaXVBQmx0cUlqR3hsZVFpRl9Mby1vLUhic0lQS1dFRkRFdTRWYTdNelhaVjB0WHJCaFRGTXRfRlJMczBZV00yM2FkbG9mbjczaVpyRHI2OXdUQWZ3TkpBeUFIeU9uLUFpYzdtSUlVY2lid2d3N29tT196NnhUWWhBX2JITnlERVQ0aUstTF9UREZIRG5sTEs?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T14:27:36.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Venture Global stock rallying today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmR5ZE04VDEwZWpwS2JjSjRZVlByaFZBY2I0enZRTV9NTUVZOV9pT3p0ZmpVYUNlN21qNHdkUW50M2dFWXZ5NEU0ZHR3d28ydnQ3WFhLRFh2UE9SdVNhOUp6ai1HOExTWFNVdmFhcy10a2dIT2c3bFpqcW9CYUQzQVRja0wyZ3pQUmJ3TTd2aWFZNFBnSFNFQktVSEhYQ1lWX2NYUWZNaw?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T14:17:48.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Dollar Tree stock sliding today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcHBjYm91RG9SRjdIclBNdEFRendRWlRGazZYRmExZTNLWjNXSk1GUjFKbjRVNHJSZTBZZkQtZW9ieDdiT3YxZXBzY0VsOGNCbFg4SjU2eGpUbVREUlZjVzRUWDl6QlJ5SVMtWkNlblJTUzhqN1JRRng0SzBwemVyTXo4QW1pVmdZc3lfcUllajVEUXZ4eHpfX2tMSnBFai1JVnc?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T14:13:23.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "Why is Sallie Mae stock plunging today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNG80OUh0WXJONzdUcEhHMWNqa2l2ZG9GTm9TblNkSUYxV3BJek1pcU1fMDNHUG5NSXBJVnFzYktYWjkwMUZSeGNxR1k5aVNLa3llOEhQeVBLSDN0ZXhOMHhJQUJ5eGxkOWdEeE9fbHhNSFMyOU1iUkJJLURFbGRKM2tKRERWLW0yb1B3cDVhOVBLMmluV01pckRxT2EwVEJoaHc?oc=5",
+      "source": "Investing.com",
+      "publishedAt": "2026-10-23T14:07:35.000Z",
+      "category": "financial",
+      "bias": null
+    },
+    {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T16:59:51.000Z",
+      "category": "geopolitical",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:54:58.000Z",
+      "category": "geopolitical",
+      "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police said a g",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Tommy Robinson guilty of harassment because this is not a vigilante world, jury told",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:51:55.000Z",
+      "category": "geopolitical",
+      "summary": "Prosecution says Robinson ‘threatened people and acted like a bully’ towards Daily Mail journalists Tommy Robinson is guilty of harassing two journalists because we do not live in a “vigilante world”, jurors have been told, as the prosecution sought to use the far-right activist’s words against him. Robinson had posted",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:48:28.000Z",
+      "category": "geopolitical",
+      "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:47:14.000Z",
+      "category": "geopolitical",
+      "summary": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Reform braces for Farage standards verdict over undeclared £5m gift",
+      "url": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:45:14.000Z",
+      "category": "geopolitical",
+      "summary": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his failure to declare a £5m gift from crypto billionaire Christopher Harborne, and plans to appeal against ",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:41:01.000Z",
+      "category": "geopolitical",
+      "summary": "The Israeli military said two soldiers and two attackers had been killed, and Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Finland’s Puppy Livestream Provides Comfort in Troubled Times",
+      "url": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:38:45.000Z",
+      "category": "geopolitical",
+      "summary": "“Puppy Live,” a round-the-clock livestream of a litter, has become a national phenomenon. “Nothing bad happens in the puppy box,” one fan explained.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-23T16:37:40.000Z",
+      "category": "geopolitical",
+      "summary": "The first lady, who is positioning herself as an intermediary between two warring nations as her husband sides with Russia, said the agreement would allow residents to evacuate.",
+      "bias": {
+        "score": -32,
+        "label": "Lean Left",
+        "source": "The New York Times"
+      }
+    },
+    {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T16:33:11.000Z",
+      "category": "geopolitical",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "1 sailor dead and 3 missing after Russian drone strikes cargo ship in Black Sea off coast of Romania",
+      "url": "https://nypost.com/2026/10/23/world-news/1-sailor-dead-and-3-missing-after-russian-drone-strikes-cargo-ship-in-black-sea-off-coast-of-romania/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T16:23:02.000Z",
+      "category": "geopolitical",
+      "summary": "Romanian naval authorities said that a search and rescue mission was underway after the ship caught fire and sank about 15 miles east of the port city of Constanta, near Romania’s territorial waters.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Former NY Gov. Pataki visits war-torn Ukraine, Hungary in freedom tour",
+      "url": "https://nypost.com/2026/10/23/us-news/former-new-york-governor-george-pataki-visits-war-torn-ukraine-hungary-in-freedom-tour/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T16:20:48.000Z",
+      "category": "geopolitical",
+      "summary": "Former three-term New York Gov. George Pataki is heading to Ukraine on a humanitarian trip after visiting Hungary to commemorate the 70th anniversary of that country's revolt against the communist Soviet Union in 1956.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Newly-engaged bowling alley worker crushed to death by pin-setting machine",
+      "url": "https://nypost.com/2026/10/23/world-news/bowling-alley-worker-crushed-to-death-in-freak-accident/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T16:20:28.000Z",
+      "category": "geopolitical",
+      "summary": "Melike Yeter, 28, who was recently engaged to be married, had been trying to fix a glitch in the device when it suddenly struck her in Corum Wednesday.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Netanyahu Has Isolated Israel",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-23/opinion-netanyahu-has-isolated-israel-video",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-23T16:18:47.000Z",
+      "category": "geopolitical",
+      "summary": "Broad backlash has left Israeli voters with a stark choice in this month’s election: Elect a government committed to regaining international confidence or further alienate the country’s traditional allies with Netanyahu and his far-right coalition, says Bloomberg Opinion columnist Ronald Brownstein. (Source: Bloomberg)",
+      "bias": {
+        "score": -12,
+        "label": "Lean Left",
+        "source": "Bloomberg"
+      }
+    },
+    {
+      "title": "Dramatic moment Israeli soldiers kill 2 Hamas terrorists who were ‘planning a major attack’ in the West Bank",
+      "url": "https://nypost.com/2026/10/23/world-news/netanyahu-orders-closure-of-west-bank-after-5-wounded-in-shooting-2-terrorists-killed/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T16:17:08.000Z",
+      "category": "geopolitical",
+      "summary": "The Israeli army said it prevented a “terror attack against Israeli civilians” and that the gunmen carried an M16 rifle and a handgun.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-10-23T16:17:02.000Z",
+      "category": "geopolitical",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "bias": {
+        "score": -8,
+        "label": "Center",
+        "source": "BBC News"
+      }
+    },
+    {
+      "title": "Which is really England’s oldest pub? Tree-ring dating helps settle debate",
+      "url": "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:17:00.000Z",
+      "category": "geopolitical",
+      "summary": "Historic England archaeologist says some inns’ claims to date back 1,000 years are inaccurate and oldest is from 1430 With their low ceilings, timber beams and roaring fires, many of England’s inns lay claim to being the oldest in the land and to have been visited by Vikings and Saxons. But an archaeologist working for",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-23T16:10:34.000Z",
+      "category": "geopolitical",
+      "summary": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House has said that Russia and Ukraine have agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening humanitarian crisis has left thousands of civilians strug",
+      "bias": {
+        "score": -55,
+        "label": "Left",
+        "source": "The Guardian"
+      }
+    },
+    {
+      "title": "Iran Claims Parliament Speaker Has Met with Missing ‘Supreme Leader’",
+      "url": "https://www.breitbart.com/middle-east/2026/10/23/iran-claims-parliament-speaker-has-met-with-missing-supreme-leader/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-23T15:59:58.000Z",
+      "category": "geopolitical",
+      "summary": "Iranian state media claimed on Wednesday that Parliament Speaker Mohammed Bagher Ghalibaf “met and held talks with” the enigmatic “Supreme Leader” Ayatollah Mojtaba Khamenei, who has not been seen or heard from by the public since the February 28 airstrike that killed his father and predecessor, Ayatollah Ali Khamenei.",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Secret Service closes street near Ukrainian Embassy because of 'suspicious package'",
+      "url": "https://thehill.com/homenews/state-watch/6168260-suspicious-package-ukrainian-embassy-dc/",
+      "source": "The Hill",
+      "publishedAt": "2026-10-23T15:38:09.000Z",
+      "category": "geopolitical",
+      "summary": "The United States Secret Service and D.C. police investigated reports of a “suspicious package” near the Ukrainian Embassy on Friday morning, according to a Secret Service statement provided to NewsNation. Out of an “abundance of caution,” the 3300 block of M Street in Northwest D.C. and the Francis Scott Key Bridge we",
+      "bias": {
+        "score": 6,
+        "label": "Center",
+        "source": "The Hill"
+      }
+    },
+    {
+      "title": "Toxic haze covering Southeast Asian cities sparks student protests in Indonesia: ‘If we burn, you burn with us!’",
+      "url": "https://nypost.com/2026/10/23/world-news/toxic-haze-in-southeast-asia-sparks-indonesia-protests/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T15:25:36.000Z",
+      "category": "geopolitical",
+      "summary": "The haze has triggered health concerns and ignited public backlash from Singapore, Malaysia and others in the Association of Southeast Asian Nations.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Iran Imprisons 'Trump' in Cage Above Tehran",
+      "url": "https://www.breitbart.com/middle-east/2026/10/23/iran-imprisons-trump-in-cage-above-tehran/",
+      "source": "Breitbart",
+      "publishedAt": "2026-10-23T15:12:44.000Z",
+      "category": "geopolitical",
+      "summary": "Local authorities in Tehran, Iran, erected an art display this week in which an actor depicting President Donald Trump is placed in a cage hanging above a public square, performing President Trump's signature dance and eliciting jeers from passersby. The post Iran Imprisons ‘Trump’ in Cage Above Tehran appeared first o",
+      "bias": {
+        "score": 78,
+        "label": "Right",
+        "source": "Breitbart"
+      }
+    },
+    {
+      "title": "Racist terrorist using military-grade weapon kills one, injures several others — including girl — in Paris suburb",
+      "url": "https://nypost.com/2026/10/23/world-news/suspect-arrested-paris-suburb-shooting-that-killed-1-injured-girl-and-several-others/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T14:52:42.000Z",
+      "category": "geopolitical",
+      "summary": "A gunman firing from a vehicle in a Paris suburb Friday killed one person and wounded several others, including a 12-year-old girl, in what French authorities suspect may have been a racially motivated attack.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Paris to shut down the Louvre, other tourist attractions over fears of violent Saturday protests",
+      "url": "https://nypost.com/2026/10/23/world-news/paris-to-shut-down-the-louvre-other-tourist-over-protest-fears/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T14:19:38.000Z",
+      "category": "geopolitical",
+      "summary": "Protests in France last week devolved into mayhem, with people setting fires, storming public buildings, smashing shop windows, looting and clashing with police.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Pope Leo XIV cancels Assisi trip as he recovers from lung cancer surgery",
+      "url": "https://nypost.com/2026/10/23/world-news/pope-leo-xiv-cancels-assisi-trip-on-doctors-advice-as-he-recovers-from-surgery/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T14:13:46.000Z",
+      "category": "geopolitical",
+      "summary": "Pope Leo XIV will miss a planned trip to Assisi next week after doctors advised against the helicopter journey to the Italian town as he recovers from lung cancer surgery, the Vatican said.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Marijuana Legalization Tied to Heart Hospitalizations - Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmp0QWUwTDhTRXV4T1VtU01Sd003eE9IUlNZODhRR2lTR2Fka0laalBBX2ZWQ2JBQktLVkFfVlhPc0tYRFByZThsT3VBNUVDZ2laWjFJcFd6Z1l1blNRVzVYY3BzbXBWNTJlNzNaY2RBVGZJMkFSLTJ0eHBrU2VmbWhTQUZqcjZfeVd3MDItMkNRN2YwU0lCSGZB?oc=5",
+      "source": "Newsmax",
+      "publishedAt": "2026-10-23T14:04:10.000Z",
+      "category": "geopolitical",
+      "bias": {
+        "score": 68,
+        "label": "Right",
+        "source": "Newsmax"
+      }
+    },
+    {
+      "title": "Melania Trump valiantly secures cease-fire in Ukrainian city on brink of humanitarian catastrophe",
+      "url": "https://nypost.com/2026/10/23/world-news/melania-trump-secures-cease-fire-in-ukrainian-city-on-brink-of-humanitarian-catastrophe/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T13:47:06.000Z",
+      "category": "geopolitical",
+      "summary": "Melania Trump negotiated a localized cease-fire in Oleshky starting Oct. 29, 2026, to help evacuate up to 2,000 residents and deliver aid.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "Fifty Antifa groups in France join vast network to ensure chaos in weekend protests",
+      "url": "https://www.foxnews.com/world/first-fox-50-antifa-groups-france-mobilize-growing-network-287-organizations-chaos-inc",
+      "source": "Fox News",
+      "publishedAt": "2026-10-23T12:31:17.000Z",
+      "category": "geopolitical",
+      "summary": "A Fox News Digital investigation identified 50 militant Antifa cells mobilizing protesters to descend on Orléans for the National Rally congress.",
+      "bias": {
+        "score": 55,
+        "label": "Lean Right",
+        "source": "Fox News"
+      }
+    },
+    {
+      "title": "The disturbing location Meghan Markle’s dad Thomas hid alleged child porn stash",
+      "url": "https://nypost.com/2026/10/23/us-news/disturbing-spot-meghan-markles-dad-thomas-markle-hid-alleged-child-porn-stash/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-23T12:19:17.000Z",
+      "category": "geopolitical",
+      "summary": "Thomas Markle Sr.’s alleged trove of filth was discovered by his son, Thomas Markle Jr., over the summer, according to a report.",
+      "bias": {
+        "score": 52,
+        "label": "Lean Right",
+        "source": "New York Post"
+      }
+    },
+    {
+      "title": "43 years after Beirut terror attack killed 241 Americans, rabbi recalls chaplains’ extraordinary response",
+      "url": "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response",
+      "source": "Fox News",
+      "publishedAt": "2026-10-23T12:17:46.000Z",
+      "category": "geopolitical",
+      "summary": "On the 43rd anniversary of the Beirut barracks terror attack that killed 241 Americans, a rabbi recalls how he and two Christian chaplains rushed to aid the wounded and comfort the survivors.",
+      "bias": {
+        "score": 55,
+        "label": "Lean Right",
+        "source": "Fox News"
+      }
+    },
+    {
+      "title": "‘The Curious Case of Benjamin Button’ Review: A Warmly Imagined Musical - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcG1kZ0h4d1ZDc3ptbzRBbWhpa0xiTVlNUGROQ1E2UmloR2syQzk3WVBxZlVIVHhxMkRTTmFJbkIwTFU4MHU3S1p6aW9PdzIxWXo2SVNXek1TQUN3dXBzaVFkaTU2R054enBldUhYRkdqZWJ1bDZZTjlaSXF6V0pkeVpZTWkyb1lSM25JM1lUTmZiV0l5X2FuZ250elRxbndYaEwwYy01VS1yZw?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T15:57:51.000Z",
+      "category": "geopolitical",
+      "bias": null
+    },
+    {
+      "title": "Mattel Adds Board Member As Activist Investor Pressure Mounts - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1dRMzhaalpUWlNRU0RMY3NwbHpub2xwQU9Oalp4Y3p4U3BqNlNlLWc5bkZyMkZLNnBDOFZxUmtZVmlBb043QThoUFJUMWFzcFBMMzI5Um1neF85SGZJbmFMa0RYR2NTeE9PcmtsSy15UXI4dk5fSkpNbnE3dGRxd0ZmTmxRU3VNeXp6Yy1obHk3amwyS3l2V3YxcDE3Q3NL?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T15:50:07.000Z",
+      "category": "geopolitical",
+      "bias": null
+    },
+    {
+      "title": "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T11:07:00.000Z",
+      "category": "geopolitical",
+      "bias": null
+    },
+    {
+      "title": "Mercedes Spent $10 Million to Turn an 11-Year-Old Prodigy Into an F1 Champion - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90Rk9Rb1JCRWNLU2ZmeDQwUGctbmtMRC1mc1VCTDd2OUhEWUxfVllaTi1tRkRtV3QzVGc1clllZ3BxbzJWN2cwZ2p3RURaTmgtNlV1UTBYd3JYY1NhWHNlRDExbUtIUFlHeWNzUkxDSQ?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "category": "geopolitical",
+      "bias": null
+    },
+    {
+      "title": "Israel’s New Center of Gravity - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmI2bms1SHptSGZhYURoTzViZlA1MTlMNk1XSXIxbW84bUstNGtpOU5yVWs2am1iZWc2WmJwWXByLTZmcFZuTWMwbmNLb0FxMWc4czFqS19aVEY5a0hXRUU3ZDRfc0lnYmptc18tOV9mTklkLU9yUzBQU3JhenBxbkZB?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-22T23:00:00.000Z",
+      "category": "geopolitical",
+      "bias": null
+    },
+    {
+      "title": "US orders some diplomats to leave Saudi Arabia as fears of escalating Houthi attacks rise - WTOP News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTVEazBNTGhTWEk1XzVBWWthWldVUS1ubnlQZUJyR091dVpxdDFVc3V1ZDh1ZXNuZ2c0MHZwZmNZUTYtUnlwUzI3MVdocEFlcGdEVGxiQ2NJSU85N3MxMjVIV3p4ZmczQnEyTFZXUHpka2lQbmhQV2Z1cnp3NGQtb2NTRHBCTUNNbU5LYzBKWF9Xa1AzeVEtOExZa3pfVVd3T1laOG8xLWVNYlFHaWthN1U4c1FVOG5MTG03WUxIamNHSlVGVEE?oc=5",
+      "source": "WTOP News",
+      "publishedAt": "2026-10-21T20:34:48.000Z",
+      "category": "geopolitical",
+      "bias": null
     }
   ]
 }
