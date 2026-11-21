@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:39:00.590Z",
+  "generatedAt": "2026-11-21T03:30:02.198Z",
   "siteTitle": "Clarity",
   "tagline": "The day's most important stories, clearly.",
   "categories": [
@@ -27,12 +27,48 @@
   "articles": {
     "ai": [
       {
-        "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
-        "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T22:26:16.000Z",
+        "title": "Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
+        "source": "The Washington Post",
+        "publishedAt": "2026-11-21T03:12:02.000Z",
         "category": "ai",
-        "summary": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The Washington Post"
+        }
+      },
+      {
+        "title": "CIEN Targets a $50B Market: How AI Could Expand Its Growth Opportunity - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1pDSHNKS1VOaVdsUVFyZHNLamt0QjJBSXIxdWxZQWIwWTFyaV9tMXNaQWFiclpzekxLdGtfamc1UEI2VEVJaDA5VUZtY1hiWDJrSFp1Vm5NZHRIUEZmWE1hMFVSc0V3Y3BzYjZ2bkQxdFZmSkNlOU5fZk13QXpuNUF3LUh4V00zUDR0ME5ZM0dPeElYbjZhcE1fNUhVbVM4Rlh3bWhNd0VPbFhWbDJuQTk3TS0yWWFhaXo0TVc1MzlQdVNJS1dXazRTZmRKY2pxZ0VlNWxIUmRISWJkVG1lNnRLdDJZaUYxWDVv?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-11-21T03:27:08.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students & staff - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFc5YlVrdEhkT0Eyc0k5WVJYZE80djNlWXp1M3QzR2ZScVNjV2F5RE9IcGNYaFU2X0lDbHRRZ1FCVUJuSTlLSmVQZk1hWmJaMWIzUmtmNk5iY3BKTVJNdHI1T01rbW1mVE5wYWY2UTZBR0lKdmYzT2IwM2puWXEtNlFtemU0R002WDRHTkhmVVpabWpYMXFDLVdsRGRVSEs3ZVo3RXRyZU1kdVdHQjhfNzJKRUozaDZwVDFjYVNsM0l3Zw?oc=5",
+        "source": "WRAL",
+        "publishedAt": "2026-11-21T03:16:44.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44NG5GcVVHSFJUa0trQTE0UzNVaWFUZ2ZHaVlQTDhWSXVmZkNEcFlWR2hGeGc0ZUtCUmF0a1l3ZVZCUmktQ1d5elZJMV9OS0tjSW1HaVg1SlJCRmt3d2pWRkJB?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-21T02:57:08.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+        "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-21T01:06:52.000Z",
+        "category": "ai",
+        "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
         "bias": {
           "score": -32,
           "label": "Lean Left",
@@ -40,10 +76,173 @@
         }
       },
       {
+        "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-21T00:33:39.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Breitbart Business Digest: The AI Sky Is Falling",
+        "url": "https://www.breitbart.com/economy/2026/11/20/breitbart-business-digest-the-ai-sky-is-falling/",
+        "source": "Breitbart",
+        "publishedAt": "2026-11-21T00:15:44.000Z",
+        "category": "ai",
+        "summary": "It somehow seems fitting that the Anthropic initial public offering occurred amid a mysterious series of malfunctions of critical digital systems. The post Breitbart Business Digest: The AI Sky Is Falling appeared first on Breitbart .",
+        "bias": {
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
+        }
+      },
+      {
+        "title": "Black Friday 2026: Can ChatGPT and other AI tools find you the best bargains? - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HdXVsWGV1RVJpclJoVE9kTnQtM0dkazZ3NWtIbTRwUzhwRmI4Q2VVVkhpcmE5TGtjcVF6M3ZZOTNzZTdGWEhySXVsNzN4SzQzN3VZLVg3VDlpbXc?oc=5",
+        "source": "BBC",
+        "publishedAt": "2026-11-21T00:06:11.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC"
+        }
+      },
+      {
+        "title": "Historic Market Selloff Deepens After Anthropic IPO",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-close-11-20-2026-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T23:54:51.000Z",
+        "category": "ai",
+        "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are ProShares Head of Research and CIO of Active Investments Alessio De Longis, PsiQuantum CEO Victor Peng, Barclays Senior Equity Analyst Brandon Oglenski, Hind",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Stock market plummets amid AI sell-off - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IbUgtXzU5Qkhsb3Ywd3BaTmxJVUV0ZU9JUTI3NnJLTERjaWdta29VRVlBTlk0MXM5dWZsMlYwakJEZ3E2QmdVWllDVEFqY0ZHekJ1ZkVR?oc=5",
+        "source": "Fox News",
+        "publishedAt": "2026-11-20T23:43:09.000Z",
+        "category": "ai",
+        "bias": {
+          "score": 55,
+          "label": "Lean Right",
+          "source": "Fox News"
+        }
+      },
+      {
+        "title": "Rediker: AI Selloff Is a ‘Healthy’ Correction",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/rediker-ai-selloff-is-a-healthy-correction-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T23:28:59.000Z",
+        "category": "ai",
+        "summary": "Doug Rediker, managing partner at International Capital Strategy, says the market correction is helping “rationalize and normalize” the AI thesis after a period of heavy investment and rising financing risk, calling the pullback both necessary and healthy. He also says geopolitical uncertainty is becoming increasingly ",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Stocks Plunge After Anthropic IPO, Trump Returns from Asia",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-money-11-20-2026-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T23:28:16.000Z",
+        "category": "ai",
+        "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Managing Partner & Head of CVC Marathon Bruce Richards and BlackRock Chief Investment & Portfolio Strategist Gargi Chaudhrui. (Source: Bloomberg)",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "Anthropic may have solved major maths problem Reimann hypothesis - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cjczNDdOUWdoOUlOSUFsbUc2dXF2UGFJaGZPelVGeEw0YnN6T0UzaVRRbXVCUXZCMzBPNnNfTEtueXVxay1BM0dmcEVJX0dBbXE3azNIQ1lXV00?oc=5",
+        "source": "BBC",
+        "publishedAt": "2026-11-20T23:08:57.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC"
+        }
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-20T23:08:57.000Z",
+        "category": "ai",
+        "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "The Evening: Are Nvidia Chips Helping Power the Chinese Military? - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45anIzZG1rNjZ1Qm5NRmJqRjNXQkxobVhfaHVKQ3dnSEYwcDBqaWtWdDdRdTg1UVFXcnY5M3E5RmpOSVktNk5SUm9MME1GdE5TSVFUbDE5UTlLNVBRVE5aMG5oTGxyTVBVTkw5RTUzTTlsMGY1eUd5bA?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-20T22:49:15.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Report: SEC Investigation of Nvidia Focuses on Accounting Practices",
+        "url": "https://www.breitbart.com/tech/2026/11/20/report-sec-investigation-of-nvidia-focuses-on-accounting-practices/",
+        "source": "Breitbart",
+        "publishedAt": "2026-11-20T22:48:19.000Z",
+        "category": "ai",
+        "summary": "The SEC is investigating accounting practices at Nvidia, according to two sources familiar with the matter, adding pressure to the chip manufacturer already facing multiple legal challenges. After ousting former CEO Jensen Huang over his China spy scandal, the company now faces scrutiny from the government and lawsuits",
+        "bias": {
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
+        }
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-20T22:42:47.000Z",
+        "category": "ai",
+        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Cognition in Talks for $75 Billion Value With New Funding - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanNxamp2UGFnbHNLSlFpZW4yMXN5MkNzT3ZZTmhLLTcyYmM1clBTc0h3TzRxN2JxM0taQnlCU2tPVnZIMGVJQ1VlSGhtcEZDbE80YjhWOVNyLWtPdW1sekwwN3ZuSnYxcWhJbDBWNDVmRzBqZjhBbkpvYnRFQUxoaW9YZDNOZl9Zd3hETmF3MUwzMklyRnBzVk5ZNkxvcUZvMGg5djFCOWEzZE0?oc=5",
+        "source": "Bloomberg.com",
+        "publishedAt": "2026-11-20T22:12:11.000Z",
+        "category": "ai",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg.com"
+        }
+      },
+      {
         "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
         "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
         "source": "The New York Times",
-        "publishedAt": "2026-11-20T22:11:56.000Z",
+        "publishedAt": "2026-11-20T22:11:57.000Z",
         "category": "ai",
         "summary": "The stock value of a top executive is often less important than it initially seems. But Nvidia’s entanglement in U.S.-Chinese relations poses special problems.",
         "bias": {
@@ -66,18 +265,6 @@
         }
       },
       {
-        "title": "Anthropic's post-debut stumble delivers reality check for AI trade - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-11-20T22:06:58.000Z",
-        "category": "ai",
-        "bias": {
-          "score": 0,
-          "label": "Center",
-          "source": "Reuters"
-        }
-      },
-      {
         "title": "AI Euphoria Gives Way to Fear And ‘Face-Ripping Volatility’",
         "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets",
         "source": "Bloomberg",
@@ -89,126 +276,6 @@
           "label": "Lean Left",
           "source": "Bloomberg"
         }
-      },
-      {
-        "title": "Citi Cautions Customers Against Using Third-Party AI Agents - PYMNTS.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmNPaURFYldLb1VfcGlrcUdHTkxudWJFdlFwLXZHYi1SMlhzQ2xVaWlhYmdrT3JENHZ4b0hZSjY3YW42bHluWk9NTlJtd003a1YyMm1DblNDOGRQbFhOM0x5d1VVMnJJeEFyNXZYdFRGU2tRRUVUOE9TQ0prc3pSMkxVYVZQX2hudzZ4cXB4czEyQk9Vb0FiSUJCaVpQRERNX19GeHBpalVkRUQ1cldRWFlzdDJDR3NQ?oc=5",
-        "source": "PYMNTS.com",
-        "publishedAt": "2026-11-20T22:37:02.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ3Q4VjNVRWVxOW90cDAtdDVDc1V0eXZGZ3gxbHhCQlhGUC1aTFNqTmtrU055TklQUjZreGR5NkRHU1FvblFOajBsWnVncTVhVnA3NTEzaWlQUFh0UjZMR0FDa2pINmlZSnItYmtHMDJ4TnhRclBFbnJzVXFvalg2UEJhQlZkTmJMQnc1dkJ2MVF5dTBFM3RYY3VBanF1blJOYzUxbGF2cHhvY2FBV3hXcURYb0VWamxSZVRxN3BWSGZoQWtqMEtaaWJ6SFFXNjBjbmtvOVFB?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-20T22:33:31.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash - AP News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5",
-        "source": "AP News",
-        "publishedAt": "2026-11-20T22:28:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Inflation, Tariffs and AI Drive Up Our 2027 Medical Costs - SMART Union",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTA3NWhTdmVBcGRId2pwYnZ4S0lZODM2Zm52U2F3ZEVJSUZxQ2I2ZVNfZlNVcGxFM0xfVEhnZUd6QjExVXdvc0taRVhyNjdUdElqSjBFd3JMdW9UOFA5Um1ybURhYnJ3UjZXdjZBY084eExNbzNuZFEtM1daemV3c1JBWjc4bkpaQURISXd3?oc=5",
-        "source": "SMART Union",
-        "publishedAt": "2026-11-20T22:24:09.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Nvidia shares plunge as Anthropic can't stop the AI selloff - Axios",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lT3pUcFhra290UDVtQVlwcVBjeDdBX1NLX1lPMGVjM3lPRHZDZk04eHI3cDk1STFLejBDODdHZWYtVFJzRnd3Q2ZDLW5EdjN1RTZzT3ZLblNoa004bmN6bjRSWXF4Y0RoQWs1UGR4UThYR004a1hWcw?oc=5",
-        "source": "Axios",
-        "publishedAt": "2026-11-20T22:23:20.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Could AI’s discovery of software flaws lead to more outages? - KCRA",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVlQ5aGRNTVNjdjc1cGNpeTBOdUs2aDFHVEFxX1JUaXN6NUo3SHhDdTV6TFJaZEFuSUxTQ1V4d0puZDBRWERWUnNMUE5lWVUyV2ZTbXlQTWN6MlpDTkJVMW42RGJqc1BYQXVFLXp6cGhwNG9IMUtudDk3M002OGRSQzhzcHA1T0EtR29DekYwTGduRkdNd09BWmxCd0E?oc=5",
-        "source": "KCRA",
-        "publishedAt": "2026-11-20T22:21:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "The AI data center building boom - TechTarget",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1T2JRbi1wUEU4cjZiNU9neGYxaGZla2kwQWRTcnkwR21id0VpV3FERGZVbXpJbGFadjFkaHkzZXZLaTBueTVWaDVIMm5tbzNyN2dFZEdfRXRxbm91VTBDTnBZN3N0Qkd5d0RTX2o1dzdFYXZUZUxVWVcyeDk?oc=5",
-        "source": "TechTarget",
-        "publishedAt": "2026-11-20T22:20:27.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "US lawmakers push for tougher AI chip rules amid China export crackdown - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXZHdlYtQnFTY3k3TmNsR0JUZUxubmk5X2tkaFVxUTAwZkVIQTdwVWJudFdkcGQyRHlPTjRXUGNpelJ6eWs4ZmdVR0VwYlJSUFpuakZoVjlHRUNRN2ZJZElGUEg3YjZobVJvcFlJUXFBZ3QtOWk5OFZ4Qzd4YjZRZzZ3cUQ4SlYzaHU3THI0eF95TGVLYmJXSmdrME81dVFnVEpaSWZscThXVm9CNDNIYmxmZmZlZTTSAbwBQVVfeXFMTnBNanFqR2o1aFlhRVZHZDhObk5HbGNTQ3docVRMeTd5ZEczcHYzSVM0bDdFS2VuRC0yTUtZaFdQWlQxb2xfMTh1YllfV2VKeWpWdDBYcF9BSVVyTkR1X1JtU3ExY3JTdzFJMkF4MmNnWEsxRW00ZEdmdzQtMm41d0hHcU9WdUZ3WVNFQTFHbGxkS2F3TW9sNXBFcnVOci1QRmdVMHE0NWVOS0JmWmxEM05SSEM2aWtXUnB6cjc?oc=5",
-        "source": "Al Jazeera",
-        "publishedAt": "2026-11-20T22:20:03.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Melania Trump Details ‘Super Intelligence’ Initiative for American Students - Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMml5amRnMmFwd19NX1g4dGN6Y3B6N1VmLTI1a011TmN2QzFiRGJXc2phbmdybHRqOTFZODNzRHFiTGNoUUhzTHFQUnNRVzFmY2xkYzlzV2lOWHBXbFpVbmxXSDUwZWRuQ0ZQOVdRS0JoZzFoQWZTSVh2c1NhSlg1d3Y0c3p0LXFQcWJmUWdINE1NdG1wX1hJ?oc=5",
-        "source": "Newsweek",
-        "publishedAt": "2026-11-20T22:20:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Even After Winning a Nobel Prize, When Will AI Develop Cancer Drugs? [Tech Talk] - 아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LN1ozTWFkREN5cGotZlhST2xwN0N3TFhOUDhHOWZUcWxRUFdIMi1EQ0gxaVFnOTBCdHhlSDZKZDdJQ3hNVGtZNWxBbGZIQkRjREFiTFRnbDJLaDRzai1JLUpwZm9oN2NhbHd4RUwtVQ?oc=5",
-        "source": "아시아경제",
-        "publishedAt": "2026-11-20T22:16:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSExVOUo0ZWNCMmNFcWNNQnZoQzRndVlwaDFBTXRYRnpYV1lub1h2bUpGNGRMWG1JcVd3c1owbzZ6Uk8wTE51NTJVdW1sQ1NWMG9OR2dMblVDRGdUT2w1ZlJMY1RUdEZZOENGZ1VyaWN2Z0NYbWVTbThMS1Z4eXBhaHN3d2tGMHN3QVM5VVlFYmlPQWFIM19RdXBOSEQ5RzJrTEo1V3VQLUtWRjhJSTFzQWZTaThoWkRuYWY5TA?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-20T22:15:13.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Trump’s Treasury Secretary Keeps Nvidia’s H200 China Policy as House Data Show Nearly 880,000 AI Chips Approved - TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmVMU0t2U0J0di1VVlBsci1CSGFTWkdFQ0JKS3V6Vkw5eVAwbHYzWlpqRjJrV1pIdDRaNTUxeWNENlI4RG9LNGVvV05mdUpTUFJEeld4STZpMWlUOV95LU03N3lTdmxJME96clcwTjBKYnZIalFhRldhU1B4OVp6LVFic1FKMFhrZEZPYy1HUzU3NlF2RV96SGw2ODhYSXhSaFd3WGNpc0JjQ19neXoyYVRjZXhkMWRuUmFTcEswVUxZY2ZSWWFrSzBhVXlTZGcx?oc=5",
-        "source": "TIKR.com",
-        "publishedAt": "2026-11-20T22:09:55.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it - Newsday",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalFKTktwVzJ6c19XMUNTUktwcHVoMWVNVVVqZjFOUUFfSEdhNm51dUdkLWZNTGpfTG5IbUkxdEx2eFRlc204MENEYnNtYV8zZjNkX3hyS1lGU3lfdk80eWNSZVVkbmdYQU1lV3daLUFwUlByUTVqX0VHMC0zVkFoTXVPa3Y1SXBxQ0dCdS14amhYUlZD?oc=5",
-        "source": "Newsday",
-        "publishedAt": "2026-11-20T22:07:27.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today’s Market - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcGZSWnVMVkQ3b251M19WRk1UaENsQklYWmc5d3ZBTnQzQXowY1hoSTAyWlZCWFdBZVRBbV91Y0syanZNc0tWV2ZEeFVqX05pMW51cXhCd3U0X0NicXZXaDhGdjg?oc=5",
-        "source": "Barron's",
-        "publishedAt": "2026-11-20T21:53:00.000Z",
-        "category": "ai",
-        "bias": null
-      },
-      {
-        "title": "Navitas Sinks 15%, Western Down 12%, Everpure Down 13% as AI Chip Rout Deepens - TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjRHb3ZEZHdqS3FWdE02d3BVcXltTDVsQWlSdy1VZnpjN1pFQnA2M3BjVnl2LUNYckdDYWk5ekEzMnZxdWU5c1R3WFMtZ2JaTTdwYmhiY19xbllWMWVDZDlyNEItSVdKV2pRQ2ZleHJzLU1SMUl1bmNkSWlkWWZfQ0dnY2JldWVQTDNLVVNLMF85UGtsYzhXemJqZ0RpU1ZyMHc?oc=5",
-        "source": "TIKR.com",
-        "publishedAt": "2026-11-20T21:52:23.000Z",
-        "category": "ai",
-        "bias": null
       },
       {
         "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
@@ -224,42 +291,125 @@
         }
       },
       {
-        "title": "Anthropic IPO Could  Mark End of the AI Trade",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T21:35:36.000Z",
+        "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
+        "source": "Reuters",
+        "publishedAt": "2026-11-20T21:37:28.000Z",
         "category": "ai",
-        "summary": "Anna Wong, Bloomberg Economics Chief US Economist warns Anthropic’s slice of the token market has narrowed: and that the hyperscaler has surrendered a substantial part of its price premium without strengthening its competitive position. That’s a warning that enterprises may be moving workloads to cheaper models, weaken",
         "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
+          "score": 0,
+          "label": "Center",
+          "source": "Reuters"
         }
       },
       {
-        "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-20/apple-working-on-own-ai-agent-to-rival-openai-anthropic-video",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T21:12:52.000Z",
+        "title": "Stocks Plunge as AI Selloff Pushes S&P 500 and Dow Into Correction",
+        "url": "https://www.breitbart.com/economy/2026/11/20/stocks-plunge-as-ai-selloff-pushes-sp-500-and-dow-into-correction/",
+        "source": "Breitbart",
+        "publishedAt": "2026-11-20T21:34:35.000Z",
         "category": "ai",
-        "summary": "Mark Gurman, Bloomberg News managing editor of consumer technology, said that Apple is working on its own AI agent to perform tasks for consumers, acting as a consumer's 'own personal assistant' throughout their digital lives. Gurman said that there is a lot of risk for Apple because of its slow pace getting into the A",
+        "summary": "U.S. stocks plunged Friday, pushing the S&P 500 and the Dow Jones Industrial Average into correction territory as investors dumped the artificial-intelligence stocks that had led the market higher The post Stocks Plunge as AI Selloff Pushes S&P 500 and Dow Into Correction appeared first on Breitbart .",
         "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
         }
       },
       {
-        "title": "U.S. stock market slumps amid rising tech and AI worries - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmlPb2NNTTRIVWI5NXJFQUd2MXNkdkFtNzIxODZMZjdEbVFsUWQyWjRQT1AxMUE5YS1nRnZ6U21mN0J1V21IVFFRZEthZms4bkM0MDRNQlR6RkRtcUp2aUJqTnQ2YlloTU9ObkpmLUs1NWgyUXpubUxndklKTElFbExrY3ZtamdWNEpRUG5lNGd2VVZZdHVIUHp3eU1Wc0RzenQ0YQ?oc=5",
-        "source": "The Washington Post",
-        "publishedAt": "2026-11-20T21:07:31.000Z",
+        "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGJyNGh6cktKS0FsM3FIbF9LbjFqVThfY3MyRURJREVmd1JqVGtVX3pTV1FuQzBUUUI3VDdXVHdUYkpKTDk1Ml9vZzdoN1p5T0pVZ3g1eGpwQ1NfVFp6VlhJX1FSXzZ6ajVDYjVKazF5N2FGbXVHLUdjN05YRzVQZnRYaVZtMkE?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-21T02:00:00.000Z",
         "category": "ai",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The Washington Post"
-        }
+        "bias": null
+      },
+      {
+        "title": "UN and Barbados to convene AI safety summit focused on countries’ ability to respond - Superpower Daily",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1l0cnVxUGt4cDF6VzlTb0o0dkR6Mk9DdUI1VTlEMTlMNkIxZnhHdDBLS25INEJ6RmdfOThKaHFjZnFKY3d2VXZ5VGFIb1pJamlwaDJoRUdyT0l4b2pfREtPMnlGTV9lTTlzb2tpaEZrYVFWcFgyNGtVOFpobjROTnM3QnVGUFpxdGFtOVJnRHZGZmxzb04xYS1wTUc2RXlleXo4SGpOM1NtTmQyRlUtYjVMeDBKS1hk?oc=5",
+        "source": "Superpower Daily",
+        "publishedAt": "2026-11-21T01:56:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "YTL Power denies helping China obtain Nvidia GPUs, says data centres unaffected by US curbs - SoyaCincau",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHY5VXp6RzJ1ekhQYUh3VF9hdk11d0dkQ244Z0tNS0NzWl9RakpxSEMzakt5bFREWlpKSjdLaEFiSDhJMXFTcDVHUm9ZdHZyNlZLRy12b2d5S1E0blNlX0dRV0NhUGRaWUVwVFJhc2dOZzdqTnJ3bTRNdXk5cTh2RVBSLVJXZjFVR3plY0VTR01NMnh3czhOcHJrSkN4SEhvb1lN?oc=5",
+        "source": "SoyaCincau",
+        "publishedAt": "2026-11-21T01:51:23.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "AI NEWS—A bipartisan group of senators plans to introduce a sweeping securities disclosure bill - VitalLaw.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZGVxS1NVbG5LN2hES3A0VmtJNkw2dEhxMEszemN3bHlMemlNQTUwYTUtYm9Bc1dhQ2d4YlA5dWFrWm9sdkpzd2owcGxtSWNPTVVreHBuSGxfRXA4OUF3anR3RmpCU2VLNk5fcjRSNVRyT2RtRlBJLXNzWGl6Z21zMk9qU2dfNklHZDlYSEN6bHNHeVR1NldSUDd4QnZvTklXX3NIdzd3ODNfbXR5V1c0NU9YODlJQTNZeTNRS1NQNXNHeWwzeHZ5V1B6d0czYzE0UWVhTzBrVFgtY3JEaG52eGlFVXBwT3FCUkJ3N0hWYU1oYXVXT2c?oc=5",
+        "source": "VitalLaw.com",
+        "publishedAt": "2026-11-21T01:49:42.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Nvidia Stops Shipping H200 Chips to China After a $2.4 Billion Quarter - Memeburn",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85eDRuWnkzSGZuZEhsaHdBTm1OaUpJRjB2NGtSSnVTMFN5ZGhmam82blpPLXc2ZVFQRnM5M1F3SXNzYXZCMXJFcGRZVnhYbXRmMWROeHNjV3pYSE1NMkNqVEk2ajlsWTRKVzVzakNIM0g?oc=5",
+        "source": "Memeburn",
+        "publishedAt": "2026-11-21T01:25:32.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Artificial Intelligence: Part 7 - The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXpnb3Z6Mko4WEZrUHZuSTZRRVM5MWxEZXJ5eElNTmRuano4MEZsRHpVNXNyNURfNVhqaEhvcW1MNlhEZE81Qk1LMU1vRm40UWFZeGg0ek1fNUc3ZlRtS1I3T3ViTlItTWlQby1aUVpackEzUUZOY0VQTms2cWdtbnp2Sll0WVBkOE9UVy1zMA?oc=5",
+        "source": "The Portugal News",
+        "publishedAt": "2026-11-21T01:18:45.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Dell, Microsoft target enterprise AI inference with Nvidia HGX B300 - TechTarget",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWZCaDNFekdQTkdKUEtoWDJ0cHFoQVhTVGIwU0UzWGxxTlVaaVZhU19pUlJoaFh4STRxWHYzOXFEbGFVMmJWTE5NME1iY2hieDdack1HWGJ6MTIzN0dnb0NlUjd6bGlldmJYaVRVVHZtZGhjSVlOX0VENlUyb1M0Wm90Mzc2Y0t0ZktuMW5FWl8tWnl4dWpkU3FjQTdCcV9DZTN3QlhOc1I4UQ?oc=5",
+        "source": "TechTarget",
+        "publishedAt": "2026-11-21T00:57:37.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Senate Democrats Push for New AI Oversight Committee With Subpoena Power - Law Commentary",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0dJeUhNdVVjdDZkWUdqRmZ4ZnVJQm5odndXRVQ5d0tzVEZJMzhGUGZBaFF5RkRPMGNpMU9hbkFCRHZ4cC1hREFJR2NUOS1xM1B4RUlBV1cyOE5EQUJvMkhrWmRYSUdQZnIxaUpWT2dPSnVNT29kMkVMVHpheGpJWDNLVnRob2JRSURLVF9qUk1rMlhtWHEwYw?oc=5",
+        "source": "Law Commentary",
+        "publishedAt": "2026-11-21T00:55:34.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Has AI's honeymoon ended on Wall Street? - France 24",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGRidTVtS3BVNVl6WklsVlRpeVVEenFsWmFvRWluMkFjWkk0cDh3dmhDWkVZSDRHdlBmLUJLdzJVU2VJcjcyWkV2djh0cFpGOHk0bE9vYk5XREFyZXZIR2VSSzJmSF9CQ2w5ZU1yUlVKVnJsd0tPazBvZzNZb2Zqbkl6Ynd3RGNGVkNkalotWQ?oc=5",
+        "source": "France 24",
+        "publishedAt": "2026-11-21T00:48:29.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Trump defends Putin relationship, warns AI data centres must stay in US - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUpCRDBMYklDeHR1amlGZnVtNHNER0ZOR3JNeTR4Y0tFWEh4bkpHRDVGd0JYQU5INVc0MlVuc25EZDE4ZHFzZncwSEhvMWxqSUJVTlE3VFdLbk9fVUJvSk1YRzk5Tkxmd2VVT3g0Sm41T0lxMHcxdmFqM0NSd2FiU0lBd3ZHTDNETGpYc05FR2FRQlV0RWo1VkRRRmZMOGNDTUZ2TlpEdFBmUzIzSlBfcUJR0gG3AUFVX3lxTFAzNHIyMm9qVE5vazlISHVVU19JazZ2TE5CaVU3eFNtdWYxeC1DWHk0cWdhblBQVVY5cHdrdEdGM0dCNGVNci0wSXA4UnpBTW1hdU5XWHZyX2dvRW9ZTU91Q1BveTZpaUpFWWJBRjEwVElCQzBiYnMzcW9LLUNjUHZQSGRjZklhWGQ2dVZLZnFWSmdwdUlGWjN6Zks5SEdGdlVxM1VqMnVOZk12WmZsTDdWbVhmLU1XWQ?oc=5",
+        "source": "Al Jazeera",
+        "publishedAt": "2026-11-21T00:44:51.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Anthropic mathematician says AI helped solve one of math's most famous unsolved problems - WUSA9",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc1lFek11N05meE1ES053dEtlU1pTdFFBR3BWS2JYRHQ5cFVlQmc0dlM0d0JGcmtFR0dKQV9rWlF0aEZyMVpUMDJ1OU1TV1ByY0ViZGRaQy1yWWthZEpFZHpxcU1aeE9XVWNLaGVheDlSOHhrc2xrUE9PazVUZWl1M2hOV2x0bV9SbXNDX3FhaU9VUm1wSTZoWFFNX2xDbUM2cDdjcjI2RFZ5SFdGNUY2cVNKRXpRYy1LUHp2Z1RnRDVVVGl0S1dIdS16ZkVwNnQtaXo2aExrdFNlNWVv?oc=5",
+        "source": "WUSA9",
+        "publishedAt": "2026-11-21T00:34:00.000Z",
+        "category": "ai",
+        "bias": null
+      },
+      {
+        "title": "Eyes-On: Artificial Intelligence Meets Healthcare - The Reveille, LSU's student newspaper",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVA2Mkd5SW5QM2I0Y1JOY3BjS3FQTVpXdW03N2NKdS01Rzk2YmV3UnB1ZVpUcmExQkdieGEwTzJEdHFqNTRkV0hQWVRLZUhFRnJsY0Y0M1Q4ektsdTkxLTdGcUc4S1FxaGxNb1NXUGN0M21lMGRDNVp0NXFOWWxiM1BxMy13Y0NIOExlZzJB?oc=5",
+        "source": "The Reveille, LSU's student newspaper",
+        "publishedAt": "2026-11-21T00:11:34.000Z",
+        "category": "ai",
+        "bias": null
       },
       {
         "title": "Anthropic researcher claims Claude cracked legendary $1M math problem — and left him struggling to keep up",
@@ -272,82 +422,6 @@
           "score": 52,
           "label": "Lean Right",
           "source": "New York Post"
-        }
-      },
-      {
-        "title": "Meta joins growing list of Big Tech companies scaling back ‘net zero’ goals to feed AI buildup",
-        "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4810429/meta-scaling-back-net-zero-goal-ai-buildup/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-11-20T20:58:17.000Z",
-        "category": "ai",
-        "summary": "Mark Zuckerberg’s Meta revealed on Thursday that it is reconsidering its goal of net-zero emissions by 2030 because of sweeping growth in the artificial intelligence industry, joining the ranks of technology companies struggling to stay competitive in the AI sector while maintaining stringent climate standards. Meta an",
-        "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Trump threatens ban on US firms building AI data centres overseas",
-        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-11-20T20:54:12.000Z",
-        "category": "ai",
-        "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
-        "title": "Why stock market is tanking despite massive Anthropic IPO",
-        "url": "https://thehill.com/business/6234002-stocks-plummet-anthropic-record-ipo/",
-        "source": "The Hill",
-        "publishedAt": "2026-11-20T20:51:02.000Z",
-        "category": "ai",
-        "summary": "Stocks have taken heavy losses this week, despite Anthropic going public after a record-setting initial public offering (IPO). The Nasdaq composite, which hit an all-time high in early October, is now in the red since the start of the year. As of midafternoon Friday, the index had dipped by more than 4,700 points since",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "Watchdog says AI smart glasses may violate your privacy",
-        "url": "https://thehill.com/policy/technology/6231902-ai-smart-glasses-privacy-concerns-dutch-study/",
-        "source": "The Hill",
-        "publishedAt": "2026-11-20T20:45:43.000Z",
-        "category": "ai",
-        "summary": "A Dutch privacy watchdog is warning consumers against buying AI-powered smart glasses.",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UkNkV1FqUGFLWWU4NEp1R000MjhvVkppcTQ3UXRKMFh3d2hXbmpaUVoyT2t4SkFqNEMyNFRBcXRhLVYyX0o5eHRFQ180NUFrWnZkRzJKckVCRVFyYzA1MTFjX2RxdDNnY3VJQ3Rwdmp0VW5QVnRxVWNacHVMdw?oc=5",
-        "source": "CBS News",
-        "publishedAt": "2026-11-20T20:37:16.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -18,
-          "label": "Lean Left",
-          "source": "CBS News"
-        }
-      },
-      {
-        "title": "Treasuries Eye Longest Rally in Five Months on Haven Demand - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVdKYnk3ZUtXTER3VDhFcTRqcHdrbWZhS3BYY2hEQ1JFRFZ0VEZoNEtxS1ZuM0h0Zmhod0E0VS1qWWhPaHBXRl83bVRNZEpvMzdXQlhXNzBlRndqdFdGWk84VlNPcHJQSzVKLW0xY3AzbHFGUFVkLWdBanhvdUJSWG42T1cwRW9tMzFMR0pnbF83emtmRkNPVTIzMWxzVG4tc3Vfb3NEWmd2ZWZaaExz?oc=5",
-        "source": "Bloomberg.com",
-        "publishedAt": "2026-11-20T20:30:42.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg.com"
         }
       },
       {
@@ -374,19 +448,6 @@
           "score": 52,
           "label": "Lean Right",
           "source": "New York Post"
-        }
-      },
-      {
-        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-11-20T20:00:53.000Z",
-        "category": "ai",
-        "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
         }
       },
       {
@@ -454,18 +515,6 @@
         }
       },
       {
-        "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNk1CSjZrOUdhaGxJZXNqcDI5SDBxZzFHVG5SN1R5aGtWSHJBUEJpOU5DX1oxcktCS1lvdkN1aVZtN3h5Ty1NLU1aNW9JVzJQem5YSG1GbWIzZVhYY1dzamRoRkpkZ0lDREVjaFIwOVZJVlpGMU0wbXEyTzBvdkZoZkZlRWNYT041SWdsODg4VFhRSzRSYVhZUVNDVEdfMnJjTExySkFhU3JOMVoy?oc=5",
-        "source": "The Guardian",
-        "publishedAt": "2026-11-20T19:00:00.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
         "title": "S&P 500 and Dow enter correction territory, Nasdaq loses 2026 gains as Anthropic dives",
         "url": "https://nypost.com/2026/11/20/business/sp-500-and-dow-enter-correction-territory-nasdaq-loses-2026-gains-as-anthropic-dives/",
         "source": "New York Post",
@@ -476,43 +525,6 @@
           "score": 52,
           "label": "Lean Right",
           "source": "New York Post"
-        }
-      },
-      {
-        "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T18:38:33.000Z",
-        "category": "ai",
-        "summary": "President Donald Trump called for Jensen Huang to make a big apology and return as chief executive officer of Nvidia Corp., even as the prospect remains highly unlikely.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "Trump threatens ‘tremendous penalties’ on companies that build AI data centers overseas - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0o5WHN5SDItSlJ4bDJtMTE3YWZUYi1kbUpzaDMwb29jTW93QjhuN0QxMVB4VDRyUE1ZZzh1WElUX1h0V3VCc3V4VV9rZ202WUhnQ25oYXNJeFAtOHRXZ1Jpd3B5LVFLNmg5bEkzbXVwWDlCdWI2bVJoN1VmbVR4V1lYNVdnWml0RW9DZ25CV2wxTUtUeDlaeG93?oc=5",
-        "source": "NBC News",
-        "publishedAt": "2026-11-20T18:37:30.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -20,
-          "label": "Lean Left",
-          "source": "NBC News"
-        }
-      },
-      {
-        "title": "Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?oc=5",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T18:05:36.000Z",
-        "category": "ai",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
         }
       },
       {
@@ -551,27 +563,102 @@
           "label": "Right",
           "source": "Newsmax"
         }
-      },
-      {
-        "title": "Boardroom AI talks turn from job cuts to cyber threats",
-        "url": "https://www.foxbusiness.com/economy/boardroom-ai-talks-turn-from-job-cuts-cyber-threats",
-        "source": "Fox Business",
-        "publishedAt": "2026-11-20T15:05:20.000Z",
-        "category": "ai",
-        "summary": "Tim Walsh, CEO of KPMG U.S., told FOX Business that executive conversations on AI now center on business transformation and cyber risks as workforce fears fade.",
-        "bias": {
-          "score": 50,
-          "label": "Lean Right",
-          "source": "Fox Business"
-        }
       }
     ],
     "political": [
       {
+        "title": "Trump admin quietly releases government’s Bigfoot files: ‘Very uneasy feeling’",
+        "url": "https://nypost.com/2026/11/20/us-news/trump-admin-quietly-releases-governments-bigfoot-files-very-uneasy-feeling/",
+        "source": "New York Post",
+        "publishedAt": "2026-11-21T03:24:17.000Z",
+        "category": "political",
+        "summary": "“If the tracks were faked, someone went to a great deal of trouble and detail,” Johnson wrote, noting that some of the print marks on the feet “would have to be very hard to duplicate” and “appear very natural.”",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Democratic Sen.-elect Colom responds to Trump's praise",
+        "url": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
+        "source": "The Hill",
+        "publishedAt": "2026-11-21T03:09:44.000Z",
+        "category": "political",
+        "summary": "Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump’s recent praise of his midterm campaign strategy, saying his tactic of reaching out to Republicans during the election cycle shows how he plans to represent Mississippi. Colom went viral on the campaign trail for a video he shared in whi",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Trump, Dana White Reward Marine Band With $500,000 - Newsmax",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3JqOHFYVjl2M1JURnFnNEhNMVY5Q2JvelB2ZHdSYXVZUmtUdjk1WGdjOUdHd1VVdUlxQ3BZRjJXR2pmdVNhbVNGdHg0UzAtcjZqTkRRcUJWTFNXeF9iUnVyQzM5SVg3ZGlCUVZZY3AzdzRUWDI1N1ZNemN5M0t2SmlwU011UGdXY0N5VWN3?oc=5",
+        "source": "Newsmax",
+        "publishedAt": "2026-11-21T02:39:55.000Z",
+        "category": "political",
+        "bias": {
+          "score": 68,
+          "label": "Right",
+          "source": "Newsmax"
+        }
+      },
+      {
+        "title": "Trump defends relationship with Putin but says he ‘can’t speak to America’ | CNN Politics - CNN",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZlV2E5d0xOS3N5d1hyTGlHTk8tMjY3R2Y0SG91d0J6VlR4Q0htNjc2Qkw0MTZJTmNqbU5zb1FpaHN6S3RTWkt1UFpYaGYyMUg2cktPS1ltLUF6NDRJRDVNaHRCemg3ZXQ2VkRfa3Vhbzg4dmM3bW5mckJxMFN4YUh5QzRNOUw1YXQyaw?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-11-21T02:35:00.000Z",
+        "category": "political",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "Takeaways From Trump’s Post-Asia Trip News Conference - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR2hmQjdORFJsWVRTeXBseS1rbEJId19VS3l5Q2NzLXVCbGRPZ0tRaTlIVG5HVWtxN3NpVXBvcmlqODZhRG1BTlFsTTVnMkU0Ri1hdXV0YXB4NmNJQ3ZvTWVGckJ2MnlqWVpyVDhkYUh5WVpRN2NsdjhseVg2ZXdsMFQ2UDNDVlpFMlZF?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-21T02:15:29.000Z",
+        "category": "political",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Takeaways From Trump’s Post-Trip News Conference",
+        "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-21T02:15:29.000Z",
+        "category": "political",
+        "summary": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
+        "url": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/",
+        "source": "The Hill",
+        "publishedAt": "2026-11-21T02:10:18.000Z",
+        "category": "political",
+        "summary": "The former mayor of Jackson, Miss., was sentenced to more than three years in federal prison after pleading guilty to bribery charges from his time in office. Former Mayor Chokwe Antar Lumumba (D) was indicted on charges related to a bribery scheme he admitted to engaging in alongside former Hinds County District Attor",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
         "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
         "url": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
         "source": "The New York Times",
-        "publishedAt": "2026-11-20T22:35:10.000Z",
+        "publishedAt": "2026-11-21T01:43:40.000Z",
         "category": "political",
         "summary": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
         "bias": {
@@ -581,77 +668,12 @@
         }
       },
       {
-        "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-        "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T22:34:05.000Z",
-        "category": "political",
-        "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Collins, Shaheen push for insulin price cap",
-        "url": "https://thehill.com/newsletters/healthcare/6234599-collins-shaheen-push-for-insulin-price-cap/",
-        "source": "The Hill",
-        "publishedAt": "2026-11-20T22:33:18.000Z",
-        "category": "political",
-        "summary": "Presented by Coalition to Strengthen Americas Healthcare {beacon} Healthcare Healthcare The Big Story Collins, Shaheen push for insulin price cap A bipartisan pair of departing New England senators is making a last-minute push for legislation to cap the cost of insulin for people with private insurance. © Alex Brandon ",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "Families of victims murdered by California death row criminals back Trump’s meeting with loved ones",
-        "url": "https://nypost.com/2026/11/20/us-news/families-of-victims-murdered-by-california-death-row-inmates-back-trump-meeting/",
-        "source": "New York Post",
-        "publishedAt": "2026-11-20T22:24:00.000Z",
-        "category": "political",
-        "summary": "President Trump will meet with the families of murdered loved ones outraged by Gov. Gavin Newsom’s decision to spare California’s death row inmates.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Trump and Dana White gift Marine Band with $500,000 ‘bonus’",
-        "url": "https://www.washingtonexaminer.com/news/white-house/4810707/trump-dana-white-marine-band-bonus/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-11-20T22:23:36.000Z",
-        "category": "political",
-        "summary": "President Donald Trump and UFC CEO Dana White presented the U.S. Marine Band with a $500,000 check Friday, rewarding the military musicians for their performances at major White House events, including this summer’s UFC Freedom 250 celebration. Trump called the gift a “big bonus” for the 170 members of the “President’s",
-        "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Senate GOP pushes through Trump judges in preholiday sprint",
-        "url": "https://thehill.com/homenews/senate/6234572-senate-confirms-trump-judges/",
-        "source": "The Hill",
-        "publishedAt": "2026-11-20T22:17:22.000Z",
-        "category": "political",
-        "summary": "Senate Republican leaders convened a rare Friday session to vote on a slate of President Trump’s judicial nominees. Senate Majority Leader John Thune (R-S.D.) has said he wants to confirm as many judges, who will serve for life, as possible before Democrats take power in January. “President Trump has more active judges",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "Grand Theft Auto VI appears to mock NFL sexual misconduct scandals in radio parody",
-        "url": "https://www.theguardian.com/sport/2026/nov/20/gta-6-deshaun-watson-justin-tucker-nfl-sexual-misconduct-parody",
+        "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
         "source": "The Guardian",
-        "publishedAt": "2026-11-20T22:16:06.000Z",
+        "publishedAt": "2026-11-21T01:43:15.000Z",
         "category": "political",
-        "summary": "Comedian Stavros Halkias voices fictional shock jock Segment echoes Watson, Tucker misconduct allegations Rockstar’s latest skewers American sports culture The long-awaited Grand Theft Auto VI appears to have taken aim at the NFL’s sexual misconduct scandals, with a satirical segment on the video game’s fictional conse",
+        "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury. ",
         "bias": {
           "score": -55,
           "label": "Left",
@@ -659,25 +681,25 @@
         }
       },
       {
-        "title": "Why Are the Houthis So Hard for Saudi Arabia to Defeat?",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/why-are-the-houthis-so-hard-for-saudi-arabia-to-defeat",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T22:15:04.000Z",
+        "title": "Nationwide settlement for $7 billion approved over Roundup cancer claims",
+        "url": "https://www.washingtonexaminer.com/news/justice/4810852/7-billion-dollar-settlement-roundup-weed-killer-cancer/",
+        "source": "Washington Examiner",
+        "publishedAt": "2026-11-21T01:39:07.000Z",
         "category": "political",
-        "summary": "After four years of relative calm, the war pitting Yemen’s Houthi militia against the country’s internationally recognized government and its backer Saudi Arabia is raging again.",
+        "summary": "A $7 billion settlement was issued on Friday over agrochemical giant Bayer’s popular weedkiller Roundup, which plaintiffs claimed caused non-Hodgkin lymphoma. The ruling comes out of Missouri, where Judge Timothy Boyer ordered Bayer to pay the settlement to thousands of Americans over a 20-year period. Bayer, which den",
         "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
+          "score": 48,
+          "label": "Lean Right",
+          "source": "Washington Examiner"
         }
       },
       {
-        "title": "5 takeaways from Trump’s Friday news conference",
-        "url": "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
+        "title": "California man found guilty of sparking blaze that became deadly Palisades Fire",
+        "url": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/",
         "source": "The Hill",
-        "publishedAt": "2026-11-20T22:14:58.000Z",
+        "publishedAt": "2026-11-21T01:30:51.000Z",
         "category": "political",
-        "summary": "President Trump sought to regain momentum Friday with a White House news conference that lasted almost 90 minutes. Trump’s ostensible purpose was to talk up the achievements from his recent trip to Asia, which included the announcement of trade deals and, more controversially, a trilateral meeting with Chinese Presiden",
+        "summary": "The Palisades Fire killed 12 people as it incinerated entire neighborhoods in Los Angeles and Malibu.",
         "bias": {
           "score": 6,
           "label": "Center",
@@ -685,36 +707,10 @@
         }
       },
       {
-        "title": "Trump shakes up cybersecurity leadership",
-        "url": "https://thehill.com/newsletters/technology/6234571-trump-cairncross-white-house-leadership-shakeup/",
-        "source": "The Hill",
-        "publishedAt": "2026-11-20T22:14:40.000Z",
-        "category": "political",
-        "summary": "Presented by Google Public Sector. {beacon} Technology Technology The Big Story Trump shakes up cybersecurity leadership The White House capped off a dramatic week of tech outages with a high-profile departure in its cybersecurity leadership. © Greg Nash Sean Cairncross, the national cyber director, was let go from the",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "On the Carpet of Melania Trump’s Amazon Premiere in New York",
-        "url": "https://www.nytimes.com/2026/11/20/style/melania-trump-series-premiere-nyc.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T22:10:47.000Z",
-        "category": "political",
-        "summary": "Ten months after the premiere of her Amazon documentary in Washington, the first lady debuted a follow-up series far from her husband’s seat of power.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Netanyahu Sets 10 Conditions for Israeli Unity Government - Newsmax",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUhyRlJRZnc3cFd0b25kejd6Zmpra3E3dEdxTXVhY0Etc0RFUy1heWZ6bnpBOHk2bUppZFo1bTRsOWVGR0FjNGxnYlFVcjhtR0VRejB6SXVXcG9uT1hScVpRU2NXblBMenNQRkFpRXNJN09sR0pPVDMyanUzY3p3RzlDSDBnRzh6QVFvUmNnaUhvTU9SMnFhczhzVldRV1YtVkpYU2Fzc0J3cWwwUkdRdDhSY2s?oc=5",
+        "title": "Allocco to Newsmax: GOP Losses Tied to Turnout - Newsmax",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnRzNE8wbC01N3Q4bjU0QUZFcjFoUTZiNnZydUxsdmNpUlBremFWckhrdjBoVmk1OHVmcGlsbG5FYlFQc3RheGY4SlpnUzhqcHlZeC1JcWp2WVFBaHpEdmx5SUVwVkoxZDBwY24yZmZ6aG9KZFAxd2Y0Ylo3RUotTzBkMTNRRklVRXNkcUFKNWZXOFFu?oc=5",
         "source": "Newsmax",
-        "publishedAt": "2026-11-20T22:06:40.000Z",
+        "publishedAt": "2026-11-21T01:27:16.000Z",
         "category": "political",
         "bias": {
           "score": 68,
@@ -723,38 +719,12 @@
         }
       },
       {
-        "title": "Top White House Cybersecurity Official Is Replaced",
-        "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T21:59:39.000Z",
-        "category": "political",
-        "summary": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
-        "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-        "source": "The Guardian",
-        "publishedAt": "2026-11-20T21:58:50.000Z",
-        "category": "political",
-        "summary": "Thom Tillis, outgoing senator from North Carolina, placed hold on nomination of Michael LoSapio a day after his confirmation hearing Sign up for the Breaking News US email We’re also following the latest on Capitol Hill as the battle for Senate majority leader between Democrats Chuck Schumer and Chris Van Hollen plays ",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Supreme Court sitting on emergency petition over Washington’s transgender sports policies",
-        "url": "https://www.washingtonexaminer.com/news/supreme-court/4809943/supreme-court-sitting-on-emergency-petition-over-washington-transgender-sports-policies/",
+        "title": "Palisades Fire arsonist found guilty on all counts in deadly blaze that killed 12",
+        "url": "https://www.washingtonexaminer.com/news/crime/4810846/palisades-fire-arsonist-guilty-all-counts-california/",
         "source": "Washington Examiner",
-        "publishedAt": "2026-11-20T21:57:48.000Z",
+        "publishedAt": "2026-11-21T01:20:40.000Z",
         "category": "political",
-        "summary": "The Supreme Court has yet to rule on an emergency petition brought by a female high school wrestler in Washington state last month over state laws that allow biological men to compete in women’s sports, a case that has been complicated by a recently passed state ballot measure. Kallie Keeler, a biological female wrestl",
+        "summary": "The California man accused of starting the Palisades Fire in January 2025 was found guilty on all counts by a federal jury on Friday after his mistrial in June. Jonathan Rinderknecht, 30, faced two federal charges for destruction of property by means of fire and arson affecting property used in interstate commerce. He ",
         "bias": {
           "score": 48,
           "label": "Lean Right",
@@ -762,10 +732,165 @@
         }
       },
       {
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
+        "title": "Permitting reform bill clears major hurdle toward becoming law",
+        "url": "https://thehill.com/newsletters/energy-environment/6234873-senate-baaja-permitting-reform-energy-infrastructure/",
+        "source": "The Hill",
+        "publishedAt": "2026-11-21T01:16:29.000Z",
+        "category": "political",
+        "summary": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Senate approves major permitting reform bill The Senate passed a major bill Thursday seeking to speed up the build-out of the nation’s energy production and infrastructure — taking a massive step toward the legislation becoming law. Greg ",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Dem senators want ‘swift’ response to Russian airspace incursions",
+        "url": "https://thehill.com/newsletters/defense-national-security/6234868-dem-senators-want-swift-response-to-russian-airspace-incursions/",
+        "source": "The Hill",
+        "publishedAt": "2026-11-21T01:05:56.000Z",
+        "category": "political",
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Dem Senators want ‘swift’ response to Russian airspace incursions Multiple U.S. allies reporting Russian incursions into their airspace, has prompted two Democratic senators to press the Trump ",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
+        "url": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
         "source": "The New York Times",
-        "publishedAt": "2026-11-20T21:55:47.000Z",
+        "publishedAt": "2026-11-21T00:57:33.000Z",
+        "category": "political",
+        "summary": "The pervasive presence of the president hovers over the bipartisan legislation to speed up construction of energy projects that are advancing through Congress.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Appeals court considers creating separate transgender cell blocks within women’s prisons",
+        "url": "https://www.washingtonexaminer.com/news/justice/4810689/appeals-court-considers-separate-transgender-cell-blocks-womens-prisons/",
+        "source": "Washington Examiner",
+        "publishedAt": "2026-11-21T00:52:48.000Z",
+        "category": "political",
+        "summary": "A federal appeals court is weighing how to house a group of transgender inmates, all biological men currently residing in women’s prisons across the country, who are suing to prevent the Trump administration from sending them back to male-designated facilities. The trans litigants allege under the “cruel and unusual pu",
+        "bias": {
+          "score": 48,
+          "label": "Lean Right",
+          "source": "Washington Examiner"
+        }
+      },
+      {
+        "title": "Vance's Office Reaches Out to El-Sayed About Meeting - Newsmax",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTJRamxMYVNPNkRDU3drbktzOG43LUhRU2lVQlRmd1JhQTN0WHNaUVFSZnFSd1B4a2dLTmRNOC1PZTN2aUE1ajFXNUhJVmJqVFdKQldsY0hKNDNXQ0FQZk5Kemw3SDNxandNVFNEbmxyYkZFZHRib2Y2Q0hGaVJrNGx0OXRqUXNueUIzV0FzZDI?oc=5",
+        "source": "Newsmax",
+        "publishedAt": "2026-11-21T00:40:36.000Z",
+        "category": "political",
+        "bias": {
+          "score": 68,
+          "label": "Right",
+          "source": "Newsmax"
+        }
+      },
+      {
+        "title": "ANC fights to keep control of South Africa's key cities after election setback",
+        "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-21T00:34:51.000Z",
+        "category": "political",
+        "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Senate unanimously passes Moreno resolution in honor of Fiona the hippo",
+        "url": "https://www.washingtonexaminer.com/news/senate/4810819/senate-passes-bernie-moreno-resolution-honoring-fiona-the-hippo/",
+        "source": "Washington Examiner",
+        "publishedAt": "2026-11-21T00:28:23.000Z",
+        "category": "political",
+        "summary": "The Senate unanimously passed a resolution in honor of Fiona, the beloved hippopotamus who died at the Cincinnati Zoo on Thursday after swallowing a visitor’s hat. Sen. Bernie Moreno (R-OH) introduced the resolution on the Senate floor to honor Fiona and everyone working at the Cincinnati Zoo. “Fiona was a symbol of re",
+        "bias": {
+          "score": 48,
+          "label": "Lean Right",
+          "source": "Washington Examiner"
+        }
+      },
+      {
+        "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
+        "url": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/",
+        "source": "The Hill",
+        "publishedAt": "2026-11-21T00:27:39.000Z",
+        "category": "political",
+        "summary": "Supreme Court Justice Sonia Sotomayor on Friday suggested her colleagues may view Democrats' sweeping victories in the midterm elections as a sign that their recent immunity decision has not eliminated checks on the president. Speaking in Philadelphia, the liberal justice replied \"absolutely\" when asked if her colleagu",
+        "bias": {
+          "score": 6,
+          "label": "Center",
+          "source": "The Hill"
+        }
+      },
+      {
+        "title": "Mamdani Tore His Achilles Chasing the Ball in Soccer Game Against NYC Press Corps",
+        "url": "https://www.breitbart.com/politics/2026/11/20/mamdani-tore-his-achilles-chasing-the-ball-in-soccer-game-against-nyc-press-corps/",
+        "source": "Breitbart",
+        "publishedAt": "2026-11-21T00:20:01.000Z",
+        "category": "political",
+        "summary": "Democrat New York City Mayor Zohran Mamdani tore his right Achilles tendon Thursday night while playing soccer against the City Hall press corps. The post Mamdani Tore His Achilles Chasing the Ball in Soccer Game Against NYC Press Corps appeared first on Breitbart .",
+        "bias": {
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
+        }
+      },
+      {
+        "title": "Former Mississippi Democratic mayor sentenced to three years for corruption",
+        "url": "https://www.washingtonexaminer.com/news/crime/4810769/former-jackson-mississippi-mayor-chokwe-antar-lumumba-sentenced-corruption/",
+        "source": "Washington Examiner",
+        "publishedAt": "2026-11-21T00:19:40.000Z",
+        "category": "political",
+        "summary": "A federal judge sentenced the former Democratic mayor of Jackson, Mississippi, to more than three years in prison for bribery on Friday after he entered his plea in July. Chokwe Antar Lumumba, 43, pleaded guilty to one count of conspiracy to commit bribery, wire fraud, and money laundering in a corruption sting operati",
+        "bias": {
+          "score": 48,
+          "label": "Lean Right",
+          "source": "Washington Examiner"
+        }
+      },
+      {
+        "title": "Trump turns White House press conference into a 2028 succession audition",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+        "source": "The Guardian",
+        "publishedAt": "2026-11-21T00:16:26.000Z",
+        "category": "political",
+        "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Trump Vows To Tax US Companies Building Data Centers Abroad",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-21/balance-of-power-late-edition-11-20-2026-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-21T00:10:11.000Z",
+        "category": "political",
+        "summary": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, Dean Curnutt, founder and CEO of Macro Risk Advisors, says the market selloff could prove “cleansing” by resetting valuations and making room for fresh capital, but warns that the growing overlap between the AI trade and th",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5abUxUTmQ0V0xFQlV5M3NtUEVIaEcxRk9SSGszVEVMRG42MXNaSm45LXhKbmZsZzNUUXdjUTlVTjdGbWw1aUFqQ3NSQ1l3RkxrTjA5SUU3SG1HMVF2OFZOQ3p2eG9XVy1CRmtmQk5ucWw5S0J1SGcyek5ONTZmZjQ?oc=5",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-21T00:08:32.000Z",
         "category": "political",
         "bias": {
           "score": -32,
@@ -774,38 +899,12 @@
         }
       },
       {
-        "title": "Hinojosa outlines plans to end family detention at controversial ICE facility",
-        "url": "https://thehill.com/policy/healthcare/6234489-hinojosa-plans-end-family-detention/",
-        "source": "The Hill",
-        "publishedAt": "2026-11-20T21:53:24.000Z",
-        "category": "political",
-        "summary": "Texas Gov.-elect Gina Hinojosa (D) shared her plan this week to end family detention at a controversial immigration detention center in the state in a conversation with YouTube children’s creator Ms. Rachel. “The reason we believe the children are being detained here with their families is because there’s licensing tha",
-        "bias": {
-          "score": 6,
-          "label": "Center",
-          "source": "The Hill"
-        }
-      },
-      {
-        "title": "State Department official accused of lavish ‘vacations on taxpayer dime,’ triggering travel crackdown: ‘Rubio is fed up’",
-        "url": "https://nypost.com/2026/11/20/us-news/state-department-official-accused-of-lavish-vacations-on-taxpayer-dime-triggering-travel-crackdown-rubio-is-fed-up/",
-        "source": "New York Post",
-        "publishedAt": "2026-11-20T21:49:27.000Z",
-        "category": "political",
-        "summary": "\"Everyone is punished and we are conducting less diplomacy as a result,\" a source told The Post.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
-        "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+        "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – as it happened",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
         "source": "The Guardian",
-        "publishedAt": "2026-11-20T21:47:41.000Z",
+        "publishedAt": "2026-11-21T00:04:36.000Z",
         "category": "political",
-        "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed ",
+        "summary": "This live blog is now closed. Republican senator blocks Trump cyber nominee over January 6 denial Sign up for the Breaking News US email We’re also following the latest on Capitol Hill as the battle for Senate majority leader between Democrats Chuck Schumer and Chris Van Hollen plays out. We had a key update on Wednesd",
         "bias": {
           "score": -55,
           "label": "Left",
@@ -813,36 +912,113 @@
         }
       },
       {
-        "title": "Lawmakers On Verge of Deal to Ban Chinese Cars, Moreno Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/lawmakers-on-verge-of-deal-to-ban-chinese-cars-moreno-says",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T21:44:39.000Z",
+        "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+        "source": "The Guardian",
+        "publishedAt": "2026-11-21T00:03:47.000Z",
         "category": "political",
-        "summary": "US lawmakers are closing in on an agreement to shut China’s fast-growing automakers out of the US market that avoids entangling Mercedes-Benz Group AG, Senator Bernie Moreno said.",
+        "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers union Hundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of-life event Friday in Bakersfield. Huerta’s daughter Lori de",
         "bias": {
-          "score": -12,
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "USDA hit with cyberattack: Sources - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDZ0N0pwRFpFQndGOUxfSzAtNzk1MjhBcUluQjZRNWRtUWMyY2wweEhjUFZrNm1XMWlka3ZMSTg5Um1PbmE4UWJ4b2loTVpyd0FRcEc0eFExS2ZSZTJMckczUzNBdVp6ZExuUkZLdVZoX09BbnhDVXVmZ2hFR24ta0h2SlA0dDl4Um5hYmIxTVhWQ1BnN25ER1VTZTNMZW93anEtU0FjeWU5QjQxT0HSAbMBQVVfeXFMT29OWXFLemRRbUdhQlZ0ZFY5U1FBYVBQc1NNTXNwXzEtamVtTDBtVi0ybmVqLTdxRGpPNzI1WWp0YkJQY1RQSjY2VU8xMDBTWGVPYWU3NllnWUNQMm1iSXh6RmFJWWI2blIxZ3cwUXQ1ZlZOOEpra1RoMEZ6ZV93cUV3aXhLeHg5RTlJYWJabU5adTFrUnlfNWMyM09ZWF9pTnNRaHVzS3paNjZ4WFU0QlFzRm8?oc=5",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "publishedAt": "2026-11-20T23:58:25.000Z",
+        "category": "political",
+        "bias": {
+          "score": -18,
           "label": "Lean Left",
-          "source": "Bloomberg"
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       },
       {
-        "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-        "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-11-20T21:43:22.000Z",
+        "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+        "source": "The Guardian",
+        "publishedAt": "2026-11-20T23:48:38.000Z",
         "category": "political",
-        "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+        "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vote on Donald Trump’s nominee to lead a key US cybersecurity ",
         "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
         }
       },
       {
-        "title": "What Women's Historic Election Gains Mean For Politics In 2027 - Forbes",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEl0TUY0N0RJaXFydXRPMzVhNU5ZNTRycUFHUHJOelctTlY3aFVHbHp3N1ZuV0xDVmpSQUVDRFhWOWMwMklOQTZzZUhkVExxcGNSQVR1aTgwQnFDZmtPaVJ1c2tucmlHaVUzZ2wtY0l4U1Zvb1VLNThJbXhzZzRoYTl0enh2dkc3djNXUEVyNjFqUFo4ckZLMWR5azh5NlQzeEdYSS1sT0ZuUU5PeUZvb1p2Z2MxSHFxZ3RjXzUxMzNYemc?oc=5",
-        "source": "Forbes",
-        "publishedAt": "2026-11-20T22:16:02.000Z",
+        "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+        "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+        "source": "The Guardian",
+        "publishedAt": "2026-11-20T23:42:43.000Z",
+        "category": "political",
+        "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a de",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Melania Trump seeks ‘solitude’ in new docuseries - CNN",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42eWZFYVpuaFVXNWd2ekNWS0pVWjM3OEFUQi1vTHZCQ25ycHJ6N0pEdk12Z0tOQ3d0aUpJX3ZlNnRGM2ZhaWNpdXVMeXF0WUtyNHN1OHJpdWh1TmZucDZfZ3Bha0VLRFZ1V0tBRVZjOUZtaVJPNHc?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-11-20T23:35:06.000Z",
+        "category": "political",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "Trump Weaves His Way Through a Dull Press Conference - WhoWhatWhy",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUm5SWFhmMVctX05tOXZKZjJSWmxNeHZsUVdpRVV4eUZ1c3JxVThvNDg5NVJyT0pfLUtsa3NOWUlUYnZURmJHcmNQck9Cd29jOUZZMVl0YzFoZTJSLW9udFBIbnhjX3RmSUIzQjVURXZENVpNTVZjcmxfTl9BU2xLM05aTjZRQ0g4THlGeVJWSXVIVWZaQlowZ1c2NlV0QQ?oc=5",
+        "source": "WhoWhatWhy",
+        "publishedAt": "2026-11-20T23:48:13.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "“Why This Farce?” Politics Can’t Save America from Itself - Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzYyRVdtV2NTSzFUdk1xRTJRV3Z4QXVnSmFmU0Z2TEwteHpKR19DOUZhb3JrUm5TWEZfX1FjNm01SmtJSEY4bWoxVEhJMWFIb0RVVjZUbGFubTlkbGxXaXZOcGh5dVVhdG9zUFRXZ3NIOVJMS3JTVmVPMEpfdXVBVUJCbjYwbjZma2N1WmNNTDV1R01qNlNB?oc=5",
+        "source": "Modern Diplomacy",
+        "publishedAt": "2026-11-20T23:00:09.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Exclusive | Databricks In Early Talks To Raise Funds At $225 Billion Valuation - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlI3WDRaRWc2bGliV0g4WXhMSEx5UVdSQmNiVDJFUkt6UjZIQkVQckduc0pLRkEwWmtRY21XRUZFY3NETDRZM2NiQ05KV2FLeVBRdFhaY0dLdENCdXN2RzRIU2Jvd2dJZUJTQmlFR1JLNHljWUxoNzR1OE1aVkp6QmF1Y1Rzbk5vVm1aSVdMblFiS2NrYkFjNExBeU1GWk1KS1p3WQ?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T22:50:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "WSJ Dollar Index Rises 0.42% This Week to 98.75 - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT255Q2NwZjVVeV85dnA2ZmlDeUJJY1lKeGptUktTeXl6azJEdFZLLXFnZS1VbDdwQUhfNWJfbm41VzZiSFVyU3hZdFlGcHozS2hHT2VsbFRkdzJZX25JVEZ2MG54TVZOVzcyWXRxNW5mc0J0M0FDc2hIM2U4cEZsOEgzbmRkNFFSaFdnZTE1cF9KTnNLaXJNVTFwYTh5Y3ZqTzE3ZWZUNkZ3a0swRUJvZ2wwc0hfd1Ix?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T22:48:00.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Just How Moderate Are ‘Moderate’ Democrats? - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHMyWlFGaU0yRFFuR194N0xjMnBKMmFjYnh0bnZsOHllN2tTSlpxVEgxTE9wZjZPcHFnXzlIbmJnZmxJLWY0UnV3bXVKMGxMU3lzSGtGWl8yTVFvcVZENEhLRkVzbnFWd3NyR19CWS12THNJa3gxN2h1d2VzbXB0dTM2UjRvbk8ycnRtVGp3?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T22:43:50.000Z",
+        "category": "political",
+        "bias": null
+      },
+      {
+        "title": "Books to Read and Books to Give - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUm5CUmN4ZGZCb3FtSXBPbndqMS1OX1hBdmkzRWdqZ0ZFU2pUdUE1U2ZOdV9FdHZGWjZWQ2dKanB0Q3RuQnJSd3N0R1NKSDJWOUgzazlDSE96RWdUNXhfaGg5bmdLLUhRLWRPdl9feUFFTGRRZUJuaTdlNmUxZlJlRlctS2Z4QQ?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T22:30:00.000Z",
         "category": "political",
         "bias": null
       },
@@ -871,175 +1047,46 @@
         "bias": null
       },
       {
-        "title": "The latest from Trump's press conference",
-        "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-        "source": "NPR",
-        "publishedAt": "2026-11-20T21:38:21.000Z",
+        "title": "Rising star among Democrats becomes the new frontrunner for 2028 nod - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnF0bk1JdWhvSkNFS0FSQ0tfb0VNUTFaa2ZOSnVSYkdEc1FUQkdHdFNPT0o0ZFRCWF9PX2piYmM4Sy0zVUN2YUtUSDg0bnpGZmFzNWd2VkZMUFJ3Mkp1S3JwcVZRZVQzT2p6Smg5MHJydUZEMFNNSGxUYUxoUHhaTnJ4Z1FzVkYySU5SRnAzZHNEQ1hDSWVkNzh5WDQyQTF3dEM2eVNDc3BkZVNtcjlENjNZSUpQT0lIUWt4OFFiUXFpdw?oc=5",
+        "source": "The Independent",
+        "publishedAt": "2026-11-20T21:55:00.000Z",
         "category": "political",
-        "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-        "bias": {
-          "score": -25,
-          "label": "Lean Left",
-          "source": "NPR"
-        }
+        "bias": null
       },
       {
-        "title": "Live updates: Trump defends relationship with Putin but says he ‘can’t speak to America’ | CNN Politics - CNN",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZlV2E5d0xOS3N5d1hyTGlHTk8tMjY3R2Y0SG91d0J6VlR4Q0htNjc2Qkw0MTZJTmNqbU5zb1FpaHN6S3RTWkt1UFpYaGYyMUg2cktPS1ltLUF6NDRJRDVNaHRCemg3ZXQ2VkRfa3Vhbzg4dmM3bW5mckJxMFN4YUh5QzRNOUw1YXQyaw?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-11-20T21:38:14.000Z",
+        "title": "Security officials warn the US aviation industry of recent calls for attack by Al Qaeda - KRDO",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbzV1WTV2dE5nb1F3bXJkTzJLTFBoQ2p1RVlCZmtWZXcwTmVKOTd0alVyeVdNc0dTR0Zya0FFTXF1RFY4RnhlM1NCaXNSUmcyS3BjRGd5SVhJMExEelFaZnd0TElLMU8xVWZHYVJ0Zm5oVWhMbDlOVTVfV0lORjZCRlJHVXhCV3VQdm9jQjFCd0NXQmR3YmtJazlRYkwyRG93VGxONHlsRF9yM0Y0OXo4cDNaR3hTZHVZSmV5Q1E4allUbDNmTFEzQjBOUHQ5aW1fVjdWTmRETUg?oc=5",
+        "source": "KRDO",
+        "publishedAt": "2026-11-20T21:33:45.000Z",
         "category": "political",
-        "bias": {
-          "score": -48,
-          "label": "Left",
-          "source": "CNN"
-        }
+        "bias": null
       },
       {
-        "title": "Second federal judge plans to block construction of Trump arch",
-        "url": "https://www.washingtonexaminer.com/news/justice/4810486/second-judge-block-construction-trump-arch/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-11-20T21:35:48.000Z",
+        "title": "UnitedHealth sues US government over lowered Medicare Advantage star ratings - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkkzc3lmejhhOURUWFN1c2pwbHBrZXJYMlNmNUt3Nk5aYUpwVUJYRkVnMmZISXR4S1hfRkY4TUZpejNfcjQ3MExMem5pS0ZCQkhEajI2dmFKWjVBM1dXQzQxVlVYbU5wdDVZTmhjRjM3dXB3MlJvSXJGVlczb1lhS3lDaW9GbkxjbWpKVEFVWXBCUC1pcmlWZzA2ODl1V0taSUVLZFhGVTFBWE5XYkpJejFwRGtJOElDdzhuVkgtT3NmNVpqS2dSLQ?oc=5",
+        "source": "Reuters",
+        "publishedAt": "2026-11-20T16:28:12.000Z",
         "category": "political",
-        "summary": "A second federal judge is set to block the planned construction of President Donald Trump’s proposed memorial arch on Friday. U.S. District Judge Leonie Brinkema, who presides over the Eastern District of Virginia in Alexandria, indicated she plans to halt the project. On Wednesday, U.S. District Judge Tanya Chutkan fo",
         "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
-        "url": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand",
-        "source": "Fox News",
-        "publishedAt": "2026-11-20T21:28:09.000Z",
-        "category": "political",
-        "summary": "Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "Trump asks Stephen Miller: 'Do you want to run for president?'",
-        "url": "https://thehill.com/homenews/administration/6234343-trump-asks-stephen-miller-run-presidency/",
-        "source": "The Hill",
-        "publishedAt": "2026-11-20T21:27:23.000Z",
-        "category": "political",
-        "summary": "President Trump floated his newly appointed chief of staff, longtime adviser Stephen Miller, as a potential presidential candidate — asking the top White House official if he was interested in the presidency during a press conference Friday afternoon. The comment came after Miller heaped praise on the president, with w",
-        "bias": {
-          "score": 6,
+          "score": 0,
           "label": "Center",
-          "source": "The Hill"
+          "source": "Reuters"
         }
       },
       {
-        "title": "The Congressional Investigations Investors Need to Watch",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/the-congressional-investigations-investors-need-to-watch",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T21:27:04.000Z",
-        "category": "political",
-        "summary": "Over 300 companies could be Democratic targets next year.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "EU Nears New Trade Power to Block Access to Its Single Market",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/eu-nears-new-trade-power-to-block-access-to-its-single-market",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T21:26:15.000Z",
-        "category": "political",
-        "summary": "The European Union is finalizing plans to create a new power that would enable it to rapidly hit back against trade attacks from countries such as China, as the bloc seeks to address its massive deficit with the Asian nation.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "Bessent Again Blames WSJ Photo for Move to Military Base - Newsmax",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZd3g4eVlYc2ZadTcwaUF0eldZN3dxaUJtbk5SRXRES2tHeE5yVTZ5eVpmTzRiTzliVVBhUkdISnBHdmN5bnJpdDBnd1dLOUlaakdwUXBGV0xMVEgtUGVFQmV5UlZ6MXJrSjJjWEhoRmxmbkVPMGhDU1Nmems?oc=5",
-        "source": "Newsmax",
-        "publishedAt": "2026-11-20T21:23:05.000Z",
-        "category": "political",
-        "bias": {
-          "score": 68,
-          "label": "Right",
-          "source": "Newsmax"
-        }
-      },
-      {
-        "title": "Pro-lifers should change their tone, not their truth",
-        "url": "https://www.washingtonexaminer.com/restoring-america/4810572/pro-lifers-change-tone-not-truth-abortion-2026-elections/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-11-20T21:22:58.000Z",
-        "category": "political",
-        "summary": "The 2026 midterm elections proved deeply discouraging for the Republican Party. GOP candidates suffered losses around the country, and Democrats reclaimed control of Congress. On top of that, abortion-related ballot measures delivered further setbacks for conservatives. Since Dobbs v. Jackson Women’s Health Organizatio",
-        "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Lame-Duck Senators Should Not Be Able to Block Good Judicial Nominees",
-        "url": "https://www.nationalreview.com/article/lame-duck-senators-should-not-be-able-to-block-good-judicial-nominees",
-        "source": "National Review",
-        "publishedAt": "2026-11-20T21:22:38.000Z",
-        "category": "political",
-        "summary": "The ‘blue slip’ privilege lets a single senator thwart a power that constitutionally belongs to the president and the entire Senate.",
-        "bias": {
-          "score": 58,
-          "label": "Lean Right",
-          "source": "National Review"
-        }
-      },
-      {
-        "title": "Striking snakes released into the wild in historic fight to save species from extinction",
-        "url": "https://www.theguardian.com/us-news/2026/nov/20/garter-snake-conservation-san-francisco",
-        "source": "The Guardian",
-        "publishedAt": "2026-11-20T21:14:08.000Z",
-        "category": "political",
-        "summary": "Scientists reared the San Francisco natives through their vulnerable youth before setting them free in nature San Francisco garter snakes born and raised in a zoo-based conservation program have been released into the wild for the first time as part of an effort to save what is considered one of North America’s most be",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "They Wanted a Bigger House. They Ended Up With a 500-Year-Old Mansion. - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWkJLRnNzRWF5bDduNDJzLTRvRkpIclNBbm43RzdTVUNXN0dTM3FFNkJncU5jZml2eWFvc3hJaGdJeGx6OVZsNUF2bm1sbWc4RGpDNHBSb3NJT3dwS09vbnpEcGhhbTVJRXpKYnZDaVJ1X0tRVllhWU9NWWtMai02U2MxNXBNOVU1MHhR?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T21:31:37.000Z",
+        "title": "Trump’s showboating press conference isn’t the flex he thinks it is - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFpJYmNOVFlYMEhqWFEzN3BBUjB5STBLYkZGcjlfQW1GV2FPeFZ0YWdUNGgzdXdvVnN3UXVDRmgxT0FjdGlrdlo5WXdKNmgzTU0yVDk2cWNVZlo4aUl6cm5RdWdNUVVaXzZUUC1PZzZrUFd0cVFGRWJKandQMWV0UmVWRE9tSG15WmxKZm5mRWlwTkdDc0hvWURIUU9zaklfc1F1MGZEeXcxa2JyUmszdVVjSE9BdTUz?oc=5",
+        "source": "The Independent",
+        "publishedAt": "2026-11-20T21:29:00.000Z",
         "category": "political",
         "bias": null
       },
       {
-        "title": "Trump Returns to World Stage After Midterm Setback - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkkwTDR1Nm9YNDNoREQ3d0VkUXpfR2tBZjBVVTA5UVVLX1I1cEZybTZkdmVhbVoxR3N4OGl5a003emxjOUlrX0xVUDNhR0Q1VXhRb1BIZkxIamExZndxMXlXX2xNT25Bb0VvNlJxaWZRMVdGV2ZmVkU4bjB0V3Y3N0Z5TVJFZkphdFhqaGNR?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T21:10:20.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Trump Says He Will Penalize Companies That Build Data Centers Outside the U.S. - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeV9TbzdSZG9XU0txYXlXR0l4RF9oaUpOakxpQXhRVFRDQjBCYzlUSm9lZ011c1ZTbzVOaVRXM1JSS1Q1REtQSTE1MTZ3cTB0NlpsY0VSSjB6R3FiLThtZ2Eyc3NISER4WWhuWWlYWVpzM25QNHBkbzNHOEcwLXNmNldudnZGclpUQ1ZHTHVpREZvclhzRFFHWk01alJnR2d3NzRSMnVJdUh5NXprTkZJ?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T20:55:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T20:32:00.000Z",
+        "title": "What Women's Historic Election Gains Mean For Politics In 2027 - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEl0TUY0N0RJaXFydXRPMzVhNU5ZNTRycUFHUHJOelctTlY3aFVHbHp3N1ZuV0xDVmpSQUVDRFhWOWMwMklOQTZzZUhkVExxcGNSQVR1aTgwQnFDZmtPaVJ1c2tucmlHaVUzZ2wtY0l4U1Zvb1VLNThJbXhzZzRoYTl0enh2dkc3djNXUEVyNjFqUFo4ckZLMWR5azh5NlQzeEdYSS1sT0ZuUU5PeUZvb1p2Z2MxSHFxZ3RjXzUxMzNYemc?oc=5",
+        "source": "Forbes",
+        "publishedAt": "2026-11-20T21:04:02.000Z",
         "category": "political",
         "bias": null
       },
@@ -1058,57 +1105,38 @@
         "publishedAt": "2026-11-20T20:18:00.000Z",
         "category": "political",
         "bias": null
-      },
-      {
-        "title": "US lawmakers urge Egyptian president to intervene on behalf of jailed Christian convert - Christian Post",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2I0YUlVZWVTX3ppY2llelhlSlo3bS1QZHFON0MtbjI0bU93UXdZWTFhUDhIMzJfT2lZQlpaZk4yRk5YQU00c0dwMV9vSWtLRl9acFhUUXFabWJmUlRPTk9XVV9vNmhFOUEwU1RNVmNxU09ZQXZKSF94N1lMb185ZHQ3c1dUY2pBcVZvSUdEVzI5djNfOVVad1pkXzRDSVB1VkU2SlhSWQ?oc=5",
-        "source": "Christian Post",
-        "publishedAt": "2026-11-20T19:21:00.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Outage at NSA’s highly classified communications network has been resolved, sources say - ABC17NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWHdxZ2NNVlhpclVWdWZZUGUtRTdiZDdDR2N1RUR3dFBuVW5xaWw4OU1sTXplVk96ZzZBMzZwUWJETjI5REp5MmVYZzEtODNZLTJENG9uQUlyRTc2RzVULVNweGVrcFpldjVZVXV3RTA5aXczT3JuVktZYVpNcVZUUUh4UTQxczVLOTdpUm96VTJNczNMaTlCMmJKdDdTVlBTSWpMNWt6azJRZ1JmOXVpOTRBMjlORGk5S0pvYmVFa3dMa0VwbnBZTWV1dHdiVmFVdUhOV2dmVjUteDYxTXp2M1ljRThkQXc0cVAxR0RTV1dXYm9I?oc=5",
-        "source": "ABC17NEWS",
-        "publishedAt": "2026-11-20T19:11:51.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "WATCH: After calling Putin his friend, Trump 'can't speak to' whether Putin is a friend to America - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXRtb2J3RmdRYzBtZHZ6dHFuY0RIdUZoWXNYMlB1NTJ1cC1weWd1WG5UUGMxN0lkTURVUjczYTNyNVo4U2hyZzJlV3lLTUg1VmtzWTRxSW5keEFpNEp5dXpWY2NyUjBldm00WjBVVzBEcWU3RVBHbmp5OGN3b3N2VDQ0RXlhMUJZYVZuQmVLTEp1WUZhTm1YVEZpQlpid2NzYmpsenhFWC1XNzdHdjllbmd6NHkzNE1jSERBckk0T3FQeGPSAcgBQVVfeXFMTlBESGNMMXJvaG0yR0h2dGNFVE1vS2QzMktjU3pBeWs1YXhqamZVandIZU5BemplWkpZRjRIblRmQUVmbEhGMmNjOEQ2ek1rMlU5ODN3WDJUS29sWFdLYU1BQnRNQW8zekdOTFRSYktiMzI0N2Z3UDU3QTZOWm1RTDVkSHdMeDVBOEdWRDBkQTdDLW1zLVB2V1p2WnZRWjZFSm8xNExXSmVYbHY0dC1KTEFDdXEzNkxfX18wRjBXTGF3YnRXOUNkNmY?oc=5",
-        "source": "PBS",
-        "publishedAt": "2026-11-20T19:09:45.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Trump seeks curbs on US companies building data centers overseas - KTSM 9 News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2hsUk4tQ0pxWVZ4RnFpUko3RHRhQXF4dlBiZERqMmtNS3ZxZU9TRHY1emF2T3pLNlFLaXItWUJ6a3dSZEgyOENQRmtKVDlwVEktUFJvdHF6LWdHcjhneTkzRFhNUFZiV2w4U3Y0UGh3ZVRaQkdzc2NubERLVXNHNE9WVDh6TTItTEhQcHlNbzFHWVo4VTduQ1k5NkZVNFFoOEJHcXBR0gGrAUFVX3lxTFA4Z0tQb0pYSXdRSHhscHUtNnE2Vzl4SG52UDVJVkRIalNFNF8zYXhzSFV4YlFORWh1T3NPUEo1SGhJaE9mRjJ5TUJtVUxFUUlFR1JzbEhocUV3b2dEN05kX0JqN1ZUTGRQN081Y2dyUl9BSHBJQlBaeDN5RjhGT1ROT1R3VVEzLXBoQ2lrX3ZSUDBaUldxUXJJTkJ4V28yR1B0aUJLMTk0TDZpUQ?oc=5",
-        "source": "KTSM 9 News",
-        "publishedAt": "2026-11-20T18:49:45.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "In Blue-Wave States, Plans to Lower the Cost of Living Are Running Into Reality - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjJSVVRKZWFVQjBYUzVocVFoQnBPbDg4Nk9pRDFRVFpPdVU0a3VVOUo4dzRCdk1ZR0xrYVcxTEdfcENCTUo4SkctZHIzMGNDN3pqRlVDdUw3ZzFjYWFDV2x1T0dNLUN5RFpvaGRzZzNKZG1yRzdiQU1IbjlMNnNPT3JWVDM4OHdSMVN3UUd4Sm9SeU11akZkQVZGQlFWQ0hiRkw3czZwV2xWanA0YlRfY2w5YUVLZ29hblQyanoyTTY?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T18:29:05.000Z",
-        "category": "political",
-        "bias": null
-      },
-      {
-        "title": "Security officials warn the US aviation industry of recent calls for attack by Al Qaeda - KVIA",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0dNbm9idWNNSDYwVi1CZmowVnVuTFNkakhPT1Nwc0NTSU9GelB2UlAxZkUxcmdzdi1wVVRFMzVvcXIteVcwOVhjcmRmRXl0U21JaFlSNF9FMlpNeGFINTZSN2gzcUZnUzVlQy1JMDhHeUJHY2oyTjlpZXVWY01EY1RwQmpnZUtOTEZyU29VeVJXbWJsU2lybTVfejE1bjAyWUVuOE14bXhneGQ0eEMzWFl2dDk1N3JiSk1MRldleFFOSjEwaDdEY0R0UlotWFZxQXhCV2JxaTI?oc=5",
-        "source": "KVIA",
-        "publishedAt": "2026-11-20T18:09:37.000Z",
-        "category": "political",
-        "bias": null
       }
     ],
     "economic": [
+      {
+        "title": "‘Look at India’: Trump cites 7% growth to press US Fed for lower interest rates - Open Magazine",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlZBS1pHVGg2NWZmeVhsanpRY21vR1ZXN19rV0p0U244anVfT21jM0tmcEstc3ZBRGxXMm90QkVUSzF0SmphUlZHd1FYVVlfS2N4MnhGYmdJR2xud2tvUGxGSWp1WGJrNjd5Mjg1SlN4TnhKaXhnUE56Wkk3Z2lJRjBYQ3FMd3FxMS14RlgxajdNbWVLRHpETTJhVk43UC1jX0hZMlFNbHVWYmsydGc?oc=5",
+        "source": "Open Magazine",
+        "publishedAt": "2026-11-21T03:22:10.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Look At India: Trump Cites 7% GDP Growth, Says US Could Achieve 20% GDP With Lower Interest Rates, Calls Fed - Free Press Journal",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUzJmcHlWckUzTjVod0xFNHBvbVJqbUc2aGs0SmNwVm5ZbWM0b0ZDVE5zSDRZLTk3eWY2YVRKY3BneFpybGplZzRyQnVvcVNpbVpyVE5oM0FoeWxxOU5xVkZHUk1rcFotRHRfSVU1Sm4zWGdyeWFVeGpWeW5KYjhxSFloa3JfSkRNSk12ZGhzNlRJZGJ6X3NSeW5EY0hDWTdMWTdfMXZXbm1vYkhrNW5DMWYzOGdfbjBoZHpVbG9EZWM4ekx6dG5UVjRhTnJtbUo5ZlZ1ZzBLMXN4bzZCWnktbTdjcHVuQ0ptOFFkNzg2bWNBblYtUmNlU1lB0gH_AUFVX3lxTFA1a2Rnb21QT0NwR3FOOTZFcU1DUDZvR2s1b3VDRndDV194OHVCVl9MSWxYQy1XOUlHekpLaTlSYzVyNmNfeXh3VjVmcmtUa3Vybkt4aXlKcVFhb09pZlNpWVpZRFlwTGtyOXdSS0xSQlRNSzNHZkZnTFpFZklQSUZhZVV5czVub3l0d2JWVGdvUkwySlVNT2ZZQlkyZXFMbnliWEpXd2dsR0hDb093eDkzVEZ0Qm10WkZuUjVVa1BuUm5iMjVuaVhLVkJOTjR0SnIwUmkteWRfMWI4S2lwSkFsTl9heDZFSDJ1UEI4NWNVZkF6VDNnY25vSWVjb1RRWQ?oc=5",
+        "source": "Free Press Journal",
+        "publishedAt": "2026-11-21T03:04:37.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Sol Trujillo Says Latino Economic Growth Is an Undervalued Investment Opportunity",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/trujillo-says-latin-economic-growth-is-undervalued-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T23:33:21.000Z",
+        "category": "economic",
+        "summary": "Sol Trujillo & Andy Sieg discuss Citi’s partnership with Trujillo to invest in and expand financial access for the Latino population in the United States. They said the opportunity is attractive but has been overlooked because investors have not segmented the data to see its scale. The two speak with Romaine Bostick on",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
       {
         "title": "Trump again urges Fed to lower interest rates",
         "url": "https://thehill.com/newsletters/business-economy/6234612-trump-again-urges-fed-to-lower-interest-rates/",
@@ -1136,17 +1164,76 @@
         }
       },
       {
-        "title": "VIX Hits Highest Level Since 2025 Tariff Turmoil as Volatility Warning Flash",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/vix-hits-highest-level-since-2025-tariff-turmoil-as-volatility-warning-flash",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T21:22:33.000Z",
+        "title": "'Look At India': Trump Says US Economy Can Grow 15-20% If Fed Cuts Interest Rates - Oneindia",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVphUmZ1NjZtZHR6bzdhOTBOQW9KdmFjWWYyUGR6elAyWmdXWmtILVp6TlF2Nnd4YV9kd0h6bzAxYWlxZHRhUlBOZ3RaTzRRb1Q5Y0hlNmJnN2x6UG1tMDgxSkRCMk1qLXJXUEJCaVdKVnhKVGxrVnRxU3AxLXZvZ1dVcjVJOXhOZjVxNnhsMnFNbFZEMkdlWmVRZDBQSTZRX2ZSaUxianlnazBNSU81eURzdHJRQmRIdlpBVWJYSDVTUGFQazItc0dlS09ialJmc2cw?oc=5",
+        "source": "Oneindia",
+        "publishedAt": "2026-11-21T02:12:23.000Z",
         "category": "economic",
-        "summary": "The stock market’s main volatility gauge jumped to its highest level since April 2025 as the S&P 500 capped its worst week in seven months.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
+        "bias": null
+      },
+      {
+        "title": "'Look at India's 7% growth': Trump slams Fed over high interest rates, claims US GDP could hit 20% - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUHlDQnN6X2l3ZkpqYkFfa0xrdFZHbWp6MnBBRmFPUjV1UEpFMG5yX3RuZmJpV2hTY3U2MHg4SDBTNjhSUVh1a1dMcWNXRGkzYlN4ZlhDV0M1WHdoSERxRHJvRFM5bktCdkpDRWNPajlQZXdFeHJpU1JTTFY3UTZac0tXcEctNGhIZi1temp4bkw0VmVrLVN1empoTVJrOC1ISllyRDZrV1NtVzc1UTh6eVZGcy0tdlpVQWpFbVF5R0tXRUFwOEVuOEdmR3RPalFscGFSY21fd3p3OFpqdjNyZVJHdw?oc=5",
+        "source": "Moneycontrol.com",
+        "publishedAt": "2026-11-21T02:11:20.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "'Look at India': Trump cites 7% GDP growth, says US could hit 20% if Fed cuts interest rates - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLXgyNTFrRHItQzNYQVRlSUp1ZmxtV01jcHk1d0hCdnZic1dMbHlocmVZRWU0MVdTWHBrdVV1ZVpBR0N4N3BOTF90Rjg3ZzlxSTI2ZlhKN19ld3g5LWk5LWFyaThzZ1ZZME10ZTNscmVwVFJ0MHJldmtUY1kzOWU1YlJlRk1SQ2pOR216TzMxajhJWm4wU09kOGZQenNydXVUUmwzYUN3ZjZJLUJWM0g0X1lJOXZhMzlOcDdxVERvM2tYTDFlT1Y5Z0F4VG1hUU14Z09DUVRLQ1p5dTDSAeABQVVfeXFMTlp3ZkhvQW1WRFFUZnR3U1pCZjdDN29ULXM2RzlJanRoQmpweUM5YWxPMjRqZ2JrXy14WGVERjdvVHhVWjZ3UXdVdjRIWFBaMjR0SmJzY2t5UjNlbl9USGtHdGQxNS1qeDVOV2NhUUtxdDVSc1lDOWFiMWxaUThMNU03YWxwUkNYZ3Z1dFZXMkluY1hjVUtUOXJHWnNaSlZuejE5VjJDZzF4VWN3OUs3TVpBZW8yaG5aNXZfMlNfY3gteXpHcW9FbkFKaTlFVVRYQ0Utd1dwbjZwVWxqSnJqVWY?oc=5",
+        "source": "Moneycontrol.com",
+        "publishedAt": "2026-11-21T02:02:55.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Trump Cites Indias 7% GDP Growth To Slam Political US Federal Reserve Over High Interest Rates - ABP Live English",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOendvVTVrXzR3NE40T29iWEdIb3VKUnpNdkFuc2FxQUhYWHVqSlplR2hET295NlBYRVh6U2FxYVQwMXcxWUsxV0Z5Y1ZQMFVoeFAzRlhaSDV5NXJQeV9lRGI4RmtSSlEyTHl5M3lrVjZ5MkJJTmdzU1VUcWpsUmw3QTBmbGhpQVNRa2JZVHBQYmRRT0o1c005X2hjdnpnOXo0TjJtTjRSSUxxaUhOYWtKakFBaXp2SDJLanc2RnhJVFFWNEhXVFJkamN2RzVWelZQeWfSAdcBQVVfeXFMTWZMRXFXV00tWmgwVnpZbEN4ZmRISkFpamdzYmtoMVFqQXhBTU1PRFB1QU91NDhSN0RibktQQmZKcnlqYjktMFVpbGNxenNkajREQjhsZk9IZUVUd2RwWkV3aklOYzZFbnZLX1ZkYXFnYUwyRHBORnViOVpLTTQybTdGNHhxQzFiOHY1X3lySmFCYTZHNTFfWG9GOURYRG1aamNPck9fQXFyY201MVVqRzByUXcza0M0U21jamdQbGdxaDRucW9xQ2ZuR05xMHF3YjYzd0NqWFk?oc=5",
+        "source": "ABP Live English",
+        "publishedAt": "2026-11-21T01:52:46.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Trump praises India's interest rates: Criticises US Federal Reserve; says rate cuts could boost America's G... - Bhaskar English",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3o0RFZ0bHVXZ1QtdWU2Y0hCejBVaXFMRzJLbXo3S2pDekQ3dF9NWXpuRG1mWllNc0FMdXVGNHZPVnQwZnZlYXpqUlpMTXdPRkRDUi1FNXkyMUk1UjA3ZERSanpyN1RkNEJyWE03TE5jaU40czNHM3dCMVo3bmlvcFc2MHA4a3VaUVNXUEZ0N2xpaklaUmJHVUwzeTc1UVRUTHpiZDJTbGc0eHA4RkZLSHZTX09kMThBTE5CQ2JhUEdrU3FGTTVfbkhXd9IB0AFBVV95cUxPejNYVDdTaG9nSm9SbUhYS1FnbFNQNDNmT3VyOVJRcnZfMVRkWDZwSmtlcHlEbjlWZURVMGJweno2SjVVcGJoUVVSM1JUaEJlblFNUE95N3VOWVl2cXRGR0VJeHRMdTdzeWItcjBsbG1NeEFaWFc3MFVTaXM4eldDMGFDblhMeDBuMXNfaXFRYjM3V1pCVXJEZFJSUGlCNjhaM0VBcVhXd1JBS0pFdV95aHZwUHVtRkxreEw1OW5DSXlOZDhwYl8yZ3ptT04yellt?oc=5",
+        "source": "Bhaskar English",
+        "publishedAt": "2026-11-21T01:42:44.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "‘Look at India’: Trump cites 7% GDP growth, claims US could grow 20% if Fed cut interest rates - The Statesman",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXpCZmtGa0wtUHloZVBXT3JDTTMzY0FmeFZ4SmtycFpnc2dlRUpMQV9YQV9JTmRsdzRIZmxMQUdSNnZjMlFYRmRrVk0zY3k0ZlpDVHVidEJwcEtSSFVJMXpxanp5OTVUNnY1SDhQM0VFcHdiMEh2a3BaYjlFS2MxaTkyNkNpTXBHU2t3a2RxZnlSTV9UekhZaWdOdTJOMnFIMWl1aUQ0dzlWWDJuYnRCdTg4eUJQWkJRX2fSAb8BQVVfeXFMTWFoUXhuMDFERmFpQjBZeWdzZ1ZYQy1qd3p3dDdMdEw5ajdCU3VuSWhNRWdRYUREemZSZTdyY3UxWkRSUF8tekJrS3NiXzIwY0F0aXhTQU1yckl4ZjltNENnMU03QUN1T3NqZVc2M0RoM0xBbmlxMU55S1VSc2ZVUGdNclFqUWxmdHlmdVJwT3d4TFdYRFZYSnJKQkszdWdPTkxWSnBETWItUURLbFNmSGdDejJjcVBmRmtHQV9ZX3c?oc=5",
+        "source": "The Statesman",
+        "publishedAt": "2026-11-21T01:33:00.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "'Look at India': Trump praises 7% growth, questions US interest-rate policy - Mathrubhumi English",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0dKVklMQmVvc1hPcnpaSTZpMFZjRnFRR0xlcXpFZTlHZEo3Nl9lcVVnNTN6WVZJcE9JTDJZblQycW5HT1lFVTVDZnotVm5nSWVLSGNWNXBlR0tEUGNVMnExcTlDUjZxOWhzNEZtcENsX1FLRUNRRXFrVFF5ZkEweWd3bTNzMUdnMXdpTGdzQm5MbktUNjQzdllVbjluTUlpcDN5cVZkcTFQUlBoNWFKUUdpc9IBuAFBVV95cUxQeExodkFUb0M2anROaG1zSW13ZWllZWl2TjliVWFYQUFxcVdpMFo1akRXZXJxUEp0Y1lUdGx0Q2RNZzZCTVdGcUpIellmZVQxam9jRHFCOGRfdlEyNkNSRTVoa3JWTHk4dlJua2tTYi1DNFYtX19hTk5aV3pQUWNOUzZzRi1KV1VlQXNKeHpfaTFvWkFmSExfdnZfa1hsTmFHcFdjOUFqVFVfMnFPTjF3QWFFQ2N5Tmp2?oc=5",
+        "source": "Mathrubhumi English",
+        "publishedAt": "2026-11-21T01:04:24.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Fed hawks keep 10-year yield elevated despite lower oil prices - HousingWire",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wNGpNMHlmRDQtSHVldVlHdFNwN0d6NURRUExpVmZub3dOamRlbWNwQnI2VzhqVUZxX2JhaXpjZElobi04eFpQLTg3U0RYWTlOVmZEb25ocHQyQ2hLMkNlalRBYTV1TVc3XzZjcndtVFpkRTNHSTgwUmtR?oc=5",
+        "source": "HousingWire",
+        "publishedAt": "2026-11-20T23:46:20.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Core inflation measures can't escape high energy prices - Marketplace.org",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVpIOUw0OFZHZlhxX2hwNHc3U3JmTk4xT3J5aXBsaFh3aUlFSEJVOVdCeUh5RTUzb2pseDd5VXFOWmhGLUVGbklaQ2FRb3h2Z20yWEhTMXRTeDhQbFV6MzQ2MlFITDBiOXU3SHZ2MEJuYTZ0ajJFY2pRbnNhV202Z0RVeW01OU1mdm9QVUZGSUEyclV3NGZfRXNweGJTS19z?oc=5",
+        "source": "Marketplace.org",
+        "publishedAt": "2026-11-20T22:35:00.000Z",
+        "category": "economic",
+        "bias": null
       },
       {
         "title": "ECB Must Bring Inflation Back to 2%, France’s Moulin Says",
@@ -1198,46 +1285,6 @@
           "label": "Lean Left",
           "source": "Bloomberg"
         }
-      },
-      {
-        "title": "A Battered Industrial Center Reimagines Its Economy - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWFEWjR5VWJHYTdOSzBVZlpadW1ybVpoNnBSc3VXN0x1aUZHM1Zad3ZQTzY0eXJJRmRPWkJJQjkxNU1SYU1jVUxVTXg2c0RjQ1BNN2QyN05MaWdGY2NSSVl6UHZhLVlfRDR4ZGFyOE1rMld0ck90TDFURmlyeEVSakhLMlI2QjNUWHhoZGdR?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T21:32:02.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-        "source": "MarketWatch",
-        "publishedAt": "2026-11-20T19:53:00.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T18:23:00.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Fed’s Cook questions whether one rate hike is enough - American Banker",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0tKMDNCS1VrWi1YQ2g2d1BHZ09rTF8zSC0wY09oOWpCYzk3VjVESVZlemxIMWVYOUJlZ1R5VjduUWtNaHQydUVha1FlQWdCa1NlQTdPZFBtXy1FNlczdVhHbzJUa1BwazJLaUY3YWt3WXFzLTlZOFdPaldOdVNLaW5QQ1NjWXdEQVVWS1kwaFhUdw?oc=5",
-        "source": "American Banker",
-        "publishedAt": "2026-11-20T18:22:11.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Fed’s Cook says monetary policy isn’t restrictive enough - investingLive",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0x2eW84bE9jc2dXdGhBdXhLMkFqOFNULS1fM2xfalF3MkZzYzBVWWFnTlp0VFZIckxQR1dBcHMzZGg3VG5jOW1aVUNRaW9EOW1BSmhwWE9sWDNvV1o0d1NJUDRtRTlhMWtsenp2TmJGR2RaY3g0M3ROYi1DOUVJd19qaXk1ejJWZXIzVTdHODRPQ05zQXBlS0Q2aWNrQQ?oc=5",
-        "source": "investingLive",
-        "publishedAt": "2026-11-20T17:21:55.000Z",
-        "category": "economic",
-        "bias": null
       },
       {
         "title": "Romania Needs Further Deficit Cuts to Boost Confidence, IMF Says",
@@ -1369,18 +1416,6 @@
         }
       },
       {
-        "title": "A ‘Shock’ Rate Hike by the Fed? In This Economy? - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1N1UEpzQUo3X0NFTW1tdEhiWlRtQzFzVEdCa1R4V1hJbjc4VUo4cWxZdHZEdHVUT0JZWkIyMHdfSThfVUNPeFRKanpxTndYTnA2d1BwN0hyVWtCamhiYVRMYW1qTWxNMDkwa1ZMcF9pY0xWVHBxUDBrTWItX2trcTZxOHZiOWhGVVBSLWZNREh0QVJBRFhONThHRUs0WHhpNmZhTlFlSEJoaWRzU04xRzJKS0ZCYjFvSkZ0dQ?oc=5",
-        "source": "Bloomberg.com",
-        "publishedAt": "2026-11-20T10:00:02.000Z",
-        "category": "economic",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg.com"
-        }
-      },
-      {
         "title": "How exactly did Trump get so rich on crypto? We explain",
         "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
         "source": "NPR",
@@ -1420,34 +1455,58 @@
         }
       },
       {
-        "title": "Watch US Economy: Fed’s Cook Sees Growing Urgency to Tackle Inflation - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcks5WThYRmV4cjRBcWZTMXhpYVU0MjZJSjZrLTM4bGJlOTFoNjBfcXlrTnpkNXhuTWJxVFQ0N0Qwd1gzWjBiem84OUtmNzRCdEk3em94dE1pbV9POHBYWTZldXdxc2ZqNnpUZDZZdHlqd2VlSlZORUw1YkdKRHRwTnZDRlFZRUw3MmxpYU9wS3lRc1RiSVZCemJiTkFWVFAzZWJHcWVkVkZmUQ?oc=5",
-        "source": "Bloomberg.com",
-        "publishedAt": "2026-11-20T00:00:00.000Z",
+        "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
+        "source": "MarketWatch",
+        "publishedAt": "2026-11-20T19:53:00.000Z",
         "category": "economic",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg.com"
-        }
+        "bias": null
       },
       {
-        "title": "Fed's Paulson backs further rate hikes, says shared understanding beats guidance - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTBVRUlUTV9PeXd4LVVTV0s1WXhjN2NwOERhbDFORGsxOHUtUGdJRjNwSUFLbG5LRzgxUy1RRUJ2MWZKVnZqV096cWdqZUwtSDd3R0tRdXctWWk5X3hNV1FQdlJUY3ZzUWVjZF9Yc1BFUm5DU3pYQnl2TEhtVkdoRTNuY2dDcUZzSERnT3hwN1FPdjY1ZFFULVoxa2VxRmxWM0VXSUFnOU5IM09XTDZWUTJNT2ZuYWl0TU5tbw?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-11-19T23:41:00.000Z",
+        "title": "Fed Governor Lisa Cook Says Her October Dissent Reflected Inflation Fight’s Urgency - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnFFaTJhWE1OUWZkZzM5R3cxZmt3WEppdzUtS1JKcHdzUkxKVXZnSVJpT2V5QUREQTZBZ004VUl0QlExbW10VFpCeVpkSVE3UVBablVPbDhKcmFWcWg3V1R5U2pzbVptdHk2MDhFeVg3R1o1WktBWnMwTmotVWwzbkFZem5FakRSY0lvRDZ5TzlXTjJNcGhLaUhzbE1Qdw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T18:23:00.000Z",
         "category": "economic",
-        "bias": {
-          "score": 0,
-          "label": "Center",
-          "source": "Reuters"
-        }
+        "bias": null
+      },
+      {
+        "title": "Fed’s Cook questions whether one rate hike is enough - American Banker",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0tKMDNCS1VrWi1YQ2g2d1BHZ09rTF8zSC0wY09oOWpCYzk3VjVESVZlemxIMWVYOUJlZ1R5VjduUWtNaHQydUVha1FlQWdCa1NlQTdPZFBtXy1FNlczdVhHbzJUa1BwazJLaUY3YWt3WXFzLTlZOFdPaldOdVNLaW5QQ1NjWXdEQVVWS1kwaFhUdw?oc=5",
+        "source": "American Banker",
+        "publishedAt": "2026-11-20T18:22:11.000Z",
+        "category": "economic",
+        "bias": null
       },
       {
         "title": "Cook: The U.S. Economy in Global Context - Forex Factory",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb2FMMktEOUpoLWZRWUx3ZWM3US05LUNRU1NiMkI2ZXUxTWVLNkhQX3JYRUc4eUFJZV9jNWQtSXU5d3BtSzhUQ3I0aldTMG9CNWszUVFRSEFMQWt2aHNoODdOUUU4VVJ3Z2JtRGxocVRMTnNwb2c5VEJiYWtpelRad1p0TFRvUdIBiwFBVV95cUxPMmNWNFZBS1N0M2RheGpVRGRUeXJVeHhPeFVxTWpVWnVZQlhqLVRsVVFFY09qRHJUNWpnUGpYckRxNVNrWnlMS1h5UktrckVWWUpkaVZmUDhpcmtqeEdDbWc5RTJMR0FnRklZN0RqT3I4TFluczJHNTB1NHNaME5YbTd3QVpQVGRfMkZJ?oc=5",
         "source": "Forex Factory",
-        "publishedAt": "2026-11-20T16:15:00.000Z",
+        "publishedAt": "2026-11-20T17:32:16.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Fed’s Cook says monetary policy isn’t restrictive enough - investingLive",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0x2eW84bE9jc2dXdGhBdXhLMkFqOFNULS1fM2xfalF3MkZzYzBVWWFnTlp0VFZIckxQR1dBcHMzZGg3VG5jOW1aVUNRaW9EOW1BSmhwWE9sWDNvV1o0d1NJUDRtRTlhMWtsenp2TmJGR2RaY3g0M3ROYi1DOUVJd19qaXk1ejJWZXIzVTdHODRPQ05zQXBlS0Q2aWNrQQ?oc=5",
+        "source": "investingLive",
+        "publishedAt": "2026-11-20T17:21:55.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "A Battered Industrial Center Reimagines Its Economy - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWFEWjR5VWJHYTdOSzBVZlpadW1ybVpoNnBSc3VXN0x1aUZHM1Zad3ZQTzY0eXJJRmRPWkJJQjkxNU1SYU1jVUxVTXg2c0RjQ1BNN2QyN05MaWdGY2NSSVl6UHZhLVlfRDR4ZGFyOE1rMld0ck90TDFURmlyeEVSakhLMlI2QjNUWHhoZGdR?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T16:05:12.000Z",
+        "category": "economic",
+        "bias": null
+      },
+      {
+        "title": "Week Ahead for FX, Bonds: Flash PMI Data to Provide Gauge on Economic Growth - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGRKVlM2NDJTdnJ2MW1LcHA4Z29OVTA3eEo0NFlsblNRRnBvcGVGZkVneWN1X1VWWVRWY1FTSm1jWHE0aV9IQzR5Sk9uWHpmdGdSb0VIR3hhal9YckR6QTVTeXhEWVRSTkQ2U2szTEdvQUtSYWVQSXU0LU1Pb3lzNmx6MHdNUmd4NTFHM2thTmpaN2xDclJSa1l1ZzQzRThSdnBPY0tKNC14WlNZRXNpeg?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T15:14:00.000Z",
         "category": "economic",
         "bias": null
       },
@@ -1460,10 +1519,10 @@
         "bias": null
       },
       {
-        "title": "Why would the Fed consider a half-percentage-point hike in December? - Marketplace.org",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFJCMzFkYTV3Q1hIU3NkRG8tQnFhLTBrcF9NT2hNVmhsQ0dhUVFmdkVXQmg5SVlZSGZiaHM4NXNza2lXVnEwWHhWbU9tb0RWa2ZUSWVSZVg2bUpjaTlnZUdPUGxxMUNQcTgxRVFIcGVHS01XdVhlVk1JalJ6VzN4WHBINmQwRHdJMmZLRnZjRk9KRUFYMk5BVjhkbnRDZG1NM0NGbkxfYXNVUQ?oc=5",
-        "source": "Marketplace.org",
-        "publishedAt": "2026-11-20T13:27:00.000Z",
+        "title": "What Gold’s Price Collapse Means For Millions of Americans - Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVVaYTJtVXF1Q0RCemZkeThoZGVQeUhmOEs1MDk3RE1LeWRFZjlTdlhrOHhKMldyMmVNMF96T2VaLVlkZm9qdkNUMjBKbzBwYnYyZ3FMc3BtdDdaMFFjYXEzelZJUnRqOUdDTTJtRDBnRndUMzlGRl96c2N3NWpzbnZsOXU0dTZSd3NnbGI1VVk5c0Uydnc?oc=5",
+        "source": "Newsweek",
+        "publishedAt": "2026-11-20T12:15:00.000Z",
         "category": "economic",
         "bias": null
       },
@@ -1476,51 +1535,15 @@
         "bias": null
       },
       {
-        "title": "Spain Remains Europe’s Star Economy. Why Don’t People Feel Richer? - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNERQREVVb2Z6dzVsMTdtTXl5S2dDdmdpc3p5OGd3REV6MWFNSGJaU21PenhDY2R4d2xGbkI3SzVhOUZIazJOQ1lITDYtV3N3QWQ1SDhYZVlfOGxtbjk0REFhSTZjT1dWemFpMzVkZ19RZVVfVXgyay1LekphbGduVjY5dWo3UHVySnJZa3BkQVIwTGZrODg0MnBVWk9iaDdq?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T07:41:00.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Fed minutes show almost all officials expect more rate hikes - The Edge Singapore",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFY4S0NkUW5ZSi15c210MDU4Nnl0a1VjdVNPS2swMmhvNVpmcm9tSExpUmZtZlNyT2h1VGJGeHpDZ3A3VFFNdmNJODVOMnRXc0hJMEVicnFnUFUwRzRyS1JTbkVYTTZVNFlhNTZCSlBlNzhmd05ZYzdoVVR5ZndEd1locVFWbXU5LXRZcmU3UkVJQzZONUtVZkxnVFFkOGhiRlNmY0dkR3hMemdzb0ZV?oc=5",
-        "source": "The Edge Singapore",
-        "publishedAt": "2026-11-20T04:37:00.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Fed's Paulson signals more rate hikes, says inflation remains too high - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb3c3NWowRnBoSHpUZEtOQjBYTVk0TVItQ3dhTHM4SC1ySWh3aXhCcHI4TGFSQ1JPbHdqOEVMck5SRmtES1UyRmp6c1IyZVh5X1ZtcmhZSHR2SXlRLW93aEY2ZkFmZUtFSkNnUWFwN1ZhZ0ZHOS04RndPSjg5RzdMZ2ZHdUdpWmZ3aHBmT2h6Y05vZ1VLUERDcVM2Umk4QVZBamxnS3ZzMk91dllJUkY0THdTQzE5ckRtaHF6di13V1lsblFMYXMyX3AxS2p1SldacGN1QXdsZnpyZUszSnlyUFRGMHR3aVJ0OWc4UVRTbw?oc=5",
-        "source": "The Economic Times",
-        "publishedAt": "2026-11-20T04:28:35.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-11-19T18:53:15.000Z",
+        "title": "Watch US Economy: Fed’s Cook Sees Growing Urgency to Tackle Inflation - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcks5WThYRmV4cjRBcWZTMXhpYVU0MjZJSjZrLTM4bGJlOTFoNjBfcXlrTnpkNXhuTWJxVFQ0N0Qwd1gzWjBiem84OUtmNzRCdEk3em94dE1pbV9POHBYWTZldXdxc2ZqNnpUZDZZdHlqd2VlSlZORUw1YkdKRHRwTnZDRlFZRUw3MmxpYU9wS3lRc1RiSVZCemJiTkFWVFAzZWJHcWVkVkZmUQ?oc=5",
+        "source": "Bloomberg.com",
+        "publishedAt": "2026-11-20T00:00:00.000Z",
         "category": "economic",
         "bias": {
-          "score": 0,
-          "label": "Center",
-          "source": "Reuters"
-        }
-      },
-      {
-        "title": "The Fed Must Explain How It Will Break Inflation - Newsmax",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemFmaDV4aFVEYnh1bDlQOHBEa19oelBmaXJYNjJBamdBcHZqTlpGam1PcmZhakc4OXdaTWFoT1pLMmc3S05EVHl2dk9Wbm8zbUFGeEREc2htMHpyY0xIM1drWC1PcUx4aklNYmx6ZU10Qkx4SmRLMUNqNVB0RU1Ya2JjaV9IVmxwalptZng1SjhycGk3d3ZBbHh5Rm93TlRvcUkyNzdGNlFTMHhybXc?oc=5",
-        "source": "Newsmax",
-        "publishedAt": "2026-11-19T14:48:00.000Z",
-        "category": "economic",
-        "bias": {
-          "score": 68,
-          "label": "Right",
-          "source": "Newsmax"
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg.com"
         }
       },
       {
@@ -1574,30 +1597,6 @@
         }
       },
       {
-        "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-11-18T19:03:00.000Z",
-        "category": "economic",
-        "bias": {
-          "score": 0,
-          "label": "Center",
-          "source": "Reuters"
-        }
-      },
-      {
-        "title": "Fed's Barr says rate rises likely lie ahead for economy - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-11-18T18:38:00.000Z",
-        "category": "economic",
-        "bias": {
-          "score": 0,
-          "label": "Center",
-          "source": "Reuters"
-        }
-      },
-      {
         "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
         "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
         "source": "NPR",
@@ -1611,39 +1610,136 @@
         }
       },
       {
-        "title": "Australian Stock Market Today: ASX Futures Slide On Jobs Weakness And Inflation Uncertainty - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmxVSUR5Q3pMZWZZbG9KWXBWOGlFaEw3R1Bjc256VGtkZnVoV2ZwdWxfQkh3NWVfbTVHdmZaZlR0dHZFTS00MUFFWjFpNDBQVWZ3T0RUcW9hcGZkN1N3SUY3WExUQ1JBbnVnbXRxUGdfYnVOMmZySFNZNjdUNGRHZVNOdnl0VW1Zb1l1dlNDa0VLemNZRklGNzVfaDdvWHc?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-19T21:15:05.000Z",
+        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+        "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-18T13:17:06.000Z",
         "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Stagflation could be seen as the Fed's failure, says Chicago Fed's Goolsbee (TLT:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHEyWmlWSkZpaUFFR05YTDZLWGVSaTU4TE50aGIydXYwNVRwNFRDVUs4bk9vUXd5SGh5NzFGUTRoU3RGUU1JSy1PeC1PVzc1bGMzV05RMFBZQzRHZ0JrRU44YVp5Nml0QVpOTFpXb2plb2Zlb09OdjJ4bHY1MXV4VzRNYXI3bW9wd0xqelVTZF9vOEltYk02RWdKQll3Nm44WDJQN3RBMFhOYVBqdnU4?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-11-19T18:27:34.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Fed rate-cut hopes for 2027 take a stunning turn - TheStreet",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jYjBJMHJzbVAtSkZjVTluckV1TWI0eFI1WENROV9tN3dibHA3M0FoS1BYQ0w5WDE3ZUp1RXVaeThHS1M4NWF6UUJ5WVFtS3dGamFqREdPc05ISFhJeW1PUi1ldG5wVWJsUS1YZURDT1ZUb0tRQXp0bQ?oc=5",
-        "source": "TheStreet",
-        "publishedAt": "2026-11-19T17:13:00.000Z",
-        "category": "economic",
-        "bias": null
-      },
-      {
-        "title": "Exclusive | Cost Pressures Already in Pipeline to Fuel Higher Inflation - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHROaGlMV1FteF9zZlkyZGE5ZUdHa2tFRzZDTnR3QUJXWkdRZ3dlelRhWHNlNWJQTzlsNkxCeWpHb2luR2d5NGk0ZC1fS3RyOW5vYVdsYXptclBfa2VZVHNnMzVSNTIyZFNVdjZ5S204OTM4MjBZT1JrdTd2Z0JKbDZjemNsX0p3ck53Xy1MY254dGhjSC0yczlRakcxSm1GaWpxRGlB?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-19T15:19:22.000Z",
-        "category": "economic",
-        "bias": null
+        "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
       }
     ],
     "financial": [
+      {
+        "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+        "url": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-21T03:23:04.000Z",
+        "category": "financial",
+        "summary": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Mamdani dodges pointed question on economics of taxpayer-funded grocery stores",
+        "url": "https://www.foxbusiness.com/politics/mamdani-dodges-pointed-question-economics-taxpayer-funded-grocery-stores",
+        "source": "Fox Business",
+        "publishedAt": "2026-11-21T02:52:00.000Z",
+        "category": "financial",
+        "summary": "NYC Mayor Zohran Mamdani did not directly address how taxpayer subsidies for his grocery stores would affect competing supermarkets during a DealBook interview.",
+        "bias": {
+          "score": 50,
+          "label": "Lean Right",
+          "source": "Fox Business"
+        }
+      },
+      {
+        "title": "Over 51,000 units of kids' and adult toothpaste, mouthwash recalled nationwide over hormone contamination",
+        "url": "https://www.foxbusiness.com/lifestyle/over-51000-units-kids-adult-toothpaste-mouthwash-recalled-nationwide-over-hormone-contamination",
+        "source": "Fox Business",
+        "publishedAt": "2026-11-21T02:30:33.000Z",
+        "category": "financial",
+        "summary": "More than 51,000 units of ORL Organic Oral Care toothpaste and mouthwash for children and adults were recalled nationwide over hormone contamination.",
+        "bias": {
+          "score": 50,
+          "label": "Lean Right",
+          "source": "Fox Business"
+        }
+      },
+      {
+        "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+        "source": "Fox Business",
+        "publishedAt": "2026-11-21T01:28:26.000Z",
+        "category": "financial",
+        "summary": "Nvidia shares tumbled about 14%, and newly public Anthropic fell 9% as AI fears fueled a brutal sell-off that erased the Nasdaq&apos;s gains for the year.",
+        "bias": {
+          "score": 50,
+          "label": "Lean Right",
+          "source": "Fox Business"
+        }
+      },
+      {
+        "title": "Tech stocks analyst on worst stock market week in over a year: 'Dark day in tech' - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR29JWlBzT0hXWHlkQ0I0ZFRtVl9hQUxXNk9QclFaSWozRWNET1NrdVZWaHh2WEtzZHRoa2tjbTlTYjNVYWZLTnloU2trNWtMZkktcDE1WnpXbnZ5cnktb0dWNFBPQ2lISFNjQWVteHpPWHY4QzNhdWFWNjVyVXB5SXBXWWtyYW5xRHhj?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-11-21T00:36:40.000Z",
+        "category": "financial",
+        "bias": {
+          "score": -48,
+          "label": "Left",
+          "source": "CNN"
+        }
+      },
+      {
+        "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T23:22:36.000Z",
+        "category": "financial",
+        "summary": "J&J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apollo 2, is expected to generate another $5 million by 2027 through distribution and manufacturing improvements. Fachner speaks with Romaine B",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-20T22:53:24.000Z",
+        "category": "financial",
+        "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+        "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-20T22:47:32.000Z",
+        "category": "financial",
+        "summary": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Huang Behavior Complaints, Kalshi to Add Stock Trading",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-businessweek-daily-11-20-2026-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T22:31:53.000Z",
+        "category": "financial",
+        "summary": "All on the latest episode of \"Bloomberg Businessweek Daily.\" On the show today, Ian King, Bloomberg News US Semiconductor Reporter, Anna Wong, Bloomberg Economics Chief US Economist, Ryan Gould, Bloomberg News Deals Reporter, Mark Gurman, Bloomberg News Managing Editor of Consumer Technology, Michael Ball, Bloomberg Ne",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
       {
         "title": "‘Always Remain Liquid’: Richards",
         "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
@@ -1680,6 +1776,19 @@
           "score": 52,
           "label": "Lean Right",
           "source": "New York Post"
+        }
+      },
+      {
+        "title": "Adjusting for Credit Risk: Masters In Business with David Eichhorn",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/masters-in-business-with-david-eichhorn-video",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T22:14:53.000Z",
+        "category": "financial",
+        "summary": "Barry speaks with David Eichhorn, CEO and Head of Investment Strategies at NISA Investment Advisors. They discuss his early days as a quant at JPMorgan before returning home to St. Louis to work at NISA. They also discuss the risks and benefits of the private credit market, along with the dangers of private credit goin",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
         }
       },
       {
@@ -1761,26 +1870,6 @@
         }
       },
       {
-        "title": "Crypto Market Today, Nov. 20: Bitcoin Plunges Below $60,000 as Wall Street's Sell-Off Spreads to Crypto - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ3VYWl9jUU5oTUQweVFUTGszYlNoVDBrWnhRLXJpVDVXc1dZZV83M1djV2pJSXRPXzlQTUVnM0VtYXlhWEFxcmtnT0VleUtxS0xoU2prblZhTHhZS3BxY3B2RElYQjkybTFqZkFHWEktY2g4Vzc4OGlfV3JPNm8tdUJDekNpV0RaVGo2RjVFbnZ2dGdFeXZYbV9LbFQzc3lZVWQ4Z3RmeXloSVY5RXJmeW5GRXFxVWRrcDd6NUl5MGZUenl3YzFxT094azZjX21pc3BBeDRGUEkwREkzcE9faDN0WGJQdndnejZrZVBtd0k3Z1lnNEE?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-20T21:45:03.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5",
-        "source": "NBC News",
-        "publishedAt": "2026-11-20T21:37:26.000Z",
-        "category": "financial",
-        "bias": {
-          "score": -20,
-          "label": "Lean Left",
-          "source": "NBC News"
-        }
-      },
-      {
         "title": "Supplies of Dom Pérignon, Veuve Clicquot running dry in NYC as cash crunch hits key distributor",
         "url": "https://nypost.com/2026/11/20/business/supplies-of-dom-perignon-veuve-clicquot-running-dry-in-nyc-as-cash-crunch-hits-key-distributor/",
         "source": "New York Post",
@@ -1794,22 +1883,26 @@
         }
       },
       {
-        "title": "President Trump blames Democrats for stock market losses while claiming credit for lower oil prices - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZl9YUDBJZGY2eVRqY19NNmxQM1dwQmoyNUdXaGVHLUx0T3oyNi1WZ0ZOUlRPaHZULTJlNW1PTlRyRXpTM2I3NEdkYUk3MGdTb1E2OHlCdlh3ZnFQU2hMMEs4dXpZZkVxT1dqRmhhNDdyT0dodExxOFBrNlJMVXFrVFhrVzJiaHBVOUVCMHBvLU9VUlVjRlFIMWtkYnFQNUpfT3FpbDZkalFqLUVMWHprNVA1WmhiZFdKQXNrV0tva3NBb2ZXS1M1a0hFX2ExNWpBTlhIemhwLUFVc1hLdG82TjZRYTdPUFcyM3dTeU1n?oc=5",
-        "source": "NBC News",
-        "publishedAt": "2026-11-20T21:26:13.000Z",
+        "title": "Basic Materials Roundup: Market Talk - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nSkJZMUI1S3poeEwwYUYtUXpPRElzYUhURngtV1kxYXlqUXhmd3EtY2tFWEVHNl96MVg5aFVMX0dfdkQ3M2tSdkZhOW56NXV3aG8tV29qeDhVQVBaQjc1ZGh4RTF4T2lQUmlxQkxNd1ZOenRXcU9tRGFTRVJQQQ?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T21:55:00.000Z",
         "category": "financial",
-        "bias": {
-          "score": -20,
-          "label": "Lean Left",
-          "source": "NBC News"
-        }
+        "bias": null
+      },
+      {
+        "title": "Nasdaq Turns Red For The Year - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RaUhWLVdDQi05aHVLU1hiMkdFRnIyYmNObm9fNV93R3Z5ZEt1b0QzTHdUSmVJOWZaNGlheDdnckJWNWNKcW5zNkMtOUJHWmg3Q1hNUkFyTUwxSFNlMUVacV95dGllbkM1MlUxV2FlUVl3YmRMdXpjdWxWemV1Zw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T21:53:53.000Z",
+        "category": "financial",
+        "bias": null
       },
       {
         "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
         "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
         "source": "The New York Times",
-        "publishedAt": "2026-11-20T21:21:39.000Z",
+        "publishedAt": "2026-11-20T21:21:40.000Z",
         "category": "financial",
         "summary": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
         "bias": {
@@ -1841,30 +1934,6 @@
           "score": -48,
           "label": "Left",
           "source": "CNN"
-        }
-      },
-      {
-        "title": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
-        "source": "Bloomberg.com",
-        "publishedAt": "2026-11-20T21:15:36.000Z",
-        "category": "financial",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg.com"
-        }
-      },
-      {
-        "title": "S&P 500, Dow Enter Correction After Steep Selloff - Newsmax",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYm1BSG91LUFNYkdlU2VKNUhYampWRGg0NUhxOHNiT3lFUGlpREk5TXI5d3JkS3duOUpCbWtEVDJ1ZnV5Nk5BcGI4a0JpX1BaLVVzbmFuTTBhQVgtdmtRdXNvbUNtekdrTkZ5TzdacmNWQi1YZVhydTFLem9lY3NSMHFFX1JsMzhYZFZyVg?oc=5",
-        "source": "Newsmax",
-        "publishedAt": "2026-11-20T21:11:44.000Z",
-        "category": "financial",
-        "bias": {
-          "score": 68,
-          "label": "Right",
-          "source": "Newsmax"
         }
       },
       {
@@ -1916,32 +1985,6 @@
           "score": -18,
           "label": "Lean Left",
           "source": "CBS News"
-        }
-      },
-      {
-        "title": "Bayer’s $7.25 Billion Roundup Settlement Approved by Judge",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/bayer-s-7-25-billion-roundup-settlement-approved-by-us-judge",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T20:48:14.000Z",
-        "category": "financial",
-        "summary": "A Missouri judge approved a Bayer AG proposal to contain its mounting legal costs by paying as much as $7.25 billion to resolve tens of thousands of US lawsuits by people who blame the company’s Roundup weedkiller for their cancers.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "Canadian Stocks Enter a Correction as Metals, Tech Slip",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/canadian-stocks-head-for-correction-as-metals-tech-push-lower",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T20:47:53.000Z",
-        "category": "financial",
-        "summary": "A key benchmark of Canadian equities entered a technical correction on Friday as a selloff pushed metals, technology and energy stocks lower.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
         }
       },
       {
@@ -2010,126 +2053,6 @@
         }
       },
       {
-        "title": "Chips suffer worst week since 2001 as the Nasdaq 100 nears a bear market - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmc2cHN6ZXN3Y1BKcGNfazRTNUNYTWp2enR1RVp4d2VEWnE4NE4yWFhwQkpYSDRMdzU5U3RTQTdtMzFOSGtVYmd4RnZNYWthSGdPUVY2MmRab3FUX0lLQWdZZ19tSmh0NktIWUxLMXVQRVl3dDByUExZbzVENzhiY25vRTl2cnNJcEtkR202Q0tIdlFWWURQTEFDaHVORU1FYkR6MXJQaFpZdTU3Q1hvcjRPdXU3NXI3ekZKclJycmVROU84Q0E?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-20T21:23:54.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Oil Futures Fall for Third Straight Week on Supply Outlook - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T21:16:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "This VIX Signal Is Bullish For The S&P 500 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbWpLbV83dXhiZTE0dklWV3dKMkZTUGdHR2JFNWpjN1dMeUJQbGk3TTdIUXF4N19aVDBfbkpYbkJtd1RFMlRTdE50VHI4SmdkdzQ0OGRwVFdQRHEtWXpEX2doTFE3SGp4NTFZYlFMS1YtZjQwVkJkMndoTGhLTVZ3U3pNYlQ4bHVP?oc=5",
-        "source": "Investor's Business Daily",
-        "publishedAt": "2026-11-20T21:01:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Treasury Yields Fall as Investors Seek Safe Havens - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN202RFVKUXpJMEl0aDZhdmV6TnZ5QjR4eDEtWVdrM0lBOV8zcEtQdW4yd3lWenJFX3IzZTB0VXYzOTZNZjJxdlJOUWE5YjFYNlc3cnAxMFdPRWNYZUtmUF9hQ1dTV0ZuOWY0Q1ZNeGRsbVJqYzdKZmhodnFFMXdWSEpGaU42a0doNHg3aEJn?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T20:58:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTRxdEJUWEhNR29HNmE3cG1Ca0dJVWVQTWdsZmhqcnR3UW41ekZ3UXo5dGxtMVVvU0RSejBWcW9UUkVtVXFFZG1JQ3I0TlpaZTUtem41d0xGM3h2bWQ3cjM1VVRXVGNreTBHR0Q0VnhyaFBXcnFOd0RiVDRucEdtTHpMejZLSkFiTEszemdyd3pLbG5YZ2xYREFDT1pSdw?oc=5",
-        "source": "MarketWatch",
-        "publishedAt": "2026-11-20T20:52:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "United Therapeutics (UTHR) Stock May Be Below Fair Value Following EXTEND Trial Transplant News - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnN6ZGhFSGtONUVOemRmMU9TNVQwVXNLY3RiaUpmak1XUUJvLWtXX1FuTkVkcUpYbEczYmxFTXo0eXZEQjJBT1k3YTJ4V0Vzdi1sOGt3Q0FURGlFWnlGc1dZd0NtNTJCRmlGR2lGbVc2OEFZZ2piT0hKbHhfTmluMVBzSGV4WmZrMzJaTURXZzBiNlcweFd2UVlXRlBYSFdY?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-20T20:15:37.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "The Stock Market Is Flashing a Warning Seen Just 6 Times in 156 Years, and History Is Clear What Comes Next for Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkFoUUdXVC1CdkFEZ1ZNcEFDc1lxV3lFMWh0OEs2bXlucmpfbGk5bUNzTExEWldMLWxiTFRNS0dFYVVLdE00Z2RPYWhuNldBY0pNeG1NNkN0bnZDVU1uQ0JNdDVITkVFczV2clNtUkZ1M3dETk9jZS1LLTAxcFEwRHd5aHZkbFVjZFJnZ0c5UEFXVzRCams3OTNXQ3ZjYnBD?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-20T20:03:48.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Stocks Look Past Politics As US Sentiment Ticks Up - Finimize",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUhKWXJlNkNMYjNta2lsTHUwdXJUSnNobXVMNW96XzVnVENQQ3lvT3VobGtDdE9GNm56c2Fja3lLMWNTbGt2RHVxN0pSOVBjQUIyWDdOVWlTNGs5MnJlZXRkS25pNXNBU0drYTJZQ1g1cmhtem9TSENmeEV3RnF2ZHFlei1Odw?oc=5",
-        "source": "Finimize",
-        "publishedAt": "2026-11-20T19:34:44.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Jesse Pollak Says Tokenized Stocks on Base Have Crossed $1 Billion in Weekly Volume - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDFkcE1ULUtMeW9wbHNMVWZCTTNzdFg0LXQ1eDVUeVdvbFhIZlp1YXFaVnYtQTB0X0k4Z2M5SlJndnpxZXpNZGR3eERlbFhGXzR0S3lzUmxPY0wxMW41RzFmbmNPYlRfQVVjTDhid3cwV0MzRVBuUGd0T3BKeU9DZFM4N3p1MnU0OExDQUNwQWxvNEw1RVJxRFAwanN5RXE2?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-20T19:09:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "The Stock Market Just Sent a Warning It Has Sent Only 8 Times Since 1999. My Husband Wants to Sell Everything Today. I'm 63 and We Had $900,000 in October - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQblNDRjVlaVRtd19Pa01adHN0LVhua2E4YzVscjRsSnJ6NUJmWXFCcmRmOGtwSGRzbFkzRTJkbXB0cW1jQ0d4a3dqd2lHSWlOXzQwYmNEeTF6V2MwRXNuenNyVTJmTGR1bTFyRlZIcFlpVmFPOWZ3Z2NuSVhMYVFoN3pnbll4bUFMb1lFRTkyeDRMYmhJbGtyNXo0MzliaGZ5M1I4bjlIaUpwYTFkNHRMOHktWk9GTEVReDItUi1saXhObzZvd0tWQnUxZHVoU3FBN1MtUmZScHd4Q05wUnhiTTZYSzlPMDhhdDNQODZ1MTVRRnZOMDNwMHZlZGhHOGZqVlpnR3E3WTFiM2w4bVN5MFVJTXFHa0VINW1UcU5R?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-11-20T18:47:00.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "7 reasons why tech stocks are getting hammered again - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFYxNnlJbDhVMXJOcDg2M3JOR3o3S1Q2QURjcHh4ZEtTNEd6eWg2ZjNITXd3bVFfMWdsOC1QWjlCWkxmTHAtUFlmOUpkbk1HZ2FqSHZpbkhDUWhjSF8xTUdlQk1QVWJMd3RYbllhU3BsNC1DeW00bFF2RGpoM29pZUh3N25MVVNmYnRzWTdra0ZpLXV2dUVvbGpOdjJRaDlzUFhxcW5BN3Y4Y2Ztc1E?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-20T18:37:47.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Why is Meta Platforms stock sliding today? - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0QtTXhWMS1pREhRTG9peGkxeVhsckhIak5QVkl6TGVkU3VDREo5REpMaEs1d1lBOUtfTlpqY0JhYVRNT2VJNnpDaDBtRXY5S3gwcTdMU2xFeFJjemZqZFlQUW9aWE9WYUZvX3ZKc0hfUm9OMDVfVmVjU2FDdnJEVzFCcTBpRTJYb2JOejI2WWsxZmxkZmZrV29wYmt5NVRyUVFfblNn?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-11-20T18:25:33.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Why is Palantir Technologies stock sliding today? - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3RHd01URDdJbTF2MGpSMUJFNW9LOTl1b1FiZFFvS2tMTFNMcGtibVJCSEZTRnA1STVDbDY0MkF2Ymx2S0hCUUtXSUpNUS0yYWdqUHRWWWNWSFdIaUZSR21mZDlWZno5Tm1VSW9tNkUxdVRhT1dldWM1NXA1QWJvRmdvVU9uR2J6eEpUQ09YaENtcWs5Mkk1QWRnYnVCWVFvTTI2SV9fWWZfSEp4aTBR?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-11-20T18:25:33.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Why Firefly Aerospace Stock Dropped on Friday - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjhYdVRIMWtFTjlCU3pCd3FLQzR0UDR3WGMybUk2R2lzVXd0blQ0ck5RNjRadkY4NFBrV0NjMHRGYy1TSWpOc1d5eDRuU3VxYVhRVDZWbE9TYklpOEVER0prVFQwVE9wMUJxSi1JemE3WDRHM3J1Nnl6bVRIWlBpRjE3WlNBMXVMVEdGUHBTSmtqMU1rTkhLRXNSVDZaVVE3b0E?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-20T18:25:11.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
-        "title": "Why is Tesla stock sliding today? - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFdMYkJmR0M4eWxHWG9mWDRLU3dDdndDYzVSU245QmdyaGRqOUFZNHhBNzdJX00tMkk3S0VLMV9WYkJQbllheFltZHQ0RVJOdXJhdDdHblV1WG1GQTZXeEZ3Rm1xdkJmQlNuWWF4V2dQbHZ1U3VxWksyT3lXYWRXYjFYQmc0Mm80S0FXTEowRm5RTHRPTU5Mb0Z3?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-11-20T18:20:32.000Z",
-        "category": "financial",
-        "bias": null
-      },
-      {
         "title": "Jensen Huang’s cruel employee insults included ‘abortion’ quip, threat to ‘pee on your brain’: report",
         "url": "https://nypost.com/2026/11/20/business/how-nvidias-jensen-huang-terrorized-employees/",
         "source": "New York Post",
@@ -2169,27 +2092,323 @@
         }
       },
       {
-        "title": "America's largest IPO ever carries potentially seismic implications for political spending ahead of 2028",
-        "url": "https://www.foxnews.com/politics/americas-largest-ipo-carries-seismic-implications-political-spending-ahead-2028",
-        "source": "Fox News",
-        "publishedAt": "2026-11-20T13:00:30.000Z",
+        "title": "Oil Futures Fall for Third Straight Week on Supply Outlook - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T21:16:00.000Z",
         "category": "financial",
-        "summary": "Anthropic makes its stock market debut Thursday at a $1.5 trillion valuation as its seven co-founders each pledge to give away 80% of their equity.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
+        "bias": null
+      },
+      {
+        "title": "Stocks Look Past Politics As US Sentiment Ticks Up - Finimize",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUhKWXJlNkNMYjNta2lsTHUwdXJUSnNobXVMNW96XzVnVENQQ3lvT3VobGtDdE9GNm56c2Fja3lLMWNTbGt2RHVxN0pSOVBjQUIyWDdOVWlTNGs5MnJlZXRkS25pNXNBU0drYTJZQ1g1cmhtem9TSENmeEV3RnF2ZHFlei1Odw?oc=5",
+        "source": "Finimize",
+        "publishedAt": "2026-11-20T19:06:55.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "‘The Deadliest Decade’ Review: Breakneck Pace - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd01BdWktQnpmTGNnM0FFbkZNVWdnNXFvNUcyQW1FSEZta005eUp4M1M5dzdDZUJWRV9KekxqcG9QTEQ5VFJKazlHeEp0R1h4cExjWjYxNWl1RzA0N1plZzRLUjRJZF84T1lqXzRGZ3FWM0NoMkZtVU9YTjhGWTBBck9fTmI2R08xZTdBcUlncHJOeFU5?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T16:17:00.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "PayPal Names New CFO Amid Push to Prove Standalone Growth - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWpXRFZhdUp4ZV9HU215dzg0R0piLXlMS0ZfZlA2a3RubnBEYVpTeXlFcmlPOEx5LVFDNENmR3k2SkZRRUF5cDhQcEdhUkEtbUpmWVFqSE9Xd0YyMGtwcE9EZjJEeFZIQlpqczEzQ29GYWFkWFRaUTgzVS1mNGtsRE1SVEtfRElRRFFQTFhlYmlhcUtCd0hpbG5OUm1YWTk1Y09HellGSzQ5U1k?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T15:08:00.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be. - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFhBZmc3eGxuRVJsZ0xfM0lpMll4cFBfdnVkSVZPY3k1X29jLWtmTmNLLVhxVWdtM0gtZnR5WG1QQ3BkX2pVX0lFVTFqbTNuQ0NpekYzTHZIVTVNSU85Qmk0eXdwbVljVHJIZV9HYmhDSXJmSTZlc09tcDhqUmxRLUE2NjhnbEtOOHF6X1dlT2dQXzk5U0lINVJlbkxEd0QzZ3Fv?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T14:12:00.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnRremxyWXlsMVdTck9wWTQ4OHRjN2kzTldiWmxWT1BHZzQ4SjdTa0F3dGlxdzlqMGhfeGt4dXlOZE9nV0Nhd0ctWUhxejcxQUFSc0JHcUsxVVFrZDA5MmExSGs5WktCcG0xRjhaNEhuQjQ0TnI0WWE0blpCbm54dHRrVktwLWRqXzlSZnhjbEZENGpMYVh4NEJsWXlaZjBDVXg1SGR3dmpHN05fU2FCYkhMVUVlcVJn?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T12:03:59.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "After a Week of Tech Panics, Columbia Takes Its ‘Don’t Panic Room’ to Times Square - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0FjM3lzYWlnRC1yejVhTHZCa2VyNzA1WTBDd0RJdy03U3RHdVpfRUtLOF90RDN2ZWg1NGJIem1hN1R0WWprWFJTQjJ4eng0dUtGbDRaaHJvYnpPcEEwbWt5bWs4eVNDdkRQN1FvSWxzZlVpTE5SZzlCVFo3Ym83OGp5X0NweldLY3B3XzZPc2JZRm0tQnpMUXpGR0NhWUFlckk0TnhlXzJnZmRHeU9lTFhnM1llbDZX?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T11:01:00.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "What Columbia Sportswear’s Ads Say About Its Culture - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWVmenJVM2lpMG5abDMwem8wLTlqUGY1MDJYTWhrRC1pY3RCTWhpZ1hyTlJiYjY0dW9QZXNiU19xQVBzVU9Kb2dPT2g2bnU2Skp2V3JzVG1XWWxsV2x4cGdFekYycHNuVWh4eDVBUm9XM0JTN01rLTFuZVlrc1UwdzdoeS1HakVaOVhiVWVYV1Z3a1U?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T10:57:00.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "European Stock Indexes Lower Amid Market-Wide Falls - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd0I1THJCeVRKSHNyU1hqcHVubzh4dHpZbHo2QlpPNXdEVDFqMWZzdkl0X3BmNGJXU1lpUWFrRi1odGh5bjFMb051NXRoT0FFemRranJNYWgwMERTVGd6eDJlTUJMMjRralkzMlFFNnhuLU93TFhaTkZqcS1HaEdSX0FnSDNtUDBhcm80MHVWMy1XOURDM0lROA?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T09:05:52.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "‘Much Ado About Nothing’ Review: Broadway’s Dance Party With the Bard - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0c2SGo1bVVuX2poZTR5UzdwT2lkc184cGVJSUNxLUFXSmNLbEpVU1pBMkU1d090SElfMWtxMXJ5ajEwSFNCcUV1UkY4UDBDeWFmdGsyR25BNVFfOTRseVkzUzJvcFhiSzdoNk1EWUZtb3FDdHg4LUJQTWtZQ1pncVJVNlU1cEFiTXdiSDBzSmNaaUZ5bDhFNmtmb1h6cUN6Vkhrei1B?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T03:02:52.000Z",
+        "category": "financial",
+        "bias": null
+      },
+      {
+        "title": "Health Care Roundup: Market Talk - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QZzdhZ2YtODh4d2FYRXlRRXVJcG1ROUhGMFg3Rl9nNXE3WWsyYXJrV18tTW5vTFN0b2U2emVwbm1ibGE4Q2NKdkdoc2tQbk1kaXk5b3NoTWFtRzJwYW9pQTE3a1Z5c3JKekhhak9Ra0RfRnowRDVBTw?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-19T22:10:00.000Z",
+        "category": "financial",
+        "bias": null
       }
     ],
     "geopolitical": [
+      {
+        "title": "Katie Miller reposts then deletes Trump’s ‘whole civilization will die tonight’ warning on Iran",
+        "url": "https://www.washingtonexaminer.com/news/white-house/4810903/katie-miller-posts-and-deletes-trump-iran-threat/",
+        "source": "Washington Examiner",
+        "publishedAt": "2026-11-21T03:13:19.000Z",
+        "category": "geopolitical",
+        "summary": "Katie Miller, the wife of White House chief of staff Stephen Miller, raised eyebrows on Friday night when she resurfaced President Donald Trump’s warning that Iran would be wiped out. Katie Miller shared a cropped screenshot of Trump’s April post threatening that “a whole civilization will die tonight,” before deleting",
+        "bias": {
+          "score": 48,
+          "label": "Lean Right",
+          "source": "Washington Examiner"
+        }
+      },
+      {
+        "title": "College freshman strikes gold on first archaeology dig as students uncover ancient Roman treasures",
+        "url": "https://nypost.com/2026/11/20/world-news/college-freshman-strikes-gold-on-first-archaeology-dig-as-students-uncover-ancient-roman-treasures/",
+        "source": "New York Post",
+        "publishedAt": "2026-11-21T02:12:57.000Z",
+        "category": "geopolitical",
+        "summary": "Elise Zallu, a first-year archaeology student at Newcastle University in England, made the stunning discovery during a summer excavation in Redesdale.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-21T02:09:46.000Z",
+        "category": "geopolitical",
+        "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-21T01:02:39.000Z",
+        "category": "geopolitical",
+        "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+        "source": "The Guardian",
+        "publishedAt": "2026-11-21T00:26:56.000Z",
+        "category": "geopolitical",
+        "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate distributing how-to-v",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-21T00:01:39.000Z",
+        "category": "geopolitical",
+        "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
+        "url": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-20T23:29:24.000Z",
+        "category": "geopolitical",
+        "summary": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-20T23:28:17.000Z",
+        "category": "geopolitical",
+        "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "White Police Officers Are Convicted of Beating a Black Man in France",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-20T23:21:51.000Z",
+        "category": "geopolitical",
+        "summary": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+        "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-20T23:20:33.000Z",
+        "category": "geopolitical",
+        "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "US declassifies more UFO footage filmed in the Middle East",
+        "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-20T23:15:20.000Z",
+        "category": "geopolitical",
+        "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
+      {
+        "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+        "source": "The Guardian",
+        "publishedAt": "2026-11-20T23:09:57.000Z",
+        "category": "geopolitical",
+        "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news email , free app or daily news podcast The New South Wales government has passed special legislation to allow a coalmine in the Hunter Vall",
+        "bias": {
+          "score": -55,
+          "label": "Left",
+          "source": "The Guardian"
+        }
+      },
+      {
+        "title": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
+        "source": "Bloomberg",
+        "publishedAt": "2026-11-20T23:08:54.000Z",
+        "category": "geopolitical",
+        "summary": "Two Salvadoran soldiers died in Haiti after an explosion struck an area where they were working, weeks after President Nayib Bukele ordered a large deployment to the Caribbean island nation to find missing troops.",
+        "bias": {
+          "score": -12,
+          "label": "Lean Left",
+          "source": "Bloomberg"
+        }
+      },
+      {
+        "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+        "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+        "source": "The New York Times",
+        "publishedAt": "2026-11-20T23:05:46.000Z",
+        "category": "geopolitical",
+        "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+        "bias": {
+          "score": -32,
+          "label": "Lean Left",
+          "source": "The New York Times"
+        }
+      },
+      {
+        "title": "Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
+        "url": "https://nypost.com/2026/11/20/us-news/russia-open-to-nato-like-status-for-ukraine-but-only-if-putin-can-keep-captured-territory-us-official-2/",
+        "source": "New York Post",
+        "publishedAt": "2026-11-20T22:50:36.000Z",
+        "category": "geopolitical",
+        "summary": "The goal would be to get Ukraine \"as close to NATO as possible without the brand,\" the official noted.",
+        "bias": {
+          "score": 52,
+          "label": "Lean Right",
+          "source": "New York Post"
+        }
+      },
+      {
+        "title": "Nolte: China Bans Reporter from Summit for Shouting Question at Trump",
+        "url": "https://www.breitbart.com/the-media/2026/11/20/nolte-china-bans-reporter-summit-shouting-question-at-trump/",
+        "source": "Breitbart",
+        "publishedAt": "2026-11-20T22:44:48.000Z",
+        "category": "geopolitical",
+        "summary": "A reporter from Bloomberg TV shouted a question at President Trump and was then banned by China from attending an event. The post Nolte: China Bans Reporter from Summit for Shouting Question at Trump appeared first on Breitbart .",
+        "bias": {
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
+        }
+      },
+      {
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News",
+        "publishedAt": "2026-11-20T22:37:09.000Z",
+        "category": "geopolitical",
+        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+        "bias": {
+          "score": -8,
+          "label": "Center",
+          "source": "BBC News"
+        }
+      },
       {
         "title": "French police officers found guilty of racist assault on black music producer",
         "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
         "source": "The Guardian",
         "publishedAt": "2026-11-20T22:23:53.000Z",
         "category": "geopolitical",
-        "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer whom they said was not wearing a face mask during the Covid pandemic have been found guilty of intentional, racist violence. The brutal assault on M",
+        "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they said was not wearing a face mask during the Covid pandemic have been found guilty of intentional, racist violence. The brutal assault on Michel",
         "bias": {
           "score": -55,
           "label": "Left",
@@ -2223,45 +2442,6 @@
         }
       },
       {
-        "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
-        "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T22:06:57.000Z",
-        "category": "geopolitical",
-        "summary": "Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Vance declines to back Trump on Iran war: ‘The president is the one who makes the decision’",
-        "url": "https://www.washingtonexaminer.com/news/white-house/4810641/vance-decline-back-trump-iran-war/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-11-20T21:58:04.000Z",
-        "category": "geopolitical",
-        "summary": "Vice President JD Vance on Friday refused to endorse the Iran war, passing the buck to President Donald Trump as the “one who makes the decision.” Vance has more often leaned toward non-interventionist policies than the president. He has increasingly publicly hinted at his disagreement with Trump on the Iran war in rec",
-        "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-        "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-11-20T21:57:07.000Z",
-        "category": "geopolitical",
-        "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
         "title": "Rep. Buddy Carter to Newsmax: VP Right That Iran War Cost GOP Midterms - Newsmax",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTRuVnNPMEhzek1aME5Va0FlRW9vME1MYXhqQ3Vibnd5bEhQY0xzT0RPRjJmVkxSbmZaUk03V01nOU9Mb1BFa3lFZ0l3MkRmNzVld3ZubmJZVkJaUDlJU3M3R1hiQXRfOXBpSW8tLXd6TGFvYUNYTjRJRXR3clhBQWttU0s1MW9aX3RRLVcyZmVhaVdMdGNB?oc=5",
         "source": "Newsmax",
@@ -2274,17 +2454,49 @@
         }
       },
       {
-        "title": "Another day of survival for a family in Ukraine",
-        "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
-        "source": "NPR",
-        "publishedAt": "2026-11-20T21:32:31.000Z",
+        "title": "Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bullsh–ting’",
+        "url": "https://www.breitbart.com/politics/2026/11/20/trump-iran-wants-deal-but-not-one-hell-accept-demands-real-deal-slams-51-years-of-bullsh-ting/",
+        "source": "Breitbart",
+        "publishedAt": "2026-11-20T21:33:04.000Z",
         "category": "geopolitical",
-        "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+        "summary": "President Donald Trump declared Friday that Iran wants a deal with the United States but refuses to make one he considers acceptable, demanding a “real deal” while accusing Tehran of “bullshitting people for 51 years.” The post Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bu",
         "bias": {
-          "score": -25,
-          "label": "Lean Left",
-          "source": "NPR"
+          "score": 78,
+          "label": "Right",
+          "source": "Breitbart"
         }
+      },
+      {
+        "title": "Denmark Accuses Russia of Trying to Kill Ukrainian Rapper - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRURXYnNWSjhSdVdUUUdMam9EUXVHLUdEODUyY25SWGhjMWtvM1R1WC1tVFNOb19xSVJ3LVNZNlRQdjV3TGRpX0U4YW5xcGFGT1BOVHdzbGY1WGxfUjFLVndncTRSSWotano3UUFVejJ3OGljTnNJZ0xkV1FGRUFJYlVGTlI4eDduTUszWW92UVRqdXJkNmk5ZXV4YmE4Y19x?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-21T00:39:00.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "Essay | How to Survive the Coming Age of Everything Breaking - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43V2pKb2lOQ1NDYVllekFUMVp1N0dUQW9mVEd3TVpYaWpFeS1uaG52YlFHdEpIOC1Ea3BFeXRnZDFCOTlLUy1nN2MtYTI3NXZhLUZhVmlGbGtjalVTV1p0UDRjc2trS3RwUVduMUpyYjBSWGtrRnJJVlZ1cHA?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-21T00:00:00.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "China’s nuclear buildup is ‘hot and heavy,’ Trump says a day after meeting with Xi - WTOP News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWRuWFJ0WWpETmRheEJCYXQyUEpHWnZLcE45SzV0a3hKY1FwTFRheDhLTm90Q0I2VEx0X3MwQ1RhSDZCRGlWLTV4Ym9HVUE2OXNERHpMaWRRTXlrS1pCTlFuXzVzVldFaDEtcTRNbmNoMFhGdHVvT0E5ZXNkSnhYZTlTRTFBVXJ5NEZxUzFnaVk3R0VxZW9GcWZxNU1uVVBVRTQ3ejJxMkxCUHdjR0JWZGg0cDc4UUk?oc=5",
+        "source": "WTOP News",
+        "publishedAt": "2026-11-20T22:31:36.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "Trump says Putin wants to end war despite Russia rejecting Kushner’s progress claims - AP News",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZLTVzZV9lY0VIZE1SX2VMV0twdmREeURxY0RfcFJwUlY1TjJfWndHRVZzcDh2bHdSb21JbEdLT2l3Mm5rSTdZMnZETWtsOGVqMV8tZFdXb29XOVZKOTdCUkpwRndJQTlFSlh5WjVlSQ?oc=5",
+        "source": "AP News",
+        "publishedAt": "2026-11-20T22:05:00.000Z",
+        "category": "geopolitical",
+        "bias": null
       },
       {
         "title": "Feminist activist ‘humiliated’ after TV anchor reveals her relationship with network’s top executive",
@@ -2297,31 +2509,6 @@
           "score": 52,
           "label": "Lean Right",
           "source": "New York Post"
-        }
-      },
-      {
-        "title": "Supplying nuclear subs to Australia could deplete fleet for ‘many years,’ CBO warns",
-        "url": "https://www.washingtonexaminer.com/policy/defense/4810053/cbo-nuclear-submarines-australia-aukus/",
-        "source": "Washington Examiner",
-        "publishedAt": "2026-11-20T21:09:57.000Z",
-        "category": "geopolitical",
-        "summary": "The Congressional Budget Office warned that supplying nuclear submarines to Australia through the AUKUS deal could lead to the United States’s own fleet being depleted for “many years.” The CBO released its thorough analysis this month of the U.S. Navy’s shipbuilding programs and how the size of the fleet is projected ",
-        "bias": {
-          "score": 48,
-          "label": "Lean Right",
-          "source": "Washington Examiner"
-        }
-      },
-      {
-        "title": "Video: Trump Calls Putin a Friend, But Says He Can’t Say if Russia Is an Ally - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTVHYmlodmxhUkpBZENtY200bWpfTlYycVNHMS11aWc5bnFSMHZjbk1sOUU4enJKU1B0ZkZHSGdaVG9OdV82N3lUSVh6NzdoRG9mRXVsY2JucVM3UllhU2xjc3lPM2U5RW9jcmFPNFcyb3VEZTRkOXFzMnF5TTZIUkhza2xVY2xsMTYwRFNrbG4?oc=5",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T20:59:13.000Z",
-        "category": "geopolitical",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
         }
       },
       {
@@ -2350,32 +2537,6 @@
         }
       },
       {
-        "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-        "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T20:30:59.000Z",
-        "category": "geopolitical",
-        "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
-        "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-        "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T20:22:14.000Z",
-        "category": "geopolitical",
-        "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
         "title": "Trump responds after Vance blames Iran war for midterm losses, VP says his job is to support president",
         "url": "https://www.foxnews.com/politics/trump-responds-vance-blames-iran-war-midterm-losses-vp-says-job-support-president",
         "source": "Fox News",
@@ -2386,70 +2547,6 @@
           "score": 55,
           "label": "Lean Right",
           "source": "Fox News"
-        }
-      },
-      {
-        "title": "Gérard Depardieu and French author investigated over sexual allegations",
-        "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-11-20T19:45:20.000Z",
-        "category": "geopolitical",
-        "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
-        }
-      },
-      {
-        "title": "Former plastic surgeon who defended himself in capital murder case ‘forfeited his right to live,’ judge says - CNN",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91Und1aW5rQzBSQVRVUmZTc25kOVBBUm9ZRWdqM2g3Sk9xNHU3NlZqUHVrMUVFY3V1N1B0d2VEaFl6UWMzTkt0T1U4eHBWTUlFUzYySUNqR1R6UHZPakQ4cVluYVIzSWRxR1pSTE9kNTlMUjdZVExzQmQ1OUw5QQ?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-11-20T19:39:05.000Z",
-        "category": "geopolitical",
-        "bias": {
-          "score": -48,
-          "label": "Left",
-          "source": "CNN"
-        }
-      },
-      {
-        "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
-        "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-        "source": "The Guardian",
-        "publishedAt": "2026-11-20T19:38:59.000Z",
-        "category": "geopolitical",
-        "summary": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6% Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair. Speaking at an event in London on Thursday, Dimon said h",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
-        }
-      },
-      {
-        "title": "Trump Defends Putin Ties as Russia Steps Up Ukraine Attacks",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-defends-ties-with-putin-as-russia-steps-up-ukraine-attacks",
-        "source": "Bloomberg",
-        "publishedAt": "2026-11-20T19:31:29.000Z",
-        "category": "geopolitical",
-        "summary": "President Donald Trump defended his relationship with Vladimir Putin, repeatedly insisting that the Russian leader wants to end the war in Ukraine despite Moscow’s latest deadly assault.",
-        "bias": {
-          "score": -12,
-          "label": "Lean Left",
-          "source": "Bloomberg"
-        }
-      },
-      {
-        "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-        "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News",
-        "publishedAt": "2026-11-20T19:27:49.000Z",
-        "category": "geopolitical",
-        "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-        "bias": {
-          "score": -8,
-          "label": "Center",
-          "source": "BBC News"
         }
       },
       {
@@ -2466,19 +2563,6 @@
         }
       },
       {
-        "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
-        "url": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
-        "source": "The New York Times",
-        "publishedAt": "2026-11-20T19:23:31.000Z",
-        "category": "geopolitical",
-        "summary": "After an appearance last year, a float depicting Krampus, St. Nicholas’s evil accomplice, will not be allowed in an Ontario town’s Santa Claus parade on Saturday.",
-        "bias": {
-          "score": -32,
-          "label": "Lean Left",
-          "source": "The New York Times"
-        }
-      },
-      {
         "title": "Freshly 'Not MAGA' Elon Musk Sells Americans on Tourism to China",
         "url": "https://www.breitbart.com/tech/2026/11/20/freshly-not-maga-elon-musk-sells-americans-on-tourism-to-china/",
         "source": "Breitbart",
@@ -2489,19 +2573,6 @@
           "score": 78,
           "label": "Right",
           "source": "Breitbart"
-        }
-      },
-      {
-        "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
-        "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-        "source": "The Guardian",
-        "publishedAt": "2026-11-20T19:18:20.000Z",
-        "category": "geopolitical",
-        "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer A Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return. According to Puck’s Matthew Belloni , Culkin met with Disney executives earlier this year with a pitc",
-        "bias": {
-          "score": -55,
-          "label": "Left",
-          "source": "The Guardian"
         }
       },
       {
@@ -2555,46 +2626,23 @@
         }
       },
       {
-        "title": "Rep. Randy Fine to Newsmax: Trump Summit Could Help End Iran, Ukraine Wars - Newsmax",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkFQXzBvRFdoUThZbmVZWkdnUHdUU3NtNDBXUndNNUhFcUszZjNFNHFEakNCYS0zdXpiaFBGVFJjR0hsZlBwaGRiX2hBNFdJMWd3RXlRZjV0TWZqd05ibTJ6VEoyZUVaUkEwLU1xM0tMZFZHRlVnMWxXakI4QW82TTBxQURoWXlM?oc=5",
-        "source": "Newsmax",
-        "publishedAt": "2026-11-20T16:47:06.000Z",
+        "title": "AMD Craters 18% After Research Report Claims Chipmaker 'Has Its Own China Problem'",
+        "url": "https://www.breitbart.com/tech/2026/11/20/amd-craters-18-after-research-report-claims-chipmaker-has-its-own-china-problem/",
+        "source": "Breitbart",
+        "publishedAt": "2026-11-20T16:48:10.000Z",
         "category": "geopolitical",
+        "summary": "AMD shares fell about seven percent on Thursday and another 11 percent Friday morning after investment firm Hunterbrook Media published a report alleging the chipmaker \"has its own China problem.\" The post AMD Craters 18% After Research Report Claims Chipmaker ‘Has Its Own China Problem’ appeared first on Breitbart .",
         "bias": {
-          "score": 68,
+          "score": 78,
           "label": "Right",
-          "source": "Newsmax"
+          "source": "Breitbart"
         }
-      },
-      {
-        "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNzdmd2QWUxaUJvZm1kaU1EVWNUdmtDWUp6SHljdmZwZDUxM2ZYX1hmY0xQWXhvcFZlZDRqODJJWUI3aE53cDJBTG1ldDNoNHVaaHNnOVlEUW5fYU1SZU5qMlJFMEZTR0ZDcTEyN3l2WWRfUmZZSktIV1FZaVU4NDJTeUpoS3NZdkdJc01TNkV5YkZKTXE2d2xDTjZmLURXX0xESjFYVE42S3R2SlJfdC1GTGI?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T21:34:18.000Z",
-        "category": "geopolitical",
-        "bias": null
       },
       {
         "title": "Trump replaces US cyber chief after outages hit flights, banks and NSA - South China Morning Post",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTB5N2hZT0QzVkpZVWQ5R2MxOVNJN25kRGxIUFd1OGx5YTE4YVRSMWV4NHoyZVI2N0VEY19vQk42SjZObzBTRWRMam9CaTJhYUJuZnMxMXBGV2dVaWVEeDg5Nl96OGc1TFNrRHc5TjRPcVFFNF9PV2FWLU5vRnF5eHF4NVQ4VnZrcEtyU1dzemJfS01KRFZZLTRnRDJSbFR6R2dQWXQ2LWZvWExzSGxiM19HdlRpVjlkYTh6UjF6cWXSAcABQVVfeXFMTWRxTHR2cDlkRWVYT3NyX3hYNkVtNVhtTHh1aHd4TEplYnZHWHRQbnR1cl91Q056LTAyaTJtOFo3WFFORm50NFY3VW5KYnE1Nzh5Rmswb1RsSlpFNXdYQzlCVGhCWVNLTmJsWEUycUZpWHU0WTZGX28tTTcxcEZJRmtBeXYwRTgyT1lRcGZvRG9yNll4TThkSnpUSnhQS0J3a0M1TzNtTFJrZWRLLTZGVFVldWg0VWZxNkRyeHJreEh6?oc=5",
         "source": "South China Morning Post",
         "publishedAt": "2026-11-20T21:14:04.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
-        "title": "Exclusive | Ken Griffin Sells New York City Duplex to Woody Johnson for $58 Million - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm9JalFqdEVTRUEyYkVDRWtENl9PeENhZENlckJlbjZJci1CLWZ4WmhUUUxzVkdaLW14YlF2MlRaWkk3Z0d0QmJ5UllyQTdtLUh4LTZjSDZzU0tNbEpGbEZiRm1uRTdMb1RIc3ROTjYxWHMtcmcyMUVoRnFaNGRld3FoVjNSajNSVFE?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T21:10:26.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
-        "title": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-11-20T20:30:21.000Z",
         "category": "geopolitical",
         "bias": null
       },
@@ -2607,18 +2655,18 @@
         "bias": null
       },
       {
-        "title": "China’s nuclear buildup is ‘hot and heavy,’ Trump says a day after meeting with Xi - WTOP News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWRuWFJ0WWpETmRheEJCYXQyUEpHWnZLcE45SzV0a3hKY1FwTFRheDhLTm90Q0I2VEx0X3MwQ1RhSDZCRGlWLTV4Ym9HVUE2OXNERHpMaWRRTXlrS1pCTlFuXzVzVldFaDEtcTRNbmNoMFhGdHVvT0E5ZXNkSnhYZTlTRTFBVXJ5NEZxUzFnaVk3R0VxZW9GcWZxNU1uVVBVRTQ3ejJxMkxCUHdjR0JWZGg0cDc4UUk?oc=5",
-        "source": "WTOP News",
-        "publishedAt": "2026-11-20T20:13:30.000Z",
+        "title": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T19:39:00.000Z",
         "category": "geopolitical",
         "bias": null
       },
       {
-        "title": "Trump intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown - ABC17NEWS",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUDVxTWo0cXFPc3lhbjJRSi12d1VvMTJKVkJpblRQczdMUlRyOGZmTHZFc1hBT1g4Q1hYOENPR2V3YW1vQXVRTExTNjEwYmtmZndTVC1zTFJabjBkd2VmTUk4Tm5sOEhfYXpKUHp3TlQyeFRrZi1ZbVVoV3otM3N0Nk00b0NhNFNBR0tYdzAydFlBVmJPU3hoc0M1UFExZVdudkZyRjYtOEtUekdBdmRZcW5DN0NmXzhGMGVob2g1TVBCaURHZHlfVGIyME9FSVFQMDZ1MWVzZTdPMUFpYzM4ZnA3dW5GOE9pV3J4bTZsU3NmdU9SdzRpdDdwM0hnRFg2cmFmRktzeTZDRXJCMm1UbmpUOA?oc=5",
-        "source": "ABC17NEWS",
-        "publishedAt": "2026-11-20T18:43:56.000Z",
+        "title": "Trump intel chief warned no funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown - KVIA",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSk9SMXJKOFdKM1RxNkRhWTQxdTJoazUzT2xhTENGWTRxanhRVTdtaVRhM1FZdWVaUkx5ZWIzT0VpdmFoRFQ5TFlTNkgzYTdrZVVOMWNURFNtTm9SQ3hFOFpZTDFCMzZoZU1FWkxHVHduNmVidGdBRU9JTms5VFZYVXFQMU1hZjgwamRvVms5Tkg2N3hLWFllQ2ZMYU45dEVncUNwV0dGdVBBMUNsSy14TkVuTzFQWk1BX0VZQUdBUkI5b0hNSlQ1ODdSTjNfQTRMR2ZuOUk0MDRhVGlXbTFaUTE4WXNabndL?oc=5",
+        "source": "KVIA",
+        "publishedAt": "2026-11-20T18:39:39.000Z",
         "category": "geopolitical",
         "bias": null
       },
@@ -2626,7 +2674,7 @@
         "title": "A New Documentary Shows the Dangers of ‘Looksmaxxing’ - WSJ",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDlkcmNfV05jQm03WjdpWkVQUk1KWkkxVGVVem9hR3Y2MVpFUjNFWU14UVBvSGEzQTQzck9Rc09xRVg5WmpSbmNMZW1xSldXTmh6emdmOFo4NWtwWG1UTkZjZXV0TUdqaERXZlN6dnZWZExqX1dKdEI3dUV0Rl8wU3dOcXBwWXhSX05TMmdqS0VoTkwwd1htQUhITVI?oc=5",
         "source": "WSJ",
-        "publishedAt": "2026-11-20T18:00:41.000Z",
+        "publishedAt": "2026-11-20T17:55:00.000Z",
         "category": "geopolitical",
         "bias": null
       },
@@ -2634,62 +2682,23 @@
         "title": "Opinion | Ukraine’s Long Russian War - WSJ",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55NHRCSWJFVkp2R21SYk01Qkdrd1g4Ny1kTE5GMWQ2Y25jMnliUG5HcmljQ0JfOHNHSnFGbElnR2pudzRUWGxSN0E4S1BjbFFoRkNWbmRhV1AxenNWUjBUX3d4OUVWaVhKQ2U2NV85bw?oc=5",
         "source": "WSJ",
-        "publishedAt": "2026-11-20T17:14:37.000Z",
+        "publishedAt": "2026-11-20T17:12:00.000Z",
         "category": "geopolitical",
         "bias": null
       },
       {
-        "title": "NYC musician’s vintage banjo allegedly tossed around by airline workers, destroying case",
-        "url": "https://nypost.com/2026/11/20/us-news/nyc-musicians-vintage-banjo-tossed-around-by-airline-workers-destroying-case/",
-        "source": "New York Post",
-        "publishedAt": "2026-11-20T16:26:30.000Z",
-        "category": "geopolitical",
-        "summary": "NYC musician David Fryer says TAP Air Portugal crew ruined the case of his 100-year-old banjo after forcing him to gate-check the instrument.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions",
-        "url": "https://www.foxnews.com/politics/biden-memoir-draws-fire-denial-critics-flag-gaza-racial-equity-omissions",
-        "source": "Fox News",
-        "publishedAt": "2026-11-20T16:08:51.000Z",
-        "category": "geopolitical",
-        "summary": "Joe Biden&apos;s memoir &quot;Promise Me, America&quot; draws sharp reviews; critics say he stays &quot;stubbornly in denial&quot; about his age, Gaza, and his 2024 reelection bid.",
-        "bias": {
-          "score": 55,
-          "label": "Lean Right",
-          "source": "Fox News"
-        }
-      },
-      {
-        "title": "11 European countries send troops to Poland military exercise for potential postwar Ukraine mission",
-        "url": "https://nypost.com/2026/11/20/world-news/11-european-countries-send-troops-to-hold-drill-in-poland-for-potential-postwar-ukraine-mission/",
-        "source": "New York Post",
-        "publishedAt": "2026-11-20T16:07:22.000Z",
-        "category": "geopolitical",
-        "summary": "Thousands of European troops are taking part in an unprecedented military exercise in southeastern Poland to prepare for a potential postwar mission in Ukraine aimed at helping to stabilize the country and rebuild its military once the war ends.",
-        "bias": {
-          "score": 52,
-          "label": "Lean Right",
-          "source": "New York Post"
-        }
-      },
-      {
-        "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Weighs Iran Decision— INTU, ROST, KEYS in Focus (UPDATED) - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNb2lNMm9rRFZUMGVHMGtUSW5aNzZPUnl0bFdYMldPSXZQRXowNHM4QmZnN3JtN19vSlJxaTZiM0hyWUNva1FCMGwyakdEVXJOOC05NWZTcnpNOVVkcENQa29KZHROeU56MV83TjZNbHU2aDg4QkJlR2R1QkhGV1VJeEoxVHBJWlVJQ21zWEd4UWFPUERmMjRydm83ZG51ZkZRblhqSnhUWFdsQ3dhLXRrOWFZOTV4cXhxaDhxcUdEMkMtWGxVX1lXYlozUnlHWkRlWlFDaTFLSFB2RHVFRzRhUndVNC1RQmlKT0UzY05jVmtZVE5tcENwenl5TUhuakE2UndqZGdVcks4MUZEQnc?oc=5",
-        "source": "TradingView",
-        "publishedAt": "2026-11-20T13:36:31.000Z",
+        "title": "Europe Ditched Russian Fuel. Now It’s Hooked on Chinese Green Tech Instead. - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkYtQ2JqYndoanZnY3ozS2poZXc5a3JZdjZmaVRhTGs5ZGtvX3dRaENsUEtoU1RaVGpFbk1FTkxMSHFSeFlNbWRVTWRnWlVFTVlFM3E1bDFiUEVvSTdSS2dGUkx4blRBanZPaXpJdjNpby1YUlZWdlNVby1rQ0d2a3RQaUlQTWNURHZDbExfYkw0R3h4ZDVZS0o1MVpUWllDRlJzcVNVUzlPN182dmhUalBMcUNkclFJOTZLVU9B?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T16:40:55.000Z",
         "category": "geopolitical",
         "bias": null
       },
       {
-        "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Weighs Iran Decision— INTU, ROST - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTml4bTYxVUgxcTlEQ0s0Q0xtcHVYd19LNEVDMFk0NTJWMTNhZkhRR2FZTzVucFFlckZHeG5wZWpZYWkwOHVCRkZkVU85TzhXdXpVWDZ4dFhSXzFJaURRRHVjbVB0ZThZVlJ5bnNvc01LTk1idGU4Z2JTRW44dzNMVGp6dHNxc1A0bHM1dWh4MW5FZXZFeWlQOVlXellJTGRMblpTcGNDWmozX0RETWhsVUFTcGRqd0FrMWdEWFZwNXdvdFhlUnF6aHhQdmUya1hZYmhETm96QjFWQ0U1cXBXcFNxNFpjRVBCVm9wY2p3Ym4?oc=5",
-        "source": "Benzinga",
-        "publishedAt": "2026-11-20T13:36:00.000Z",
+        "title": "Not Your Average Bear - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05THVseWtadE81X21vaENMbzluR2puRmoxNWZtb2RLX2lHdVloeTFtQzEzM0xkYzF1cFJwYThmcmVxbGZHM29QNXlhZnVodnJZcFhaZFZHd1ZVRGNxVXJ0eGdiUFRyajJHa1piM0lmRFdVcE9Ba3YxSQ?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T16:08:00.000Z",
         "category": "geopolitical",
         "bias": null
       },
@@ -2702,26 +2711,18 @@
         "bias": null
       },
       {
-        "title": "KONST at Data Center Asia in Kuala Lumpur: Advancing Its Southeast Asia Token Factory Strategy with Flagship Projects in Cyberjaya and Jakarta - Taiwan News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ndmNwejBvVFM3R3M2aTQ3MVJaRnpKYzlDWElFZ3huVFJyTi1PMUJlVEdaUldOakI2eHRYTlJOYmVaUTdZN2VfZG5MUzdPVURWNWN2OGR2dEo?oc=5",
-        "source": "Taiwan News",
-        "publishedAt": "2026-11-20T12:46:00.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
-        "title": "Democrats Split Over Using Dec. 11 Funding Deadline to Pressure Trump on Iran War - Latin Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2RFaWJBTkRLdWdwZjY0a1J0aVZCRTh5TTB1VEVJbzRncmFjbi1qZmhtakI2eDBnTWJNUGdmY3gzLTVwdEtQcmczVjZpQ2ctcHRlVmhnT3k4QlJrSGhtZkxJcjZNSzdlQVVsM0FFdlNlZFdoRzRPdVNUelVFbTRRVDJHOGdEMEhZVnROaGVaVm8?oc=5",
-        "source": "Latin Times",
-        "publishedAt": "2026-11-20T12:39:11.000Z",
-        "category": "geopolitical",
-        "bias": null
-      },
-      {
         "title": "U.S. Has Floated NATO Membership for Ukraine in Recent Meetings - WSJ",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFd5aW9SdU82YUQyLXJHTzNPTmJISW82RlpUeWU4RFp0RTNNRmxmSlljamtMMmpITDdGQm4yTFo1dFl6eHY5dUFsdGRWaTM0NnBBbVFiam5iQzQyLVBwUDE4R0RmMFBHRUduMDhwS29nQUh1MG03ODEzRGdIUUNmWkFIYTEtb002N3NFdXozNTVNaWptZFNtOXhYbWoyNzlmTTJIaEllSQ?oc=5",
         "source": "WSJ",
         "publishedAt": "2026-11-20T12:11:00.000Z",
+        "category": "geopolitical",
+        "bias": null
+      },
+      {
+        "title": "Trump Says Vance Erred in Critique of Iran War as Questions Swirl About VP - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0NmdkhadXNvNGNvbzV0VTZ3cGx0cVoyTmczVHpyeDh6ZzB3U1ZkYTZfelRYLUFCeTE0SzlCZXhmNzcyWTFhMVZQcE93YjhfeUNwMlRQbTU4Skk4dnBucVNNczU5N1JZTF94OHVSSTFSRVozLThIUHFoYmtPVjdDc2NxT05aTXdnWUN0X0YzdUZRRjUyRk95WFowT1RZSlpSb29kb2FJdlQ5ME9kRTVOY29n?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-11-20T12:00:00.000Z",
         "category": "geopolitical",
         "bias": null
       }
@@ -2735,6 +2736,10 @@
     {
       "source": "Washington Times:geopolitical",
       "error": "HTTP 403 for https://www.washingtontimes.com/rss/headlines/news/world/"
+    },
+    {
+      "source": "google-news:financial",
+      "error": "HTTP 404 for https://news.google.com/rss/search?q=stock%20market%20today&hl=en-US&gl=US&ceid=US:en"
     }
   ]
 }
